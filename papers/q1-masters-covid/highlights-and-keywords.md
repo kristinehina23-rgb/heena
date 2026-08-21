@@ -6,7 +6,7 @@
 - Home “affects study very much” tracks very high stress (OR = 25.67, p < .001).
 - Worse internet speed correlates with worse learning appraisal (ρ = .65).
 - Campus apps (QQ, Chaoxing) fail offshore; Zoom and WhatsApp open.
-- Women more often refuse that online Chinese can replace campus class.
+- The file is 71% men (27 vs 11 women); that skew is a gap, not the whole story.
 
 ## Keywords
 

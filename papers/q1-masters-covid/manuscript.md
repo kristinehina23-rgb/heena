@@ -21,7 +21,7 @@ Email: `[CONFIRM]`
 
 ## Abstract
 
-Emergency remote teaching is often treated as a platform problem. For Pakistani students holding Chinese-university places during COVID-19, it was a **home and geography** problem. This article reports a **new** analysis of the primary Wenjuan questionnaire export from a CCNU master’s project (N = 38; 5–8 February 2022; 27 men, 11 women; 37 Pakistani, one Bangladeshi). A short 2024 note on the project is cited only as background; its n = 97 tables are not used. Drawing on van Dijk’s sequential digital inequality and Norton’s language investment, we find that 76.3% reported unstable networks, 42.1% power cuts, and 71.1% a home that was not quiet. Psychological stress was almost universal (97.4%; 36.8% very high). Students who said the home affected study “very much” had much higher odds of very high stress (Fisher’s exact: OR = 25.67, 95% CI [4.42, 149.00], *p* < .001, φ = .66). Worse internet speed correlated with worse learning appraisal (Spearman ρ = .65, *p* < .001) and less teacher interaction (ρ = .55, *p* < .001). Campus Chinese platforms were often marked unusable from “my country” (QQ 50%, Chaoxing 42%), while Zoom (71%) and WhatsApp (68%) were marked available. Half the sample said online study could replace campus classes and half said it could not; women had higher odds of refusing replacement (OR = 7.65, 95% CI [1.37, 42.71], *p* = .029). Both focal associations kept the same direction in Pakistani-only (n = 37) and offshore-IP (n = 29) checks. International Chinese Language Education along this corridor needs **material–context fit**: power, household space, and which apps actually open offshore—not only textbook culture.
+Emergency remote teaching is often treated as a platform problem. For Pakistani students holding Chinese-university places during COVID-19, it was a **home and geography** problem. This article reports a **new** analysis of the primary Wenjuan questionnaire export from a CCNU master’s project (N = 38; 5–8 February 2022; **27 men, 11 women**; 37 Pakistani, one Bangladeshi). The male majority is a **sample gap**, not a picture of all Pakistani scholarship students. A short 2024 note on the project is cited only as background; its n = 97 tables are not used. Drawing on van Dijk’s sequential digital inequality and Norton’s language investment, we find that 76.3% reported unstable networks, 42.1% power cuts, and 71.1% a home that was not quiet. Psychological stress was almost universal (97.4%; 36.8% very high). Students who said the home affected study “very much” had much higher odds of very high stress (Fisher’s exact: OR = 25.67, 95% CI [4.42, 149.00], *p* < .001, φ = .66). Worse internet speed correlated with worse learning appraisal (Spearman ρ = .65, *p* < .001) and less teacher interaction (ρ = .55, *p* < .001). Campus Chinese platforms were often marked unusable from “my country” (QQ 50%, Chaoxing 42%), while Zoom (71%) and WhatsApp (68%) were marked available. Half the sample said online study could replace campus classes and half said it could not; women had higher odds of refusing replacement (OR = 7.65, 95% CI [1.37, 42.71], *p* = .029). Both focal associations kept the same direction in Pakistani-only (n = 37) and offshore-IP (n = 29) checks. International Chinese Language Education along this corridor needs **material–context fit**: power, household space, and which apps actually open offshore—not only textbook culture.
 
 **Keywords:** emergency remote teaching; Chinese as an additional language; digital inequality; language investment; Pakistan; platform geography; home ecology; International Chinese Language Education
 
@@ -113,7 +113,7 @@ The master’s project included a Chinese-medium online questionnaire (Rathore &
 
 Of 38 respondents, 27 were men (71.1%) and 11 women (28.9%); 37 selected Pakistani nationality and one selected “other” (open text: Bangladesh). Self-rated Chinese level was mostly advanced (22, 57.9%) or intermediate (15, 39.5%); one beginner. Years of learning Chinese clustered at 3–4 years (26, 68.4%). All submissions used a phone (iPhone 24, Android 14). IP geolocation placed nine responses in mainland China and 29 elsewhere (including Punjab / Pakistan labels and blank geo, typical of overseas mobile routes). We keep n = 38 for the main analysis and note that not every phone was physically in Pakistan that week.
 
-This is a purposive, network-recruited convenience sample, not a draw from all CSC Pakistani students. Percentages describe **this file**. Associations are offered as mechanisms (home → stress; speed → learning appraisal; platform geography → usable classroom), not as national rates.
+This is a purposive, network-recruited convenience sample, not a draw from all CSC Pakistani students. **Most respondents are men (27/38, 71.1%).** That is both a sampling fact and a **research gap**. CSC and related awards to Pakistan have long been male-heavy in STEM tracks; a 问卷网 link passed through student networks will reproduce that skew. Eleven women are too few to describe Pakistani women’s home classrooms. Percentages for the whole file are therefore **men’s experience plus a small female minority**. We still test gender where the instrument allows (RQ3), and we treat non-significant gender tests as inconclusive, not as “no difference.”
 
 ### 4.3 Instrument
 
@@ -177,6 +177,8 @@ Preferred live length: 50% wanted 45 minutes, 28.9% 30 minutes — shorter than 
 
 Mann–Whitney tests on the ordinals by gender were non-significant. The gender difference is not that women “learned less” on the scales. It is that they more often **refused the legitimacy** of online Chinese as a campus substitute.
 
+A second gender pattern sits beside that refusal: **19/27 men (70.4%)** were working while studying, against **3/11 women (27.3%)** (Fisher *p* = .028). Men in this file more often combined wage labour with ERT; women more often refused to count ERT as campus. Both patterns are **signals in a male-majority sample**, not a full gender analysis. With 11 women we cannot say whether quieter homes, care work, or device sharing produced the refusal. That missing map is the gap.
+
 ### 5.6 Sensitivity
 
 Pakistani-only (n = 37): unstable network 75.7%, no power 43.2%; home × very high stress still *p* < .001; speed × appraisal ρ = .67. Offshore-IP (n = 29): unstable network 75.9%, no power 41.4%; home × stress still *p* < .001; speed × appraisal ρ = .70. Dropping the Bangladeshi case and the China-labelled IPs does not invent the story.
@@ -203,9 +205,13 @@ Darvin and Norton (2015) argued that digital spaces reconfigure capital. Here th
 
 ICLE debates on localisation often turn on whether a textbook should replace Beijing hutongs with local names, or whether Spring Festival content needs Islamic-context mediation (a line of work we have pursued separately and do not merge here). This dataset pushes localisation one layer down. Even a perfectly “culturally adapted” lesson fails if it is a synchronous oral lesson delivered into load-shedding. **Material–context fit** — whether this component of the course can be used by these learners in this programme ecology — is the same logic that the first author’s doctoral work applies to *HSK Standard Course* in Pakistani universities. The COVID evidence is the extreme case of misfit: the “programme ecology” was a Chinese-university timetable; the “users” sat in Pakistani houses; the “material” was a live class that assumed campus conditions.
 
-### 6.5 Gender, sampling, and what we cannot say
+### 6.5 The male-majority sample is a gap, not a small print note
 
-The sample is 71% male (n_women = 11). The replacement item is the one place gender matters statistically. Pakistani domestic space is gendered; privacy, device sharing, and care work are plausible mechanisms, not proven ones. Network sampling also over-recruits people who can complete a 问卷网 form on a phone — that is, people with *some* connectivity. True exclusion is probably harsher than 76% “unstable network” already looks. Nine China IPs mean the file is not a pure “all students sat in Pakistan” sample; the mechanism (home + platform geography) still holds for an offshore-or-interrupted cohort.
+The file is 71% male (n_women = 11). For a Q1 article this is a **limit on what can be claimed**, not only a demographic line in Table 1. Digital inequality in Pakistani households is gendered: privacy, care, and who owns the phone structure who can sit in a live 汉语课. A sample recruited through male-dense scholarship networks will under-hear that.
+
+What we can say: on most ordinals, men and women did not differ; on **replacement**, women more often said no; on **paid work**, men more often said yes. What we cannot say: how women lived the noisy home, the power cut, or the blocked 超星 login. Future ICLE work on this corridor should **oversample Pakistani women** on CSC and CI routes, and should not treat a 70% male WeChat snowball as “Pakistani students.”
+
+Nine China-labelled IPs mean the file is also not a pure “everyone sat in Pakistan” sample. The mechanism (home + platform geography) still holds for an interrupted cohort. The gender gap does not.
 
 ---
 
@@ -225,7 +231,7 @@ The same households send students to CIs *and* to Chinese universities. Hybrid C
 
 ### 7.3 For research
 
-Future work should (a) collect new interview or task data rather than recycle the 2024 note; (b) compare CSC-home learners with CI-in-Pakistan learners in the same cities; (c) follow oral/written skill splits with tasks, not only self-report. The first author’s doctoral work on *HSK Standard Course* fit in Pakistani universities keeps the material–context question and moves it from emergency delivery to ordinary curriculum.
+Future work should (a) **oversample Pakistani women** on CSC and related routes rather than reuse a male-dense snowball; (b) compare CSC-home learners with CI-in-Pakistan learners in the same cities; (c) follow oral/written skill splits with tasks, not only self-report. The first author’s doctoral work on *HSK Standard Course* fit in Pakistani universities keeps the material–context question and moves it from emergency delivery to ordinary curriculum.
 
 ---
 
@@ -233,7 +239,7 @@ Future work should (a) collect new interview or task data rather than recycle th
 
 1. **n = 38.** Odds-ratio intervals are wide. We report them as direction plus exact tests, not as precise population values.  
 2. **The 2024 note’s tabulated N is not used.** Rathore and Cao (2024) printed n = 97. The only surviving coded file has 38 complete cases; that is the N of this article. The editor is told in the cover letter.  
-3. **Convenience sample, 71% male, phones only, nine China-labelled IPs.** Sensitivity on n = 37 and n = 29 does not remove the small-N limit.  
+3. **Male-majority convenience sample (27 men, 11 women), phones only, nine China-labelled IPs.** The gender skew is a gap: findings describe this network, not Pakistani women as a group. Sensitivity on n = 37 and n = 29 does not fix that.  
 4. **Self-report; no HSK or oral tasks.**  
 5. **Chinese-medium items with non-native wording** may have been understood unevenly.  
 6. **COVID-specific delivery.** Transferable claim: inequality × home × platform geography × investment — not the pandemic itself.

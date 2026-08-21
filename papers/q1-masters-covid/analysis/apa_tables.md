@@ -20,7 +20,7 @@ Source: `data/publication_n38.csv`. Do not mix with Rathore and Cao (2024) n = 9
 | IP geolocated in mainland China | 9 | 23.7 |
 | Total | 38 | 100 |
 
-*Note.* Convenience sample, Wenjuan, 5–8 February 2022.
+*Note.* Convenience sample, Wenjuan, 5–8 February 2022. **71% of the file are men.** That skew is discussed as a gap, not as “Pakistani students” in general.
 
 ## Table 2
 
