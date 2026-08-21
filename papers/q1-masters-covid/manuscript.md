@@ -35,7 +35,7 @@ When Chinese universities moved instruction online in 2020, a large group of Pak
 
 Two literatures have grown quickly and largely past one another. Research on COVID-19 and language education has documented teacher coping, task redesign, and learner anxiety, mostly in English-language classrooms or in China-based programmes (MacIntyre et al., 2020; Gacs et al., 2020; Moorhouse & Kohnke, 2021; Xia et al., 2022). Research on International Chinese Language Education (ICLE) has asked how textbooks, HSK washback, and cultural content travel into overseas programmes, including Pakistani universities and Confucius Institutes (Zhao & Huang, 2010; Gong et al., 2020). What remains thin is a study of **Pakistani students who belong to Chinese universities but study Chinese from Pakistani homes** — a South–South mobility interrupted in the opposite direction from the usual “international student in China” story.
 
-A short note on this population has been published (Rathore & Cao, 2024). It described a 14-item survey of 97 students. The **coded Wenjuan export** is a 30-question Chinese-medium instrument with **38 complete responses** (5–8 February 2022). The present article is a **new original analysis** of that export. We do not reuse the 2024 N, scales, or percentages.
+A short note on this population has been published (Rathore & Cao, 2024). It described a 14-item survey of 97 students. The **only coded questionnaire file retained** is a 30-question Chinese-medium Wenjuan export with **38 complete responses** (5–8 February 2022). The present article is a **new original analysis** of that export. We do not reuse the 2024 N, scales, or percentages.
 
 The question is:
 
@@ -107,7 +107,7 @@ The 2024 conceptual figure listed “support strategies” as independent variab
 
 ### 4.1 Design and data source
 
-The master’s project included a Chinese-medium online questionnaire (Rathore & Cao, 2024). This article is a **new quantitative analysis of the questionnaire export**: a 问卷网 coded file titled as a study of influencing factors on international students’ online Chinese learning during COVID-19, with **38 complete cases** (5–8 February 2022). We do not analyse the 2024 published frequency tables (n = 97; 14-item Likert), which this export does not contain. The design is a cross-sectional questionnaire study, not a mixed-methods replication of the 2024 interviews.
+The master’s project included a Chinese-medium online questionnaire (Rathore & Cao, 2024). This article is a **new quantitative analysis of the only coded export the authors retain**: a 问卷网 file on influencing factors in international students’ online Chinese learning during COVID-19, with **38 complete cases** (5–8 February 2022). No additional wave or paper-survey file exists. We do not analyse the 2024 printed frequency tables (reported n = 97; 14-item Likert), which this export does not contain. The design is a cross-sectional questionnaire study.
 
 ### 4.2 Participants
 
@@ -225,14 +225,14 @@ The same households send students to CIs *and* to Chinese universities. Hybrid C
 
 ### 7.3 For research
 
-Future work should (a) add interview extracts and, if they exist, any cases not in this export; (b) compare CSC-home learners with CI-in-Pakistan learners in the same cities; (c) follow oral/written skill splits with tasks, not only self-report. The first author’s doctoral work on *HSK Standard Course* fit in Pakistani universities keeps the material–context question and moves it from emergency delivery to ordinary curriculum.
+Future work should (a) collect new interview or task data rather than recycle the 2024 note; (b) compare CSC-home learners with CI-in-Pakistan learners in the same cities; (c) follow oral/written skill splits with tasks, not only self-report. The first author’s doctoral work on *HSK Standard Course* fit in Pakistani universities keeps the material–context question and moves it from emergency delivery to ordinary curriculum.
 
 ---
 
 ## 8. Limitations
 
 1. **n = 38.** Odds-ratio intervals are wide. We report them as direction plus exact tests, not as precise population values.  
-2. **This is not Rathore and Cao (2024).** That note reported n = 97. We analyse the export we have and tell the editor.  
+2. **The 2024 note’s tabulated N is not used.** Rathore and Cao (2024) printed n = 97. The only surviving coded file has 38 complete cases; that is the N of this article. The editor is told in the cover letter.  
 3. **Convenience sample, 71% male, phones only, nine China-labelled IPs.** Sensitivity on n = 37 and n = 29 does not remove the small-N limit.  
 4. **Self-report; no HSK or oral tasks.**  
 5. **Chinese-medium items with non-native wording** may have been understood unevenly.  
@@ -297,7 +297,5 @@ Zhao, H., & Huang, J. (2010). China’s policy of Chinese as a foreign language 
 ## Appendix A. Before you click submit
 
 1. Cao Huimin reads and signs off.  
-2. One ethics sentence from CCNU (online consent).  
-3. Cover letter: this is a **new** analysis of N = 38; 2024 is a preliminary note with a different reported N.  
-4. Paste `analysis/apa_tables.md` into Word as Tables 1–5.  
-5. Optional: interview quotes as a later paper, not this one.
+2. Cover letter already states: this is a **new** analysis of the only coded file (N = 38); 2024 is a preliminary note whose printed N is not used.  
+3. Paste `analysis/apa_tables.md` into Word as Tables 1–5.

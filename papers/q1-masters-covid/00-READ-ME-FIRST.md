@@ -1,6 +1,6 @@
 # Q1 paper from the master’s data — read this first
 
-**更新数据 = 用 n = 38 的问卷网文件发一篇新论文，不是把人数改成 97。**
+**更新数据 = 用这份唯一的问卷网文件发新论文，N 固定 38。没有第二批数据。**
 
 完整说明：`HOW-WE-UPDATED-DATA-FOR-NEW-PAPER.md`  
 人数问题：`NOTE-n38-not-n97.md`
