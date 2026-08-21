@@ -85,8 +85,9 @@ Do **not** send Track A and Track B to the same journal in the same season.
 
 ## Suggested timeline (no calendar padding)
 
-1. You confirm Cao Huimin as co-author and send her this draft.  
-2. You upload SPSS + item wording + 6–8 quotes.  
-3. Results section upgraded (descriptives → optional t-tests/ANOVA by gender, then regression if the file allows).  
-4. Submit Track A to *Language, Culture and Curriculum*.  
-5. In parallel, polish Track B from Chapter 3 and submit to a **different** Q1 journal after 开题, so the conceptual paper supports the proposal rather than competing with it.
+**Decision (see `WHICH-OPTION-IS-BEST.md`):** Track A to *Language, Culture and Curriculum* first, current title, current frame.
+
+1. Confirm Cao Huimin as co-author and send her this draft.  
+2. Do **not** wait for a second data wave (none exists). Optional: she checks item wording in Chinese.  
+3. Submit Track A to *Language, Culture and Curriculum*.  
+4. After 开题, polish Track B from Chapter 3 and submit to *Language Teaching Research* (not LCC again).
