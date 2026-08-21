@@ -9,7 +9,8 @@
 |---|---|
 | `data/publication_n38.csv` | 投稿用匿名数据（已清洗） |
 | `analysis/apa_tables.md` | 表 1–5，可贴进 Word |
-| `manuscript.md` | 新论文稿。题目：When Chinese class moved home: Pakistani students, infrastructure, and platform access（见 `TITLE.md`） |
+| `manuscript.md` | **投稿正文**（LCC 稿，表已嵌进文中）。题目：When Chinese class moved home… |
+| `SUBMIT-CHECKLIST.md` | 投稿前：曹老师署名、画 Figure 1；**不必**再等访谈 |
 | `TRENDING-WORK-2026.md` | 2024–2026 热门文献怎么用：投资、课后技术常态化、CPEC 汉语；**不要**把这份数据写成 ChatGPT 论文 |
 | `WHICH-OPTION-IS-BEST.md` | 比完了：先投 Track A 到 *Language, Culture and Curriculum*，现在这个题目 |
 | `cover-letter.md` | 给编辑：这是新分析，不是 2024 再投 |
