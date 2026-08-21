@@ -27,6 +27,7 @@ Quartiles below use the June 2026 JCR release (2025 citation data). “Q1” her
 - 2026 IF about 2.8  
 - Cares about **context, culture, and curriculum**, not only fancy statistics  
 - Strong fit: Pakistani homes, CSC mobility, Chinese as an additional language, post-pandemic lessons  
+- This journal published Hajar and Karakuş (2024) on three decades of **investment** research and called for LOTE international-student work — our theoretical hook  
 - Typical length: ~8,000 words  
 - Style: APA  
 

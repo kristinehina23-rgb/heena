@@ -7,6 +7,7 @@
 - Worse internet speed correlates with worse learning appraisal (ρ = .65).
 - Campus apps (QQ, Chaoxing) fail offshore; Zoom and WhatsApp open.
 - Women more often refuse that online can replace campus; 71% of the sample are men (a gap).
+- 2026 hook: inequality and platform access under hybrid ICLE, not a ChatGPT study.
 
 ## Keywords
 
