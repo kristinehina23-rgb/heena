@@ -4,13 +4,13 @@ Editor-in-Chief
 
 Dear Editor,
 
-Please consider the attached manuscript, “Emergency remote Chinese learning under digital inequality: Pakistani scholarship students, home ecology, and language investment,” for publication in *Language, Culture and Curriculum*.
+Please consider “Platform geography, home ecology, and language investment: emergency remote Chinese learning among Pakistani scholarship students” for publication in *Language, Culture and Curriculum*.
 
-The paper analyses a Wenjuan questionnaire export (n = 38; 5–8 February 2022) from a CCNU master’s project on Pakistani (and one Bangladeshi) students taking Chinese-university language classes online during COVID-19. We argue that emergency remote teaching failed as a **material and geographic** problem: power, household space, and campus platforms that do not open offshore. Home conditions are strongly associated with very high stress; internet speed tracks perceived learning and interaction; QQ/Chaoxing are often unusable while Zoom/WhatsApp are available.
+This is a **new original questionnaire study** (N = 38; Wenjuan export, February 2022), not a republication. It shows that emergency remote Chinese along the Pakistan–China scholarship corridor failed as a home and **platform-geography** problem: campus apps (QQ, Chaoxing) often did not open offshore, while Zoom and WhatsApp did; home conditions were strongly associated with very high stress (OR = 25.67, 95% CI [4.42, 149.00]); internet speed tracked learning appraisal (ρ = .65).
 
-**Relationship to prior publication.** A short preliminary report appeared as Rathore and Cao (2024) in *Arbor*. That note reported 97 respondents and a 14-item Likert instrument. The coded export available for this reanalysis contains 38 complete cases and a 30-item questionnaire. We analyse the export, do not reuse the 2024 tables, and cite that note as a preliminary report. We would be glad to send both the 2024 PDF and a statement on the N discrepancy to the editorial office.
+**Prior note.** Rathore and Cao (2024, *Arbor*) is a short preliminary report of the same project. It used different published tables (reported n = 97). The present article analyses the coded export (N = 38), does not reuse those tables, and includes sensitivity checks (n = 37 Pakistani; n = 29 offshore IP). We can supply the 2024 PDF to the office.
 
-The manuscript is original, is not under review elsewhere, and all authors have approved the submission.
+The manuscript is not under review elsewhere. All authors approve the submission.
 
 Yours sincerely,
 
@@ -19,12 +19,4 @@ School of Foreign Languages, Sun Yat-sen University
 kristine_2020@qq.com
 
 Cao Huimin  
-Institute for International Communication of Chinese Culture, Beijing Foreign Studies University  
-*[confirm email]*
-
----
-
-**Notes for Heena (delete before sending)**
-
-- Read `NOTE-n38-not-n97.md` first. If you have another file with 59 more people, send it before this letter goes out.
-- Cao Huimin must approve.
+*[confirm affiliation and email]*

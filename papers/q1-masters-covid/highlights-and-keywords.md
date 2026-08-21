@@ -3,8 +3,8 @@
 ## Highlights
 
 - n = 38 Wenjuan export: 76% unstable net, 42% power cuts, 97% some stress.
-- Home “affects study very much” tracks very high stress (Fisher p < .001, OR 26).
-- Worse internet speed correlates with less learning, interest, and interaction.
+- Home “affects study very much” tracks very high stress (OR = 25.67, p < .001).
+- Worse internet speed correlates with worse learning appraisal (ρ = .65).
 - Campus apps (QQ, Chaoxing) fail offshore; Zoom and WhatsApp open.
 - Women more often refuse that online Chinese can replace campus class.
 

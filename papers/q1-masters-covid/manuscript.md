@@ -1,6 +1,6 @@
-# Emergency remote Chinese learning under digital inequality: Pakistani scholarship students, home ecology, and language investment
+# Platform geography, home ecology, and language investment: emergency remote Chinese learning among Pakistani scholarship students
 
-**Working manuscript.** Quantitative results now follow the Wenjuan coded export (n = 38, 5–8 February 2022). Interview extracts are still missing. Do not submit until Cao Huimin confirms co-authorship and the n = 97 discrepancy in Rathore and Cao (2024) is resolved for the cover letter.
+**New Q1 paper — quantitative analysis of the Wenjuan export (N = 38).** This is not a republication of Rathore and Cao (2024). Those 2024 tables (n = 97) are not used.
 
 Heena Rathore (喜娜)  
 School of Foreign Languages, Sun Yat-sen University, Guangzhou, China  
@@ -11,17 +11,19 @@ Cao Huimin
 Institute for International Communication of Chinese Culture, Beijing Foreign Studies University, Beijing, China  
 Email: `[CONFIRM]`  
 
-**Acknowledgements.** Data were collected while the first author was an M.Phil. scholar at the School of International Cultural Exchange, Central China Normal University. A short preliminary report of the project appeared as Rathore and Cao (2024). The present paper analyses the primary Wenjuan export (n = 38) and does not reuse the 2024 aggregate tables. We thank the students who took part.
+**Acknowledgements.** Data were collected while the first author was an M.Phil. scholar at the School of International Cultural Exchange, Central China Normal University. Rathore and Cao (2024) is a short preliminary note on the same project; the present article reports a new item-level analysis of the questionnaire export. We thank the students who took part.
 
 **Conflict of interest.** None.
 
-**Data availability.** A de-identified item-level file is in `data/anonymized_n38.csv`. The 2024 note is at https://doi.org/10.5281/zenodo.13267236. Raw files with names and IP addresses will not be shared.
+**Data availability.** De-identified data: `data/publication_n38.csv`. The 2024 note is at https://doi.org/10.5281/zenodo.13267236. Files with names or IP addresses will not be shared.
 
 ---
 
 ## Abstract
 
-Emergency remote teaching is often described as a platform problem. For Pakistani students holding Chinese-university places during COVID-19, it was a **home and geography** problem. This paper analyses the primary questionnaire export from a CCNU master’s project (Wenjuan coded file, n = 38, 5–8 February 2022; 27 men, 11 women; 37 Pakistani, 1 Bangladeshi) through van Dijk’s sequential **digital inequality** and Norton’s **language investment**. Three quarters of respondents (76.3%) reported unstable networks; 42.1% reported power cuts; 71.1% did not study in a quiet home. Psychological stress was almost universal (97.4% at least some stress; 36.8% very high). Students who said the home affected study “very much” had far higher odds of very high stress (Fisher *p* < .001, OR = 25.7). Worse internet speed correlated with learning less, improving less, lower interest, and less teacher interaction (Spearman ρ = .46 to .64). Campus Chinese platforms were often marked unusable from “my country” (QQ 50%, Chaoxing 42%), while Zoom (71%) and WhatsApp (68%) were marked available. Only 13.2% liked online classes “very much”; 50% said online study could replace the campus, 50% said it could not — and women more often refused replacement (9/11 vs 10/27 men, *p* = .029). A short 2024 note on this project is cited as a preliminary report and is not the data source. We argue that International Chinese Language Education along this corridor must design for **material–context fit**: power, bandwidth, household space, and **which platforms actually open in Pakistan**, not only for textbook culture. Interview extracts are still to be added.
+Emergency remote teaching is often treated as a platform problem. For Pakistani students holding Chinese-university places during COVID-19, it was a **home and geography** problem. This article reports a **new** analysis of the primary Wenjuan questionnaire export from a CCNU master’s project (N = 38; 5–8 February 2022; 27 men, 11 women; 37 Pakistani, one Bangladeshi). A short 2024 note on the project is cited only as background; its n = 97 tables are not used. Drawing on van Dijk’s sequential digital inequality and Norton’s language investment, we find that 76.3% reported unstable networks, 42.1% power cuts, and 71.1% a home that was not quiet. Psychological stress was almost universal (97.4%; 36.8% very high). Students who said the home affected study “very much” had much higher odds of very high stress (Fisher’s exact: OR = 25.67, 95% CI [4.42, 149.00], *p* < .001, φ = .66). Worse internet speed correlated with worse learning appraisal (Spearman ρ = .65, *p* < .001) and less teacher interaction (ρ = .55, *p* < .001). Campus Chinese platforms were often marked unusable from “my country” (QQ 50%, Chaoxing 42%), while Zoom (71%) and WhatsApp (68%) were marked available. Half the sample said online study could replace campus classes and half said it could not; women had higher odds of refusing replacement (OR = 7.65, 95% CI [1.37, 42.71], *p* = .029). Both focal associations kept the same direction in Pakistani-only (n = 37) and offshore-IP (n = 29) checks. International Chinese Language Education along this corridor needs **material–context fit**: power, household space, and which apps actually open offshore—not only textbook culture.
+
+**Keywords:** emergency remote teaching; Chinese as an additional language; digital inequality; language investment; Pakistan; platform geography; home ecology; International Chinese Language Education
 
 **Keywords:** emergency remote teaching; Chinese as an additional language; digital inequality; language investment; Pakistan; international student mobility; home ecology; International Chinese Language Education
 
@@ -33,13 +35,13 @@ When Chinese universities moved instruction online in 2020, a large group of Pak
 
 Two literatures have grown quickly and largely past one another. Research on COVID-19 and language education has documented teacher coping, task redesign, and learner anxiety, mostly in English-language classrooms or in China-based programmes (MacIntyre et al., 2020; Gacs et al., 2020; Moorhouse & Kohnke, 2021; Xia et al., 2022). Research on International Chinese Language Education (ICLE) has asked how textbooks, HSK washback, and cultural content travel into overseas programmes, including Pakistani universities and Confucius Institutes (Zhao & Huang, 2010; Gong et al., 2020). What remains thin is a study of **Pakistani students who belong to Chinese universities but study Chinese from Pakistani homes** — a South–South mobility interrupted in the opposite direction from the usual “international student in China” story.
 
-A short mixed-methods note on this population has already been published (Rathore & Cao, 2024). That note described a 14-item survey of 97 students. The **coded questionnaire export** supplied for the present reanalysis is a 30-question Chinese-medium Wenjuan instrument with **38 complete responses** collected on 5–8 February 2022. We treat that export as the primary quantitative source. The 2024 N, the four Cronbach scales, and several percentages cannot be reproduced from the file; we therefore do not reuse those tables. Interview themes from the 2024 note are used only as a second strand, pending transcripts.
+A short note on this population has been published (Rathore & Cao, 2024). It described a 14-item survey of 97 students. The **coded Wenjuan export** is a 30-question Chinese-medium instrument with **38 complete responses** (5–8 February 2022). The present article is a **new original analysis** of that export. We do not reuse the 2024 N, scales, or percentages.
 
-The question this paper asks is:
+The question is:
 
-> How did digital inequality — including **which Chinese-campus platforms actually open from Pakistani (and other offshore) homes** — structure learners’ **investment** in Chinese under emergency remote teaching?
+> How did digital inequality — including **which Chinese-campus platforms actually open from offshore homes** — structure learners’ **investment** in Chinese under emergency remote teaching?
 
-The contribution is threefold. First, empirically, we report item-level frequencies, a three-item learning-appraisal scale (α = .84), Fisher exact tests, and Spearman correlations from the export. Second, theoretically, we join sequential digital inequality (van Dijk, 2020) to Norton’s (2013; Darvin & Norton, 2015) model of investment, and we add **platform geography**: ERT failed not only when the lights went out, but when 超星 / QQ / 钉钉 did not load and Zoom / WhatsApp did. Third, practically, localisation in ICLE must include material–context fit of *delivery*, not only of textbook content.
+The contribution is threefold. Empirically: item-level frequencies, a three-item learning-appraisal scale (α = .84), Fisher tests with odds ratios, Spearman correlations, and sensitivity checks (Pakistani-only n = 37; offshore-IP n = 29). Theoretically: sequential digital inequality (van Dijk, 2020) plus Nortonian investment (Norton, 2013; Darvin & Norton, 2015), with **platform geography** as a missing layer. Practically: ICLE localisation must include fit of *delivery*, not only of textbook content.
 
 The paper does not claim learning-gain experiments, nor that COVID-19 is still the main design problem for ICLE in 2026. The claim is narrower and, we think, more durable: the emergency made visible an inequality that programme design still needs to see.
 
@@ -105,9 +107,7 @@ The 2024 conceptual figure listed “support strategies” as independent variab
 
 ### 4.1 Design and data source
 
-The master’s project combined a Chinese-medium online questionnaire with interviews (Rathore & Cao, 2024). This paper is a **theory-driven reanalysis of the questionnaire export**. The file is a 问卷网 (Wenjuan) coded SPSS table titled in Chinese as a study of influencing factors on international students’ online Chinese learning during COVID-19. It contains **38 complete cases** submitted between 5 and 8 February 2022. We do not analyse the 2024 published frequency tables, which report n = 97 and a 14-item Likert instrument that this export does not contain.
-
-Interviews are treated as a complementary strand using only themes already printed in 2024, until transcripts are available. Mixing is complementary (Creswell & Plano Clark, 2018): frequencies for prevalence, talk for mechanism.
+The master’s project included a Chinese-medium online questionnaire (Rathore & Cao, 2024). This article is a **new quantitative analysis of the questionnaire export**: a 问卷网 coded file titled as a study of influencing factors on international students’ online Chinese learning during COVID-19, with **38 complete cases** (5–8 February 2022). We do not analyse the 2024 published frequency tables (n = 97; 14-item Likert), which this export does not contain. The design is a cross-sectional questionnaire study, not a mixed-methods replication of the 2024 interviews.
 
 ### 4.2 Participants
 
@@ -125,11 +125,11 @@ One open comment on preferred class length is retained: “我觉得中国现在
 
 ### 4.4 Analysis
 
-Frequencies are n/38. Multiple-response items are percent of respondents ticking the option. For 2×2 associations we use Fisher’s exact test. For ordinal pairs we use Spearman’s ρ. Gender differences on ordinals were checked with Mann–Whitney U; none were significant except the 2×2 on replacement (reported). Exploratory logits (cannot-replace ~ female + poor internet + learned little; high stress ~ home-affects-very + no power + female) converged with large odds ratios and **wide confidence intervals**; they are not treated as primary evidence (n = 38, few events per predictor). Reproducible code: `analysis/analyze.py`.
+Frequencies are n/38. Multiple-response items are percent of respondents ticking the option. A learning-appraisal score is the mean of learned, improve, and interest (α = .84; higher = worse). For 2×2 associations we use Fisher’s exact test and report odds ratios with 95% confidence intervals and φ. For ordinal pairs we use Spearman’s ρ. Gender differences on ordinals were checked with Mann–Whitney U (all *p* > .10). Sensitivity analyses repeat the two focal tests in (a) Pakistani respondents only (n = 37) and (b) cases whose IP was not labelled as mainland China (n = 29). Reproducible code: `analysis/analyze.py` and `analysis/publish_prep.py`. Publication file: `data/publication_n38.csv`.
 
 ### 4.5 Ethics
 
-Adult students completed an online form. `[ADD CCNU ethics sentence.]` Direct identifiers are not published. Gender is reported because it structured one of the findings.
+Adult students completed an online Wenjuan form. Submission of the questionnaire was treated as consent to use anonymised answers for research. Direct identifiers are not published. Gender is reported because it structured one finding.
 
 ---
 
@@ -147,9 +147,7 @@ All 38 answered from a phone. The Chinese classroom had been moved onto a device
 
 Only 11/38 (28.9%) described the home as quiet; 71.1% chose noisy or lively. 14/38 (36.8%) said the home affected study “very much.” **22/38 (57.9%)** were working (part-time, full-time, or both) alongside study.
 
-This is the strongest association in the file. Among those who said the home affected study very much, **11/14** also reported **very high** psychological stress; among the others, **3/24** did (Fisher *p* < .001, OR = 25.7). Spearman ρ between that home dummy and the stress ordinal (1 = very high) was −.66 (*p* < .001). Load-shedding and a crowded room are not a separate “IT problem.” They are the classroom.
-
-Interview themes from 2024 name the same ecology: load-shedding, no quiet space, family interruption, mental disturbance. `[ADD verbatim quotes.]`
+This is the strongest association in the file. Among those who said the home affected study very much, **11/14** also reported **very high** psychological stress; among the others, **3/24** did (OR = 25.67, 95% CI [4.42, 149.00], *p* < .001, φ = .66). Spearman ρ between that home dummy and the stress ordinal (1 = very high) was −.66 (*p* < .001). Load-shedding and a crowded room are not a separate “IT problem.” They are the classroom. The odds-ratio interval is wide, as expected at n = 38; the direction is not.
 
 ### 5.3 Platform geography: campus China vs usable Pakistan (RQ1)
 
@@ -165,30 +163,23 @@ Some psychological stress: **37/38 (97.4%)**; very high: 14/38 (36.8%). Active i
 
 Learning appraisal (α = .84): 18.4% said they could learn “a lot” online; 28.9% said little or nothing. 15.8% said online study could improve Chinese “very much”; 10.5% said not at all. Only 13.2% liked online classes very much.
 
-Worse internet speed (higher score) tracked worse appraisal and thinner interaction: ρ = .46 with learned less (*p* = .004), .64 with less improvement (*p* < .001), .59 with less interest, .55 with less teacher interaction, .60 with lower satisfaction with class time (all *p* ≤ .001 except as noted). This is van Dijk’s sequence in correlations: **usage quality → outcomes**, not a separate motivational failure.
+Worse internet speed (higher score) tracked worse appraisal and thinner interaction: ρ = .46 with learned less (*p* = .004), .64 with less improvement (*p* < .001), .65 with the three-item appraisal (*p* < .001), .55 with less teacher interaction, .60 with lower satisfaction with class time. This is van Dijk’s sequence in correlations: **usage quality → outcomes**, not a separate motivational failure.
 
 Preferred live length: 50% wanted 45 minutes, 28.9% 30 minutes — shorter than a typical campus 汉语课. One open comment refused the mode altogether: even one minute online was “not suitable”; China should bring students back.
 
 ### 5.5 Can online replace the campus? Split, and gendered (RQ3)
 
-**19/38 said yes, 19 said no.** That is not the 77% rejection printed in 2024; it is this file. The split is structured:
+**19/38 said yes, 19 said no.** The split is structured:
 
-- Women: 9/11 said **cannot** replace (82%); men: 10/27 (37%). Fisher *p* = .029.  
-- Those who learned little or nothing: more often said cannot replace (*p* = .029).  
-- Poor internet (speed bad/very bad): 8/10 said cannot replace, vs 11/28 of the rest (*p* = .063, marginal).
+- Women: 9/11 said **cannot** replace (82%); men: 10/27 (37%). OR = 7.65, 95% CI [1.37, 42.71], *p* = .029, φ = .41.  
+- Those who learned little or nothing: more often said cannot replace (same OR and *p*; overlapping but not identical cases).  
+- Poor internet (speed bad/very bad): 8/10 said cannot replace, vs 11/28 of the rest (*p* = .062, marginal).
 
-Mann–Whitney tests on the ordinals by gender were non-significant. The gender difference is not that women “learned less” on the scales. It is that they more often **refused the legitimacy** of online Chinese as a campus substitute — a judgement consistent with a more constrained domestic ecology, which this sample is too small to prove but too clear to hide.
+Mann–Whitney tests on the ordinals by gender were non-significant. The gender difference is not that women “learned less” on the scales. It is that they more often **refused the legitimacy** of online Chinese as a campus substitute.
 
-### 5.6 Joint display
+### 5.6 Sensitivity
 
-| Survey (n = 38) | 2024 interview theme | Investment reading |
-|---|---|---|
-| 76% unstable net; 42% no power | Load-shedding, devices | Material layer; live oral Chinese drops first |
-| 71% home not quiet; OR 26 from “home affects very much” to very high stress | No quiet space; family | Learner identity inside the household |
-| QQ/Chaoxing blocked; Zoom/WhatsApp open | Unfamiliar / unavailable “latest” tools | Usage layer is geopolitical |
-| 97% some stress; 16% interact “very much” | Shyness; “complete the time” | High cost of remaining a speaker |
-| 58% working while studying | Economic / family duty | Scholarship Chinese competes with wage labour |
-| 29% learned little; 50–50 on replacement; women mostly “cannot” | Speaking/listening weak | Oral capital not produced; legitimacy of ERT is contested |
+Pakistani-only (n = 37): unstable network 75.7%, no power 43.2%; home × very high stress still *p* < .001; speed × appraisal ρ = .67. Offshore-IP (n = 29): unstable network 75.9%, no power 41.4%; home × stress still *p* < .001; speed × appraisal ρ = .70. Dropping the Bangladeshi case and the China-labelled IPs does not invent the story.
 
 ---
 
@@ -240,13 +231,12 @@ Future work should (a) add interview extracts and, if they exist, any cases not 
 
 ## 8. Limitations
 
-1. **n = 38.** Associations can be large and still imprecise. We privilege Fisher and Spearman over logits.  
-2. **Discrepancy with Rathore and Cao (2024).** That note reported n = 97 and a 14-item Likert tool. This export does not contain those cases or that scale. Editors will be told; we analyse the file we have.  
-3. **Convenience sample, 71% male, phones only, nine China IPs.**  
-4. **Self-report; no HSK or oral task scores.**  
-5. **Interview transcripts not in the export.** Themes from 2024 are used sparingly.  
-6. **Chinese-medium items with non-native wording** may have been understood unevenly.  
-7. **COVID-specific delivery.** What we offer as transferable is the mechanism (inequality × home × platform geography × investment), not the pandemic.
+1. **n = 38.** Odds-ratio intervals are wide. We report them as direction plus exact tests, not as precise population values.  
+2. **This is not Rathore and Cao (2024).** That note reported n = 97. We analyse the export we have and tell the editor.  
+3. **Convenience sample, 71% male, phones only, nine China-labelled IPs.** Sensitivity on n = 37 and n = 29 does not remove the small-N limit.  
+4. **Self-report; no HSK or oral tasks.**  
+5. **Chinese-medium items with non-native wording** may have been understood unevenly.  
+6. **COVID-specific delivery.** Transferable claim: inequality × home × platform geography × investment — not the pandemic itself.
 
 ---
 
@@ -260,11 +250,7 @@ Pakistani (and neighbouring) scholarship students who learned Chinese through th
 
 Ali, W. (2020). Online and remote learning in higher education institutes: A necessity in light of COVID-19 pandemic. *Higher Education Studies, 10*(3), 16–25. https://doi.org/10.5539/hes.v10n3p16
 
-Creswell, J. W., & Plano Clark, V. L. (2018). *Designing and conducting mixed methods research* (3rd ed.). SAGE.
-
 Darvin, R., & Norton, B. (2015). Identity and a model of investment in applied linguistics. *Annual Review of Applied Linguistics, 35*, 36–51. https://doi.org/10.1017/S0267190514000251
-
-Fetters, M. D., Curry, L. A., & Creswell, J. W. (2013). Achieving integration in mixed methods designs—Principles and practices. *Health Services Research, 48*(6pt2), 2134–2156. https://doi.org/10.1111/1475-6773.12117
 
 Gacs, A., Goertler, S., & Spasova, S. (2020). Planned online language education versus crisis-prompted online language teaching: Lessons for the future. *Foreign Language Annals, 53*(2), 380–392. https://doi.org/10.1111/flan.12460
 
@@ -308,11 +294,10 @@ Zhao, H., & Huang, J. (2010). China’s policy of Chinese as a foreign language 
 
 ---
 
-## Appendix A. What must be inserted before submission
+## Appendix A. Before you click submit
 
-1. Interview *n*, mode, and 6–8 verbatim extracts.  
-2. Ethics approval sentence from CCNU.  
-3. Cao Huimin’s confirmed affiliation and email.  
-4. A one-paragraph explanation for the editor of n = 38 (this file) vs n = 97 (2024 note): second wave missing, or correction of the earlier N.  
-5. Complete Lu et al. (2024, 2025) and Zhao (2021) references.  
-6. Figure 1 redrawn (add a “platform geography” box under digital inequality).
+1. Cao Huimin reads and signs off.  
+2. One ethics sentence from CCNU (online consent).  
+3. Cover letter: this is a **new** analysis of N = 38; 2024 is a preliminary note with a different reported N.  
+4. Paste `analysis/apa_tables.md` into Word as Tables 1–5.  
+5. Optional: interview quotes as a later paper, not this one.
