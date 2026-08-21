@@ -1,4 +1,4 @@
-# Platform geography, home ecology, and language investment: emergency remote Chinese learning among Pakistani scholarship students
+# When Chinese class moved home: Pakistani students, infrastructure, and platform access
 
 **New Q1 paper — quantitative analysis of the Wenjuan export (N = 38).** This is not a republication of Rathore and Cao (2024). Those 2024 tables (n = 97) are not used.
 

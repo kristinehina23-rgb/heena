@@ -16,7 +16,7 @@ Quartiles below use the June 2026 JCR release (2025 citation data). “Q1” her
 
 ## Track A — empirical paper from the master’s COVID data
 
-**Working title:** Platform geography, home ecology, and language investment: emergency remote Chinese learning among Pakistani scholarship students
+**Working title:** When Chinese class moved home: Pakistani students, infrastructure, and platform access
 
 **Now with n = 38 item-level data.** First target remains *Language, Culture and Curriculum*. *ReCALL* is a better second choice than before, because the new **platform geography** finding is a CALL result. *System* / *CALL* still want a larger N or richer interviews.
 

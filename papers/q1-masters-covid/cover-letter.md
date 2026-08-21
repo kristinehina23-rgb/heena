@@ -4,7 +4,7 @@ Editor-in-Chief
 
 Dear Editor,
 
-Please consider “Platform geography, home ecology, and language investment: emergency remote Chinese learning among Pakistani scholarship students” for publication in *Language, Culture and Curriculum*.
+Please consider “When Chinese class moved home: Pakistani students, infrastructure, and platform access” for publication in *Language, Culture and Curriculum*.
 
 This is a **new original questionnaire study** (N = 38; Wenjuan export, February 2022), not a republication. It shows that emergency remote Chinese along the Pakistan–China scholarship corridor failed as a home and **platform-geography** problem: campus apps (QQ, Chaoxing) often did not open offshore, while Zoom and WhatsApp did; home conditions were strongly associated with very high stress (OR = 25.67, 95% CI [4.42, 149.00]); internet speed tracked learning appraisal (ρ = .65).
 
