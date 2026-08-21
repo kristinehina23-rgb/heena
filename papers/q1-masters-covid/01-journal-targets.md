@@ -18,6 +18,8 @@ Quartiles below use the June 2026 JCR release (2025 citation data). “Q1” her
 
 **Working title:** Emergency remote Chinese learning under digital inequality: Pakistani scholarship students, home ecology, and language investment
 
+**Now with n = 38 item-level data.** First target remains *Language, Culture and Curriculum*. *ReCALL* is a better second choice than before, because the new **platform geography** finding is a CALL result. *System* / *CALL* still want a larger N or richer interviews.
+
 ### First choice (submit here first)
 
 **Language, Culture and Curriculum** (Taylor & Francis)  
