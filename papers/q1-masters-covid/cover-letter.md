@@ -14,9 +14,14 @@ The manuscript is not under review elsewhere. All authors approve the submission
 
 Yours sincerely,
 
-Heena Rathore  
+Heena Rathore (first author)  
 School of Foreign Languages, Sun Yat-sen University  
 kristine_2020@qq.com
 
 Cao Huimin  
-[confirm affiliation and email]
+Institute for International Communication of Chinese Culture, Beijing Foreign Studies University  
+[confirm email]
+
+Xu Yiru (徐翌茹)  
+School of Foreign Languages, Sun Yat-sen University  
+xuyiru@mail.sysu.edu.cn

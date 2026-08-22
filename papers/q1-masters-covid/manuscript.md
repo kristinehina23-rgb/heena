@@ -9,6 +9,10 @@ Email: kristine_2020@qq.com
 Cao Huimin  
 Institute for International Communication of Chinese Culture, Beijing Foreign Studies University, Beijing, China  
 
+Xu Yiru (徐翌茹)  
+School of Foreign Languages, Sun Yat-sen University, Guangzhou, China  
+Email: xuyiru@mail.sysu.edu.cn  
+
 **Acknowledgements.** Data were collected while the first author was an M.Phil. scholar at the School of International Cultural Exchange, Central China Normal University. Rathore and Cao (2024) is a short preliminary note on the same project. The present article reports a new item-level analysis of the questionnaire export. We thank the students who took part.
 
 **Conflict of interest.** None.
