@@ -1,6 +1,10 @@
 # Supervisor review (before Q1 submit)
 
-Read as if Xu Yiru were marking the draft for *Language, Culture and Curriculum*. Verdict: **do not submit until the overclaims below are cut.** The data story is real. The theory and some headlines are bigger than the file.
+Read as if Xu Yiru were marking the draft for *Language, Culture and Curriculum*.
+
+**Status after the recheck (this revision):** the overclaims listed below have been cut in `manuscript.md`. Table 3 now uses only columns in the committed analysis file. RQ4 (implications) is no longer treated as a data question. Send this version to Xu Yiru.
+
+Verdict before submit: **Xu Yiru and Cao Huimin must still read it.** The data story is now the right size for the file.
 
 ---
 

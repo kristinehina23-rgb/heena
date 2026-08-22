@@ -45,14 +45,14 @@ Source: `data/publication_n38.csv`. Do not mix with Rathore and Cao (2024) n = 9
 
 | Platform | Used for class (%) | Cannot use in my country (%) | Can use in my country (%) |
 |---|---:|---:|---:|
-| Tencent Meeting | 71.1 | — | 57.9 |
-| Zoom | 47.4 | — | 71.1 |
-| WeChat | 31.6 | — | 39.5 |
-| WhatsApp | — | — | 68.4 |
-| QQ | — | 50.0 | — |
-| Chaoxing | — | 42.1 | — |
-| DingTalk | — | 28.9 | — |
-| Chinese MOOC | — | 28.9 | — |
+| Tencent Meeting | 71.1 | n.a. | 57.9 |
+| Zoom | 47.4 | n.a. | 71.1 |
+| WeChat | 31.6 | n.a. | 39.5 |
+| WhatsApp | n.a. | n.a. | 68.4 |
+| QQ | n.a. | 50.0 | n.a. |
+| Chaoxing | n.a. | 42.1 | n.a. |
+| DingTalk | n.a. | 28.9 | n.a. |
+| Chinese MOOC | n.a. | 28.9 | n.a. |
 
 *Note.* Dashes mean the item was not asked in that column. Full used/blocked/available lists are in `tables.md`.
 
