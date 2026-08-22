@@ -15,6 +15,6 @@
 | `SUBMIT-CHECKLIST.md` | 投稿前：徐老师和曹老师必须先看过并同意署名 |
 | `TRENDING-WORK-2026.md` | 2024–2026 热门文献怎么用：投资、课后技术常态化、CPEC 汉语；**不要**把这份数据写成 ChatGPT 论文 |
 | `WHICH-OPTION-IS-BEST.md` | 比完了：先投 Track A 到 *Language, Culture and Curriculum*，现在这个题目 |
-| `cover-letter.md` | 给编辑：这是新分析，不是 2024 再投 |
+| `SUPERVISOR-REVIEW.md` | 导师视角：哪些标题过头、Q1 还要改什么 |
 
 主结果（可写进新 Q1）：家里很影响学习 × 高压 OR = 25.67；网速 × 学习评价 ρ = .65；QQ/超星打不开、Zoom/WhatsApp 能用；女同学更常拒绝“网课能代替线下”。巴基斯坦-only (37) 和境外 IP (29) 方向不变。
