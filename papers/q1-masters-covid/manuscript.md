@@ -2,7 +2,7 @@
 
 **Short title:** Chinese class at home
 
-Heena Rathore  
+Heena Rathore (corresponding author)  
 School of Foreign Languages, Sun Yat-sen University, Guangzhou, China  
 Email: kristine_2020@qq.com  
 
@@ -15,15 +15,17 @@ Email: xuyiru@mail.sysu.edu.cn
 
 **Acknowledgements.** Data were collected while the first author was an M.Phil. scholar at the School of International Cultural Exchange, Central China Normal University. Rathore and Cao (2024) is a short preliminary note on the same project. The present article reports a new item-level analysis of the questionnaire export. We thank the students who took part.
 
-**Conflict of interest.** None.
+**Disclosure statement.** No potential conflict of interest was reported by the authors.
+
+**Funding.** None.
 
 **Data availability.** A de-identified analysis file is available from the corresponding author. Files containing names or IP addresses will not be shared. The 2024 note is at https://doi.org/10.5281/zenodo.13267236.
 
 ## Abstract
 
-Studies of emergency remote teaching often focus on which software teachers chose. For Pakistani students who held places at Chinese universities during COVID-19, the main difficulties were the household and the national network, not the brand of the app. This article reports a new analysis of the only coded Wenjuan export retained from a CCNU master's project (N = 38; 5 to 8 February 2022; 27 men, 11 women; 37 Pakistani, one Bangladeshi). The male majority is a limitation of the sample. It should not be read as a portrait of all Pakistani scholarship students. A 2024 note on the project is cited as background only. Its n = 97 tables are not used. The analysis draws on van Dijk's sequential digital inequality and Norton's language investment. Unstable networks were reported by 76.3% of respondents, power cuts by 42.1%, and a home that was not quiet by 71.1%. Psychological stress was reported by 97.4% (36.8% very high). Students who said the home affected study "very much" had higher odds of very high stress (OR = 25.67, 95% CI [4.42, 149.00], *p* < .001, φ = .66). Worse internet speed was associated with worse learning appraisal (Spearman ρ = .65, *p* < .001) and with less teacher interaction (ρ = .55, *p* < .001). Campus Chinese platforms were often marked unusable from "my country" (QQ 50%, Chaoxing 42%), while Zoom (71%) and WhatsApp (68%) were marked available. Nineteen students said online study could replace campus classes and 19 said it could not. Women had higher odds of refusing replacement (OR = 7.65, 95% CI [1.37, 42.71], *p* = .029). Both focal associations kept the same direction in a Pakistani-only subset (n = 37) and in an offshore-IP subset (n = 29). International Chinese Language Education on this route needs a workable match between the course plan and the place of study: electricity, household space, and apps that open outside China, in addition to textbook culture.
+This article reports a new analysis of a Wenjuan questionnaire (N = 38; 5 to 8 February 2022) completed mainly by Pakistani students who continued Chinese-university language classes from home during COVID-19. Unstable networks (76.3%), power cuts (42.1%), and homes that were not quiet (71.1%) were common. Psychological stress was reported by 97.4%. Saying that the home affected study "very much" was associated with very high stress (OR = 25.67, *p* < .001). Worse internet speed tracked worse learning appraisal (ρ = .65). Campus apps such as QQ and Chaoxing were often marked unusable from "my country"; Zoom and WhatsApp were more often marked available. Half the sample said online study could replace campus classes; women more often said it could not. The article reads these results through sequential digital inequality and language investment. It argues that Chinese-course design on this scholarship route must fit household infrastructure and platform access, not only textbook culture. A 2024 note on the same project is cited as background; its n = 97 tables are not used. The male majority (27 of 38) is a sample limit.
 
-**Keywords:** emergency remote teaching; Chinese as an additional language; digital inequality; language investment; Pakistan; platform geography; home ecology; International Chinese Language Education
+**Keywords:** emergency remote teaching; Chinese as an additional language; digital inequality; language investment; Pakistan; curriculum
 
 ## 1. Introduction
 
@@ -131,7 +133,7 @@ Frequencies are n/38. Multiple-response items are percent of respondents ticking
 
 Adult students completed an online Wenjuan form. Submission of the questionnaire was treated as consent to use anonymised answers for research. Direct identifiers are not published. Gender is reported because it structured one finding.
 
-## 5. Findings
+## 5. Results
 
 ### 5.1 Sample and setting (RQ1)
 

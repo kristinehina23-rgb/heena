@@ -9,4 +9,5 @@ The article to paste is `manuscript.md` (~6,500 words of body; LCC typically wan
 5. Cover letter: `cover-letter.md`.  
 6. Do not wait for interviews or a second survey. N = 38 is closed.  
 7. Before ScholarOne, paste `manuscript.md` into Word and run iThenticate or Turnitin on the body only (exclude the reference list and the one Chinese quotation). Expect some topical overlap with Rathore and Cao (2024); that is self-citation of a preliminary note, not copied tables.  
-8. Run an AI-text check (Turnitin AI, GPTZero, or the university tool) on the Word file. Cao and Xu should still read every paragraph.
+9. Journal rules and article pattern: `LCC-JOURNAL-RULES.md`. ScholarOne needs a title page with names and an anonymized manuscript.  
+10. Do not start Track B (*HSK Standard Course*) inside this file.
