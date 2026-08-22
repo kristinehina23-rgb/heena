@@ -27,9 +27,9 @@ Quartiles below use the June 2026 JCR release (2025 citation data). “Q1” her
 - 2026 IF about 2.8  
 - Cares about **context, culture, and curriculum**, not only fancy statistics  
 - Strong fit: Pakistani homes, CSC mobility, Chinese as an additional language, post-pandemic lessons  
-- This journal published Hajar and Karakuş (2024) on three decades of **investment** research and called for LOTE international-student work — our theoretical hook  
+- This journal already publishes international students of Chinese, online Chinese-culture courses, CSL learner emotion, student views of curriculum, and Hajar and Karakuş (2024) on **investment** / LOTE international students. Our South-South home-and-platform case is the gap, not a copy. See `LCC-JOURNAL-RULES.md`.  
 - Typical length: ~8,000 words  
-- Style: APA  
+- Style: APA; British spelling; ScholarOne anonymous review  
 
 Why first: the contribution is *where* Chinese was learned (digitally unequal Pakistani households), not a new app or a new experiment. LCC editors have published Global South, Islamic-context, and curriculum papers. A COVID dataset is still acceptable if the claim is about **lasting digital inequality in ICLE corridors**, not “we discovered online learning is hard.”
 

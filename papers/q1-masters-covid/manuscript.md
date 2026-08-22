@@ -2,7 +2,10 @@
 
 **Short title:** Chinese class at home
 
+*Working copy with names. For ScholarOne, put names, acknowledgements, disclosure, funding, data availability, and notes on contributors on `title-page.md`. The review file should start at the abstract.*
+
 Heena Rathore (corresponding author)  
+School of International Cultural Exchange, Central China Normal University, Wuhan, China  
 School of Foreign Languages, Sun Yat-sen University, Guangzhou, China  
 Email: kristine_2020@qq.com  
 
@@ -33,7 +36,7 @@ When Chinese universities moved instruction online in 2020, many Pakistani stude
 
 That shift also changed the curriculum in practice. A Chinese-university language course is more than a textbook and an HSK calendar. It is a planned sequence of live hours, oral tasks, and campus platforms that assume a dormitory, a timetable, and a login that works. Emergency remote teaching kept those elements and changed the site. Learners met the old campus course plan inside a Pakistani house rather than a redesigned distance-education programme.
 
-Research on COVID-19 and language education documented teacher coping, task redesign, and learner anxiety, mainly in English-language classrooms or in China-based programmes (MacIntyre et al., 2020; Gacs et al., 2020; Moorhouse & Kohnke, 2021; Xia et al., 2022). Research on International Chinese Language Education (ICLE) asked how textbooks, HSK washback, and cultural content travel into overseas programmes, including Pakistani universities and Confucius Institutes (Zhao & Huang, 2010; Gong et al., 2020). Few studies examine Pakistani students who belong to Chinese universities but study Chinese from Pakistani homes. That interrupted South-South route is the reverse of the usual "international student in China" account.
+Research on COVID-19 and language education documented teacher coping, task redesign, and learner anxiety, mainly in English-language classrooms or in China-based programmes (MacIntyre et al., 2020; Gacs et al., 2020; Moorhouse & Kohnke, 2021; Xia et al., 2022). Research on International Chinese Language Education (ICLE) asked how textbooks, HSK washback, and cultural content travel into overseas programmes, including Pakistani universities and Confucius Institutes (Zhao & Huang, 2010; Gong, Gao, & Lyu, 2020). This journal has already treated international students of Chinese in Chinese universities as a language, culture, and curriculum problem (Gao & Hua, 2021; Gong, Gao, Li, & Lai, 2020). Few studies examine Pakistani students who belong to Chinese universities but study Chinese from Pakistani homes. That interrupted South-South route is the reverse of the usual "international student in China" account.
 
 COVID special issues have largely closed. Two later strands now dominate the field. After the return to campus, digital tools became ordinary in many in-person language classrooms (Moorhouse, 2023; Moorhouse, Wong, & Li, 2023). Reviews also note that crisis teaching often used videoconferencing to copy the campus hour (Stockwell & Wang, 2023). A second strand is generative AI, which now appears in work on language investment (Darvin, 2025). The 2022 questionnaire contains no items on ChatGPT or similar tools, so this article does not treat AI as a finding. The present data speak to a more basic problem that has not disappeared: unequal digital conditions, and the question of which campus platforms open, for scholarship students on a South-South route. Hajar and Karakuş (2024), writing in *Language, Culture and Curriculum*, call for research on the (dis)investment of international students in languages other than English. Pakistani learners of Chinese belong in that agenda. Hybrid ICLE, China Scholarship Council (CSC) mobility, and HSK delivery on Chinese-campus systems still assume logins, bandwidth, and a quiet room. The present sample shows that many homes could not supply those conditions.
 
@@ -63,7 +66,7 @@ The sequence did not end when campuses reopened. Later education research contin
 
 Motivation research can describe who wants to learn Chinese. It is weaker on who can afford to act as a learner on a given afternoon. Norton's (2013) construct of investment links identity, capital, and ideology. Learners invest when they expect a return in social and material terms, and they withdraw when the classroom, or its substitute, costs more than it returns. Darvin and Norton (2015) placed investment in a digital era of shifting structures. Darvin and Norton (2023) restated the difference from motivation: a learner may be highly motivated and still not invested in the practices of a given classroom if those practices are exclusionary or unworkable. Under ERT, the relevant structure was the household: electricity, data, siblings, and the social meaning of sitting on a phone during a live class from Wuhan or Beijing.
 
-The construct remains in current use. Hajar and Karakuş (2024) map three decades of investment research in *Language, Culture and Curriculum* and report that output is still rising. Their agenda includes the (dis)investment of international students in languages other than English, and investment in teaching those languages in Asia. Darvin (2025) has updated the model for generative AI and argues that access to resources and the design of platforms now steer meaning-making. We cite that paper to mark a later development, not as a method for the present data. Respondents answered in February 2022. The inequality Darvin locates in human-AI interaction (who may enter the space, whose resources count) already appeared here as who could open the class.
+The construct remains in current use. Hajar and Karakuş (2024) map three decades of investment research in *Language, Culture and Curriculum* and report that output is still rising. Their agenda includes the (dis)investment of international students in languages other than English, and investment in teaching those languages in Asia. Wen and Liu (2025), also in this journal, show that advanced learners of Chinese as a second language live pride, burnout, and anxiety as they move between lectures, teacher talk, group work, and extra-curricular activity. Under ERT those classroom scenes were filtered through the household. Darvin (2025) has updated the investment model for generative AI and argues that access to resources and the design of platforms now steer meaning-making. We cite that paper to mark a later development, not as a method for the present data. Respondents answered in February 2022. The inequality Darvin locates in human-AI interaction (who may enter the space, whose resources count) already appeared here as who could open the class.
 
 Piller, Zhang and Li (2020) showed that COVID-19 was also a linguistic crisis: who could ask for help, in which language, on which channel. Pakistani learners of Chinese typically mediate through Urdu, English, and regional languages. When a live Chinese class moved to a platform the student barely knew, the right to ask "what does this mean?" was a question of whose language counted in the emergency as well as a pedagogical issue.
 
@@ -71,7 +74,7 @@ Piller, Zhang and Li (2020) showed that COVID-19 was also a linguistic crisis: w
 
 China's promotion of Chinese as an international language has long been tied to institutes, textbooks, and tests (Zhao & Huang, 2010). Pakistani interest in Chinese is bound up with the China-Pakistan Economic Corridor (CPEC), scholarships, and employment. Iftikhar et al. (2024) show that this demand is still live in Punjab and Sindh. CPEC and Confucius Institutes continue to structure why students learn Chinese, even as learners name cultural and local-language tensions. Attitude studies rarely capture the course that was supposed to produce the proficiency, namely the Chinese-university language class, when the student could not be on campus.
 
-ICLE research after COVID-19 has turned toward blended models, interaction design, and cultural adaptation (Gong et al., 2020; Li & Li, 2024). Work based in Pakistani universities has begun to document localisation of *HSK Standard Course*, including Urdu annotation, cultural comparison, and programme fit inside Pakistan (Lu et al., 2024). Those studies concern programmes in Pakistan. The present dataset concerns Pakistanis of Chinese universities. The two groups share a language, a test culture, and often a textbook family. They do not share a campus. Adapting a book for NUML or a Confucius Institute is not the same task as keeping a CSC language course alive in a Karachi or Lahore household at 21:00 after a power cut. Guerrettaz et al. (2021) treat materials as what happens in use. Under ERT the material was a live class and the use was a phone in a shared room. Curriculum research that stops at the page of the book will miss that scene.
+ICLE research after COVID-19 has turned toward blended models, interaction design, and cultural adaptation (Gong, Gao, & Lyu, 2020; Li & Li, 2024). Guenier, Xing and Yan (2026) describe a designed multimodal online course that communicates Chinese culture to Irish learners. That is planned online teaching, not emergency remote teaching. Gong, Gao, Li and Lai (2020) document New Zealand students' cultural adaptation while they were physically in China. Gao and Hua (2021) collected that campus-in-China agenda in this journal. Work based in Pakistani universities has begun to document localisation of *HSK Standard Course*, including Urdu annotation, cultural comparison, and programme fit inside Pakistan (Lu et al., 2024). Those studies concern programmes in Pakistan. The present dataset concerns Pakistanis of Chinese universities. The two groups share a language, a test culture, and often a textbook family. They do not share a campus. Adapting a book for NUML or a Confucius Institute is not the same task as keeping a CSC language course alive in a Karachi or Lahore household at 21:00 after a power cut. Guerrettaz et al. (2021) treat materials as what happens in use. Under ERT the material was a live class and the use was a phone in a shared room. Curriculum research that stops at the page of the book will miss that scene. Shan and Xu (2024) show, for a dual-foreign-language programme in a Chinese university, that students experience an institutionalised curriculum as a fixed pathway they may also negotiate. The present students were asked to follow a Chinese-university pathway from a house that could not hold it.
 
 ### 2.5 Gap
 
@@ -105,11 +108,13 @@ Sequential digital inequality (power, signal, speed) leads to platform geography
 
 Caption. Emergency remote Chinese is read through sequential digital inequality, platform geography, and home ecology. These structure investment. Outcomes are stress, interaction, and perceived learning.
 
-## 4. Methods
+## 4. The study
 
-### 4.1 Design and data source
+### 4.1 Research context and design
 
-The master's project included a Chinese-medium online questionnaire (Rathore & Cao, 2024). This article is a new quantitative analysis of the only coded export the authors retain: a Wenjuan file on influencing factors in international students' online Chinese learning during COVID-19, with 38 complete cases (5 to 8 February 2022). No additional wave or paper-survey file exists. The 2024 printed frequency tables (reported n = 97; 14-item Likert) are not analysed, because this export does not contain them. The design is a cross-sectional questionnaire study.
+The respondents were enrolled in Chinese-university language courses that had moved online. In early February 2022 many Pakistani scholarship and degree students were at home rather than in a Chinese dormitory. The course they were still expected to attend assumed a campus timetable, a live oral hour, and a login on a Chinese-campus platform. The household, the national power grid, and the apps that opened from a Pakistani mobile network were not part of that plan.
+
+The master's project included a Chinese-medium online questionnaire (Rathore & Cao, 2024). This article is a new quantitative analysis of the only coded export the authors retain: a Wenjuan file on influencing factors in international students' online Chinese learning during COVID-19, with 38 complete cases (5 to 8 February 2022). No additional wave or paper-survey file exists. The 2024 printed frequency tables (reported n = 97; 14-item Likert) are not analysed, because this export does not contain them. The design is a cross-sectional questionnaire study of how that course was lived from home. It is not a national census.
 
 ### 4.2 Participants
 
@@ -129,9 +134,9 @@ One open comment on preferred class length is retained: "我觉得中国现在�
 
 Frequencies are n/38. Multiple-response items are percent of respondents ticking the option. A learning-appraisal score is the mean of learned, improve, and interest (α = .84; higher = worse). For 2×2 associations we use Fisher's exact test and report odds ratios with 95% confidence intervals and φ. For ordinal pairs we use Spearman's ρ. Gender differences on ordinals were checked with Mann-Whitney U (all *p* > .10). Sensitivity analyses repeat the two focal tests in (a) Pakistani respondents only (n = 37) and (b) cases whose IP was not labelled as mainland China (n = 29).
 
-### 4.5 Ethics
+### 4.5 Ethical considerations
 
-Adult students completed an online Wenjuan form. Submission of the questionnaire was treated as consent to use anonymised answers for research. Direct identifiers are not published. Gender is reported because it structured one finding.
+Adult students completed an online Wenjuan form. The information on the form presented the study as research on online Chinese learning. Submission of the questionnaire was treated as consent to use anonymised answers for research. Names, IP addresses, and exact timestamps beyond the collection dates were removed before analysis and are not published. Gender is reported because it structured one finding. No ethics-committee number is attached to the 2022 file; that limit is stated rather than invented.
 
 ## 5. Results
 
@@ -332,11 +337,17 @@ Darvin, R., & Norton, B. (2023). Investment and motivation in language learning:
 
 Gacs, A., Goertler, S., & Spasova, S. (2020). Planned online language education versus crisis-prompted online language teaching: Lessons for the future. *Foreign Language Annals, 53*(2), 380-392. https://doi.org/10.1111/flan.12460
 
+Gao, X., & Hua, Z. (2021). Experiencing Chinese education: Learning of language and culture by international students in Chinese universities. *Language, Culture and Curriculum, 34*(4), 353-359. https://doi.org/10.1080/07908318.2020.1871002
+
+Gong, Y., Gao, X., Li, M., & Lai, C. (2020). Cultural adaptation challenges and strategies during study abroad: New Zealand students in China. *Language, Culture and Curriculum, 34*(4), 417-437. https://doi.org/10.1080/07908318.2020.1856129
+
 Gong, Y., Gao, X., & Lyu, B. (2020). Teaching Chinese as a second or foreign language to non-Chinese learners in mainland China (2014-2018). *Language Teaching, 53*(1), 44-62. https://doi.org/10.1017/S0261444819000387
+
+Guenier, A. W., Xing, M., & Yan, J. (2026). From barriers to breakthroughs: Communicating Chinese culture to Irish learners with a multimodality online course. *Language, Culture and Curriculum*. Advance online publication. https://doi.org/10.1080/07908318.2026.2626775
 
 Guerrettaz, A. M., Engman, M. M., & Matsumoto, Y. (2021). Empirically defining language learning and teaching materials in use: Holistic, situated, and dynamic perspectives. *The Modern Language Journal, 105*(S1), 3-20. https://doi.org/10.1111/modl.12691
 
-Hajar, A., & Karakuş, M. (2024). Three decades of research on the model of investment in applied linguistics: A bibliometric analysis and research agenda. *Language, Culture and Curriculum*. Advance online publication. https://doi.org/10.1080/07908318.2024.2435284
+Hajar, A., & Karakuş, M. (2024). Three decades of research on the model of investment in applied linguistics: A bibliometric analysis and research agenda. *Language, Culture and Curriculum, 38*(2), 175-206. https://doi.org/10.1080/07908318.2024.2435284
 
 Helsper, E. (2021). *The digital disconnect: The social causes and consequences of digital inequalities*. SAGE.
 
@@ -364,6 +375,8 @@ Rathore, H., & Cao, H. (2024). An exploration the challenges and impacts during 
 
 Raza, O., & Hennessy, S. (2025). *Exploring the gender differences in technology use for educational purposes at home among students in Pakistan*. EdTech Hub. https://doi.org/10.53832/edtechhub.1099
 
+Shan, Z., & Xu, H. (2024). Students' conceptions and experiences of institutionalised curriculum for multilingual learning: The case of a dual-foreign-languages programme. *Language, Culture and Curriculum, 37*(2), 230-246. https://doi.org/10.1080/07908318.2024.2313984
+
 Stockwell, G., & Wang, Y. (2023). Exploring the challenges of technology in language teaching in the aftermath of the pandemic. *RELC Journal, 54*(2), 474-482. https://doi.org/10.1177/00336882231168438
 
 van Dijk, J. (2020). *The digital divide*. Polity.
@@ -371,6 +384,8 @@ van Dijk, J. (2020). *The digital divide*. Polity.
 van Lier, L. (2004). *The ecology and semiotics of language learning: A sociocultural perspective*. Kluwer.
 
 Warschauer, M. (2003). *Technology and social inclusion: Rethinking the digital divide*. MIT Press.
+
+Wen, X., & Liu, F. (2025). Emotional dynamics of advanced Chinese as a second language learners: A Q methodology study. *Language, Culture and Curriculum, 38*(3), 380-400. https://doi.org/10.1080/07908318.2025.2486449
 
 Xia, Y., Hu, Y., Wu, C., Yang, L., & Lei, M. (2022). Challenges of online learning amid the COVID-19: College students' perspective. *Frontiers in Psychology, 13*, 1037311. https://doi.org/10.3389/fpsyg.2022.1037311
 
