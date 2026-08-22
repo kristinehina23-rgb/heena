@@ -10,6 +10,7 @@
 | `data/publication_n38.csv` | 投稿用匿名数据（已清洗） |
 | `analysis/apa_tables.md` | 表 1–5，可贴进 Word |
 | `manuscript.md` | **投稿正文**。第一作者：喜娜（中山大学外国语学院**博士生**）；曹慧敏；徐翌茹（导师） |
+| `word/` | **Word 文件（.docx）**。发给徐老师、查重、ScholarOne 用这个文件夹 |
 | `title-page.md` | ScholarOne 署名页（姓名、致谢、利益声明） |
 | `LCC-JOURNAL-RULES.md` | **这本刊接不接这类文章、已发过的同类论文、格式、出版社规矩** |
 | `SUBMIT-CHECKLIST.md` | 投稿前：徐老师和曹老师必须先看过并同意署名 |

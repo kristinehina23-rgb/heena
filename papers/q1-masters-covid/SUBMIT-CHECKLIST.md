@@ -8,6 +8,6 @@ The article to paste is `manuscript.md` (~6,000 words of body; LCC articles are 
 4. Draw Figure 1 as a single-column graphic from the caption in the manuscript. Do not generate fake research images.  
 5. Cover letter: `cover-letter.md`.  
 6. Do not wait for interviews or a second survey. N = 38 is closed.  
-7. Before ScholarOne, paste `manuscript.md` into Word and run iThenticate or Turnitin on the body only (exclude the reference list and the one Chinese quotation). Expect some topical overlap with Rathore and Cao (2024); that is self-citation of a preliminary note, not copied tables.  
+7. Word files are in `word/`. Before ScholarOne, run iThenticate or Turnitin on `Rathore-Cao-Xu-When-Chinese-class-moved-home.docx` (body only; exclude the reference list and the one Chinese quotation). Expect some topical overlap with Rathore and Cao (2024); that is self-citation of a preliminary note, not copied tables.  
 8. ScholarOne needs two files: `title-page.md` (names) and an anonymized manuscript (no author block, no acknowledgements). Cite Rathore and Cao (2024) in the third person.  
 9. Do not start Track B (*HSK Standard Course*) inside this file.
