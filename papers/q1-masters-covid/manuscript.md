@@ -5,8 +5,7 @@
 *Working copy with names. For ScholarOne, put names, acknowledgements, disclosure, funding, data availability, and notes on contributors on `title-page.md`. The review file should start at the abstract.*
 
 Heena Rathore (corresponding author)  
-School of International Cultural Exchange, Central China Normal University, Wuhan, China  
-School of Foreign Languages, Sun Yat-sen University, Guangzhou, China  
+PhD student, School of Foreign Languages, Sun Yat-sen University, Guangzhou, China  
 Email: kristine_2020@qq.com  
 
 Cao Huimin  

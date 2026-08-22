@@ -4,7 +4,7 @@ The article to paste is `manuscript.md` (~6,000 words of body; LCC articles are 
 
 1. Xu Yiru (徐翌茹, doctoral supervisor) reads the draft and confirms she is a co-author. Email on the SYSU page: xuyiru@mail.sysu.edu.cn. Message text is in `LCC-JOURNAL-RULES.md`.  
 2. Cao Huimin confirms co-authorship, affiliation, and email.  
-3. Add ORCID if the authors have them.  
+3. Add ORCID if the authors have them. In ScholarOne, Heena’s role is **PhD student / 博士研究生** at SYSU, not staff and not “PhD” after the name.  
 4. Draw Figure 1 as a single-column graphic from the caption in the manuscript. Do not generate fake research images.  
 5. Cover letter: `cover-letter.md`.  
 6. Do not wait for interviews or a second survey. N = 38 is closed.  

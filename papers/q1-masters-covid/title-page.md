@@ -7,8 +7,7 @@ Upload this with names. Upload the manuscript **without** this block for anonymo
 **Short title.** Chinese class at home
 
 **Heena Rathore** (corresponding author)  
-School of International Cultural Exchange, Central China Normal University, Wuhan, China  
-School of Foreign Languages, Sun Yat-sen University, Guangzhou, China  
+PhD student, School of Foreign Languages, Sun Yat-sen University, Guangzhou, China  
 Email: kristine_2020@qq.com
 
 **Cao Huimin**  
@@ -33,7 +32,7 @@ Email: xuyiru@mail.sysu.edu.cn
 
 ## Notes on contributors
 
-**Heena Rathore** is a doctoral student in the School of Foreign Languages, Sun Yat-sen University. Her research concerns International Chinese Language Education, Pakistani learners of Chinese, and the conditions of course delivery.
+**Heena Rathore** is a PhD student (博士研究生) in the School of Foreign Languages, Sun Yat-sen University. Her research concerns International Chinese Language Education, Pakistani learners of Chinese, and the conditions of course delivery.
 
 **Cao Huimin** is based at the Institute for International Communication of Chinese Culture, Beijing Foreign Studies University. `[Cao to revise this sentence.]`
 

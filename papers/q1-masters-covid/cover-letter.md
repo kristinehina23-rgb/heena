@@ -17,8 +17,7 @@ The manuscript is not under review elsewhere. All listed authors have read and a
 Yours sincerely,
 
 Heena Rathore (corresponding author)  
-School of International Cultural Exchange, Central China Normal University  
-School of Foreign Languages, Sun Yat-sen University  
+PhD student, School of Foreign Languages, Sun Yat-sen University  
 kristine_2020@qq.com
 
 Cao Huimin  
