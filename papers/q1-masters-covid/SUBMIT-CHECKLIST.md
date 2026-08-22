@@ -7,4 +7,5 @@ The article to paste is `manuscript.md` (~6,500 words of body, ~7,200 with refer
 3. Draw Figure 1 as a single-column graphic from the caption in the manuscript (do not paste mermaid into ScholarOne).  
 4. Cover letter: `cover-letter.md`.  
 5. Do **not** wait for interviews or a second survey. N = 38 is closed.  
-6. Do **not** start Track B (*HSK Standard Course*) inside this file. That paper goes later to *Language Teaching Research*.
+7. Before ScholarOne, paste `manuscript.md` into Word and run **iThenticate or Turnitin** on the body only (exclude the reference list and the one Chinese quotation). Expect some topical overlap with Rathore and Cao (2024); that is self-citation of a preliminary note, not copied tables. Similarity should be low if the 2024 n = 97 tables are not pasted.
+8. Run an AI-text check (Turnitin AI, GPTZero, or the university tool) on the **Word** file. Sentence-level detectors are uneven. The manuscript was rewritten to remove em-dashes, contrast slogans, and other formulaic wording. A clean score is not a certificate; Cao should still read every paragraph.
