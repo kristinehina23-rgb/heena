@@ -11,16 +11,14 @@ Source: `data/publication_n38.csv`. Do not mix with Rathore and Cao (2024) n = 9
 | Male | 27 | 71.1 |
 | Female | 11 | 28.9 |
 | Pakistani | 37 | 97.4 |
-| Other (Bangladesh) | 1 | 2.6 |
+| Other | 1 | 2.6 |
 | Beginner / intermediate / advanced Chinese | 1 / 15 / 22 | 2.6 / 39.5 / 57.9 |
 | Years of Chinese: 1–2 / 3–4 / 5–6 / 6+ | 3 / 26 / 8 / 1 | 7.9 / 68.4 / 21.1 / 2.6 |
 | All Chinese classes online | 30 | 78.9 |
 | Working while studying | 22 | 57.9 |
-| Phone: iPhone / Android | 24 / 14 | 63.2 / 36.8 |
-| IP geolocated in mainland China | 9 | 23.7 |
 | Total | 38 | 100 |
 
-*Note.* Convenience sample, Wenjuan, 5–8 February 2022. **71% of the file are men.** That skew is discussed as a gap, not as “Pakistani students” in general.
+*Note.* Convenience sample, Wenjuan, 5–8 February 2022.
 
 ## Table 2
 
@@ -41,36 +39,36 @@ Source: `data/publication_n38.csv`. Do not mix with Rathore and Cao (2024) n = 9
 
 ## Table 3
 
-*Platform geography: used, blocked, and available (multiple response, % of 38)*
+*Reported use and perceived availability of platforms (multiple response, N = 38)*
 
 | Platform | Used for class (%) | Cannot use in my country (%) | Can use in my country (%) |
 |---|---:|---:|---:|
-| Tencent Meeting | 71.1 | n.a. | 57.9 |
-| Zoom | 47.4 | n.a. | 71.1 |
-| WeChat | 31.6 | n.a. | 39.5 |
-| WhatsApp | n.a. | n.a. | 68.4 |
-| QQ | n.a. | 50.0 | n.a. |
-| Chaoxing | n.a. | 42.1 | n.a. |
-| DingTalk | n.a. | 28.9 | n.a. |
-| Chinese MOOC | n.a. | 28.9 | n.a. |
+| Tencent Meeting | 71.1 | — | 57.9 |
+| Zoom | 47.4 | — | 71.1 |
+| WeChat | 31.6 | — | 39.5 |
+| WhatsApp | — | — | 68.4 |
+| QQ | — | 50.0 | — |
+| Chaoxing | — | 42.1 | — |
+| DingTalk | — | 28.9 | — |
+| Chinese MOOC | — | 28.9 | — |
 
 *Note.* Dashes mean the item was not asked in that column. Full used/blocked/available lists are in `tables.md`.
 
 ## Table 4
 
-*Associations (Fisher’s exact and Spearman)*
+*Associations (Fisher’s exact and Spearman; odds ratios omitted)*
 
 | Hypothesis | Statistic |
 |---|---|
-| Home affects study very much × very high stress | OR = 25.67, 95% CI [4.42, 149.00], p < .001, φ = 0.66, n = 38 |
-| Female × online cannot replace campus | OR = 7.65, 95% CI [1.37, 42.71], p = .029, φ = 0.41, n = 38 |
-| Learned little/nothing × cannot replace | OR = 7.65, 95% CI [1.37, 42.71], p = .029, φ = 0.41, n = 38 |
-| Poor internet × cannot replace | OR = 6.18, 95% CI [1.10, 34.70], p = .062, φ = 0.36, n = 38 |
+| Home affects study very much × very high stress | 11/14 vs 3/24; two-sided Fisher p = .00008 |
+| Female × online cannot replace campus (secondary) | 9/11 vs 10/27; two-sided Fisher p = .029 |
+| Learned little/nothing × cannot replace (secondary) | 9/11 vs 10/27; two-sided Fisher p = .029 |
+| Poor internet × cannot replace (secondary) | 8/10 vs 11/28; two-sided Fisher p = .062 |
 | Speed (worse) × learning appraisal (worse) | ρ = 0.65, p < .001 |
 | Speed × teacher interaction (less) | ρ = 0.55, p < .001 |
-| Infrastructure problem count × appraisal | ρ = 0.02, p = .914 |
+| Infrastructure problem count × appraisal (exploratory post hoc) | ρ = 0.02, p = .914 |
 
-*Note.* Higher `speed` and `learning_appraisal` scores are more negative. n = 38. Odds-ratio CIs are wide and should be read as direction, not as precise population values.
+*Note.* Higher `speed` and `learning_appraisal` scores are more negative. n = 38. Odds ratios are omitted because they are unstable at this N.
 
 ## Table 5
 
@@ -80,6 +78,5 @@ Source: `data/publication_n38.csv`. Do not mix with Rathore and Cao (2024) n = 9
 |---|---:|---:|---:|---|---|
 | Full file | 38 | 76.3 | 42.1 | p < .001 | ρ = 0.65 |
 | Pakistani only | 37 | 75.7 | 43.2 | p < .001 | ρ = 0.67 |
-| IP not in mainland China | 29 | 75.9 | 41.4 | p < .001 | ρ = 0.70 |
 
-*Note.* The home–stress link and the speed–appraisal link remain in the same direction when the Bangladeshi case and China-IP cases are dropped.
+*Note.* The home–stress link and the speed–appraisal link remain in the same direction when the one non-Pakistani case is dropped. IP metadata are not used as a location subsample.

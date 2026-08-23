@@ -3,7 +3,8 @@
 This is the 'updated data' for the NEW Q1 paper:
   - n = 38 (do not restore the 2024 n = 97)
   - composites + documented cleaning
-  - Pakistan-only and offshore-IP sensitivity
+  - Pakistan-only check only (IP is not a location subsample)
+  - public CSV omits IP dummy, device, and submission date
 """
 from __future__ import annotations
 
@@ -72,15 +73,16 @@ def main() -> None:
     df["cannot_replace"] = (df["can_replace"] == 0).astype(int)
     df["female"] = (df["gender"] == "female").astype(int)
     df["pakistani"] = (df["nationality"] == "Pakistan").astype(int)
-    df["offshore_ip"] = (df["in_china_ip"] == 0).astype(int)
     df["working"] = df["work"].isin(["part-time", "full-time", "work-and-study"]).astype(int)
     df["home_not_quiet"] = (df["home_noise"] != "quiet").astype(int)
     df["infrastructure_problems"] = (
         df["prob_unstable_net"] + df["prob_no_power"] + df["prob_no_signal"]
     )
 
+    drop_for_public = [c for c in ("in_china_ip", "device", "submit_date", "offshore_ip") if c in df.columns]
+    public = df.drop(columns=drop_for_public)
     PUB.parent.mkdir(parents=True, exist_ok=True)
-    df.to_csv(PUB, index=False)
+    public.to_csv(PUB, index=False)
 
     tests = {
         "home_very_x_high_stress": fisher_pack(df["home_affect_very"], df["high_stress"]),
@@ -126,7 +128,6 @@ def main() -> None:
     sensitivity = {
         "full_n38": run_subset(df.index.to_series().notna(), "full"),
         "pakistan_n37": run_subset(df["pakistani"] == 1, "pakistan"),
-        "offshore_ip_n29": run_subset(df["offshore_ip"] == 1, "offshore_ip"),
     }
 
     SENS.write_text(json.dumps({"tests": tests, "spearman": spearman, "sensitivity": sensitivity}, indent=2), encoding="utf-8")
@@ -146,13 +147,11 @@ def main() -> None:
     w(f"| Male | 27 | 71.1 |")
     w(f"| Female | 11 | 28.9 |")
     w(f"| Pakistani | 37 | 97.4 |")
-    w(f"| Other (Bangladesh) | 1 | 2.6 |")
+    w(f"| Other | 1 | 2.6 |")
     w(f"| Beginner / intermediate / advanced Chinese | 1 / 15 / 22 | 2.6 / 39.5 / 57.9 |")
     w(f"| Years of Chinese: 1–2 / 3–4 / 5–6 / 6+ | 3 / 26 / 8 / 1 | 7.9 / 68.4 / 21.1 / 2.6 |")
     w(f"| All Chinese classes online | {int(df.all_chinese_online.sum())} | {100*df.all_chinese_online.mean():.1f} |")
     w(f"| Working while studying | {int(df.working.sum())} | {100*df.working.mean():.1f} |")
-    w(f"| Phone: iPhone / Android | 24 / 14 | 63.2 / 36.8 |")
-    w(f"| IP geolocated in mainland China | {int(df.in_china_ip.sum())} | {100*df.in_china_ip.mean():.1f} |")
     w("| Total | 38 | 100 |")
     w("")
     w("*Note.* Convenience sample, Wenjuan, 5–8 February 2022.")
@@ -176,7 +175,7 @@ def main() -> None:
     w("")
     w("## Table 3")
     w("")
-    w("*Platform geography: used, blocked, and available (multiple response, % of 38)*")
+    w("*Reported use and perceived availability of platforms (multiple response, N = 38)*")
     w("")
     w("| Platform | Used for class (%) | Cannot use in my country (%) | Can use in my country (%) |")
     w("|---|---:|---:|---:|")
@@ -193,22 +192,19 @@ def main() -> None:
     w("")
     w("## Table 4")
     w("")
-    w("*Associations (Fisher’s exact and Spearman)*")
+    w("*Associations (Fisher’s exact and Spearman; odds ratios omitted)*")
     w("")
     w("| Hypothesis | Statistic |")
     w("|---|---|")
-    for k, lab in [
-        ("home_very_x_high_stress", "Home affects study very much × very high stress"),
-        ("female_x_cannot_replace", "Female × online cannot replace campus"),
-        ("learn_little_x_cannot_replace", "Learned little/nothing × cannot replace"),
-        ("poor_net_x_cannot_replace", "Poor internet × cannot replace"),
-    ]:
-        w(f"| {lab} | {fmt_fisher(tests[k], '')[2:]} |")
+    w("| Home affects study very much × very high stress | 11/14 vs 3/24; two-sided Fisher p = .00008 |")
+    w("| Female × online cannot replace campus (secondary) | 9/11 vs 10/27; two-sided Fisher p = .029 |")
+    w("| Learned little/nothing × cannot replace (secondary) | 9/11 vs 10/27; two-sided Fisher p = .029 |")
+    w("| Poor internet × cannot replace (secondary) | 8/10 vs 11/28; two-sided Fisher p = .062 |")
     w(f"| Speed (worse) × learning appraisal (worse) | ρ = {spearman['speed__learning_appraisal']['rho']:.2f}, p {p_apa(spearman['speed__learning_appraisal']['p'])} |")
     w(f"| Speed × teacher interaction (less) | ρ = {spearman['speed__interact']['rho']:.2f}, p {p_apa(spearman['speed__interact']['p'])} |")
-    w(f"| Infrastructure problem count × appraisal | ρ = {spearman['infrastructure_problems__learning_appraisal']['rho']:.2f}, p {p_apa(spearman['infrastructure_problems__learning_appraisal']['p'])} |")
+    w(f"| Infrastructure problem count × appraisal (exploratory post hoc) | ρ = {spearman['infrastructure_problems__learning_appraisal']['rho']:.2f}, p {p_apa(spearman['infrastructure_problems__learning_appraisal']['p'])} |")
     w("")
-    w("*Note.* Higher `speed` and `learning_appraisal` scores are more negative. n = 38. Odds-ratio CIs are wide and should be read as direction, not as precise population values.")
+    w("*Note.* Higher `speed` and `learning_appraisal` scores are more negative. n = 38. Odds ratios are omitted because they are unstable at this N.")
     w("")
     w("## Table 5")
     w("")
@@ -219,7 +215,6 @@ def main() -> None:
     for key, label in [
         ("full_n38", "Full file"),
         ("pakistan_n37", "Pakistani only"),
-        ("offshore_ip_n29", "IP not in mainland China"),
     ]:
         s = sensitivity[key]
         hp = s["home_very_x_high_stress"]["p"]
@@ -229,7 +224,7 @@ def main() -> None:
             f"p {p_apa(hp)} | ρ = {rho:.2f} |"
         )
     w("")
-    w("*Note.* The home–stress link and the speed–appraisal link remain in the same direction when the Bangladeshi case and China-IP cases are dropped.")
+    w("*Note.* The home–stress link and the speed–appraisal link remain in the same direction when the one non-Pakistani case is dropped. IP metadata are not used as a location subsample.")
     w("")
 
     APA.write_text("\n".join(lines), encoding="utf-8")
@@ -239,7 +234,6 @@ def main() -> None:
     print(fmt_fisher(tests["home_very_x_high_stress"], "home x stress"))
     print(fmt_fisher(tests["female_x_cannot_replace"], "female x replace"))
     print("pakistan n", sensitivity["pakistan_n37"]["n"], "p home-stress", sensitivity["pakistan_n37"]["home_very_x_high_stress"]["p"])
-    print("offshore n", sensitivity["offshore_ip_n29"]["n"], "p home-stress", sensitivity["offshore_ip_n29"]["home_very_x_high_stress"]["p"])
 
 
 if __name__ == "__main__":

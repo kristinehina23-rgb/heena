@@ -201,40 +201,6 @@
         "rho": 0.668604771499834,
         "p": 6.100419075807894e-06
       }
-    },
-    "offshore_ip_n29": {
-      "name": "offshore_ip",
-      "n": 29,
-      "unstable_net_pct": 75.9,
-      "no_power_pct": 41.4,
-      "high_stress_pct": 44.8,
-      "cannot_replace_pct": 51.7,
-      "blocked_qq_pct": 41.4,
-      "available_zoom_pct": 75.9,
-      "home_very_x_high_stress": {
-        "table": [
-          [
-            14,
-            3
-          ],
-          [
-            2,
-            10
-          ]
-        ],
-        "or": 23.333333333333332,
-        "or_ci": [
-          3.2715305391481637,
-          166.41887884873788
-        ],
-        "p": 0.0007206922854362293,
-        "phi": 0.650516096306267,
-        "n": 29
-      },
-      "speed__appraisal": {
-        "rho": 0.7008352737242665,
-        "p": 2.2959066864221745e-05
-      }
     }
   }
 }

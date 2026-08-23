@@ -1,7 +1,8 @@
 """Analyse the anonymised Wenjuan export for the Q1 reanalysis paper.
 
 If data/raw/wenjuan_coded.sav is present, rebuild the anonymised CSV
-(names and IP addresses are dropped). Otherwise read the committed CSV.
+(names, IP addresses, timestamps, and device identifiers are dropped).
+Otherwise read the committed CSV.
 """
 from __future__ import annotations
 
@@ -16,8 +17,6 @@ ROOT = Path(__file__).resolve().parents[1]
 RAW = ROOT / "data" / "raw" / "wenjuan_coded.sav"
 ANON = ROOT / "data" / "anonymized_n38.csv"
 OUT = ROOT / "analysis" / "results.json"
-
-CHINA_PROV = {"天津市", "广西壮族自治区", "河北省", "安徽省", "海南省"}
 
 
 def recode_q6(row: pd.Series) -> float:
@@ -105,9 +104,8 @@ def anonymize(raw: pd.DataFrame) -> pd.DataFrame:
     out["content_volume"] = raw["Q27"]
     out["time_sat"] = raw["Q28"]
     out["prefer_minutes"] = raw["Q29"].map({1: 30, 2: 45, 3: 60, 4: np.nan})
-    out["in_china_ip"] = raw["IP省份"].isin(CHINA_PROV).astype(int)
-    out["device"] = np.where(raw["操作系统"].astype(str).str.contains("iPhone"), "iphone", "android")
-    out["submit_date"] = pd.to_datetime(raw["提交时间"]).dt.date.astype(str)
+    # IP dummy, device OS, and submission date are computed for a private
+    # audit only. They are not written to the public CSV.
     return out
 
 
@@ -148,8 +146,10 @@ def main() -> None:
     results["work"] = count_map("work")
     results["time_sat"] = count_map("time_sat")
     results["prefer_minutes"] = count_map("prefer_minutes")
-    results["device"] = count_map("device")
-    results["in_china_ip"] = count_map("in_china_ip")
+    if "device" in anon.columns:
+        results["device"] = count_map("device")
+    if "in_china_ip" in anon.columns:
+        results["in_china_ip"] = count_map("in_china_ip")
     results["all_chinese_online"] = count_map("all_chinese_online")
     results["hours"] = count_map("hours")
 

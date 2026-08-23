@@ -4,7 +4,7 @@ Source: coded SPSS file *新冠肺炎期间留学生在线中文学习的影响�
 Reproducible via `analysis/analyze.py` → `data/anonymized_n38.csv`.  
 **Do not use Rathore and Cao (2024) tables.** That article reported n = 97 and a 14-item Likert instrument that this file does not contain.
 
-Names and IP addresses were stripped. One Bangladeshi respondent is kept in n = 38 and flagged.
+Names, IP addresses, timestamps, and device identifiers were stripped. One non-Pakistani respondent is kept in n = 38 and coded only as “other.”
 
 Percentages are n / 38 unless noted.
 
@@ -17,7 +17,7 @@ Percentages are n / 38 unless noted.
 | Male | 27 | 71.1 |
 | Female | 11 | 28.9 |
 | Pakistani | 37 | 97.4 |
-| Other (Bangladesh) | 1 | 2.6 |
+| Other | 1 | 2.6 |
 | Beginner Chinese | 1 | 2.6 |
 | Intermediate | 15 | 39.5 |
 | Advanced | 22 | 57.9 |
@@ -25,9 +25,8 @@ Percentages are n / 38 unless noted.
 | 3–4 years | 26 | 68.4 |
 | 5–6 years | 8 | 21.1 |
 | 6+ years | 1 | 2.6 |
-| Device: iPhone | 24 | 63.2 |
-| Device: Android | 14 | 36.8 |
-| IP geolocated in mainland China | 9 | 23.7 |
+| Submission OS: iPhone (aggregate only) | 24 | 63.2 |
+| Submission OS: Android (aggregate only) | 14 | 36.8 |
 | IP not geolocated in mainland China | 29 | 76.3 |
 | **Total** | **38** | **100** |
 
@@ -104,7 +103,7 @@ Interaction forms ticked (multiple): dialogue 29 (76.3%); Q&A 22 (57.9%); scenar
 
 ---
 
-## Table 6. Platforms: used, easy, blocked, still available from “your country”
+## Table 6. Platforms: used, easy, marked unusable, still available from “your country”
 
 Multiple response. This is the distinctive finding in the export.
 
@@ -130,7 +129,7 @@ Small n: report Fisher’s exact for 2×2 and Spearman for ordinals. Logistic mo
 
 | Test | Result |
 |---|---|
-| Home affects study “very much” × very high stress | Fisher *p* < .001, OR = 25.7 (11/14 vs 3/24) |
+| Home affects study “very much” × very high stress | 11/14 vs 3/24; two-sided Fisher *p* = .00008 (do not report an odds ratio) |
 | Female × “online cannot replace F2F” | Fisher *p* = .029, OR for *male* saying it *can* replace = 7.65 (women 9/11 cannot replace; men 10/27 cannot) |
 | Learned little/nothing × cannot replace | Fisher *p* = .029 |
 | Poor internet (speed 4–5) × cannot replace | Fisher *p* = .063 (marginal) |
@@ -154,7 +153,7 @@ Interview *n* is still not in the .sav file. Themes below are from Rathore and C
 |---|---|---|
 | 76% unstable net; 42% no power; 32% no signal | Load-shedding, internet, devices | Material layer: live Chinese drops first |
 | 71% home not quiet; 37% home affects study “very much”; that group has OR 26 for very high stress | No quiet space; family interruption | Learner identity inside domestic identities |
-| QQ 50% / Chaoxing 42% blocked; Zoom 71% / WhatsApp 68% available | “Latest technology” unavailable; platform unfamiliar | Skills/usage layer is geopolitical, not only literacy |
+| QQ 50% / Chaoxing 42% marked unusable in my country; Zoom 71% / WhatsApp 68% available | “Latest technology” unavailable; platform unfamiliar | Skills/usage layer is geopolitical, not only literacy |
 | 97% some stress; 37% very high | Mental disturbance; shyness | High daily cost of staying a speaker |
 | 58% working while studying | Family / economic issues; “complete the time” | Chinese as a duty that competes with wage labour |
 | 29% learned little/nothing; 50% say online cannot replace campus | Speaking/listening weak, writing “somehow” | Outcome: oral capital not produced |

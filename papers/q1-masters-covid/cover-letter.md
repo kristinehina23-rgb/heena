@@ -4,9 +4,11 @@ Editor-in-Chief
 
 Dear Editor,
 
-Please consider “Pakistani Chinese-university students studying remotely: household infrastructure and platform access during emergency remote teaching” for publication in *Language, Culture and Curriculum*.
+Please consider “Mainly Pakistani respondents reporting online Chinese coursework: household infrastructure and platform access during emergency remote teaching” for publication in *Language, Culture and Curriculum*.
 
-The article is an exploratory questionnaire study (N = 38; February 2022). It proposes a bounded ICLE concept, localisation of delivery (institutional adaptation of time, platform, task, participation mode, and assessment). The sample is mainly Pakistani by nationality; it is not a sample exclusively located in Pakistan. Emergency remote teaching is the historical setting. The paper does not claim evidence about current hybrid practice.
+The paper is an exploratory questionnaire study (N = 38; February 2022). It proposes a bounded ICLE concept, localisation of delivery (institutional adaptation of time, platform, task, participation mode, and assessment). Respondents completed a Chinese-medium form about online Chinese learning; most reported required and/or elective courses online. Chinese-university enrolment was not independently verified. Emergency remote teaching is the historical setting. The paper does not claim evidence about current hybrid practice.
+
+No institutional ethics approval number is available for the original 2022 data collection. Institutional guidance on retrospective review or exemption is being sought before upload if the journal requires a protocol number.
 
 The corresponding author is Heena Rathore, PhD student, School of Foreign Languages, Sun Yat-sen University. Co-authors: Cao Huimin and Xu Yiru. This is an original article. It is not a republication and is not under review elsewhere.
 

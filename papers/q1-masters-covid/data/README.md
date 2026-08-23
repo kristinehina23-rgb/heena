@@ -1,10 +1,23 @@
-# Codebook (anonymised file)
+# Codebook and de-identification
 
-`data/anonymized_n38.csv` is built from the Wenjuan SPSS export. Direct identifiers (name, IP address, IP city/province strings, browser) are not included.
+The public analysis file is `data/publication_n38.csv`. `data/anonymized_n38.csv` is the same respondent-level file without derived composites. Direct identifiers (name, IP address, IP city/province strings, browser, timestamps, device OS) are not included.
+
+## De-identification
+
+In this N = 38 convenience sample, unusual combinations can raise re-identification risk. The public files therefore:
+
+- recode nationality as Pakistan / other (the single non-Pakistani case is not named);
+- omit IP-province dummies, submission dates, and device identifiers;
+- omit free-text comments;
+- omit names, raw IP addresses, and spreadsheet metadata.
+
+Aggregates that cannot be attached to a row (for example, 24 iPhone / 14 Android submissions) may still be reported in the article.
+
+Rebuild from the gitignored `.sav` only on a private machine: place it in `data/raw/wenjuan_coded.sav` and run `python3 analysis/analyze.py`, then `python3 analysis/publish_prep.py`. Do not commit the `.sav` or any file that restores IP, date, or device columns.
 
 | Column | Meaning |
 |---|---|
-| id | Sequential response number |
+| id | Sequential response number (not the original platform ID) |
 | gender | male / female (Q2) |
 | nationality | Pakistan / other (Q3) |
 | level | beginner / intermediate / advanced (Q4) |
@@ -15,7 +28,7 @@
 | all_chinese_online | Q11 1 = yes |
 | speed | Q14 1 very good … 5 very bad |
 | can_replace | Q15 1 = online can replace F2F |
-| use_*, blocked_*, available_* | Multiple-response 0/1 |
+| use_*, blocked_*, available_* | Multiple-response 0/1 (`blocked_*` = marked unusable “in my country”) |
 | prob_* | Problems ticked 0/1 |
 | home_noise | noisy / quiet / lively |
 | home_affect | 1 very much … 4 not at all (NA if multiple ticks) |
@@ -23,8 +36,3 @@
 | work | part-time / full-time / study-only / work-and-study |
 | stress | Q24 1 very high … 4 none |
 | interact | Q25 1 very much … 4 not at all |
-| in_china_ip | 1 if IP province was a mainland China label |
-| device | iphone / android |
-| submit_date | Date only |
-
-Rebuild: place the `.sav` in `data/raw/wenjuan_coded.sav` (gitignored) and run `python3 analysis/analyze.py`.

@@ -1,4 +1,4 @@
-# Pakistani Chinese-university students studying remotely: household infrastructure and platform access during emergency remote teaching
+# Mainly Pakistani respondents reporting online Chinese coursework: household infrastructure and platform access during emergency remote teaching
 
 **Short title:** Remote Chinese: delivery-context fit
 
@@ -21,21 +21,21 @@ Email: xuyiru@mail.sysu.edu.cn
 
 **Funding.** None.
 
-**Data availability.** A de-identified analysis file (`data/anonymized_n38.csv`), codebook, and analysis syntax (`analysis/analyze.py`; supplementary calculations in `analysis/supplementary_stats.md`) are in the public project repository. Files containing names or IP addresses will not be shared. The corresponding author can also supply the same de-identified files on request.
+**Data availability.** A de-identified analytical dataset, codebook, and analysis syntax are available in a public repository. Variables that could increase re-identification risk in this small convenience sample have been removed or coarsened. Files containing names, IP addresses, timestamps, or device identifiers will not be shared.
 
 ## Abstract
 
-This article reports an exploratory questionnaire study of how Chinese-university language courses were experienced when live classes were relocated off campus during COVID-19 emergency remote teaching. The contribution to international Chinese language education is a bounded concept, *localisation of delivery*: institutional adaptation of time, platform, task, participation mode, and assessment to the receiving context. Thirty-eight adult respondents completed a Chinese-medium Wenjuan form between 5 and 8 February 2022. Thirty-seven selected Pakistani nationality and one selected Bangladesh. The sample is therefore mainly Pakistani by nationality. It is not a sample exclusively located in Pakistan, and IP metadata are not treated as a location measure. Unstable networks (76.3%) and power interruptions (42.1%) were commonly ticked; 36.8% reported very high stress. Eleven of 14 respondents who said the home affected study “very much” also reported very high stress, compared with 3 of 24 others (Fisher’s exact *p* = .00008). Worse reported internet speed was associated with a worse three-item perceived online-learning appraisal index (Spearman ρ = .65, bootstrap 95% CI [.36, .84]). QQ and Chaoxing were often marked unusable “in my country”; Zoom and WhatsApp were more often marked available. The study is a historically situated emergency-remote-teaching case. It does not provide evidence about current hybrid practice.
+This exploratory questionnaire study examines how mainly Pakistani respondents experienced Chinese-university-linked language courses when live instruction moved off campus during COVID-19 emergency remote teaching. It proposes *localisation of delivery*: institutional adaptation of time, platform, task, participation mode, and assessment to the receiving context. Thirty-eight adults completed a Chinese-medium Wenjuan questionnaire in February 2022. Unstable networks (76.3%) and power interruptions (42.1%) were commonly reported, while 36.8% reported very high stress. Respondents who reported that home conditions affected study “very much” more often reported very high stress (11/14 versus 3/24; Fisher’s exact \(p = .00008\)). Worse reported internet speed was associated with a more negative perceived online-learning appraisal index (\(\rho = .65\), 95% bootstrap CI \([.36, .84]\)). Respondents also reported uneven platform access, with QQ and Chaoxing frequently marked unusable and Zoom and WhatsApp more often marked available. The findings suggest that ICLE localisation may need to address delivery-context fit alongside content and materials adaptation. Given the small network-recruited 2022 sample, the findings are exploratory and do not represent current hybrid practice.
 
 **Keywords:** localisation of delivery; Chinese as an additional language; digital inequality; emergency remote teaching; Pakistan; household infrastructure
 
 ## 1. Introduction
 
-International Chinese language education (ICLE) has treated localisation mainly as a problem of content and materials: local examples, annotation, and cultural comparison so that a travelling syllabus becomes learnable in a place (Zhao, 2020; Lu et al., 2024). This article proposes a further layer. *Localisation of delivery* is the institutional adaptation of time, platform, task, participation mode, and assessment to the receiving context. It differs from learner-side accessibility and from digital inclusion. Those terms describe conditions that students face. Localisation of delivery names a design task for the institution that sends the course.
+International Chinese language education (ICLE) has treated localisation mainly as a problem of content and materials: local examples, annotation, and cultural comparison so that a travelling syllabus becomes learnable in a place (Zhao, 2020; Lu et al., 2024). This study proposes a further layer. *Localisation of delivery* is the institutional adaptation of time, platform, task, participation mode, and assessment to the receiving context. It differs from learner-side accessibility and from digital inclusion. Those terms describe conditions that students face. Localisation of delivery names a design task for the institution that sends the course.
 
-Emergency remote teaching (Hodges et al., 2020) is the historical setting in which that task became visible, not the theoretical centre of the article. When Chinese universities moved instruction online in 2020, many students of Pakistani nationality remained enrolled in Chinese-university language courses while sitting outside the campus infrastructure. A *travelling course*, as used here, is an institutionally designed course whose timetable, platforms, tasks, and assessment arrangements were created for one institutional setting but enacted in another (Gacs et al., 2020). Typical Chinese-university language courses assume a live oral hour and a login on tools used in Chinese higher education. The questionnaire did not name host universities or required platforms. Those campus assumptions are therefore a contextual reading of ICLE emergency practice, not a measured programme description.
+Emergency remote teaching (Hodges et al., 2020) is the historical setting in which that task became visible, not the theoretical centre of the paper. When Chinese universities moved instruction online in 2020, many students of Pakistani nationality remained connected to Chinese-university language courses while sitting outside the campus infrastructure. A *travelling course*, as used here, is an institutionally designed course whose timetable, platforms, tasks, and assessment arrangements were created for one institutional setting but enacted in another (Gacs et al., 2020). Emergency-period Chinese-university language courses often relied on synchronous instruction and platforms used in Chinese higher education, although the present questionnaire did not document the specific institutional requirements faced by each respondent.
 
-Pakistani enrolment in Chinese universities is a documented case of South–South academic mobility, structured by scholarships and the China–Pakistan Economic Corridor rather than by the more familiar “international student already on a Chinese campus” story (Iftikhar et al., 2024; Tu, 2026; Gao & Hua, 2021). This study does not treat the 38 respondents as a census of that mobility. It asks how, in one network-recruited emergency-period file, household infrastructure and reported platform access co-occurred with stress, perceived learning, and judgements of whether online Chinese could replace campus classes.
+Pakistani enrolment in Chinese universities is a documented case of South–South academic mobility, structured by scholarships and the China–Pakistan Economic Corridor rather than by the more familiar “international student already on a Chinese campus” story (Iftikhar et al., 2024; Tu, 2026; Gao & Hua, 2021). This study does not treat the 38 respondents as a census of that mobility, nor as a verified enrolment record. The questionnaire did not collect host university, programme type, degree status, or recruitment source. Most respondents ticked that they were taking required and/or elective courses online. The analysis therefore treats the group as a self-selected, likely Chinese-university-connected respondent sample. Nine submissions carried mainland-China IP metadata and twenty-nine did not. Those metadata are technical records, not verified locations, because a virtual private network can change an apparent address. The study does not treat the dataset as a Pakistan-resident sample and does not analyse IP as a proxy for where respondents sat.
 
 Three questions guide the analysis:
 
@@ -49,15 +49,15 @@ The analysis is exploratory. Associations are reported as counts, exact tests, a
 
 ### 2.1 Emergency remote teaching as historical context
 
-Hodges et al. (2020) distinguished emergency remote teaching from planned online or blended courses. Gacs, Goertler and Spasova (2020) applied that distinction to languages. Reviews of language-teacher responses during the conversion to online teaching report thinner interaction and the entry of the domestic setting into the lesson (MacIntyre et al., 2020; Moorhouse & Kohnke, 2021). Those studies are cited as emergency-teaching context, not as direct evidence of student stress in the present file.
+Hodges et al. (2020) distinguished emergency remote teaching from planned online or blended courses. Gacs, Goertler and Spasova (2020) applied that distinction to languages. Reviews of language-teacher responses during the conversion to online teaching report thinner interaction and the entry of the domestic setting into the lesson (MacIntyre et al., 2020; Moorhouse & Kohnke, 2021). Those studies are cited as emergency-teaching context, not as direct evidence of student stress in the present dataset.
 
-Later work described technological normalisation after the return to campus (Moorhouse, 2023; Moorhouse, Wong, & Li, 2023) and warned that copying face-to-face teaching on videoconferencing was a limited lesson from the crisis (Stockwell & Wang, 2023). For Chinese, contemporaneous papers documented “suspending classes without stopping learning” and platform trials (Zhang et al., 2020; Xia et al., 2022). A later review of online ICLE teaching models still lists technical issues, weak interaction, and time-zone problems (Li & Li, 2024). Much of that literature assumes a relatively stable connection. The present file cannot test whether that assumption holds for current hybrid ICLE. It can describe what 38 respondents reported in February 2022.
+Later work described technological normalisation after the return to campus (Moorhouse, 2023; Moorhouse, Wong, & Li, 2023) and warned that copying face-to-face teaching on videoconferencing was a limited lesson from the crisis (Stockwell & Wang, 2023). For Chinese, contemporaneous papers documented “suspending classes without stopping learning” and platform trials (Zhang et al., 2020; Xia et al., 2022). A later review of online ICLE teaching models still lists technical issues, weak interaction, and time-zone problems (Li & Li, 2024). Much of that literature assumes a relatively stable connection. This exploratory questionnaire cannot test whether that assumption holds for current hybrid ICLE. It can describe what 38 respondents reported in February 2022.
 
 ### 2.2 Digital inequality and home learning ecology
 
 Later digital-divide models describe a sequence of motivational, material, skills, usage, and outcome access (van Dijk, 2020; Helsper, 2021; Warschauer, 2003). Device ownership is not the same as taking part (Ali, 2020). In Pakistan, household use of educational technology is also structured by device sharing, care work, and electricity (Raza & Hennessy, 2025). That report is grey literature and is used only as background on household conditions, not as a standalone empirical claim about this sample.
 
-Ecological views of language education take the setting of the class, not only the student plus the application, as the unit of analysis (van Lier, 2004; Guerrettaz et al., 2021). In this article that setting is described as a *home learning ecology*: domestic space, paid or care work, and the conditions of oral participation. Electricity interruptions, blocked applications, and weak bandwidth are treated as material and infrastructural conditions, not as cultural traits.
+Ecological views of language education take the setting of the class, not only the student plus the application, as the unit of analysis (van Lier, 2004; Guerrettaz et al., 2021). In this paper that setting is described as a *home learning ecology*: domestic space, paid or care work, and the conditions of oral participation. Electricity interruptions, applications marked unusable, and weak bandwidth are treated as material and infrastructural conditions, not as cultural traits.
 
 ### 2.3 Localisation of delivery
 
@@ -70,9 +70,11 @@ Four layers can be distinguished:
 3. Localisation of *curriculum*: pathway, hours, and assessment of a named programme (Shan & Xu, 2024; Zhao, 2020).
 4. Localisation of *delivery*: institutional adaptation of time, platform, task, participation mode, and assessment to the receiving context.
 
-This article addresses only the fourth layer. Accessibility and digital inclusion describe constraints that learners report. Localisation of delivery is the institutional response: changing the live hour, the required application, the oral task, or the assessment so that the travelling course can be used where the student actually sits. The questionnaire did not observe institutions adapting. It recorded student-side conditions that, if taken seriously, would require such adaptation.
+The analysis addresses only the fourth layer. Accessibility and digital inclusion describe constraints that learners report. Localisation of delivery is the institutional response: changing the live hour, the required application, the oral task, or the assessment so that the travelling course can be used where the student actually sits. The questionnaire did not observe institutions adapting. It recorded student-side conditions that, if taken seriously, would require such adaptation.
 
-Gong, Gao and Lyu (2020) review ICLE in mainland China for 2014–2018 and are cited for that pre-pandemic field map, not as post-COVID evidence. Gao and Hua (2021) and Gong, Gao, Li and Lai (2020) document international students of Chinese *in* Chinese universities. Guenier, Xing and Yan (2026) describe a designed online Chinese-culture course, which is planned online teaching rather than emergency remote teaching. The present respondents were enrolled in Chinese universities and answered a form about online Chinese classes. They were not a Confucius Institute classroom sample.
+**Proposition.** A course is not fully localised merely because its content is culturally or linguistically adapted; it is localised in delivery only when its required time, platform, participation mode, task design, and assessment are feasible in the setting where learners participate.
+
+Gong, Gao and Lyu (2020) review ICLE in mainland China for 2014–2018 and are cited for that pre-pandemic field map, not as post-COVID evidence. Gao and Hua (2021) and Gong, Gao, Li and Lai (2020) document international students of Chinese *in* Chinese universities. Guenier, Xing and Yan (2026) describe a designed online Chinese-culture course, which is planned online teaching rather than emergency remote teaching. The present respondents completed a Chinese-medium form about online Chinese classes, and most reported taking required and/or elective courses online. They were not a Confucius Institute classroom sample. Enrolment in a named Chinese university was not independently verified.
 
 ### 2.4 Conceptual model
 
@@ -88,15 +90,15 @@ The study is an exploratory, cross-sectional questionnaire. It does not test a p
 
 ### 3.2 Recruitment and eligibility
 
-The file is a convenience sample. The form did not record how the link was distributed (for example WeChat, WhatsApp, email, or student groups). The research team therefore cannot name the recruitment channel. Eligibility was implicit: adult respondents who completed the Chinese-medium form about online Chinese learning. The form did not ask host university, city of residence that week, degree versus non-degree status, or scholarship type. Two items asked whether required courses and electives were online (71.1% and 60.5% ticked those options). Those ticks do not identify a named programme.
+The dataset is a convenience sample. The form did not record how the link was distributed (for example WeChat, WhatsApp, email, or student groups). The research team therefore cannot name the recruitment channel. Respondents were adults who completed the Chinese-medium form about online Chinese learning. Completion of the form is not treated as proof of enrolment in a Chinese university. The form did not ask host university, city of residence that week, degree versus non-degree status, or scholarship type. Two items asked whether required courses and electives were online (71.1% and 60.5% ticked those options). Those ticks do not identify a named programme. The study therefore concerns a self-selected, likely Chinese-university-connected respondent group, not verified enrolment records.
 
 ### 3.3 Participants
 
-Of 38 respondents, 27 were men (71.1%) and 11 women (28.9%). Thirty-seven selected Pakistani nationality and one selected “other” (Bangladesh). Self-rated Chinese level was mostly advanced (22, 57.9%) or intermediate (15, 39.5%); one beginner. That label is the student’s own, not an HSK band. Years of learning Chinese clustered at three to four years (26, 68.4%). Wenjuan submission metadata classified the operating system as iPhone (24, 63.2%) or Android (14). That variable is the device used to submit the form, not a survey item about all devices used for class.
+Of 38 respondents, 27 were men (71.1%) and 11 women (28.9%). Thirty-seven selected Pakistani nationality and one selected another nationality. Self-rated Chinese level was mostly advanced (22, 57.9%) or intermediate (15, 39.5%); one beginner. That label is the student’s own, not an HSK band. Years of learning Chinese clustered at three to four years (26, 68.4%). Wenjuan submission metadata classified the operating system as iPhone (24, 63.2%) or Android (14). That variable is the device used to submit the form, not a survey item about all devices used for class.
 
-Wenjuan automatically recorded an IP-province field. The research team coded a dummy when that field was a mainland China province name (9 of 38). IP labels are technical metadata. They can be affected by virtual private networks and proxies and are not a reliable measure of physical location. They are not used as a participant-location variable and are not the basis of a sensitivity analysis.
+Wenjuan automatically recorded an IP-province field. The research team coded a dummy when that field was a mainland China province name (9 of 38). IP labels are technical metadata. They can be affected by virtual private networks and proxies and are not a reliable measure of physical location. They are not used as a participant-location variable and are not the basis of a sensitivity analysis. The dummy, submission dates, and device identifiers are not included in the public dataset.
 
-The sample is described as *mainly Pakistani Chinese-university language students studying remotely in February 2022*. It is not described as students exclusively in Pakistan, as CSC students, or as a draw from all Pakistani students in Chinese universities.
+The sample is described as *mainly Pakistani respondents reporting online Chinese coursework connected to Chinese higher education*. It is not described as verified Chinese-university enrolment, as students exclusively in Pakistan, as CSC students, or as a draw from all Pakistani students in Chinese universities.
 
 ### 3.4 Instrument and coding
 
@@ -110,15 +112,15 @@ The export labelled one multiple-response problem as “no electricity.” The i
 
 ### 3.5 Analysis
 
-Frequencies are n/38 unless noted. Multiple-response items are the percentage who selected the option. Two associations were treated as focal: (a) home affects study very much × very high stress; (b) internet speed × the appraisal index. For the 2×2 table we report cell counts and two-sided Fisher’s exact *p* (SciPy `fisher_exact`). Odds ratios and Wald confidence intervals are not reported: at N = 38 they are unstable, and a Wald interval can disagree with Fisher’s *p*. For the ordinal pair we report Spearman’s ρ and a bootstrap 95% confidence interval (5,000 resamples). Other associations, including gender, are secondary and are placed in Appendix B. *p* values are not adjusted for multiplicity and are not interpreted as confirmatory.
+Frequencies are n/38 unless noted. Multiple-response items are the percentage who selected the option. Two associations were treated as focal: (a) home affects study very much × very high stress; (b) internet speed × the appraisal index. For the 2×2 table we report cell counts and two-sided Fisher’s exact *p* (SciPy `fisher_exact`). Odds ratios and Wald confidence intervals are not reported: at N = 38 they are unstable, and a Wald interval can disagree with Fisher’s *p*. For the ordinal pair we report Spearman’s ρ and a percentile bootstrap 95% confidence interval calculated from 5,000 resamples. Other associations, including gender, are secondary and are placed in Appendix B. *p* values are not adjusted for multiplicity and are not interpreted as confirmatory.
 
-A Pakistani-nationality check (n = 37) is reported only to show that dropping the one Bangladeshi case does not reverse the two focal associations. It is not a location analysis.
+A Pakistani-nationality check (n = 37) is reported only to show that dropping the one non-Pakistani case does not reverse the two focal associations. It is not a location analysis.
 
 ### 3.6 Ethics and data protection
 
-Adult respondents completed an online form presented as research on online Chinese learning. The form stated that answers would be used for research. Completion and submission were treated as consent. Names, IP addresses, and exact timestamps beyond the collection dates were removed before analysis. The de-identified file does not include those fields.
+Adult respondents completed an online form presented as research on online Chinese learning. The form stated that answers would be used for research. Completion and submission were treated as consent. Names, IP addresses, exact timestamps, and device identifiers were removed before the public file was prepared.
 
-No institutional ethics-committee number is available for the original 2022 collection. The first author was then an M.Phil. student; numbered approval was not obtained. The present article is an anonymised secondary analysis of that file. Authors should seek retrospective institutional confirmation or a waiver from their current ethics office before ScholarOne upload if the journal requires a protocol number. No approval number has been invented.
+No institutional ethics approval number is available for the original 2022 data collection. The first author was then an M.Phil. student; numbered approval was not obtained. This paper reports an anonymised secondary analysis of that file.
 
 ## 4. Results
 
@@ -135,7 +137,7 @@ Table 1 locates the sample. Most respondents (78.9%) said all of their Chinese c
 | Male | 27 | 71.1 |
 | Female | 11 | 28.9 |
 | Pakistani nationality | 37 | 97.4 |
-| Other (Bangladesh) | 1 | 2.6 |
+| Other | 1 | 2.6 |
 | Beginner / intermediate / advanced Chinese (self-rating) | 1 / 15 / 22 | 2.6 / 39.5 / 57.9 |
 | Years of Chinese: 1 to 2 / 3 to 4 / 5 to 6 / 6+ | 3 / 26 / 8 / 1 | 7.9 / 68.4 / 21.1 / 2.6 |
 | All Chinese classes online | 30 | 78.9 |
@@ -143,7 +145,7 @@ Table 1 locates the sample. Most respondents (78.9%) said all of their Chinese c
 | Submission device: iPhone / Android | 24 / 14 | 63.2 / 36.8 |
 | Total | 38 | 100 |
 
-*Note.* Convenience sample, Wenjuan, 5 to 8 February 2022. Device is the operating system recorded at submission.
+*Note.* Convenience sample, Wenjuan, 5 to 8 February 2022. Device is the operating system recorded at submission, reported only as an aggregate.
 
 Table 2 summarises reported conditions. Unstable networks (76.3%) and power interruptions (42.1%) were commonly ticked. Speed was split: 36.8% good or very good, 36.8% average, 26.3% bad or very bad. Four respondents (10.5%) said their country did not have internet, yet all 38 submitted an online form. The item wording does not allow a firm reinterpretation; we report the tick as given. Only 11 of 38 (28.9%) described the home as quiet.
 
@@ -163,7 +165,7 @@ Table 2 summarises reported conditions. Unstable networks (76.3%) and power inte
 | Online cannot replace face-to-face | 19 | 50.0 |
 | Learned little or nothing online | 11 | 28.9 |
 
-Among those who said the home affected study very much, 11 of 14 also reported very high psychological stress; among the others, 3 of 24 did (Fisher’s exact *p* = .00008). This is a co-occurrence in this file. It is not evidence that the household caused stress. The most salient descriptive stress finding was that 36.8% reported very high stress.
+Among those who said the home affected study very much, 11 of 14 also reported very high psychological stress; among the others, 3 of 24 did (two-sided Fisher’s exact *p* = .00008). This is a co-occurrence in this dataset. It is not evidence that the household caused stress. The most salient descriptive stress finding was that 36.8% reported very high stress.
 
 ### 4.2 Reported platform access
 
@@ -173,9 +175,9 @@ Tools reported as used for class were Tencent Meeting (71.1%), Zoom (47.4%), and
 
 **Table 3**
 
-*Platforms used, blocked, and available (multiple response, % of 38)*
+*Reported use and perceived availability of platforms (multiple response, N = 38)*
 
-| Platform | Used for class | Cannot use in my country | Can use in my country |
+| Platform | Used for class | Marked unusable in my country | Can use in my country |
 |---|---:|---:|---:|
 | Tencent Meeting | 71.1 | n.a. | 57.9 |
 | Zoom | 47.4 | n.a. | 71.1 |
@@ -186,13 +188,13 @@ Tools reported as used for class were Tencent Meeting (71.1%), Zoom (47.4%), and
 | DingTalk | n.a. | 28.9 | n.a. |
 | 中国慕课 (Chinese MOOC, as printed) | n.a. | 28.9 | n.a. |
 
-*Note.* n.a. = the item was not asked in that column. “My country” is the stem wording. QQ, Chaoxing, DingTalk, and 中国慕课 are platforms often used in Chinese-university teaching; they are not exclusively campus systems.
+*Note.* n.a. = the item was not asked in that column. “My country” is the stem wording. QQ, Chaoxing, DingTalk, and 中国慕课 are platforms often used in Chinese-university teaching; they are not exclusively campus systems. “Marked unusable” follows the item wording and is not a technical claim that the platform was blocked.
 
 ### 4.3 Perceived learning and internet speed
 
 Active interaction with the teacher “very much” was reported by 6 of 38 (15.8%). Classroom talk, when ticked, was mainly dialogue (76.3%) and question and answer (57.9%). Role-play was rare (7.9%).
 
-On the appraisal items, 18.4% said they could learn “a lot” online; 28.9% said little or nothing. Worse internet speed was associated with a worse appraisal index (ρ = .65, *p* = .000009, bootstrap 95% CI [.36, .84]). A count of three infrastructure ticks (unstable network, power interruptions, no signal) was not associated with the index (ρ = .02, *p* = .91, bootstrap 95% CI [−.32, .37]). In this file, reported speed co-occurred with appraisal; ticking several problems did not. These are rank associations, not effects of infrastructure on learning.
+On the appraisal items, 18.4% said they could learn “a lot” online; 28.9% said little or nothing. Worse internet speed was associated with a worse appraisal index (ρ = .65, *p* < .001, percentile bootstrap 95% CI [.36, .84]). A simple, unvalidated count of selected infrastructure-problem ticks (unstable network, power interruptions, no signal) was not associated with the index (ρ = .02, *p* = .91, percentile bootstrap 95% CI [−.32, .37]). The count is an exploratory post hoc descriptive indicator. Unstable network and no signal may overlap, and power interruptions are a different infrastructure layer. The non-significant correlation is therefore not interpreted as evidence that speed matters but the number of problems does not. These are rank associations, not effects of infrastructure on learning.
 
 Preferred live length was 45 minutes for 50% and 30 minutes for 28.9%. One open comment said that even one minute online was “not suitable.”
 
@@ -202,13 +204,13 @@ Preferred live length was 45 minutes for 50% and 30 minutes for 28.9%. One open 
 
 | Association | Result |
 |---|---|
-| Home affects study very much × very high stress | 11/14 vs 3/24; Fisher’s exact *p* = .00008 |
-| Speed (worse) × appraisal index (worse) | ρ = .65, bootstrap 95% CI [.36, .84], *p* = .000009 |
-| Infrastructure-problem count × appraisal index | ρ = .02, bootstrap 95% CI [−.32, .37], *p* = .91 |
+| Home affects study very much × very high stress | 11/14 vs 3/24; two-sided Fisher’s exact *p* = .00008 |
+| Speed (worse) × appraisal index (worse) | ρ = .65, percentile bootstrap 95% CI [.36, .84], *p* < .001 |
+| Infrastructure-problem count × appraisal index (exploratory post hoc) | ρ = .02, percentile bootstrap 95% CI [−.32, .37], *p* = .91 |
 
-*Note.* Analyses are exploratory. Odds ratios are omitted.
+*Note.* Analyses are exploratory. Odds ratios are omitted. The infrastructure-problem count is an unvalidated post hoc indicator and is not treated as a parallel scale.
 
-Among Pakistani-nationality respondents only (n = 37), the home–stress table remained 11/14 versus 3/23 (Fisher’s exact *p* = .00011) and speed × appraisal was ρ = .67 (bootstrap 95% CI [.39, .85]).
+Among Pakistani-nationality respondents only (n = 37), the home–stress table remained 11/14 versus 3/23 (two-sided Fisher’s exact *p* = .00011) and speed × appraisal was ρ = .67 (percentile bootstrap 95% CI [.39, .85]).
 
 ### 4.4 Replacement judgement (secondary gender note)
 
@@ -216,19 +218,19 @@ Nineteen of 38 said online study could replace campus classes and 19 said it cou
 
 ## 5. Discussion
 
-This historically situated file suggests a possible delivery-context mismatch: a travelling Chinese-university language course was reported alongside household power and network problems and uneven access to applications often used in Chinese higher education. Localisation of content and materials remains necessary (Zhao, 2020; Lu et al., 2024). In this sample, those layers would not have addressed the live hour that respondents associated with an unstable connection or an application marked unusable.
+This historically situated dataset suggests a possible delivery-context mismatch: respondents reporting online Chinese coursework connected to Chinese higher education also reported household power and network problems and uneven access to applications often used in that sector. Localisation of content and materials remains necessary (Zhao, 2020; Lu et al., 2024). In this sample, those layers would not have addressed the live hour that respondents associated with an unstable connection or an application marked unusable.
 
-Based on these findings, possible design considerations—not established solutions—include shorter or asynchronous oral alternatives, assessment that does not assume a campus oral hour, and a required platform that respondents can open. WhatsApp was marked available here; it was not recorded as used for class. The findings do not show that later hybrid ICLE has repeated this pattern. They suggest that hybrid models *may* reproduce a similar mismatch if delivery assumptions are not examined (Stockwell & Wang, 2023).
+Based on these findings, possible design considerations, rather than established solutions, include shorter or asynchronous oral alternatives, assessment that does not assume a campus oral hour, and a required platform that respondents can open. WhatsApp was marked available here; it was not recorded as used for class. The findings do not show that later hybrid ICLE has repeated this pattern. They suggest that hybrid models *may* reproduce a similar mismatch if delivery assumptions are not examined (Stockwell & Wang, 2023).
 
-Participation in this file co-occurred with reported platform access, power and connectivity problems, and a home environment that many described as not quiet. That is a description of domestic participation conditions, not a claim that inequality is “cultural.”
+Participation in this dataset co-occurred with reported platform access, power and connectivity problems, and a home environment that many described as not quiet. That is a description of domestic participation conditions, not a claim that inequality is “cultural.”
 
 ## 6. Limitations
 
-The sample is small (N = 38), network-recruited, and majority male. Recruitment channel, host university, programme type, and place of residence that week were not recorded. IP metadata are not a location measure. All outcomes are self-report. The appraisal index is descriptive, not a validated scale. The form did not measure institutional adaptation, so localisation of delivery is a conceptual reading of student-side conditions. Data are from February 2022 and concern emergency remote teaching. They are not evidence about current hybrid education. No ethics-committee number is available for the 2022 collection (Section 3.6).
+The sample is small (N = 38), network-recruited, and majority male. Recruitment channel, host university, programme type, and place of residence that week were not recorded, so Chinese-university enrolment is not independently verified. IP metadata are not a location measure. All outcomes are self-report. The appraisal index is descriptive, not a validated scale. The infrastructure-problem count is an unvalidated post hoc indicator. The form did not measure institutional adaptation, so localisation of delivery is a conceptual reading of student-side conditions. Data are from February 2022 and concern emergency remote teaching. They are not evidence about current hybrid education. No ethics-committee number is available for the 2022 collection (Section 3.6).
 
 ## 7. Conclusion
 
-In this exploratory emergency-remote-teaching sample of mainly Pakistani Chinese-university language students, reported household infrastructure and platform access co-occurred with very high stress and with more negative perceived-learning appraisal. The conceptual suggestion is that ICLE localisation may need to include delivery-context fit—time, platform, task, participation mode, and assessment—as well as content adaptation. That suggestion is bounded by N = 38 and by a 2022 file.
+In this exploratory emergency-remote-teaching sample of mainly Pakistani respondents reporting online Chinese coursework, reported household infrastructure and platform access co-occurred with very high stress and with more negative perceived-learning appraisal. The conceptual suggestion is that ICLE localisation may need to include delivery-context fit—time, platform, task, participation mode, and assessment—as well as content adaptation. That suggestion is bounded by N = 38 and by a 2022 dataset.
 
 ## Appendix A. Appraisal items and coding
 

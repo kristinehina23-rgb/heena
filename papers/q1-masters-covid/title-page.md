@@ -2,7 +2,7 @@
 
 Upload this with names. Upload the manuscript **without** this block for anonymous review.
 
-**Title.** Pakistani Chinese-university students studying remotely: household infrastructure and platform access during emergency remote teaching
+**Title.** Mainly Pakistani respondents reporting online Chinese coursework: household infrastructure and platform access during emergency remote teaching
 
 **Short title.** Remote Chinese: delivery-context fit
 
@@ -24,9 +24,9 @@ Email: xuyiru@mail.sysu.edu.cn
 
 **Funding.** None.
 
-**Data availability.** A de-identified analysis file (`data/anonymized_n38.csv`), codebook, and analysis syntax are in the public project repository. Files containing names or IP addresses will not be shared. The corresponding author can also supply the same de-identified files on request.
+**Data availability.** A de-identified analytical dataset (`data/publication_n38.csv`), codebook, and analysis syntax are in the public project repository. Variables that could increase re-identification risk in this small convenience sample have been removed or coarsened. Files containing names, IP addresses, timestamps, or device identifiers will not be shared. The corresponding author can also supply the same de-identified files on request.
 
-**Ethics.** Adult respondents completed an online questionnaire presented as research. Submission was treated as consent. Direct identifiers are not published. No institutional ethics-committee number is available for the 2022 collection. Authors should seek retrospective confirmation or a waiver if the journal requires a protocol number.
+**Ethics.** Adult respondents completed an online questionnaire presented as research. Submission was treated as consent. Direct identifiers are not published. No institutional ethics approval number is available for the original 2022 data collection.
 
 **Use of generative AI.** `[If language tools were used, name tool, version, and that they were used only for language polishing. If none, delete this heading.]`
 

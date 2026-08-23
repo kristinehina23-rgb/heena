@@ -1,6 +1,6 @@
 # Supplementary statistical notes (N = 38)
 
-Source: `data/anonymized_n38.csv`. Software: Python 3, SciPy `fisher_exact` (two-sided) and `spearmanr`. Bootstrap Spearman 95% CIs: 5,000 resamples, seed 42.
+Source: `data/anonymized_n38.csv`. Software: Python 3, SciPy `fisher_exact` (two-sided) and `spearmanr`. Percentile bootstrap Spearman 95% CIs: 5,000 resamples, seed 42.
 
 Odds ratios are **not** used in the manuscript. They are unstable at this N. A Wald interval for poor-internet × cannot-replace can exclude 1 while Fisher’s exact *p* = .062; that mismatch is why the article reports counts and Fisher *p* only.
 
@@ -11,7 +11,7 @@ Odds ratios are **not** used in the manuscript. They are unstable at this N. A W
 | Home affects study very much × very high stress | 11/14 vs 3/24 | .000079 |
 | Speed (higher = worse) × appraisal index (higher = worse) | ρ = .65, bootstrap 95% CI [.36, .84] | *p* = .000009 |
 
-Pakistani-nationality only (n = 37): home × stress Fisher *p* = .00011; speed × appraisal ρ = .67, bootstrap 95% CI [.39, .85].
+Pakistani-nationality only (n = 37): home × stress two-sided Fisher *p* = .00011; speed × appraisal ρ = .67, percentile bootstrap 95% CI [.39, .85]. The one non-Pakistani case is not named in public files.
 
 ## Secondary (not used as confirmatory tests)
 

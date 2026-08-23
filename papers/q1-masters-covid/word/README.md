@@ -9,4 +9,4 @@ Open these in Microsoft Word. They are `.docx` (Office Open XML).
 | `Rathore-title-page.docx` | ScholarOne **title page / names file**. |
 | `Rathore-cover-letter-LCC.docx` | Cover letter. Do **not** send until Xu Yiru and Cao Huimin have approved. |
 
-Do not submit from this folder until all three authors have read and agreed.
+Do not submit from this folder until all three authors have read and agreed, and until a retrospective ethics letter, exemption, or written institutional statement exists.
