@@ -6,7 +6,7 @@ Upload this with names. Upload the anonymized manuscript **without** this block.
 
 **Article type.** Original empirical article
 
-**Title.** Household infrastructure and platform access in online Chinese teaching
+**Title.** Household infrastructure and platform access in online Chinese teaching: Localization of delivery in a travelling course
 
 **Short title / running head.** Online Chinese teaching: household and platform access
 
@@ -39,7 +39,7 @@ ORCID: `[ADD IF HELD]`
 
 **ACTFL membership.** At least one author will hold ACTFL membership before final acceptance if the journal requires it. Do not claim current membership until a named author has joined.
 
-**Manuscript inventory.** One anonymized manuscript (abstract, Challenge statement, body, tables, two appendices, APA references); one figure (reading model); four tables in the text. About 7,200 words from the abstract through the reference list (inside the journal’s 4,000–10,000-word range). American English. APA 7th.
+**Manuscript inventory.** One anonymized manuscript (abstract, Challenge statement, body, tables, two appendices, APA references); one figure (reading model); four tables in the text. About 6,300 words from the abstract through the reference list (inside the journal’s 4,000–10,000-word range). American English. APA 7th.
 
 ## Notes on contributors
 

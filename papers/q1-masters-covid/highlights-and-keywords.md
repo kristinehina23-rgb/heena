@@ -4,7 +4,7 @@ FLA does not use Taylor & Francis highlights. It uses **The Challenge** (about 5
 
 ## The Challenge
 
-An online Chinese course can keep its hours, platforms, oral tasks, and assessment, and still be a course learners cannot take. When household power, network speed, or a required application fails, content may remain appropriate while the class is closed. How should world-language programs treat that as a teaching problem rather than a technical inconvenience?
+When a Chinese course moves online, programs still have to decide the hour, the application, the oral task, and the form of assessment. If household power, network speed, or a required platform does not support those decisions, how should the program treat the failure: as a technical inconvenience, or as a teaching problem?
 
 ## Keywords
 

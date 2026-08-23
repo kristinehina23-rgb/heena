@@ -4,7 +4,7 @@ Editors
 
 Dear Editors,
 
-Please consider “Household infrastructure and platform access in online Chinese teaching” for publication in *Foreign Language Annals* as an original empirical article.
+Please consider “Household infrastructure and platform access in online Chinese teaching: Localization of delivery in a travelling course” for publication in *Foreign Language Annals* as an original empirical article.
 
 The article examines a delivery problem in the teaching of a language other than English: an online Chinese course may remain appropriate in content and still be a course learners cannot take if household power, network speed, or platform access does not support its timetable, platforms, oral tasks, and assessment. It reports an exploratory Chinese-language questionnaire (N = 38; 37 respondents selected Pakistani nationality). Chinese-university enrollment and physical location were not independently verified. Data were collected during emergency remote teaching (5–8 February 2022); that date is reported in the Methods section. The article does not claim evidence about current hybrid practice.
 
