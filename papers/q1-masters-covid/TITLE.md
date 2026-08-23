@@ -2,11 +2,10 @@
 
 **Use this:**
 
-> **Localisation of delivery in online Chinese teaching: household infrastructure and platform access**
+> **Household infrastructure and platform access in online Chinese teaching**
 
-**Short title:** Localisation of delivery in online Chinese teaching
+**Short title:** Online Chinese teaching: household and platform access
 
 Why this wording:
-- The title names the contribution (*localisation of delivery*) and the evidence (household infrastructure and platform access)
-- It does not put sample caveats in the title; those stay in the abstract and methods
-- “Online Chinese teaching” is the research field; the problem is delivery, not content
+- The title names the research problem and the evidence, not a concept the author did not ask to foreground
+- Sample caveats stay in the abstract and methods

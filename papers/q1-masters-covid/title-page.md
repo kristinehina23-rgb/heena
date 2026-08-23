@@ -2,9 +2,9 @@
 
 Upload this with names. Upload the manuscript **without** this block for anonymous review.
 
-**Title.** Localisation of delivery in online Chinese teaching: household infrastructure and platform access
+**Title.** Household infrastructure and platform access in online Chinese teaching
 
-**Short title.** Localisation of delivery in online Chinese teaching
+**Short title.** Online Chinese teaching: household and platform access
 
 **Heena Rathore** (corresponding author)  
 PhD student, School of Foreign Languages, Sun Yat-sen University, Guangzhou, China  

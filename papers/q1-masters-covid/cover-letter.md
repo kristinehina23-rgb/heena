@@ -4,9 +4,9 @@ Editor-in-Chief
 
 Dear Editor,
 
-Please consider “Localisation of delivery in online Chinese teaching: household infrastructure and platform access” for publication in *Language, Culture and Curriculum*.
+Please consider “Household infrastructure and platform access in online Chinese teaching” for publication in *Language, Culture and Curriculum*.
 
-The article examines a delivery problem in online Chinese teaching: a course may remain appropriate in content and still be difficult to take if its timetable, platforms, tasks, and assessment do not fit the conditions in which learners participate. It reads an exploratory questionnaire (N = 38) through later work on technological normalisation, online ICLE, and designed online Chinese teaching, and proposes *localisation of delivery*. Respondents completed a Chinese-language questionnaire about online Chinese learning; 37 selected Pakistani nationality. Chinese-university enrolment and physical location were not independently verified. Data were collected during emergency remote teaching (February 2022); that date is reported in the methods. The article does not claim evidence about current hybrid practice.
+The article examines a delivery problem in online Chinese teaching: a course may remain appropriate in content and still be difficult to take if its timetable, platforms, tasks, and assessment do not fit the conditions in which learners participate. It reads an exploratory questionnaire (N = 38) through later work on technological normalisation, online ICLE, and designed online Chinese teaching. Respondents completed a Chinese-language questionnaire about online Chinese learning; 37 selected Pakistani nationality. Chinese-university enrolment and physical location were not independently verified. Data were collected during emergency remote teaching (February 2022); that date is reported in the methods. The article does not claim evidence about current hybrid practice.
 
 No institutional ethics approval number is available for the original 2022 data collection. Institutional guidance on retrospective review or exemption is being sought before upload if the journal requires a protocol number.
 
