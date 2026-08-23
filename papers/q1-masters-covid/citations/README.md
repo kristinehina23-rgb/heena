@@ -2,7 +2,7 @@
 
 This folder is the audit file for every work cited in `../manuscript.md`.
 
-**Checked:** 23 August 2026  
+**Checked:** 23 August 2026 (updated the same day with five additional empirical studies)  
 **Source of truth for articles with a DOI:** Crossref (`https://api.crossref.org/works/{doi}`). Raw publisher records are in `proofs/`.  
 **Books and the Hodges essay:** publisher or institutional pages, listed in `books/` and `hodges-educause.md`.
 
