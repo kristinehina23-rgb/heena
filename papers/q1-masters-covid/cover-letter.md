@@ -4,9 +4,9 @@ Editor-in-Chief
 
 Dear Editor,
 
-Please consider “When Chinese class moved home: Pakistani students, infrastructure, and platform access” for publication in *Language, Culture and Curriculum*.
+Please consider “Pakistani Chinese-university students studying remotely: household infrastructure and platform access during emergency remote teaching” for publication in *Language, Culture and Curriculum*.
 
-The article contributes to international Chinese language education by extending localisation from content adaptation to delivery-context fit. Emergency remote teaching is the empirical context. A questionnaire (N = 38; February 2022) is reported as exploratory. In this sample, 11 of 14 students who said the home affected study “very much” also reported very high stress (against 3 of 24 others), internet speed tracked learning appraisal, and campus applications such as QQ and Chaoxing were often marked unusable. The paper is not a textbook-adaptation study and not a general theory of digital inequality.
+The article is an exploratory questionnaire study (N = 38; February 2022). It proposes a bounded ICLE concept, localisation of delivery (institutional adaptation of time, platform, task, participation mode, and assessment). The sample is mainly Pakistani by nationality; it is not a sample exclusively located in Pakistan. Emergency remote teaching is the historical setting. The paper does not claim evidence about current hybrid practice.
 
 The corresponding author is Heena Rathore, PhD student, School of Foreign Languages, Sun Yat-sen University. Co-authors: Cao Huimin and Xu Yiru. This is an original article. It is not a republication and is not under review elsewhere.
 

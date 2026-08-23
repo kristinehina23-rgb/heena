@@ -1,14 +1,10 @@
 # Figure 1. Localisation of delivery as delivery-context fit
 
-Redraw as a single-column journal figure. Do not submit mermaid to the journal.
-
-Investment is **not** in the figure.
+Reading model only. Not a causal path.
 
 ```mermaid
 flowchart TD
-  A[Sequential digital inequality<br/>power · signal · speed · which app opens] --> D[Participation in a travelling Chinese course<br/>stress · interaction · appraisal · replacement]
-  B[Home ecology<br/>space · family · paid work] --> D
-  D --> L[Localisation of delivery<br/>delivery-context fit]
+  A[Household infrastructure<br/>power interruptions · network · speed] --> C[Reported participation<br/>stress · interaction · appraisal · replacement]
+  B[Reported platform access<br/>interpretive: possible platform geography] --> C
+  C --> D[Localisation of delivery<br/>time · platform · task · participation mode · assessment]
 ```
-
-**Caption.** Sequential digital inequality and home ecology are concurrent conditions of a travelling Chinese-university course. They are read as shaping participation. The conceptual contribution is localisation of delivery (delivery-context fit), not a tested path model.
