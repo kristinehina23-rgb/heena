@@ -32,6 +32,11 @@ Raw Crossref JSON for each DOI is in `proofs/`.
 | 22 | Zhang, Wang, Yang, & Wang (2020), *JRFM, 13*(3), 55 | https://doi.org/10.3390/jrfm13030055 | True | `proofs/Zhang_Wang_Yang_Wang_2020.crossref.json` | |
 | 23 | Zhao & Huang (2010), *ERPP, 9*(2), 127-142 | https://doi.org/10.1007/s10671-009-9078-1 | True | `proofs/Zhao_Huang_2010.crossref.json` | Issue number (2) added to the manuscript. |
 | 24 | Zhao (2020), *Global Chinese, 6*(2), 263-288 | https://doi.org/10.1515/glochi-2020-0014 | True | `proofs/Zhao_2020.crossref.json` | Real article; not used as a Q1 pillar in the introduction. |
+| 25 | Jamil & Muschert (2023), *American Behavioral Scientist, 68*(9), 1161-1179 | https://doi.org/10.1177/00027642231156779 | True | `proofs/Jamil_Muschert_2023.crossref.json` | Empirical interviews: Pakistan university e-learning and the digital divide. Background only. |
+| 26 | Moser, Wei, & Brenner (2021), *System, 97*, 102431 | https://doi.org/10.1016/j.system.2020.102431 | True | `proofs/Moser_Wei_Brenner_2021.crossref.json` | National survey of language educators in ERT. |
+| 27 | Tao & Gao (2022), *System, 107*, 102819 | https://doi.org/10.1016/j.system.2022.102819 | True | `proofs/Tao_Gao_2022.crossref.json` | Synthesis of online language teaching/learning challenges. |
+| 28 | Wen & Liu (2025), *LCC, 38*(3), 380-400 | https://doi.org/10.1080/07908318.2025.2486449 | True | `proofs/Wen_Liu_2025.crossref.json` | Target-journal empirical study of CSL learner emotion. Not used as proof of the present stress finding. |
+| 29 | Xu, Jin, Deifell, & Angus (2022), *Foreign Language Annals, 55*(1), 72-97 | https://doi.org/10.1111/flan.12541 | True | `proofs/Xu_Jin_Deifell_Angus_2022.crossref.json` | Empirical Chinese ERT study (character teaching). Shows sending-side pedagogical adaptation. |
 
 ## Books and the Hodges essay
 

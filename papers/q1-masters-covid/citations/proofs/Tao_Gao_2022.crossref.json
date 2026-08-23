@@ -1,0 +1,895 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        1
+      ]
+    ],
+    "date-time": "2026-08-01T09:22:19Z",
+    "timestamp": 1785576139002,
+    "version": "3.56.0"
+  },
+  "reference-count": 69,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            7,
+            1
+          ]
+        ],
+        "date-time": "2022-07-01T00:00:00Z",
+        "timestamp": 1656633600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            7,
+            1
+          ]
+        ],
+        "date-time": "2022-07-01T00:00:00Z",
+        "timestamp": 1656633600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            5,
+            16
+          ]
+        ],
+        "date-time": "2022-05-16T00:00:00Z",
+        "timestamp": 1652659200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "System"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2022,
+        7
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.system.2022.102819",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        5,
+        16
+      ]
+    ],
+    "date-time": "2022-05-16T08:30:32Z",
+    "timestamp": 1652689832000
+  },
+  "page": "102819",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 126,
+  "special_numbering": "C",
+  "title": [
+    "Teaching and learning languages online: Challenges and responses"
+  ],
+  "prefix": "10.1016",
+  "volume": "107",
+  "author": [
+    {
+      "given": "Jian",
+      "family": "Tao",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Xuesong(Andy)",
+      "family": "Gao",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.system.2022.102819_bib1",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2021.102716",
+      "article-title": "I took physical lessons for granted”: A case study exploring students' interpersonal interactions in online synchronous lessons during the outbreak of COVID-19",
+      "volume": "105",
+      "author": "Alger",
+      "year": "2022",
+      "journal-title": "System"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib2",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2021.102713",
+      "article-title": "Language teacher agency in emergency online teaching",
+      "volume": "105",
+      "author": "Ashton",
+      "year": "2022",
+      "journal-title": "System"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib3",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2021.102679",
+      "article-title": "We were told that the content we delivered was not as important:” disconnect and disparities in world language student teaching during COVID-19",
+      "volume": "103",
+      "author": "Back",
+      "year": "2021",
+      "journal-title": "System"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib4",
+      "article-title": "Measuring real-time learner engagement in the Japanese EFL classroom",
+      "author": "Bonner",
+      "year": "2022",
+      "journal-title": "Innovation in Language Learning and Teaching"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib5",
+      "article-title": "Communication and the student experience in the time of COVID-19: An autoethnography",
+      "author": "Busteed",
+      "year": "2022",
+      "journal-title": "Language Teaching Research"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib6",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2021.102527",
+      "article-title": "Mapping connections among activism interactional practices and presence in videoconferencing language learning",
+      "volume": "99",
+      "author": "Carbajal-Carrera",
+      "year": "2021",
+      "journal-title": "System"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.system.2022.102819_bib7",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1177/21582440211040131",
+      "article-title": "Using scaffolding materials to facilitate autonomous online Chinese as a foreign language learning: A study during the COVID-19 pandemic",
+      "volume": "11",
+      "author": "Chen",
+      "year": "2021",
+      "journal-title": "Sage Open"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib8",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2021.102710",
+      "article-title": "Digital affordances and teacher agency in the context of teaching Chinese as a second language during COVID-19",
+      "volume": "105",
+      "author": "Chen",
+      "year": "2022",
+      "journal-title": "System"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib9",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2021.102686",
+      "article-title": "Translanguaging/trans-semiotizing in teacher-learner interactions on social media: Making learner agency visible and achievable",
+      "volume": "104",
+      "author": "Chen",
+      "year": "2022",
+      "journal-title": "System"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib10",
+      "article-title": "A case study of zoom use by a secondary ESL teacher in HK",
+      "author": "Cheung",
+      "year": "2022",
+      "journal-title": "RELC Journal"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib11",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2021.102566",
+      "article-title": "Synchronous online teaching, a blessing or a curse? Insights from EFL primary students' interaction during online English lessons",
+      "volume": "100",
+      "author": "Cheung",
+      "year": "2021",
+      "journal-title": "System"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib12",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2021.102556",
+      "article-title": "Boredom in online classes in the Iranian EFL context: Sources and solutions",
+      "volume": "101",
+      "author": "Derakhshan",
+      "year": "2021",
+      "journal-title": "System"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.system.2022.102819_bib13",
+      "doi-asserted-by": "crossref",
+      "first-page": "314",
+      "DOI": "10.1111/flan.12452",
+      "article-title": "The new normal?: A pandemic of task engagement in language learning",
+      "volume": "53",
+      "author": "Egbert",
+      "year": "2020",
+      "journal-title": "Foreign Language Annals"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib14",
+      "article-title": "Tracking telecollaborative tasks through design, feedback, implementation, and reflection processes in pre-service language teacher education",
+      "author": "Ekin",
+      "year": "2022",
+      "journal-title": "Applied Linguistics Review"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.system.2022.102819_bib15",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1002/tesj.544",
+      "article-title": "Online literature circles during the COVID‐19 pandemic: Engaging undergraduate students in Indonesia",
+      "volume": "11",
+      "author": "Ferdiansyah",
+      "year": "2020",
+      "journal-title": "TESOL Journal"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib16",
+      "article-title": "Emotions in online language learning: Exploratory findings from an ab initio Korean course",
+      "author": "Fraschini",
+      "year": "2022",
+      "journal-title": "Journal of Multilingual and Multicultural Development"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib17",
+      "series-title": "Planned online language education versus crisis‐prompted online language teaching: Lessons for the future",
+      "author": "Gacs",
+      "year": "2020"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib18",
+      "article-title": "English as a foreign language teachers' pedagogical beliefs about teacher roles and their agentic actions amid and after COVID-19: A case study",
+      "author": "Gao",
+      "year": "2022",
+      "journal-title": "RELC Journal"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib19",
+      "article-title": "Designing and providing inclusive ELT materials in times of the global pandemic: A Chilean experience",
+      "author": "Glas",
+      "year": "2022",
+      "journal-title": "Innovation in Language Learning and Teaching"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.system.2022.102819_bib20",
+      "doi-asserted-by": "crossref",
+      "first-page": "260",
+      "DOI": "10.1111/flan.12466",
+      "article-title": "Collaborative tasks for online language teaching",
+      "volume": "53",
+      "author": "González‐Lloret",
+      "year": "2020",
+      "journal-title": "Foreign Language Annals"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.system.2022.102819_bib21",
+      "doi-asserted-by": "crossref",
+      "first-page": "1145",
+      "DOI": "10.1111/flan.12544",
+      "article-title": "Language teacher perspectives on stress and coping",
+      "volume": "54",
+      "author": "Gregersen",
+      "year": "2021",
+      "journal-title": "Foreign Language Annals"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib22",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2021.102673",
+      "article-title": "Addressing the challenges of interaction in online language courses",
+      "volume": "103",
+      "author": "Harsch",
+      "year": "2021",
+      "journal-title": "System"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib23",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2021.102719",
+      "article-title": "Stimulating learner engagement in app-based L2 vocabulary self-study: Goals and feedback for effective L2 pedagogy",
+      "volume": "105",
+      "author": "He",
+      "year": "2022",
+      "journal-title": "System"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib24",
+      "series-title": "The difference between emergency remote teaching and online learning",
+      "author": "Hodges",
+      "year": "2020"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib25",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2021.102574",
+      "article-title": "Understanding English teachers' non-volitional use of online teaching: A Chinese study",
+      "volume": "101",
+      "author": "Huang",
+      "year": "2021",
+      "journal-title": "System"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib27",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2022.102720",
+      "article-title": "Investigating the link between engagement, readiness, and satisfaction in a synchronous online second language learning environment",
+      "volume": "105",
+      "author": "Ji",
+      "year": "2022",
+      "journal-title": "System"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib26",
+      "article-title": "English learners' readiness for online flipped learning: Interrelationships with motivation and engagement, attitude, and support",
+      "author": "Jiang",
+      "year": "2022",
+      "journal-title": "Language Teaching Research"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib28",
+      "article-title": "L2 communicative competence analysis via synchronous computer-mediated communication (SCMC) as an alternative to formal classrooms",
+      "author": "Junn",
+      "year": "2022",
+      "journal-title": "Innovation in Language Learning and Teaching"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.system.2022.102819_bib29",
+      "doi-asserted-by": "crossref",
+      "first-page": "298",
+      "DOI": "10.1111/flan.12458",
+      "article-title": "Establishing professional online communities for world language educators",
+      "volume": "53",
+      "author": "Knight",
+      "year": "2022",
+      "journal-title": "Foreign Language Annals"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib30",
+      "article-title": "A pedagogical chatbot: A supplemental language learning tool",
+      "author": "Kohnke",
+      "year": "2022",
+      "journal-title": "RELC Journal"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib31",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1177/0033688220937235",
+      "article-title": "Facilitating synchronous online language learning through Zoom",
+      "author": "Kohnke",
+      "year": "2022",
+      "journal-title": "RELC Journal"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib33",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2022.102755",
+      "article-title": "The interaction patterns of pandemic-initiated online teaching: How teachers adapted",
+      "volume": "105",
+      "author": "Le",
+      "year": "2022",
+      "journal-title": "System"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.system.2022.102819_bib32",
+      "doi-asserted-by": "crossref",
+      "first-page": "116",
+      "DOI": "10.1111/flan.12572",
+      "article-title": "Factors affecting the quality of online learning in a task‐based college course",
+      "volume": "55",
+      "author": "Lee",
+      "year": "2021",
+      "journal-title": "Foreign Language Annals"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.system.2022.102819_bib34",
+      "doi-asserted-by": "crossref",
+      "first-page": "217",
+      "DOI": "10.1007/s40299-021-00571-z",
+      "article-title": "Modelling the relationship between Chinese university students' authentic language learning and their English self-efficacy during the COVID-19 pandemic",
+      "volume": "30",
+      "author": "Lian",
+      "year": "2021",
+      "journal-title": "The Asia-Pacific Education Researcher"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib35",
+      "article-title": "Let emotion ring’: An autoethnographic self-study of an EFL instructor in Wuhan during COVID-19",
+      "author": "Liu",
+      "year": "2022",
+      "journal-title": "Language Teaching Research"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib36",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2022.102760",
+      "article-title": "Conversation and transcription activities with synchronous video computer-mediated communication: A classroom investigation",
+      "volume": "106",
+      "author": "Loewen",
+      "year": "2022",
+      "journal-title": "System"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.system.2022.102819_bib37",
+      "doi-asserted-by": "crossref",
+      "first-page": "306",
+      "DOI": "10.1111/flan.12456",
+      "article-title": "Creating and sustaining virtual language communities",
+      "volume": "53",
+      "author": "Lomicka",
+      "year": "2020",
+      "journal-title": "Foreign Language Annals"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib39",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2020.102352",
+      "article-title": "Language teachers' coping strategies during the Covid-19 conversion to online teaching: Correlations with stress, wellbeing and negative emotions",
+      "volume": "94",
+      "author": "MacIntyre",
+      "year": "2020",
+      "journal-title": "System"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib40",
+      "doi-asserted-by": "crossref",
+      "first-page": "104009",
+      "DOI": "10.1016/j.compedu.2020.104009",
+      "article-title": "A systematic review of research on online teaching and learning from 2009 to 2018",
+      "volume": "159",
+      "author": "Martin",
+      "year": "2020",
+      "journal-title": "Computers & Education"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.system.2022.102819_bib41",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1002/tesj.545",
+      "article-title": "Utilizing video conferencing software to teach young language learners in Hong Kong during the COVID‐19 class suspensions",
+      "volume": "11",
+      "author": "Moorhouse",
+      "year": "2020",
+      "journal-title": "TESOL Journal"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib42",
+      "article-title": "E-classroom interactional competencies: Mediating and assisting language learning during synchronous online lessons",
+      "author": "Moorhouse",
+      "year": "2022",
+      "journal-title": "RELC Journal"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib43",
+      "article-title": "COVID-19 and the pre-existing language teacher supply crisis",
+      "author": "Moser",
+      "year": "2022",
+      "journal-title": "Language Teaching Research"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib44",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2020.102431",
+      "article-title": "Remote teaching during COVID-19: Implications from a national survey of language educators",
+      "volume": "97",
+      "author": "Moser",
+      "year": "2021",
+      "journal-title": "System"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.system.2022.102819_bib45",
+      "doi-asserted-by": "crossref",
+      "first-page": "292",
+      "DOI": "10.1111/flan.12468",
+      "article-title": "Teacher professional development and online instruction: Cultivating coherence and sustainability",
+      "volume": "53",
+      "author": "Paesani",
+      "year": "2020",
+      "journal-title": "Foreign Language Annals"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib46",
+      "article-title": "Boredom in online English language classes: Mediating variables and coping strategies",
+      "author": "Pawlak",
+      "year": "2022",
+      "journal-title": "Language Teaching Research"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib47",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2021.102715",
+      "article-title": "Learners' flow experience during peer revision in a virtual writing course during the global pandemic",
+      "volume": "105",
+      "author": "Payant",
+      "year": "2022",
+      "journal-title": "System"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.system.2022.102819_bib48",
+      "doi-asserted-by": "crossref",
+      "first-page": "243",
+      "DOI": "10.1111/flan.12457",
+      "article-title": "Developing L2 productive language skills online and the strategic use of instructional tools",
+      "volume": "53",
+      "author": "Payne",
+      "year": "2020",
+      "journal-title": "Foreign Language Annals"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib49",
+      "article-title": "A covid-19 case study through an intercultural telecollaboration project",
+      "author": "Porto",
+      "year": "2022",
+      "journal-title": "Language Teaching Research"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib50",
+      "article-title": "Learner emotions, autonomy and trait emotional intelligence in ‘in-person’ versus emergency remote English foreign language teaching in Europe",
+      "author": "Resnik",
+      "year": "2022",
+      "journal-title": "Applied Linguistics Review"
+    },
+    {
+      "issue": "11",
+      "key": "10.1016/j.system.2022.102819_bib51",
+      "doi-asserted-by": "crossref",
+      "first-page": "1881",
+      "DOI": "10.1097/CCM.0000000000003399",
+      "article-title": "The middle of difficulty lies opportunity.-Albert Einstein",
+      "volume": "46",
+      "author": "Riker",
+      "year": "2018",
+      "journal-title": "Critical Care Medicine"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.system.2022.102819_bib52",
+      "doi-asserted-by": "crossref",
+      "first-page": "371",
+      "DOI": "10.1111/flan.12463",
+      "article-title": "Negotiating displacement, regaining community: The Harvard Language Center's response to the COVID-19 crisis",
+      "volume": "53",
+      "author": "Ross",
+      "year": "2020",
+      "journal-title": "Foreign Language Annals"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib53",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2021.102684",
+      "article-title": "Transitioning to emergency online teaching: The experience of Spanish language learners in a US university",
+      "volume": "104",
+      "author": "Ruiz-Alonso-Bartol",
+      "year": "2022",
+      "journal-title": "System"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib54",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2020.102306",
+      "article-title": "Modified output and learner uptake in casual online learner-learner conversation",
+      "volume": "93",
+      "author": "Salomonsson",
+      "year": "2020",
+      "journal-title": "System"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.system.2022.102819_bib55",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1002/tesj.546",
+      "article-title": "The disparate impact of COVID-19 remote learning on English learners in the United States",
+      "volume": "11",
+      "author": "Sayer",
+      "year": "2020",
+      "journal-title": "TESOL Journal"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib56",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2022.102774",
+      "article-title": "The emotional landscape of online teaching: An autoethnographic exploration of vulnerability and emotional reflexivity",
+      "volume": "106",
+      "author": "Song",
+      "year": "2022",
+      "journal-title": "System"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib57",
+      "article-title": "Differentiated instruction in L2 teaching: Two extensive reading programmes conducted during COVID-19 pandemic",
+      "author": "Sun",
+      "year": "2022",
+      "journal-title": "Innovation in Language Learning and Teaching"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib58",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2021.102671",
+      "article-title": "Pre-service EFL teachers' conceptions and strategy use in managing online classes",
+      "volume": "104",
+      "author": "Taghizadeh",
+      "year": "2022",
+      "journal-title": "System"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.system.2022.102819_bib59",
+      "doi-asserted-by": "crossref",
+      "first-page": "353",
+      "DOI": "10.1111/flan.12455",
+      "article-title": "Digitally mediated remote learning of pragmatics",
+      "volume": "53",
+      "author": "Taguchi",
+      "year": "2020",
+      "journal-title": "Foreign Language Annals"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib60",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2021.102718",
+      "article-title": "Parental support for young learners' online learning of English in a Chinese primary school",
+      "volume": "105",
+      "author": "Tao",
+      "year": "2022",
+      "journal-title": "System"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib61",
+      "article-title": "Materials development in flexible learning amid the pandemic: Perspectives from English Language teachers in a philippine state university",
+      "author": "Tarrayo",
+      "year": "2022",
+      "journal-title": "Innovation in Language Learning and Teaching"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib62",
+      "article-title": "The shift to flexible learning amidst the pandemic: The case of English Language teachers in a philippine state university",
+      "author": "Tarrayo",
+      "year": "2022",
+      "journal-title": "Innovation in Language Learning and Teaching"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib63",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2021.102653",
+      "article-title": "Digital competence and online language teaching: Hong Kong Language teacher practices in primary and secondary classrooms",
+      "volume": "103",
+      "author": "Wong",
+      "year": "2021",
+      "journal-title": "System"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.system.2022.102819_bib64",
+      "doi-asserted-by": "crossref",
+      "first-page": "72",
+      "DOI": "10.1111/flan.12541",
+      "article-title": "Facilitating technology‐based character learning in emergency remote teaching",
+      "volume": "55",
+      "author": "Xu",
+      "year": "2022",
+      "journal-title": "Foreign Language Annals"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib65",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2021.102542",
+      "article-title": "Chinese character instruction online: A technology acceptance perspective in emergency remote teaching",
+      "volume": "100",
+      "author": "Xu",
+      "year": "2021",
+      "journal-title": "System"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib66",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2021.102717",
+      "article-title": "Experienced EFL teachers switching to online teaching: A case study from China",
+      "volume": "105",
+      "author": "Yan",
+      "year": "2022",
+      "journal-title": "System"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.system.2022.102819_bib67",
+      "doi-asserted-by": "crossref",
+      "first-page": "714",
+      "DOI": "10.1111/flan.12548",
+      "article-title": "A process tracing study of the dynamic patterns of boredom in an online L3 course of German during COVID‐19 pandemic",
+      "volume": "54",
+      "author": "Yazdanmehr",
+      "year": "2021",
+      "journal-title": "Foreign Language Annals"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.system.2022.102819_bib68",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1002/tesj.543",
+      "article-title": "Envisioning possibilities amid the COVID‐19 pandemic: Implications from English language teaching in South Korea",
+      "volume": "11",
+      "author": "Yi",
+      "year": "2020",
+      "journal-title": "TESOL Journal"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib69",
+      "article-title": "Understanding EFL instructor identity changes during online teaching in the COVID-19 pandemic: A case study in China",
+      "author": "Yuan",
+      "year": "2022",
+      "journal-title": "RELC Journal"
+    },
+    {
+      "key": "10.1016/j.system.2022.102819_bib70",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.system.2021.102478",
+      "article-title": "Language learners' enjoyment and emotion regulation in online collaborative learning",
+      "volume": "98",
+      "author": "Zhang",
+      "year": "2021",
+      "journal-title": "System"
+    }
+  ],
+  "container-title": [
+    "System"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0346251X22001002?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0346251X22001002?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        6
+      ]
+    ],
+    "date-time": "2025-10-06T07:18:47Z",
+    "timestamp": 1759735127000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0346251X22001002"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        7
+      ]
+    ]
+  },
+  "references-count": 69,
+  "alternative-id": [
+    "S0346251X22001002"
+  ],
+  "URL": "https://doi.org/10.1016/j.system.2022.102819",
+  "relation": {},
+  "ISSN": [
+    "0346-251X"
+  ],
+  "issn-type": [
+    {
+      "value": "0346-251X",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2022,
+        7
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Teaching and learning languages online: Challenges and responses",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "System",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.system.2022.102819",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2022 The Authors. Published by Elsevier Ltd.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "102819"
+}
