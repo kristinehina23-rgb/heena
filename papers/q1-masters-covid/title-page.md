@@ -2,9 +2,9 @@
 
 Upload this with names. Upload the manuscript **without** this block for anonymous review.
 
-**Title.** Mainly Pakistani respondents reporting online Chinese coursework: household infrastructure and platform access during emergency remote teaching
+**Title.** The problem of online Chinese teaching: household infrastructure and platform access among mainly Pakistani respondents during emergency remote teaching
 
-**Short title.** Remote Chinese: delivery-context fit
+**Short title.** Online Chinese teaching: delivery-context fit
 
 **Heena Rathore** (corresponding author)  
 PhD student, School of Foreign Languages, Sun Yat-sen University, Guangzhou, China  
