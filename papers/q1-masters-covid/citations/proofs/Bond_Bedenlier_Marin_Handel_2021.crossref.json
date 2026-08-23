@@ -1,0 +1,1254 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          21
+        ]
+      ],
+      "date-time": "2026-08-21T12:16:20Z",
+      "timestamp": 1787314580106,
+      "version": "3.56.0"
+    },
+    "reference-count": 94,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              30
+            ]
+          ],
+          "date-time": "2021-08-30T00:00:00Z",
+          "timestamp": 1630281600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              30
+            ]
+          ],
+          "date-time": "2021-08-30T00:00:00Z",
+          "timestamp": 1630281600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100011033",
+        "name": "agencia estatal de investigaci\u00f3n",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "RYC2019-028398-I"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "RYC2019-028398-I"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100011033",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Int J Educ Technol High Educ"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Due to the Covid-19 pandemic that spread globally in 2020, higher education courses were subsequently offered in fully remote, online formats. A plethora of primary studies began investigating a range of topics exploring teaching and learning in higher education, particularly during the initial semester. In order to provide an overview and initial understanding of this emerging research field, a systematic mapping review was conducted that collates and describes the characteristics of 282 primary empirical studies. Findings reveal that research was carried out mostly descriptively and cross-sectionally, focusing predominantly on undergraduate students and their perceptions of teaching and learning during the pandemic. Studies originate from a broad range of countries, are overwhelmingly published open access, and largely focused on the fields of\n                    <jats:italic>Health &amp; Welfare</jats:italic>\n                    and\n                    <jats:italic>Natural Sciences, Mathematics &amp; Statistics</jats:italic>\n                    . Educational technology used for emergency remote teaching are most often\n                    <jats:italic>synchronous collaborative tools</jats:italic>\n                    , used in combination with\n                    <jats:italic>text-based tools</jats:italic>\n                    . The findings are discussed against pre-pandemic research on educational technology use in higher education teaching and learning, and perspectives for further research are provided.\n                  </jats:p>",
+    "DOI": "10.1186/s41239-021-00282-x",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          29
+        ]
+      ],
+      "date-time": "2021-08-29T19:04:27Z",
+      "timestamp": 1630263867000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 323,
+    "title": [
+      "Emergency remote teaching in higher education: mapping the first global online semester"
+    ],
+    "prefix": "10.1186",
+    "volume": "18",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-8267-031X",
+        "authenticated-orcid": false,
+        "given": "Melissa",
+        "family": "Bond",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Svenja",
+        "family": "Bedenlier",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Victoria I.",
+        "family": "Mar\u00edn",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marion",
+        "family": "H\u00e4ndel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          30
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "1",
+        "key": "282_CR1",
+        "first-page": "291",
+        "volume": "15",
+        "author": "H Abdulrahim",
+        "year": "2020",
+        "unstructured": "*Abdulrahim, H., & Mabrouk, F. (2020). COVID-19 and the dgital transformation of Saudi higher education. Asian Journal of Distance Education, 15(1), 291\u2013306.",
+        "journal-title": "Asian Journal of Distance Education"
+      },
+      {
+        "issue": "1",
+        "key": "282_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "45",
+        "DOI": "10.33902/JPSP.202020261309",
+        "volume": "2",
+        "author": "M Adnan",
+        "year": "2020",
+        "unstructured": "*Adnan, M., & Anwar, K. (2020). Online learning amid the COVID-19 pandemic: students\u2019 perspectives. Journal of Pedagogical Sociology and Psychology, 2(1), 45\u201351. https://doi.org/10.33902/JPSP.202020261309",
+        "journal-title": "Journal of Pedagogical Sociology and Psychology"
+      },
+      {
+        "key": "282_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "400",
+        "DOI": "10.1186/s12909-020-02311-1",
+        "volume": "20",
+        "author": "SA Ahmed",
+        "year": "2020",
+        "unstructured": "*Ahmed, S. A., Hegazy, N. N., Abdel Malak, H. W., Kayser, W. C., Elrafie, N. M., Hassanien, M., Al-Hayani, A. A., El Saadany, S. A., Al-Youbi, A. O., & Shehata, M. H. (2020). Model for utilizing distance learning post COVID-19 using (PACT)TM a cross sectional qualitative study. BMC Medical Education, 20, 400. https://doi.org/10.1186/s12909-020-02311-1",
+        "journal-title": "BMC Medical Education"
+      },
+      {
+        "issue": "1",
+        "key": "282_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.18662/rrem/12.1sup2/240",
+        "volume": "12",
+        "author": "E Alsadoon",
+        "year": "2020",
+        "unstructured": "*Alsadoon, E., & Turkestani, M. (2020). Virtual classrooms for hearing-impaired students during the COVID-19 pandemic. Revista Romaneascu Pentru Educatie Multidimensionala, 12(1), 1\u20138. https://doi.org/10.18662/rrem/12.1sup2/240",
+        "journal-title": "Revista Romaneascu Pentru Educatie Multidimensionala"
+      },
+      {
+        "key": "282_CR5",
+        "doi-asserted-by": "crossref",
+        "first-page": "149",
+        "DOI": "10.56021/9781421419268",
+        "volume-title": "Global perspectives on higher education",
+        "author": "PG Altbach",
+        "year": "2016",
+        "unstructured": "Altbach, P. G. (2016). The university as center and periphery. Global perspectives on higher education (pp. 149\u2013171). Baltimore: Johns Hopkins University Press."
+      },
+      {
+        "issue": "5",
+        "key": "282_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "74",
+        "DOI": "10.14569/IJACSA.2020.0110512",
+        "volume": "11",
+        "author": "F Alturise",
+        "year": "2020",
+        "unstructured": "*Alturise, F. (2020). Difficulties in teaching online with Blackboard learn effects of the COVID-19 pandemic in the western branch colleges of Qassim University. International Journal of Advanced Computer Science and Applications, 11(5), 74\u201381. https://doi.org/10.14569/IJACSA.2020.0110512",
+        "journal-title": "International Journal of Advanced Computer Science and Applications"
+      },
+      {
+        "issue": "20",
+        "key": "282_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "8438",
+        "DOI": "10.3390/su12208438",
+        "volume": "12",
+        "author": "A Aristovnik",
+        "year": "2020",
+        "unstructured": "*Aristovnik, A., Ker\u017ei\u010d, D., Rav\u0161elj, D., Toma\u017eevi\u010d, N., & Umek, L. (2020). Impacts of the COVID-19 pandemic on life of higher education students: a global perspective. Sustainability, 12(20), 8438. https://doi.org/10.3390/su12208438.",
+        "journal-title": "Sustainability (switzerland)"
+      },
+      {
+        "key": "282_CR8",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Arndt, C., Ladwig, T., & Knutzen, S. (2020). Zwischen Neugier und Verunsicherung: Interne Hochschulbefragungen von Studierenden und Lehrenden im virtuellen Sommersemester 2020 [Between curiosity and uncertainty: Internal university surveys of students and lecturers in the virtual summer semester 2020]. Hamburg. https://doi.org/10.15480/882.3090.",
+        "DOI": "10.15480/882.3090"
+      },
+      {
+        "issue": "9",
+        "key": "282_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "223",
+        "DOI": "10.3390/educsci10090223",
+        "volume": "10",
+        "author": "J Bartz",
+        "year": "2020",
+        "unstructured": "*Bartz, J. (2020). All Inclusive?! Empirical Insights into individual experiences of students with disabilities and mental disorders at German universities and implications for inclusive higher education. Education Sciences, 10(9), 223. https://doi.org/10.3390/educsci10090223",
+        "journal-title": "Education Sciences"
+      },
+      {
+        "key": "282_CR10",
+        "unstructured": "Bates, T. (2020). Research reports on Covid-19 and emergency remote learning/online learning. https://www.tonybates.ca/2020/07/27/research-reports-on-covid-19-and-emergency-remote-learning-online-learning/"
+      },
+      {
+        "key": "282_CR11",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Bedenlier, S., Wunder, I., Gl\u00e4ser-Zikuda, M., Kammerl, R., Kopp, B., Ziegler, A., & H\u00e4ndel, M. (2020). \u201cGeneration invisible\u201c. Higher education students\u2019 (non)use of webcams in synchronous online learning. https://doi.org/10.31234/osf.io/7brp6",
+        "DOI": "10.31234/osf.io/7brp6"
+      },
+      {
+        "issue": "5",
+        "key": "282_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "617",
+        "DOI": "10.1177/0011392114548640",
+        "volume": "62",
+        "author": "F Beigel",
+        "year": "2014",
+        "unstructured": "Beigel, F. (2014). Introduction: current ensions and trends in the world scientific system. Current Sociology, 62(5), 617\u2013625. https://doi.org/10.1177/0011392114548640",
+        "journal-title": "Current Sociology"
+      },
+      {
+        "issue": "1",
+        "key": "282_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "1845923",
+        "DOI": "10.1080/25729861.2020.1845923",
+        "volume": "4",
+        "author": "F Beigel",
+        "year": "2021",
+        "unstructured": "Beigel, F. (2021). A multi-scale perspective for assessing publishing circuits in non-hegemonic countries. Tapuya: Latin American Science. Technology and Society, 4(1), 1845923. https://doi.org/10.1080/25729861.2020.1845923",
+        "journal-title": "Tapuya: Latin American Science. Technology and Society"
+      },
+      {
+        "key": "282_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "5",
+        "DOI": "10.37534/bp.jhssr.2020.v2.nS.id1069.p5",
+        "volume": "2",
+        "author": "BP Das",
+        "year": "2020",
+        "unstructured": "Bhuwandeep & Das, P. (2020). Emergency trends of emergency remote education in COVID-19: A thematic literature review. Journal of Humanities and Social Sciences Research, 2, 5\u201310. https://doi.org/10.37534/bp.jhssr.2020.v2.nS.id1069.p5.",
+        "journal-title": "Journal of Humanities and Social Sciences Research"
+      },
+      {
+        "issue": "2",
+        "key": "282_CR15",
+        "first-page": "191",
+        "volume": "15",
+        "author": "M Bond",
+        "year": "2020",
+        "unstructured": "Bond, M. (2020). Schools and emergency remote education during the COVID-19 pandemic: a living rapid systematic review. Asian Journal of Distance Education, 15(2), 191\u2013247.",
+        "journal-title": "Asian Journal of Distance Education"
+      },
+      {
+        "issue": "1",
+        "key": "282_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.5334/jime.528",
+        "volume": "2019",
+        "author": "M Bond",
+        "year": "2019",
+        "unstructured": "Bond, M., & Bedenlier, S. (2019). Facilitating student engagement through educational technology: towards a conceptual framework. Journal of Interactive Media in Education, 2019(1), 1\u201314. https://doi.org/10.5334/jime.528",
+        "journal-title": "Journal of Interactive Media in Education"
+      },
+      {
+        "key": "282_CR17",
+        "unstructured": "Bond, M., Bedenlier, S., H\u00e4ndel, M., & Mar\u00edn, V.I. (2021). Mapping the emerging field of research on \"emergency remote teaching\u201d in higher education due to COVID-19: implications for education research and practice. EPPI-Centre, UCL. https://eppi.ioe.ac.uk/cms/Default.aspx?tabid=3802"
+      },
+      {
+        "issue": "1",
+        "key": "282_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "2",
+        "DOI": "10.1186/s41239-019-0176-8",
+        "volume": "17",
+        "author": "M Bond",
+        "year": "2020",
+        "unstructured": "Bond, M., Buntins, K., Bedenlier, S., Zawacki-Richter, O., & Kerres, M. (2020). Mapping research in student engagement and educational technology in higher education: a systematic evidence map. International Journal of Educational Technology in Higher Education, 17(1), 2. https://doi.org/10.1186/s41239-019-0176-8",
+        "journal-title": "International Journal of Educational Technology in Higher Education"
+      },
+      {
+        "issue": "1",
+        "key": "282_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "12",
+        "DOI": "10.1111/bjet.12730",
+        "volume": "50",
+        "author": "M Bond",
+        "year": "2019",
+        "unstructured": "Bond, M., Zawacki-Richter, O., & Nichols, M. (2019). Revisiting five decades of educational technology research: a content and authorship analysis of the British Journal of Educational Technology. British Journal of Educational Technology, 50(1), 12\u201363. https://doi.org/10.1111/bjet.12730",
+        "journal-title": "British Journal of Educational Technology"
+      },
+      {
+        "issue": "4",
+        "key": "282_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "589",
+        "DOI": "10.1080/01587919.2020.1821610",
+        "volume": "41",
+        "author": "CJ Bonk",
+        "year": "2020",
+        "unstructured": "Bonk, C. J. (2020). Pandemic ponderings, 30 years to today: Synchronous signals, saviors, or survivors? Distance Education, 41(4), 589\u2013599. https://doi.org/10.1080/01587919.2020.1821610",
+        "journal-title": "Distance Education"
+      },
+      {
+        "issue": "4",
+        "key": "282_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "763",
+        "DOI": "10.1111/bjet.12344",
+        "volume": "47",
+        "author": "M Bower",
+        "year": "2016",
+        "unstructured": "Bower, M. (2016). Deriving a typology of Web 2.0 learning technologies. British Journal of Educational Technology, 47(4), 763\u2013777. https://doi.org/10.1111/bjet.12344",
+        "journal-title": "British Journal of Educational Technology"
+      },
+      {
+        "key": "282_CR95",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Bozkurt, A. (2020). Educational Technology Research Patterns in the Realm of the Digital Knowledge Age. Journal of Interactive Media in Education (1), 18. https://doi.org/10.5334/jime.570.",
+        "DOI": "10.5334/jime.570"
+      },
+      {
+        "issue": "1",
+        "key": "282_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.5281/zenodo.3878572",
+        "volume": "15",
+        "author": "A Bozkurt",
+        "year": "2020",
+        "unstructured": "Bozkurt, A., Jung, I., Xiao, J., Vladimirschi, V., Schuwer, R., Egorov, G., Lambert, S. R., Al-Freih, M., Pete, J., Olcott, D., Jr., Rodes, V., Aranciaga, I., Bali, M., Alvarez, A. V., Jr., Roberts, J., Pazurek, A., Raffaghelli, J. E., Panagiotou, N., de Co\u00ebtlogon, P., \u2026 Paskevicius, M. (2020). A global outlook to the interruption of education due to COVID-19 pandemic: Navigating in a time of uncertainty and crisis. Asian Journal of Distance Education, 15(1), 1\u2013126. https://doi.org/10.5281/zenodo.3878572",
+        "journal-title": "Asian Journal of Distance Education"
+      },
+      {
+        "issue": "3",
+        "key": "282_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "251",
+        "DOI": "10.1080/1475939X.2020.1743746",
+        "volume": "29",
+        "author": "M Brady",
+        "year": "2020",
+        "unstructured": "Brady, M., & O\u2019Reilly, N. (2020). Learning management systems and their impact on academic work. Technology, Pedagogy and Education, 29(3), 251\u2013268. https://doi.org/10.1080/1475939X.2020.1743746",
+        "journal-title": "Technology, Pedagogy and Education"
+      },
+      {
+        "issue": "2",
+        "key": "282_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.37074/jalt.2020.3.2.11",
+        "volume": "3",
+        "author": "K Butler-Henderson",
+        "year": "2020",
+        "unstructured": "Butler-Henderson, K., Crawford, J., Rudolph, J., Lalani, K., & Sabu, K. M. (2020). COVID-19 in Higher Education Literature Database (CHELD V1): an open access systematic literature review database with coding rules. Journal of Applied Learning & Teaching, 3(2), 1\u20136. https://doi.org/10.37074/jalt.2020.3.2.11",
+        "journal-title": "Journal of Applied Learning & Teaching"
+      },
+      {
+        "key": "282_CR25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s41239-018-0109-y",
+        "author": "L Casta\u00f1eda",
+        "year": "2018",
+        "unstructured": "Casta\u00f1eda, L., & Selwyn, N. (2018). More than tools? Making sense of the ongoing digitizations of higher education. International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-018-0109-y",
+        "journal-title": "International Journal of Educational Technology in Higher Education"
+      },
+      {
+        "key": "282_CR26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/ece3.7123",
+        "author": "FR Castelli",
+        "year": "2021",
+        "unstructured": "Castelli, F. R., & Sarvary, M. A. (2021). Why students do not turn on their video cameras during online classes and an equitable and inclusive plan to encourage them to do so. Ecology and Evolution. https://doi.org/10.1002/ece3.7123",
+        "journal-title": "Ecology and Evolution"
+      },
+      {
+        "key": "282_CR27",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chen, C. (2020). A glimpse of the first eight months of the COVID-19 literature on Microsoft Academic Graph: Themes, citation contexts, and uncertainties. Cornell University Library. https://arxiv.org/ftp/arxiv/papers/2009/2009.08374.pdf",
+        "DOI": "10.3389/frma.2020.607286"
+      },
+      {
+        "issue": "1",
+        "key": "282_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.4018/IJDET.20210101.oa1",
+        "volume": "19",
+        "author": "Z Chen",
+        "year": "2021",
+        "unstructured": "*Chen, Z., Jiao, J., & Hu, K. (2021). Formative assessment as an online instruction intervention. International Journal of Distance Education Technologies, 19(1), 1\u201316. https://doi.org/10.4018/IJDET.20210101.oa1",
+        "journal-title": "International Journal of Distance Education Technologies"
+      },
+      {
+        "issue": "1",
+        "key": "282_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "120",
+        "DOI": "10.37074/jalt.2020.3.1.7",
+        "volume": "3",
+        "author": "J Crawford",
+        "year": "2020",
+        "unstructured": "Crawford, J., Butler-Henderson, K., Rudolph, J., Malkawi, B., Glowatz, M., Burton, R., & Lam, S. (2020). COVID-19: 20 countries\u2019 higher education intra-period digital pedagogy responses. Journal of Applied Learning & Teaching, 3(1), 120. https://doi.org/10.37074/jalt.2020.3.1.7",
+        "journal-title": "Journal of Applied Learning & Teaching"
+      },
+      {
+        "issue": "2",
+        "key": "282_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "485",
+        "DOI": "10.1111/bjet.12757",
+        "volume": "50",
+        "author": "C Crook",
+        "year": "2019",
+        "unstructured": "Crook, C. (2019). The \u201cBritish\u201d voice of educational technology research: 50th birthday reflection. British Journal of Educational Technology, 50(2), 485\u2013489. https://doi.org/10.1111/bjet.12757",
+        "journal-title": "British Journal of Educational Technology"
+      },
+      {
+        "issue": "4",
+        "key": "282_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "523",
+        "DOI": "10.1080/02619768.2020.1815702",
+        "volume": "43",
+        "author": "RM Cutri",
+        "year": "2020",
+        "unstructured": "Cutri, R. M., Mena, J., & Whiting, E. F. (2020). Faculty readiness for online crisis teaching: transitioning to online teaching during the COVID-19 pandemic. European Journal of Teacher Education, 43(4), 523\u2013541. https://doi.org/10.1080/02619768.2020.1815702",
+        "journal-title": "European Journal of Teacher Education"
+      },
+      {
+        "issue": "3",
+        "key": "282_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "319",
+        "DOI": "10.2307/249008",
+        "volume": "13",
+        "author": "FD Davis",
+        "year": "1989",
+        "unstructured": "Davis, F. D. (1989). Perceived usefulness, rerceived ease of use, and user acceptance of information technology. MIS Quarterly, 13(3), 319. https://doi.org/10.2307/249008",
+        "journal-title": "MIS Quarterly"
+      },
+      {
+        "issue": "9",
+        "key": "282_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "2448",
+        "DOI": "10.1021/acs.jchemed.0c00717",
+        "volume": "97",
+        "author": "N Dietrich",
+        "year": "2020",
+        "unstructured": "*Dietrich, N., Kentheswaran, K., Ahmadi, A., Teychen\u00e9, J., Bessi\u00e8re, Y., Alfenore, S., Laborie, S., Bastoul, D., Loubi\u00e8re, K., Guigui, C., Sperandio, M., Barna, L., Paul, E., Cabassud, C., Lin\u00e9, A., & H\u00e9brard, G. (2020). Attempts, successes, and failures of distance learning in the time of COVID-19. Journal of Chemical Education, 97(9), 2448\u20132457. https://doi.org/10.1021/acs.jchemed.0c00717",
+        "journal-title": "Journal of Chemical Education"
+      },
+      {
+        "key": "282_CR34",
+        "unstructured": "Digital Solution Foundry, & EPPI-Centre. (2020). EPPI-Mapper (Version 1.2.5) [Computer software]. UCL Social Research Institute, University College London. http://eppimapper.digitalsolutionfoundry.co.za/#/"
+      },
+      {
+        "issue": "2",
+        "key": "282_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "1518",
+        "DOI": "10.30534/ijatcse/2020/93922020",
+        "volume": "9",
+        "author": "D Dwidienawati",
+        "year": "2020",
+        "unstructured": "*Dwidienawati, D., Abdinagoro, S. B., Tjahjana, D., Gandasari, D., et al. (2020). Forced shifting to e-learning during the covid-19 outbreak: information quality, system quality, service quality, and goal orientation influence to e-learning satisfaction and perceived performance. International Journal of Advanced Trends in Computer Science and Engineering, 9(2), 1518\u20131525. https://doi.org/10.30534/ijatcse/2020/93922020",
+        "journal-title": "International Journal of Advanced Trends in Computer Science and Engineering"
+      },
+      {
+        "issue": "2",
+        "key": "282_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "e1001603",
+        "DOI": "10.1371/journal.pmed.1001603",
+        "volume": "11",
+        "author": "JH Elliott",
+        "year": "2014",
+        "unstructured": "Elliott, J. H., Turner, T., Clavisi, O., Thomas, J., Higgins, J. P. T., Mavergames, C., & Gruen, R. L. (2014). Living systematic reviews: an emerging opportunity to narrow the evidence-practice gap. PLoS Medicine, 11(2), e1001603. https://doi.org/10.1371/journal.pmed.1001603",
+        "journal-title": "PLoS Medicine"
+      },
+      {
+        "key": "282_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "271",
+        "DOI": "10.1016/j.amsu.2020.10.058",
+        "volume": "60",
+        "author": "L Elsalem",
+        "year": "2020",
+        "unstructured": "*Elsalem, L., Al-Azzam, N., Jum\u2019ah, A. A., Obeidat, N., Sindiani, A. M., & Kheirallah, K. A. (2020). Stress and behavioral changes with remote E-exams during the Covid-19 pandemic: a cross-sectional study among undergraduates of medical sciences. Annals of Medicine and Surgery, 60, 271\u2013279. https://doi.org/10.1016/j.amsu.2020.10.058",
+        "journal-title": "Annals of Medicine and Surgery"
+      },
+      {
+        "key": "282_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "731",
+        "DOI": "10.28945/4628",
+        "volume": "19",
+        "author": "SKV Elumalai",
+        "year": "2020",
+        "unstructured": "*Elumalai SKV., Kalaichelvi, J. P., John, R., & Menon, J. A. (2020). Factors affecting the quality of e-learning during the COVID-19 pandemic from the perspective of higher education students. Journal of Information Technology Education-Research, 19, 731\u2013753. https://doi.org/10.28945/4628",
+        "journal-title": "Journal of Information Technology Education-Research"
+      },
+      {
+        "key": "282_CR39",
+        "unstructured": "EPPI-Centre, CRD, University of York, & PHES. (2021). COVID-19: a living systematic map of the evidence. https://eppi.ioe.ac.uk/cms/Projects/DepartmentofHealthandSocialCare/Publishedreviews/COVID-19Livingsystematicmapoftheevidence/tabid/3765/Default.aspx."
+      },
+      {
+        "issue": "4",
+        "key": "282_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "215824401246778",
+        "DOI": "10.1177/2158244012467788",
+        "volume": "2",
+        "author": "K Fisk",
+        "year": "2012",
+        "unstructured": "Fisk, K., Cherney, A., Hornsey, M., & Smith, A. (2012). Using computer-aided content analysis to map a research domain. SAGE Open, 2(4), 215824401246778. https://doi.org/10.1177/2158244012467788",
+        "journal-title": "SAGE Open"
+      },
+      {
+        "issue": "4",
+        "key": "282_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "2023",
+        "DOI": "10.3390/su13042023",
+        "volume": "13",
+        "author": "FJ Garc\u00eda-Pe\u00f1alvo",
+        "year": "2021",
+        "unstructured": "Garc\u00eda-Pe\u00f1alvo, F. J. (2021). Avoiding the dark side of digital transformation in teaching. An Institutional Reference Framework for eLearning in Higher Education. Sustainability, 13(4), 2023. https://doi.org/10.3390/su13042023.",
+        "journal-title": "Sustainability (Switzerland)"
+      },
+      {
+        "key": "282_CR42",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Giovannella, C. (2021). Effect induced by the Covid-19 Pandemic on students\u2019 perception about technologies and distance learning. In \u00d3. Mealha, M. Rehm, & T. Rebedea (Eds.), Ludic, Co-design and Tools Supporting Smart Learning Ecosystems and Smart Education (pp. 105\u2013116). Springer.",
+        "DOI": "10.1007/978-981-15-7383-5_9"
+      },
+      {
+        "issue": "10",
+        "key": "282_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "e0239490",
+        "DOI": "10.1371/journal.pone.0239490",
+        "volume": "15",
+        "author": "T Gonzalez",
+        "year": "2020",
+        "unstructured": "*Gonzalez, T., de la Rubia, M. A., Hincz, K. P., Comas-Lopez, M., Subirats, L., Fort, S., & Sacha, G. M. (2020). Influence of COVID-19 confinement on students\u2019 performance in higher education. PLoS ONE, 15(10), e0239490. https://doi.org/10.1371/journal.pone.0239490",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "282_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "82",
+        "DOI": "10.46661/ijeri.5126",
+        "volume": "15",
+        "author": "MD Gonz\u00e1lez-Zamar",
+        "year": "2021",
+        "unstructured": "Gonz\u00e1lez-Zamar, M. D., Abad-Segura, E., & Bernal-Bravoo, C. (2021). COVID-19 and creative university learning spaces. Research trends. International Journal of Educational Research and Innovation (IJERI), 15, 82\u2013100. https://doi.org/10.46661/ijeri.5126",
+        "journal-title": "International Journal of Educational Research and Innovation (IJERI)"
+      },
+      {
+        "key": "282_CR45",
+        "volume-title": "An introduction to systematic reviews",
+        "year": "2012",
+        "unstructured": "Gough, D., Oliver, S., & Thomas, J. (Eds.). (2012). An introduction to systematic reviews. Sage."
+      },
+      {
+        "key": "282_CR46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jrsm.1378",
+        "volume-title": "Which academic search systems are suitable for systematic reviews or meta-analyses? Evaluating retrieval qualities of Google Scholar, PubMed and 26 other resources",
+        "author": "M Gusenbauer",
+        "year": "2019",
+        "unstructured": "Gusenbauer, M., & Haddaway, N. R. (2019). Which academic search systems are suitable for systematic reviews or meta-analyses? Evaluating retrieval qualities of Google Scholar, PubMed and 26 other resources. Advance online publication. https://doi.org/10.1002/jrsm.1378"
+      },
+      {
+        "key": "282_CR47",
+        "unstructured": "H\u00e4ndel, M., Bedenlier, S., Mar\u00edn, V. I., & Bond, M. (2020). Mapping the emerging field of research on \u201cemergency remote teaching\u201d in higher education due to COVID-19: implications for education research and practice. https://osf.io/h5f8z"
+      },
+      {
+        "key": "282_CR48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/15391523.2020.1846147",
+        "author": "M H\u00e4ndel",
+        "year": "2020",
+        "unstructured": "H\u00e4ndel, M., Stephan, M., Gl\u00e4ser-Zikuda, M., Kopp, B., Bedenlier, S., & Ziegler, A. (2020). Digital readiness and its effects on higher education students\u2019 socio-emotional perceptions in the context of the COVID-19 pandemic. Journal of Research on Technology in Education. https://doi.org/10.1080/15391523.2020.1846147.",
+        "journal-title": "Journal of Research on Technology in Education"
+      },
+      {
+        "key": "282_CR49",
+        "first-page": "153",
+        "volume-title": "An introduction to systematic reviews",
+        "author": "A Harden",
+        "year": "2012",
+        "unstructured": "Harden, A., & Gough, D. (2012). Quality and relevance appraisal. In D. Gough, S. Oliver, & J. Thomas (Eds.), An introduction to systematic reviews (pp. 153\u2013178). Sage."
+      },
+      {
+        "issue": "7",
+        "key": "282_CR50",
+        "first-page": "1029",
+        "volume": "20",
+        "author": "I Harwood",
+        "year": "2015",
+        "unstructured": "Harwood, I., Gapp, R. P., & Stewart, H. (2015). Cross-check for completeness: exploring a novel use of leximancer in a grounded theory study. Qualitative Report, 20(7), 1029\u20131045.",
+        "journal-title": "Qualitative Report"
+      },
+      {
+        "issue": "3",
+        "key": "282_CR51",
+        "doi-asserted-by": "publisher",
+        "first-page": "956",
+        "DOI": "10.1111/bjet.12770",
+        "volume": "50",
+        "author": "KF Hew",
+        "year": "2019",
+        "unstructured": "Hew, K. F., Lan, M., Tang, Y., Jia, C., & Lo, C. K. (2019). Where is the \u201ctheory\u201d within the field of educational technology research? British Journal of Educational Technology, 50(3), 956\u2013971. https://doi.org/10.1111/bjet.12770",
+        "journal-title": "British Journal of Educational Technology"
+      },
+      {
+        "key": "282_CR52",
+        "unstructured": "Hodges, C., Moore, S., Lockee, B., Trust, T., & Bond, A. (2020). The Difference Between Emergency Remote Teaching and Online Learning. EDUCAUSE Review, 27. https://er.educause.edu/articles/2020/3/the-difference-between-emergency-remote-teaching-and-online-learning."
+      },
+      {
+        "issue": "9",
+        "key": "282_CR53",
+        "doi-asserted-by": "publisher",
+        "first-page": "2472",
+        "DOI": "10.1021/acs.jchemed.0c00736",
+        "volume": "97",
+        "author": "KA Jeffery",
+        "year": "2020",
+        "unstructured": "*Jeffery, K. A., & Bauer, C. F. (2020). Students\u2019 responses to emergency remote online teaching reveal critical factors for all teaching. Journal of Chemical Education, 97(9), 2472\u20132485. https://doi.org/10.1021/acs.jchemed.0c00736",
+        "journal-title": "Journal of Chemical Education"
+      },
+      {
+        "key": "282_CR54",
+        "unstructured": "Kaliisa, R., & Picard, M. (2017). A systematic review on mobile learning in higher education: the African perspective. Turkish Online Journal of Educational Technology, 16(1). https://files.eric.ed.gov/fulltext/EJ1124918.pdf."
+      },
+      {
+        "key": "282_CR55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/0309877X.2020.1826036",
+        "author": "A Klegeris",
+        "year": "2020",
+        "unstructured": "*Klegeris, A. (2020). Mixed-mode instruction using active learning in small teams improves generic problem-solving skills of university students. Journal of Further and Higher Education. https://doi.org/10.1080/0309877X.2020.1826036",
+        "journal-title": "Journal of Further and Higher Education"
+      },
+      {
+        "key": "282_CR56",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14763141.2020.1810306",
+        "author": "D Knudson",
+        "year": "2020",
+        "unstructured": "*Knudson, D. (2020). A tale of two instructional experiences: student engagement in active learning and emergency remote learning of biomechanics. Sports Biomechanics. https://doi.org/10.1080/14763141.2020.1810306",
+        "journal-title": "Sports Biomechanics"
+      },
+      {
+        "key": "282_CR57",
+        "unstructured": "Krippendorff, K. (2013). Content analysis: An introduction to its methodology (3rd edition). Sage."
+      },
+      {
+        "key": "282_CR58",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lemon, L. L., & Hayes, J. (2020). Enhancing trustworthiness of qualitative findings: Using Leximancer for qualitative data analysis triangulation. The Qualitative Report, 25(3), 604\u2013614. https://search.proquest.com/scholarly-journals/enhancing-trustworthiness-qualitative-findings/docview/2377697869/se-2?accountid=14511",
+        "DOI": "10.46743/2160-3715/2020.4222"
+      },
+      {
+        "issue": "1",
+        "key": "282_CR59",
+        "doi-asserted-by": "publisher",
+        "first-page": "56",
+        "DOI": "10.46786/ac20.8253",
+        "volume": "40",
+        "author": "A Littlejohn",
+        "year": "2020",
+        "unstructured": "*Littlejohn, A. (2020). Seeking and sending signals: remodelling teaching practice during the Covid-19 crisis. ACCESS Contemporary Issues in Education, 40(1), 56\u201362. https://doi.org/10.46786/ac20.8253",
+        "journal-title": "ACCESS Contemporary Issues in Education"
+      },
+      {
+        "key": "282_CR91",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Mar\u00edn, V. I., & Zawacki-Richter, O. (2019). Scientific communication between spanish and english educational technology journals. A Citation analysis of eight journals. Journal of New Approaches in Educational Research, 8(2), 96\u2013111. https://doi.org/10.7821/naer.2019.7.393.",
+        "DOI": "10.7821/naer.2019.7.393"
+      },
+      {
+        "key": "282_CR93",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Mar\u00edn, V. I., Duart, J., Galvis, A. H., & Zawacki-Richter, O. (2018). Thematic analysis of the international journal of educational Technology in Higher Education (ETHE) between 2004 and 2017. International Journal of Educational Technology in Higher Education, 15(8). https://doi.org/10.1186/s41239-018-0089-y.",
+        "DOI": "10.1186/s41239-018-0089-y"
+      },
+      {
+        "key": "282_CR94",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Mar\u00edn, V. I., Zawacki-Richter, O., P\u00e9rez Garc\u00edas, A., & Salinas, J. (2017). Tendencias en el \u00e1mbito de la Tecnolog\u00eda Educativa en Iberoam\u00e9rica: 20 a\u00f1os de la revista Edutec-e. Edutec. Revista Electr\u00f3nica De Tecnolog\u00eda Educativa, (59), a357. https://doi.org/10.21556/edutec.2017.59.836.",
+        "DOI": "10.21556/edutec.2017.59.836"
+      },
+      {
+        "key": "282_CR60",
+        "unstructured": "Marinoni, G., van\u2019t Land, H., & Jensen, T. (2020). The impact of Covid-19 on higher education around the world. IAU Global Survey Report."
+      },
+      {
+        "issue": "3",
+        "key": "282_CR61",
+        "doi-asserted-by": "publisher",
+        "first-page": "276",
+        "DOI": "10.11613/BM.2012.031",
+        "volume": "22",
+        "author": "ML McHugh",
+        "year": "2012",
+        "unstructured": "McHugh, M. L. (2012). Interrater reliability: the kappa statistic. Biochemia Medica, 22(3), 276\u2013282.",
+        "journal-title": "Biochemia Medica"
+      },
+      {
+        "key": "282_CR62",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Means, B., & Neisler, J. (2020). Unmasking inequality: STEM course experience during the COVID-19 pandemic. Digital Promise.",
+        "DOI": "10.51388/20.500.12265/102"
+      },
+      {
+        "key": "282_CR63",
+        "doi-asserted-by": "publisher",
+        "first-page": "100012",
+        "DOI": "10.1016/J.IJEDRO.2020.100012",
+        "volume": "1",
+        "author": "L Mishra",
+        "year": "2020",
+        "unstructured": "*Mishra, L., Gupta, T., & Shree, A. (2020). Online teaching-learning in higher education during lockdown period of COVID-19 pandemic. International Journal of Educational Research Open, 1, 100012. https://doi.org/10.1016/J.IJEDRO.2020.100012",
+        "journal-title": "International Journal of Educational Research Open"
+      },
+      {
+        "issue": "5",
+        "key": "282_CR64",
+        "doi-asserted-by": "publisher",
+        "first-page": "626",
+        "DOI": "10.1177/0011392113498866",
+        "volume": "62",
+        "author": "S Mosbah-Natanson",
+        "year": "2014",
+        "unstructured": "Mosbah-Natanson, S., & Gingras, Y. (2014). The globalization of social sciences? Evidence from a quantitative analysis of 30 years of production, collaboration and citations in the social sciences (1980\u20132009). Current Sociology, 62(5), 626\u2013646. https://doi.org/10.1177/0011392113498866",
+        "journal-title": "Current Sociology"
+      },
+      {
+        "key": "282_CR65",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Page, M. J., McKenzie, J., Bossuyt, P., Boutron, I., Hoffmann, T., Mulrow, C. D., Shamseer, L., Tetzlaff, J., Akl, E., Brennan, S. E., Chou, R., Glanville, J., Grimshaw, J., Hr\u00f3bjartsson, A., Lalu, M. M., Li, T., Loder, E., Mayo-Wilson, E., McDonald, S., Moher, D. (2020). The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. https://doi.org/10.31222/osf.io/v7gm2",
+        "DOI": "10.31222/osf.io/v7gm2"
+      },
+      {
+        "key": "282_CR66",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.infsof.2015.03.007",
+        "volume": "64",
+        "author": "K Petersen",
+        "year": "2015",
+        "unstructured": "Petersen, K., Vakkalanka, S., & Kuzniarz, L. (2015). Guidelines for conducting systematic mapping studies in software engineering: an update. Information and Software Technology, 64, 1\u201318. https://doi.org/10.1016/j.infsof.2015.03.007",
+        "journal-title": "Information and Software Technology"
+      },
+      {
+        "issue": "3",
+        "key": "282_CR68",
+        "doi-asserted-by": "publisher",
+        "first-page": "923",
+        "DOI": "10.1007/s42438-020-00155-y",
+        "volume": "2",
+        "author": "C Rapanta",
+        "year": "2020",
+        "unstructured": "*Rapanta, C., Botturi, L., Goodyear, P., Gu\u00e0rdia, L., & Koole, M. (2020). Online university teaching during and after the covid-19 crisis: refocusing teacher presence and learning activity. Postdigital Science and Education, 2(3), 923\u2013945. https://doi.org/10.1007/s42438-020-00155-y",
+        "journal-title": "Postdigital Science and Education"
+      },
+      {
+        "issue": "9",
+        "key": "282_CR69",
+        "doi-asserted-by": "publisher",
+        "first-page": "2819",
+        "DOI": "10.1021/acs.jchemed.0c00781",
+        "volume": "97",
+        "author": "J Rodr\u00edguez N\u00fa\u00f1ez",
+        "year": "2020",
+        "unstructured": "*Rodr\u00edguez N\u00fa\u00f1ez, J., & Leeuwner, J. (2020). Changing courses in midstream: COVID-19 and the transition to online delivery in two undergraduate chemistry courses. Journal of Chemical Education, 97(9), 2819\u20132824. https://doi.org/10.1021/acs.jchemed.0c00781",
+        "journal-title": "Journal of Chemical Education"
+      },
+      {
+        "key": "282_CR70",
+        "unstructured": "Sachsen. HZ (n.d.). Forschung rundum Lehren & Lernen in Zeiten von Corona [Research on teaching and learning in times of Corona]. https://padlet.com/HDS_Zentrum_Leipzig/vnify31nppydz75x. Accessed 4 Mar 2021."
+      },
+      {
+        "key": "282_CR71",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/ijerph17155618",
+        "author": "MC S\u00e1iz-Manzanares",
+        "year": "2020",
+        "unstructured": "*S\u00e1iz-Manzanares, M. C., Marticorena-S\u00e1nchez, R., & Ochoa-Orihuel, J. (2020). Effectiveness of using voice assistants in learning: A study at the time of COVID-19. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph17155618",
+        "journal-title": "International Journal of Environmental Research and Public Health"
+      },
+      {
+        "key": "282_CR72",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.21243/MI-02-20-31",
+        "author": "A Schm\u00f6lz",
+        "year": "2020",
+        "unstructured": "*Schm\u00f6lz, A., Geppert, C., & Barberi, A. (2020). Digitale Kluft: Teilhabebarrieren f\u00fcr Studierende durch universit\u00e4res home learning? Digital Gap: Participation barriers for students through university-based home learning. Medienimpulse. https://doi.org/10.21243/MI-02-20-31",
+        "journal-title": "Medienimpulse."
+      },
+      {
+        "issue": "9",
+        "key": "282_CR73",
+        "doi-asserted-by": "publisher",
+        "first-page": "2981",
+        "DOI": "10.1021/acs.jchemed.0c00699",
+        "volume": "97",
+        "author": "AW Scruggs",
+        "year": "2020",
+        "unstructured": "*Scruggs, A. W., Leamy, K. A., Cravens, S. L., & Siegel, S. J. (2020). Adapting a biochemistry lab course for distance-learning during the COVID-19 pandemic. Journal of Chemical Education, 97(9), 2981\u20132986. https://doi.org/10.1021/acs.jchemed.0c00699",
+        "journal-title": "Journal of Chemical Education"
+      },
+      {
+        "key": "282_CR74",
+        "doi-asserted-by": "publisher",
+        "first-page": "755",
+        "DOI": "10.28945/4615",
+        "volume": "19",
+        "author": "T Sharadgah",
+        "year": "2020",
+        "unstructured": "*Sharadgah, T., & Sa\u2019di, R. (2020). Preparedness of institutions of higher education for assessment in virtual learning environments during the COVID-19 lockdown: evidence of bona fide challenges and pragmatic solutions. Journal of Information Technology Education: Research, 19, 755\u2013774. https://doi.org/10.28945/4615",
+        "journal-title": "Journal of Information Technology Education: Research"
+      },
+      {
+        "issue": "1",
+        "key": "282_CR75",
+        "doi-asserted-by": "publisher",
+        "first-page": "5",
+        "DOI": "10.3102/0013189X08314117",
+        "volume": "37",
+        "author": "RE Slavin",
+        "year": "2008",
+        "unstructured": "Slavin, R. E. (2008). Perspectives on evidence-based research in education\u2014what works? Issues in synthesizing educational program evaluations. Educational Researcher, 37(1), 5\u201314. https://doi.org/10.3102/0013189X08314117",
+        "journal-title": "Educational Researcher"
+      },
+      {
+        "issue": "2",
+        "key": "282_CR76",
+        "doi-asserted-by": "publisher",
+        "first-page": "262",
+        "DOI": "10.3758/BF03192778",
+        "volume": "38",
+        "author": "A Smith",
+        "year": "2006",
+        "unstructured": "Smith, A., & Humphreys, M. S. (2006). Evaluation of unsupervised semantic mapping of natual language with Leximancer concept mapping. Behavior Research Methods, 38(2), 262\u2013279. https://doi.org/10.3758/BF03192778",
+        "journal-title": "Behavior Research Methods"
+      },
+      {
+        "issue": "11",
+        "key": "282_CR78",
+        "doi-asserted-by": "publisher",
+        "first-page": "e05410",
+        "DOI": "10.1016/J.HELIYON.2020.E05410",
+        "volume": "6",
+        "author": "S Sukendro",
+        "year": "2020",
+        "unstructured": "*Sukendro, S., Habibi, A., Khaeruddin, K., Indrayana, B., Syahruddin, S., Makadada, F. A., & Hakim, H. (2020). Using an extended Technology Acceptance Model to understand students\u2019 use of e-learning during Covid-19: Indonesian sport science education context. Heliyon, 6(11), e05410. https://doi.org/10.1016/J.HELIYON.2020.E05410",
+        "journal-title": "Heliyon"
+      },
+      {
+        "key": "282_CR79",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tight, M. (2018). Higher education research: The developing field. Bloomsbury Academic",
+        "DOI": "10.5040/9781474283779"
+      },
+      {
+        "key": "282_CR80",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02671522.2019.1633560",
+        "author": "M Tight",
+        "year": "2019",
+        "unstructured": "Tight, M. (2019). Globalization and internationalization as frameworks for higher education research. Research Papers in Education. https://doi.org/10.1080/02671522.2019.1633560",
+        "journal-title": "Research Papers in Education"
+      },
+      {
+        "key": "282_CR81",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tight, M. (2020). Syntheses of higher education research: what we know. Bloomsbury Academic.",
+        "DOI": "10.5040/9781350128767"
+      },
+      {
+        "key": "282_CR92",
+        "unstructured": "Thomas, J., Graziosi, S., Brunton, J., Ghouze, Z., O\u2019Driscoll, P., & Bond, M. (2020). EPPI-Reviewer: Advanced software for systematic reviews, maps and evidence synthesis. EPPI-Centre Software. UCL Social Research Institute. https://eppi.ioe.ac.uk/cms/Default.aspx?tabid=2914"
+      },
+      {
+        "key": "282_CR82",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Torres-Salinas, D., Robinson-Garcia, N., & Castillo-Valdivieso, P.A. (2020). Open access and Altmetrics in the pandemic age: Forecast analysis on COVID-19 literature. bioRxiv preprint doi: https://doi.org/10.1101/2020.04.23.057307",
+        "DOI": "10.1101/2020.04.23.057307"
+      },
+      {
+        "key": "282_CR83",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Tricco, A. C., Garritty, C. M., Boulos, L., Lockwood, C., Wilson, M., McGowan, J., McCaul, M., Hutton, B., Clement, F., Mittmann, N., Devane, D., Langlois, E. V., Abou-Setta, A. M., Houghton, C., Glenton, C., Kelly, S. E., Welch, V. A., LeBlanc, A., Wells, G. A., Straus, S. E. (2020). Rapid review methods more challenging during COVID-19: Commentary with a focus on 8 knowledge synthesis steps. Journal of Clinical Epidemiology. Advance online publication. https://doi.org/10.1016/j.jclinepi.2020.06.029",
+        "DOI": "10.1016/j.jclinepi.2020.06.029"
+      },
+      {
+        "key": "282_CR84",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.15220/978-92-9189-179-5-en",
+        "author": "UNESCO",
+        "year": "2015",
+        "unstructured": "UNESCO. (2015). International Standard Classification of Education: Fields of education and training 2013 (ISCED-F 2013) Detailed field descriptions. UNESCO Institute for Statistics. https://doi.org/10.15220/978-92-9189-179-5-en",
+        "journal-title": "UNESCO Institute for Statistics"
+      },
+      {
+        "issue": "4",
+        "key": "282_CR85",
+        "doi-asserted-by": "publisher",
+        "first-page": "281",
+        "DOI": "10.3217/zfhe-15-04/16",
+        "volume": "15",
+        "author": "C Vallaster",
+        "year": "2020",
+        "unstructured": "Vallaster, C., & Sageder, M. (2020). Ver\u00e4ndert Covid-19 die Akzeptanz virtueller Lehrformate in der Hochschulausbildung? Implikationen f\u00fcr die Hochschulentwicklung [Does Covid-19 change the acceptance of virtual teaching formats in higher education? Implications for Higher Education Development]. Zeitschrift F\u00fcr Hochschulentwicklung, 15(4), 281\u2013301. https://doi.org/10.3217/zfhe-15-04/16",
+        "journal-title": "Zeitschrift F\u00fcr Hochschulentwicklung"
+      },
+      {
+        "key": "282_CR86",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.46451/ijclt.2020.06.01",
+        "author": "D Wang",
+        "year": "2020",
+        "unstructured": "*Wang, D., & East, M. (2020). Constructing an emergency Chinese curriculum during the Pandemic: a New Zealand experience. International Journal of Chinese Language Teaching. https://doi.org/10.46451/ijclt.2020.06.01",
+        "journal-title": "International Journal of Chinese Language Teaching"
+      },
+      {
+        "key": "282_CR87",
+        "doi-asserted-by": "publisher",
+        "unstructured": "* Wang, K., Zhang, L., & Ye, L. (2020). A nationwide survey of online teaching strategies in dental education in China. Journal of Dental Education. Advance online publication. https://doi.org/10.1002/jdd.12413",
+        "DOI": "10.1002/jdd.12413"
+      },
+      {
+        "key": "282_CR88",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-658-27602-7",
+        "volume-title": "Systematic reviews in educational research",
+        "author": "O Zawacki-Richter",
+        "year": "2020",
+        "unstructured": "Zawacki-Richter, O., Kerres, M., Bedenlier, S., Bond, M., & Buntins, K. (2020). Systematic reviews in educational research. Springer. https://doi.org/10.1007/978-3-658-27602-7"
+      },
+      {
+        "key": "282_CR89",
+        "doi-asserted-by": "publisher",
+        "first-page": "136",
+        "DOI": "10.1016/j.compedu.2018.04.001",
+        "volume": "122",
+        "author": "O Zawacki-Richter",
+        "year": "2018",
+        "unstructured": "Zawacki-Richter, O., & Latchem, C. (2018). Exploring four decades of research in Computers & Education. Computers & Education, 122, 136\u2013152. https://doi.org/10.1016/j.compedu.2018.04.001",
+        "journal-title": "Computers & Education"
+      },
+      {
+        "key": "282_CR90",
+        "doi-asserted-by": "publisher",
+        "first-page": "29",
+        "DOI": "10.1007/s11125-020-09477-y",
+        "volume": "49",
+        "author": "Y Zhao",
+        "year": "2020",
+        "unstructured": "Zhao, Y. (2020). COVID-19 as a catalyst for educational change. Prospects, 49, 29\u201333. https://doi.org/10.1007/s11125-020-09477-y",
+        "journal-title": "Prospects"
+      },
+      {
+        "key": "282_CR101",
+        "unstructured": "*Please note that studies included within the review corpus are listed with an asterisk"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1186/s41239-021-00298-3",
+        "type": "correction",
+        "label": "Correction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2021,
+              9,
+              22
+            ]
+          ],
+          "date-time": "2021-09-22T00:00:00Z",
+          "timestamp": 1632268800000
+        }
+      }
+    ],
+    "container-title": [
+      "International Journal of Educational Technology in Higher Education"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1186/s41239-021-00282-x.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1186/s41239-021-00282-x/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1186/s41239-021-00282-x.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          8
+        ]
+      ],
+      "date-time": "2023-01-08T02:41:30Z",
+      "timestamp": 1673145690000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-021-00282-x"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          30
+        ]
+      ]
+    },
+    "references-count": 94,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "282"
+    ],
+    "URL": "https://doi.org/10.1186/s41239-021-00282-x",
+    "relation": {},
+    "ISSN": [
+      "2365-9440"
+    ],
+    "issn-type": [
+      {
+        "value": "2365-9440",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          30
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "16 March 2021",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "18 June 2021",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "30 August 2021",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "22 September 2021",
+        "order": 4,
+        "name": "change_date",
+        "label": "Change Date",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "Correction",
+        "order": 5,
+        "name": "change_type",
+        "label": "Change Type",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "A Correction to this paper has been published:",
+        "order": 6,
+        "name": "change_details",
+        "label": "Change Details",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "https://doi.org/10.1186/s41239-021-00298-3",
+        "URL": "https://doi.org/10.1186/s41239-021-00298-3",
+        "order": 7,
+        "name": "change_details",
+        "label": "Change Details",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "Two of the authors of this review have two studies included within the corpus. However, these were checked by the other authors and were found to meet the study inclusion criteria.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing interests"
+        }
+      }
+    ],
+    "article-number": "50"
+  }
+}

@@ -31,11 +31,11 @@ This article examines a delivery problem in online Chinese teaching: a course ma
 
 ## 1. Introduction
 
-The problem is this: when language teaching is moved online, the course often keeps the hours, platforms, and classroom tasks of the original class (Gacs et al., 2020; Hodges et al., 2020; Stockwell & Wang, 2023). Research on online language teaching, and on online international Chinese teaching, has already shown that those arrangements can fail where networks are unstable, platforms are hard to use, interaction thins out, or learners are under strain (Li & Li, 2024; Moser et al., 2021; Tao & Gao, 2022). Studies of household and university e-learning in Pakistan have likewise documented uneven internet access, device sharing, and electricity interruptions (Jamil & Muschert, 2023; Raza & Hennessy, 2025). Owning a device is not the same as being able to take part (Ali, 2020; Warschauer, 2003). If household power, network speed, or platform access does not support the required class, the content may remain appropriate while the class is closed. That is a delivery problem, not a content problem. This article examines that problem.
+The problem is this: when language teaching is moved online, the course often keeps the hours, platforms, and classroom tasks of the original class (Gacs et al., 2020; Hodges et al., 2020; Stockwell & Wang, 2023). Guides to online language tasks still assume that learners can join a live or collaborative session (González-Lloret, 2020; Payne, 2020). Research on online language teaching, and on online international Chinese teaching, has already shown that those arrangements can fail where networks are unstable, platforms are hard to use, interaction thins out, or learners are under strain (Li & Li, 2024; Moser et al., 2021; Russell, 2020; Tao & Gao, 2022). Digital-inequality research, including studies of online learning in China and of household and university e-learning in Pakistan, has documented uneven internet access, device sharing, and electricity interruptions (Beaunoyer et al., 2020; Guo & Wan, 2022; Jamil & Muschert, 2023; Raza & Hennessy, 2025). Owning a device is not the same as being able to take part (Ali, 2020; Warschauer, 2003). If household power, network speed, or platform access does not support the required class, the content may remain appropriate while the class is closed. That is a delivery problem, not a content problem. This article examines that problem. Distance language learning had already raised that feasibility question before the pandemic (White, 2006).
 
 The field has already described how that problem appears: uneven network conditions, platforms that are hard to operate, thinner classroom interaction, and unstable learner affect (Li & Li, 2024; Tao & Gao, 2022; Zhang et al., 2020). The purpose of the article is to describe those learner-side conditions in this sample, and to examine how they sat alongside stress, interaction, and respondents’ appraisals of learning. Time-zone difference and the absence of a Chinese-speaking environment have also been listed as field problems. The present questionnaire did not measure them, so they are left aside. The study also does not treat respondents as students who had returned home or who were unable to re-enter campus. Those were common emergency-period situations; they are not established facts in this dataset.
 
-The problem is easy to miss because international Chinese language education has become skilled at localising what a course *says*: its examples, cultural content, and materials (Lu et al., 2024; McDonough & Shaw, 2003; Tomlinson, 2011; Zhao, 2020). It has said much less about whether an *online* Chinese course can still be *taken*. Language, culture, and curriculum meet not only in the textbook but in the setting of the class (Guerrettaz et al., 2021; van Lier, 2004). Research in the field has mapped learners and pedagogical practices associated with Chinese-speaking educational settings (Gong et al., 2020b; Ma et al., 2017). Postmethod and localist scholarship already argues that pedagogy should answer to a particular group and place (Canagarajah, 2005; Kumaravadivelu, 2001), and recent articles in this journal treat curriculum as lived practice (Lam, 2024; Shan & Xu, 2024). These approaches remain necessary. They do not, by themselves, tell us whether the institutional arrangements of online Chinese teaching—its time, platforms, tasks, participation mode, and assessment—remain feasible where learners participate.
+The problem is easy to miss because international Chinese language education has become skilled at localising what a course *says*: its examples, cultural content, and materials (Lu et al., 2024; McDonough & Shaw, 2003; Tomlinson, 2011; Zhao, 2020). It has said much less about whether an *online* Chinese course can still be *taken*. Language, culture, and curriculum meet not only in the textbook but in the setting of the class (Guerrettaz et al., 2021; van Lier, 2004). Research in the field has mapped learners and pedagogical practices associated with Chinese-speaking educational settings (Gong et al., 2020b; Ma et al., 2017). Postmethod and localist scholarship already argues that pedagogy should answer to a particular group and place (Canagarajah, 2005; Kumaravadivelu, 2001), and recent articles in this journal treat curriculum as lived practice and publish student questionnaires on how courses are experienced (Lam, 2024; Shan & Xu, 2024; Zhang & Pladevall-Ballester, 2021). These approaches remain necessary. They do not, by themselves, tell us whether the institutional arrangements of online Chinese teaching—its time, platforms, tasks, participation mode, and assessment—remain feasible where learners participate.
 
 The questionnaire cannot show how institutions adapted time, platform, task, participation mode, or assessment. It can show the learner-side conditions of household infrastructure and platform access, and how those conditions sat alongside stress and appraisals of online learning.
 
@@ -57,13 +57,13 @@ Those answers are used to show that the problem of online Chinese teaching is, i
 
 ### 2.1 Later lenses on online Chinese teaching
 
-Hodges et al. (2020) drew a useful line between emergency remote teaching and planned online or blended provision. Gacs, Goertler and Spasova (2020) brought that distinction into language education. Surveys of language teachers from the same period describe heavier workloads, stress, and uneven preparedness once teaching moved online (MacIntyre et al., 2020; Moser et al., 2021), and Tao and Gao (2022) read the wider literature as a story of technical disruption, thinner engagement, and the need for language-specific support. That work locates the moment in which the present questionnaire was completed. It is not used as a substitute for the stress reports in this sample, and it is not the lens through which the problem is now read.
+Hodges et al. (2020) drew a useful line between emergency remote teaching and planned online or blended provision. Gacs, Goertler and Spasova (2020) brought that distinction into language education. Bond et al. (2021) mapped that first global online semester, and Adedoyin and Soykan (2020) summarised the infrastructural as well as pedagogical strain. Surveys of language teachers from the same period describe heavier workloads, stress, and uneven preparedness once teaching moved online (MacIntyre et al., 2020; Moorhouse & Kohnke, 2021; Moser et al., 2021). Tao and Gao (2022) read the wider literature as a story of technical disruption, thinner engagement, and the need for language-specific support. Russell (2020) treats language anxiety as a condition of the online learner, and Lomicka (2020) treats interaction as a problem of virtual community rather than of a copied campus hour. That work locates the moment in which the present questionnaire was completed. It is not used as a substitute for the stress reports in this sample, and it is not the lens through which the problem is now read.
 
-The later literature is. After the return to campus, studies of technological normalisation asked what should remain of emergency online practice (Moorhouse, 2023; Moorhouse, Wong, & Li, 2023) and cautioned against treating a videoconference copy of the classroom as the main lesson of the crisis (Stockwell & Wang, 2023). For Chinese, contemporaneous accounts recorded the policy of “suspending classes without stopping learning” and early platform trials (Xia et al., 2022; Zhang et al., 2020). That writing already listed the same cluster of difficulties that still organise this article: networks, platforms, interaction, and learner affect. Xu et al. (2022) show how character teaching was adapted on the sending side. What makes those findings still usable is the later ICLE writing: reviews of online teaching models continue to list technical problems, weak interaction, and time-zone difficulty (Li & Li, 2024); designed online Chinese-culture courses show a planned alternative to emergency copying (Guenier et al., 2026); and learner emotion in Chinese as an additional language is already a topic in this journal (Wen & Liu, 2025). Much of that writing still assumes a relatively stable connection. The present questionnaire cannot test whether that assumption holds for current hybrid ICLE. It can show, under the later lens of delivery-context fit, what 38 respondents reported when online Chinese teaching asked them to join a travelling course.
+The later literature is. After the return to campus, studies of technological normalisation asked what should remain of emergency online practice (Moorhouse, 2023; Moorhouse, Wong, & Li, 2023) and cautioned against treating a videoconference copy of the classroom as the main lesson of the crisis (Stockwell & Wang, 2023). For Chinese, contemporaneous accounts recorded the policy of “suspending classes without stopping learning” and early platform trials (Xia et al., 2022; Zhang et al., 2020). That writing already listed the same cluster of difficulties that still organise this article: networks, platforms, interaction, and learner affect. Xu et al. (2022) show how character teaching was adapted on the sending side. Jin et al. (2023) report world-language faculty perceptions of pandemic online teaching. Zhang and Liu (2023) examine online collaborative writing among Chinese-language learners in designed synchronous and asynchronous conditions, which is planned online work rather than a copy of the campus hour. What makes those findings still usable is the later ICLE writing: reviews of online teaching models continue to list technical problems, weak interaction, and time-zone difficulty (Li & Li, 2024); designed online Chinese-culture courses show a planned alternative to emergency copying (Guenier et al., 2026); and learner emotion in Chinese as an additional language is already a topic in this journal (Wen & Liu, 2025). Much of that writing still assumes a relatively stable connection. The present questionnaire cannot test whether that assumption holds for current hybrid ICLE. It can show, under the later lens of delivery-context fit, what 38 respondents reported when online Chinese teaching asked them to join a travelling course.
 
 ### 2.2 Digital inequality and the home learning ecology
 
-Later models of the digital divide distinguish motivational, material, skills, usage, and outcome access (Helsper, 2021; van Dijk, 2020; Warschauer, 2003). Owning a device is not the same as being able to take part (Ali, 2020). Interview research on Pakistani university e-learning during COVID-19 found uneven first-level access (internet and devices) and second-level skills, with rural and less-resourced students more exposed (Jamil & Muschert, 2023). Household use of educational technology is also shaped by device sharing, care work, and electricity (Raza & Hennessy, 2025). The latter source is a grey-literature report, and neither study is treated as evidence about the 38 respondents here; both are cited only as background for the nationality most of them reported.
+Later models of the digital divide distinguish motivational, material, skills, usage, and outcome access (Helsper, 2021; van Dijk, 2020; Warschauer, 2003). Owning a device is not the same as being able to take part (Ali, 2020; Beaunoyer et al., 2020). Guo and Wan (2022) document that divide in online learning in China. Interview research on Pakistani university e-learning during COVID-19 found uneven first-level access (internet and devices) and second-level skills, with rural and less-resourced students more exposed (Jamil & Muschert, 2023). Household use of educational technology is also shaped by device sharing, care work, and electricity (Raza & Hennessy, 2025). The latter source is a grey-literature report, and neither study is treated as evidence about the 38 respondents here; both are cited only as background for the nationality most of them reported.
 
 An ecological view of language education takes the setting of the class, not only the student and the application, as the unit of analysis (Guerrettaz et al., 2021; van Lier, 2004). The conditions reported in this questionnaire—domestic space, paid or care work, and the circumstances of speaking in class—are therefore read as elements of respondents’ immediate learning ecologies. Power interruptions, applications marked unusable, and weak bandwidth are material and infrastructural facts, not cultural traits.
 
@@ -261,7 +261,13 @@ See `analysis/supplementary_stats.md` for full tables. Summary: female × cannot
 
 ## References
 
+Adedoyin, O. B., & Soykan, E. (2020). Covid-19 pandemic and online learning: The challenges and opportunities. *Interactive Learning Environments, 31*(2), 863-875. https://doi.org/10.1080/10494820.2020.1813180
+
 Ali, W. (2020). Online and remote learning in higher education institutes: A necessity in light of COVID-19 pandemic. *Higher Education Studies, 10*(3), 16-25. https://doi.org/10.5539/hes.v10n3p16
+
+Beaunoyer, E., Dupéré, S., & Guitton, M. J. (2020). COVID-19 and digital inequalities: Reciprocal impacts and mitigation strategies. *Computers in Human Behavior, 111*, Article 106424. https://doi.org/10.1016/j.chb.2020.106424
+
+Bond, M., Bedenlier, S., Marín, V. I., & Händel, M. (2021). Emergency remote teaching in higher education: Mapping the first global online semester. *International Journal of Educational Technology in Higher Education, 18*(1), Article 50. https://doi.org/10.1186/s41239-021-00282-x
 
 Canagarajah, A. S. (Ed.). (2005). *Reclaiming the local in language policy and practice*. Lawrence Erlbaum.
 
@@ -273,9 +279,13 @@ Gong, Y., Gao, X., Li, M., & Lai, C. (2020a). Cultural adaptation challenges and
 
 Gong, Y., Gao, X., & Lyu, B. (2020b). Teaching Chinese as a second or foreign language to non-Chinese learners in mainland China (2014-2018). *Language Teaching, 53*(1), 44-62. https://doi.org/10.1017/S0261444819000387
 
+González-Lloret, M. (2020). Collaborative tasks for online language teaching. *Foreign Language Annals, 53*(2), 260-269. https://doi.org/10.1111/flan.12466
+
 Guenier, A. W., Xing, M., & Yan, J. (2026). From barriers to breakthroughs: Communicating Chinese culture to Irish learners with a multimodality online course. *Language, Culture and Curriculum*. Advance online publication. https://doi.org/10.1080/07908318.2026.2626775
 
 Guerrettaz, A. M., Engman, M. M., & Matsumoto, Y. (2021). Empirically defining language learning and teaching materials in use through sociomaterial perspectives. *The Modern Language Journal, 105*(S1), 3-20. https://doi.org/10.1111/modl.12691
+
+Guo, C., & Wan, B. (2022). The digital divide in online learning in China during the COVID-19 pandemic. *Technology in Society, 71*, Article 102122. https://doi.org/10.1016/j.techsoc.2022.102122
 
 Helsper, E. (2021). *The digital disconnect: The social causes and consequences of digital inequalities*. SAGE.
 
@@ -283,11 +293,15 @@ Hodges, C., Moore, S., Lockee, B., Trust, T., & Bond, A. (2020). The difference 
 
 Jamil, S., & Muschert, G. (2023). The COVID-19 pandemic and e-learning: The digital divide and educational crises in Pakistan’s universities. *American Behavioral Scientist, 68*(9), 1161-1179. https://doi.org/10.1177/00027642231156779
 
+Jin, L., Xu, Y., & Deifell, E. (2023). College-level world language faculty background characteristics and their perceptions of online language teaching during the pandemic. *Foreign Language Annals, 57*(1), 137-162. https://doi.org/10.1111/flan.12689
+
 Kumaravadivelu, B. (2001). Toward a postmethod pedagogy. *TESOL Quarterly, 35*(4), 537-560. https://doi.org/10.2307/3588427
 
 Lam, K. Y. (2024). At the intersection of multiliteracies and glocalisation: A case study in a university in Taiwan. *Language, Culture and Curriculum, 37*(4), 472-496. https://doi.org/10.1080/07908318.2024.2354874
 
 Li, J., & Li, C. (2024). A scoping review of the research on the teaching models of online international Chinese language teaching. *Journal of Education and Learning, 13*(4), Article 255. https://doi.org/10.5539/jel.v13n4p255
+
+Lomicka, L. (2020). Creating and sustaining virtual language communities. *Foreign Language Annals, 53*(2), 306-313. https://doi.org/10.1111/flan.12456
 
 Lu, X., Tan, A., Ma, Y., Feng, H., & Hanif, B. (2024). Scenario analysis of localization and adaptation of Chinese language teaching. *Pakistan Journal of Humanities and Social Sciences, 12*(4), 3257-3281. https://doi.org/10.52131/pjhss.2024.v12i4.2553
 
@@ -305,7 +319,11 @@ Moorhouse, B. L., Wong, K. M., & Li, L. (2023). Teaching with technology in the 
 
 Moser, K. M., Wei, T., & Brenner, D. (2021). Remote teaching during COVID-19: Implications from a national survey of language educators. *System, 97*, Article 102431. https://doi.org/10.1016/j.system.2020.102431
 
+Payne, J. S. (2020). Developing L2 productive language skills online and the strategic use of instructional tools. *Foreign Language Annals, 53*(2), 243-249. https://doi.org/10.1111/flan.12457
+
 Raza, O., & Hennessy, S. (2025). *Exploring the gender differences in technology use for educational purposes at home among students in Pakistan*. EdTech Hub. https://doi.org/10.53832/edtechhub.1099
+
+Russell, V. (2020). Language anxiety and the online learner. *Foreign Language Annals, 53*(2), 338-352. https://doi.org/10.1111/flan.12461
 
 Shan, Z., & Xu, H. (2024). Students' conceptions and experiences of institutionalised curriculum for multilingual learning: The case of a dual-foreign-languages programme. *Language, Culture and Curriculum, 37*(2), 230-246. https://doi.org/10.1080/07908318.2024.2313984
 
@@ -325,9 +343,15 @@ Warschauer, M. (2003). *Technology and social inclusion: Rethinking the digital 
 
 Wen, X., & Liu, F. (2025). Emotional dynamics of advanced Chinese as a second language learners: A Q methodology study. *Language, Culture and Curriculum, 38*(3), 380-400. https://doi.org/10.1080/07908318.2025.2486449
 
+White, C. (2006). Distance learning of foreign languages. *Language Teaching, 39*(4), 247-264. https://doi.org/10.1017/S0261444806003727
+
 Xia, Y., Hu, Y., Wu, C., Yang, L., & Lei, M. (2022). Challenges of online learning amid the COVID-19: College students’ perspective. *Frontiers in Psychology, 13*, 1037311. https://doi.org/10.3389/fpsyg.2022.1037311
 
 Xu, Y., Jin, L., Deifell, E., & Angus, K. (2022). Facilitating technology-based character learning in emergency remote teaching. *Foreign Language Annals, 55*(1), 72-97. https://doi.org/10.1111/flan.12541
+
+Zhang, M., & Liu, Q. (2023). Synchronous and asynchronous online collaborative writing: A study on Chinese language learners. *Foreign Language Annals, 56*(3), 740-763. https://doi.org/10.1111/flan.12704
+
+Zhang, M., & Pladevall-Ballester, E. (2021). Students’ attitudes and perceptions towards three EMI courses in mainland China. *Language, Culture and Curriculum, 35*(2), 200-216. https://doi.org/10.1080/07908318.2021.1979576
 
 Zhang, W., Wang, Y., Yang, L., & Wang, C. (2020). Suspending classes without stopping learning: China’s education emergency management policy in the COVID-19 outbreak. *Journal of Risk and Financial Management, 13*(3), 55. https://doi.org/10.3390/jrfm13030055
 

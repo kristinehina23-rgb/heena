@@ -1,0 +1,814 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          21
+        ]
+      ],
+      "date-time": "2026-08-21T12:28:50Z",
+      "timestamp": 1787315330164,
+      "version": "3.56.0"
+    },
+    "reference-count": 50,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2022-11-01T00:00:00Z",
+          "timestamp": 1667260800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2022-11-01T00:00:00Z",
+          "timestamp": 1667260800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2022-11-01T00:00:00Z",
+          "timestamp": 1667260800000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2022-11-01T00:00:00Z",
+          "timestamp": 1667260800000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2022-11-01T00:00:00Z",
+          "timestamp": 1667260800000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2022-11-01T00:00:00Z",
+          "timestamp": 1667260800000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2022-11-01T00:00:00Z",
+          "timestamp": 1667260800000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Technology in Society"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.techsoc.2022.102122",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          13
+        ]
+      ],
+      "date-time": "2022-09-13T06:34:17Z",
+      "timestamp": 1663050857000
+    },
+    "page": "102122",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 81,
+    "special_numbering": "C",
+    "title": [
+      "The digital divide in online learning in China during the COVID-19 pandemic"
+    ],
+    "prefix": "10.1016",
+    "volume": "71",
+    "author": [
+      {
+        "given": "Congbin",
+        "family": "Guo",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2458-2442",
+        "authenticated-orcid": false,
+        "given": "Boshen",
+        "family": "Wan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.techsoc.2022.102122_bib1",
+        "series-title": "International Handbook of Mathematics Education",
+        "first-page": "469",
+        "article-title": "Computer-based learning environments in mathematics[M]",
+        "author": "Balacheff",
+        "year": "1996"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.techsoc.2022.102122_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "31",
+        "DOI": "10.3102/0162373716662339",
+        "article-title": "Effects of a summer mathematics intervention for low-income children: a randomized experiment[J]",
+        "volume": "39",
+        "author": "Lynch",
+        "year": "2017",
+        "journal-title": "Educ. Eval. Pol. Anal."
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.techsoc.2022.102122_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "235",
+        "DOI": "10.1162/daed_a_01769",
+        "article-title": "The human factor: the promise & limits of online education[J]",
+        "volume": "148",
+        "author": "Baum",
+        "year": "2019",
+        "journal-title": "Daedalus"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.techsoc.2022.102122_bib4",
+        "article-title": "From the \u2018digital divide\u2019 to \u2018digital inequality\u2019: studying internet use as penetration increases[J]",
+        "volume": "4",
+        "author": "DiMaggio",
+        "year": "2001",
+        "journal-title": "Center for Arts and Cultural Policy Studies, Woodrow Wilson School, Princeton University"
+      },
+      {
+        "key": "10.1016/j.techsoc.2022.102122_bib5",
+        "series-title": "Beyond COVID-19 Supernova. Is Another Education coming?[J]",
+        "author": "Azor\u00edn",
+        "year": "2020"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.techsoc.2022.102122_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "562",
+        "DOI": "10.1177/0895904804266469",
+        "article-title": "Technology and equity in schooling: deconstructing the digital divide[J]",
+        "volume": "18",
+        "author": "Warschauer",
+        "year": "2004",
+        "journal-title": "Educ. Pol."
+      },
+      {
+        "key": "10.1016/j.techsoc.2022.102122_bib7",
+        "series-title": "The State of Global Education: 18 Months into the pandemic[M]",
+        "year": "2021"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.techsoc.2022.102122_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "485",
+        "DOI": "10.56059/jl4d.v7i3.461",
+        "article-title": "Is there learning continuity during the COVID-19 pandemic? A synthesis of the emerging evidence[J]",
+        "volume": "7",
+        "author": "McBurnie",
+        "year": "2020",
+        "journal-title": "Journal of Learning for Development"
+      },
+      {
+        "key": "10.1016/j.techsoc.2022.102122_bib9",
+        "article-title": "A framework to guide an education response to the COVID-19 pandemic of 2020[J]",
+        "volume": "14",
+        "author": "Reimers",
+        "year": "2020",
+        "journal-title": "OECD"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.techsoc.2022.102122_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "5",
+        "DOI": "10.1177/0047239520934018",
+        "article-title": "Online learning: a panacea in the time of COVID-19 crisis[J]",
+        "volume": "49",
+        "author": "Dhawan",
+        "year": "2020",
+        "journal-title": "J. Educ. Technol. Syst."
+      },
+      {
+        "key": "10.1016/j.techsoc.2022.102122_bib11",
+        "series-title": "Digital Inequality: from Unequal Access to Differentiated use[M]. Social Inequality",
+        "first-page": "355",
+        "author": "DiMaggio",
+        "year": "2004"
+      },
+      {
+        "key": "10.1016/j.techsoc.2022.102122_bib12",
+        "series-title": "The Deepening Divide: Inequality in the Information society[M]",
+        "author": "Van Dijk",
+        "year": "2005"
+      },
+      {
+        "issue": "3\u20134",
+        "key": "10.1016/j.techsoc.2022.102122_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "237",
+        "DOI": "10.1016/S0308-5961(02)00100-3",
+        "article-title": "An exploratory model of inter-country internet diffusion[J]",
+        "volume": "27",
+        "author": "Beilock",
+        "year": "2003",
+        "journal-title": "Telecommun. Pol."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.techsoc.2022.102122_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "681",
+        "DOI": "10.1353/sof.2006.0015",
+        "article-title": "Explaining the global digital divide: economic, political and sociological drivers of cross-national internet use[J]",
+        "volume": "84",
+        "author": "Guill\u00e9n",
+        "year": "2005",
+        "journal-title": "Soc. Forces"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.techsoc.2022.102122_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "336",
+        "DOI": "10.1016/j.techsoc.2010.10.011",
+        "article-title": "Determinants of the digital divide: a study on IT development in Cambodia[J]",
+        "volume": "32",
+        "author": "Wijers",
+        "year": "2010",
+        "journal-title": "Technol. Soc."
+      },
+      {
+        "key": "10.1016/j.techsoc.2022.102122_bib16",
+        "series-title": "Bridging the Racial Divide on the internet[J]",
+        "author": "Hoffman",
+        "year": "1998"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.techsoc.2022.102122_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "252",
+        "DOI": "10.2307/2673277",
+        "article-title": "Comment: the first and second digital divides[J]",
+        "volume": "74",
+        "author": "Attewell",
+        "year": "2001",
+        "journal-title": "Sociol. Educ."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.techsoc.2022.102122_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "133",
+        "DOI": "10.1177/0894439303021002001",
+        "article-title": "Social stratification and the digital divide[J]",
+        "volume": "21",
+        "author": "Wilson",
+        "year": "2003",
+        "journal-title": "Soc. Sci. Comput. Rev."
+      },
+      {
+        "key": "10.1016/j.techsoc.2022.102122_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "72",
+        "DOI": "10.1016/j.chb.2015.11.027",
+        "article-title": "The education-related digital divide: an analysis for the EU-28[J]",
+        "volume": "56",
+        "author": "Cruz-Jesus",
+        "year": "2016",
+        "journal-title": "Comput. Hum. Behav."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.techsoc.2022.102122_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "274",
+        "DOI": "10.1111/j.1540-6237.2009.00617.x",
+        "article-title": "Digital distinction: status-specific types of internet usage[J]",
+        "volume": "90",
+        "author": "Zillien",
+        "year": "2009",
+        "journal-title": "Soc. Sci. Q."
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.techsoc.2022.102122_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "507",
+        "DOI": "10.1177/1461444813487959",
+        "article-title": "The digital divide shifts to differences in usage[J]",
+        "volume": "16",
+        "author": "Van Deursen",
+        "year": "2014",
+        "journal-title": "New Media Soc."
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.techsoc.2022.102122_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "417",
+        "DOI": "10.1080/1369118X.2014.889189",
+        "article-title": "Dimensions of internet use: amount, variety, and types",
+        "volume": "17",
+        "author": "Blank",
+        "year": "2014",
+        "journal-title": "J]. Information, Communication & Society"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.techsoc.2022.102122_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "565",
+        "DOI": "10.1080/1369118X.2016.1139614",
+        "article-title": "Social networking sites and low-income teenagers: between opportunity and inequality",
+        "volume": "19",
+        "author": "Micheli",
+        "year": "2016",
+        "journal-title": "J]. Information, Communication & Society"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.techsoc.2022.102122_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "133",
+        "DOI": "10.1007/s11205-018-2030-0",
+        "article-title": "National income, political freedom, and investments in R&D and education: a comparative analysis of the second digital divide among 15-year-old students[J]",
+        "volume": "144",
+        "author": "Ma",
+        "year": "2019",
+        "journal-title": "Soc. Indicat. Res."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.techsoc.2022.102122_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1080/15252019.2000.10722039",
+        "article-title": "From the editors: why we need the journal of interactive advertising[J]",
+        "volume": "1",
+        "author": "Leckenby",
+        "year": "2000",
+        "journal-title": "J. Interact. Advert."
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.techsoc.2022.102122_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "891",
+        "DOI": "10.1080/10447318.2010.496338",
+        "article-title": "Measuring internet skills[J]",
+        "volume": "26",
+        "author": "Deursen",
+        "year": "2010",
+        "journal-title": "Int. J. Hum. Comput. Interact."
+      },
+      {
+        "key": "10.1016/j.techsoc.2022.102122_bib27",
+        "series-title": "Digital Competence in Practice: an Analysis of frameworks[J]",
+        "author": "Ferrari",
+        "year": "2012"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.techsoc.2022.102122_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "696",
+        "DOI": "10.1177/0267323113499113",
+        "article-title": "Distinct skill pathways to digital engagement[J]",
+        "volume": "28",
+        "author": "Helsper",
+        "year": "2013",
+        "journal-title": "Eur. J. Commun."
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.techsoc.2022.102122_bib29",
+        "first-page": "804",
+        "article-title": "Development and validation of the internet skills scale (ISS)[J]. Information",
+        "volume": "19",
+        "author": "Van Deursen",
+        "year": "2016",
+        "journal-title": "Commun. Soc."
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.techsoc.2022.102122_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "782",
+        "DOI": "10.1080/1369118X.2014.994544",
+        "article-title": "Internet skill levels increase, but gaps widen: a longitudinal cross-sectional analysis (2010\u20132013) among the Dutch population",
+        "volume": "18",
+        "author": "Van Deursen",
+        "year": "2015",
+        "journal-title": "J]. Information, Communication & Society"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.techsoc.2022.102122_bib31",
+        "doi-asserted-by": "crossref",
+        "first-page": "2333",
+        "DOI": "10.1177/1461444817715282",
+        "article-title": "Collateral benefits of internet use: explaining the diverse outcomes of engaging with the internet[J]",
+        "volume": "20",
+        "author": "Van Deursen",
+        "year": "2018",
+        "journal-title": "New Media Soc."
+      },
+      {
+        "key": "10.1016/j.techsoc.2022.102122_bib32",
+        "series-title": "The Third-Level Digital Divide: Who Benefits Most from Being online?[M]. Communication and Information Technologies Annual",
+        "author": "Van Deursen",
+        "year": "2015"
+      },
+      {
+        "key": "10.1016/j.techsoc.2022.102122_bib33",
+        "series-title": "The Internet and Social Inequalities [M]",
+        "author": "Witte",
+        "year": "2010"
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.techsoc.2022.102122_bib34",
+        "doi-asserted-by": "crossref",
+        "first-page": "2534",
+        "DOI": "10.1177/1461444820933252",
+        "article-title": "The third digital divide and Bourdieu: bidirectional conversion of economic, cultural, and social capital to (and from) digital capital among young people in Madrid[J]",
+        "volume": "23",
+        "author": "Calderon Gomez",
+        "year": "2021",
+        "journal-title": "New Media Soc."
+      },
+      {
+        "key": "10.1016/j.techsoc.2022.102122_bib35",
+        "first-page": "39",
+        "article-title": "Promoting equity in education through ICT: a double-edged sword? [J]",
+        "volume": "43",
+        "author": "Wang",
+        "year": "2014",
+        "journal-title": "Global Education"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.techsoc.2022.102122_bib36",
+        "doi-asserted-by": "crossref",
+        "first-page": "403",
+        "DOI": "10.1111/j.1468-2885.2012.01416.x",
+        "article-title": "A corresponding fields model for the links between social and digital exclusion[J]",
+        "volume": "22",
+        "author": "Helsper",
+        "year": "2012",
+        "journal-title": "Commun. Theor."
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.techsoc.2022.102122_bib37",
+        "doi-asserted-by": "crossref",
+        "first-page": "1607",
+        "DOI": "10.1016/j.tele.2017.07.007",
+        "article-title": "Determinants of internet skills, uses and outcomes. A systematic review of the second-and third-level digital divide[J]",
+        "volume": "34",
+        "author": "Scheerder",
+        "year": "2017",
+        "journal-title": "Telematics Inf."
+      },
+      {
+        "issue": "10228",
+        "key": "10.1016/j.techsoc.2022.102122_bib38",
+        "doi-asserted-by": "crossref",
+        "first-page": "931",
+        "DOI": "10.1016/S0140-6736(20)30567-5",
+        "article-title": "How will country-based mitigation measures influence the course of the COVID-19 epidemic?[J]",
+        "volume": "395",
+        "author": "Anderson",
+        "year": "2020",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.techsoc.2022.102122_bib39",
+        "first-page": "20",
+        "article-title": "The digital divide between urban and rural basic education in China: characterization, causes and countermeasures\u2014an empirical study on online teaching[J]",
+        "volume": "37",
+        "author": "Zhang",
+        "year": "2021",
+        "journal-title": "Education & Economy"
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.techsoc.2022.102122_bib40",
+        "first-page": "48",
+        "article-title": "Characteristics and enlightenment of online teaching in colleges and universities during the epidemic: an analysis based on online teaching quality reports and online teaching cases[J]",
+        "volume": "42",
+        "author": "Yang",
+        "year": "2021",
+        "journal-title": "E-education Research"
+      },
+      {
+        "key": "10.1016/j.techsoc.2022.102122_bib41",
+        "first-page": "44",
+        "article-title": "Research on online teaching platforms, tools, and application effect during epidemic period[J]",
+        "author": "Chen",
+        "year": "2020",
+        "journal-title": "China Educational Technology"
+      },
+      {
+        "key": "10.1016/j.techsoc.2022.102122_bib42",
+        "first-page": "20",
+        "article-title": "Characteristics, problems and innovations of online teaching of \u201cNo Suspension of Classes\u201d during the period of epidemic prevention and control [J]",
+        "volume": "41",
+        "author": "Xie",
+        "year": "2020",
+        "journal-title": "E-education Research"
+      },
+      {
+        "key": "10.1016/j.techsoc.2022.102122_bib43",
+        "first-page": "15",
+        "article-title": "The current situation, problems and reflection of online teaching for primary and secondary school teachers during a large-scale epidemic\u2014based on the investigation and analysis of \u201cclasses suspended but learning continue\u201d in Hubei province[J]",
+        "author": "Wang",
+        "year": "2020",
+        "journal-title": "China Educational Technology"
+      },
+      {
+        "key": "10.1016/j.techsoc.2022.102122_bib44",
+        "first-page": "105",
+        "article-title": "Does large-scale online learning prepare: the thinking of online intelligent learning in the post-epidemic period[J]",
+        "volume": "38",
+        "author": "Wan",
+        "year": "2020",
+        "journal-title": "J. Distance Educ."
+      },
+      {
+        "key": "10.1016/j.techsoc.2022.102122_bib45",
+        "first-page": "13",
+        "article-title": "Problems in the development of online education under the COVID-19 epidemic[J]",
+        "volume": "38",
+        "author": "Lei",
+        "year": "2020",
+        "journal-title": "Educ. Res. Exp."
+      },
+      {
+        "key": "10.1016/j.techsoc.2022.102122_bib46",
+        "first-page": "16",
+        "article-title": "The evolution of digital divide: from access to engagement\u2014based on the undergraduate online learning survey during COVID-19[J]",
+        "volume": "39",
+        "author": "Guo",
+        "year": "2021",
+        "journal-title": "J. East China Normal Univ. Educ. Sci."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.techsoc.2022.102122_bib47",
+        "doi-asserted-by": "crossref",
+        "first-page": "129",
+        "DOI": "10.1016/j.acap.2017.10.008",
+        "article-title": "Conducting quantitative medical education research: from design to dissemination[J]",
+        "volume": "18",
+        "author": "Abramson",
+        "year": "2018",
+        "journal-title": "Academic Pediatrics"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.techsoc.2022.102122_bib48",
+        "doi-asserted-by": "crossref",
+        "first-page": "153",
+        "DOI": "10.1177/1524839912437370",
+        "article-title": "Qualitative research: the importance of conducting research that doesn't \u201ccount\u201d[J]",
+        "volume": "13",
+        "author": "Watkins",
+        "year": "2012",
+        "journal-title": "Health Promot. Pract."
+      },
+      {
+        "key": "10.1016/j.techsoc.2022.102122_bib49",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.techsoc.2021.101637",
+        "article-title": "A new educational normal an intersectionality-led exploration of education, learning technologies, and diversity during COVID-19[J]",
+        "volume": "66",
+        "author": "Gandolfi",
+        "year": "2021",
+        "journal-title": "Technol. Soc."
+      },
+      {
+        "key": "10.1016/j.techsoc.2022.102122_bib50",
+        "article-title": "Remote learning via video conferencing technologies: implications for research and practice",
+        "volume": "68",
+        "author": "Camilleri",
+        "year": "2022",
+        "journal-title": "J]. Technology in society"
+      }
+    ],
+    "container-title": [
+      "Technology in Society"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0160791X22002639?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0160791X22002639?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          27
+        ]
+      ],
+      "date-time": "2025-09-27T13:07:33Z",
+      "timestamp": 1758978453000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0160791X22002639"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          11
+        ]
+      ]
+    },
+    "references-count": 50,
+    "alternative-id": [
+      "S0160791X22002639"
+    ],
+    "URL": "https://doi.org/10.1016/j.techsoc.2022.102122",
+    "relation": {},
+    "ISSN": [
+      "0160-791X"
+    ],
+    "issn-type": [
+      {
+        "value": "0160-791X",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          11
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "The digital divide in online learning in China during the COVID-19 pandemic",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Technology in Society",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.techsoc.2022.102122",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "\u00a9 2022 Elsevier Ltd. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "102122"
+  }
+}
