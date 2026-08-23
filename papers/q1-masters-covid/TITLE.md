@@ -2,12 +2,11 @@
 
 **Use this:**
 
-> **The problem of online Chinese teaching: household infrastructure and platform access among mainly Pakistani respondents during emergency remote teaching**
+> **Localisation of delivery in online Chinese teaching: household infrastructure and platform access**
 
-**Short title:** Online Chinese teaching: delivery-context fit
+**Short title:** Localisation of delivery in online Chinese teaching
 
 Why this wording:
-- The research object is the problem of online Chinese teaching
-- The form did not record host university, programme type, or recruitment source, so “Chinese-university students” is not a verified enrolment claim
-- “mainly Pakistani respondents” matches the nationality item that exists
-- “during emergency remote teaching” = historical case, not current hybrid ICLE
+- The title names the contribution (*localisation of delivery*) and the evidence (household infrastructure and platform access)
+- It does not put sample caveats in the title; those stay in the abstract and methods
+- “Online Chinese teaching” is the research field; the problem is delivery, not content
