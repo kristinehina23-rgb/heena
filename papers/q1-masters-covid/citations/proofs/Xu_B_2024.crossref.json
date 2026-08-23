@@ -1,0 +1,946 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          18
+        ]
+      ],
+      "date-time": "2026-08-18T02:12:37Z",
+      "timestamp": 1787019157411,
+      "version": "3.56.0"
+    },
+    "reference-count": 141,
+    "publisher": "SAGE Publications",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              20
+            ]
+          ],
+          "date-time": "2024-09-20T00:00:00Z",
+          "timestamp": 1726790400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Language Teaching Research"
+    ],
+    "abstract": "<jats:p>As Chinese as a Foreign Language (CFL) becomes increasingly popular worldwide, it is also influenced by modern educational technology. This article seeks to comprehensively review the current research status of technology integration into CFL learning in higher education. Using the Web of Science as the primary database and employing VOSviewer and CitNetExplorer to visualize literature, we conducted bibliometric analysis and systematically reviewed 64 included articles published between 2000 and 2024. Visualization analysis shows popular issues, such as technology acceptance, technology-supported collaborative learning, Technological, Pedagogical, and Content Knowledge (TPACK), self-efficacy, and gender stereotypes. Educational technologies possess characteristics highly adaptable to CFL classrooms in higher education, with mobile- and computer-assisted language learning dominating the field. Regarding CFL skills, most studies focused on technology’s role in enhancing students’ speaking and communication skills. Overall, our research contributes valuable insights by summarizing the effectiveness of technology application in CFL higher education, paving the way for future studies and practices to further explore how technology can be maximally integrated into classrooms to enhance CFL students’ proficiency and learning experiences.</jats:p>",
+    "DOI": "10.1177/13621688241277911",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          20
+        ]
+      ],
+      "date-time": "2024-09-20T10:11:56Z",
+      "timestamp": 1726827116000
+    },
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "title": [
+      "Technology integration into Chinese as a foreign language learning in higher education: An integrated bibliometric analysis and systematic review (2000–2024)"
+    ],
+    "prefix": "10.1177",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0003-5687-4495",
+        "authenticated-orcid": false,
+        "given": "Binze",
+        "family": "Xu",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Hubei University of Technology, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          20
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "bibr1-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10936-020-09752-1"
+      },
+      {
+        "key": "bibr2-13621688241277911",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bahari A., Li R. (2024). Revisiting technology-assisted language learning affordances for language components: A decade survey. Interactive Learning Environment. Advance online publication. https://doi.org/10.1080/10494820.2024.2312910",
+        "DOI": "10.1080/10494820.2024.2312910"
+      },
+      {
+        "key": "bibr3-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1287/orsc.2021.1562"
+      },
+      {
+        "key": "bibr4-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.84.2.191"
+      },
+      {
+        "key": "bibr5-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s41239-023-00436-z"
+      },
+      {
+        "key": "bibr6-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.29333/iji.2019.12161a"
+      },
+      {
+        "key": "bibr7-13621688241277911",
+        "unstructured": "Borsook T.K., Higginbotham-Wheat N. (1991). Interactivity: What is it and what can it do for computer-based instruction? Educational Technology, 31, 11–17. Available at: https://www.jstor.org/stable/44425695 (accessed August 2024)."
+      },
+      {
+        "key": "bibr8-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/IALP48816.2019.9037720"
+      },
+      {
+        "key": "bibr9-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3991/ijet.v9i7.3668"
+      },
+      {
+        "key": "bibr10-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.23919/iLRN47897.2020.9155140"
+      },
+      {
+        "key": "bibr11-13621688241277911",
+        "first-page": "63",
+        "volume": "13",
+        "author": "Chai C.",
+        "year": "2010",
+        "journal-title": "Educational Technology and Society"
+      },
+      {
+        "key": "bibr12-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2021.803669"
+      },
+      {
+        "key": "bibr13-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s40299-020-00543-9"
+      },
+      {
+        "key": "bibr14-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0735633120929622"
+      },
+      {
+        "key": "bibr15-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.compedu.2006.07.010"
+      },
+      {
+        "key": "bibr16-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09588221.2022.2037652"
+      },
+      {
+        "key": "bibr17-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/21582440231159546"
+      },
+      {
+        "key": "bibr18-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/bjet.12907"
+      },
+      {
+        "key": "bibr19-13621688241277911",
+        "first-page": "151",
+        "volume": "25",
+        "author": "Chen X.",
+        "year": "2021",
+        "journal-title": "Language Learning and Technology"
+      },
+      {
+        "key": "bibr20-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.24200/jonus.vol6iss2pp231-249"
+      },
+      {
+        "key": "bibr21-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.30935/cedtech/12863"
+      },
+      {
+        "key": "bibr22-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1287/mnsc.35.8.982"
+      },
+      {
+        "key": "bibr23-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11423-021-10074-9"
+      },
+      {
+        "key": "bibr24-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.sbspro.2013.04.107"
+      },
+      {
+        "key": "bibr25-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09588221.2021.1879162"
+      },
+      {
+        "key": "bibr26-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.childyouth.2020.105440"
+      },
+      {
+        "key": "bibr27-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09575146.2019.1627293"
+      },
+      {
+        "key": "bibr28-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2022.899557"
+      },
+      {
+        "key": "bibr29-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s40299-018-0407-0"
+      },
+      {
+        "key": "bibr30-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jbusres.2021.04.070"
+      },
+      {
+        "key": "bibr31-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0958344014000287"
+      },
+      {
+        "key": "bibr32-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09588221.2017.1399911"
+      },
+      {
+        "key": "bibr33-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/su141711106"
+      },
+      {
+        "key": "bibr34-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3025453.3025544"
+      },
+      {
+        "key": "bibr35-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10055-021-00554-x"
+      },
+      {
+        "key": "bibr36-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.edurev.2023.100588"
+      },
+      {
+        "key": "bibr37-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.56431/p-z6sj8g"
+      },
+      {
+        "key": "bibr38-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.17507/jltr.0701.04"
+      },
+      {
+        "key": "bibr39-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11516-020-0001-0"
+      },
+      {
+        "key": "bibr40-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10494820.2019.1619590"
+      },
+      {
+        "key": "bibr41-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18546/LRE.16.2.05"
+      },
+      {
+        "key": "bibr42-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/educsci13020125"
+      },
+      {
+        "key": "bibr43-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICALT55010.2022.00072"
+      },
+      {
+        "key": "bibr44-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09588221.2021.1976210"
+      },
+      {
+        "key": "bibr45-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11423-021-09941-2"
+      },
+      {
+        "key": "bibr46-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11423-019-09722-y"
+      },
+      {
+        "key": "bibr47-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.system.2021.102574"
+      },
+      {
+        "key": "bibr48-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0735633117746168"
+      },
+      {
+        "key": "bibr49-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11423-019-09695-y"
+      },
+      {
+        "key": "bibr50-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.compedu.2010.12.002"
+      },
+      {
+        "key": "bibr51-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4018/IJOPCD.316184"
+      },
+      {
+        "key": "bibr52-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10639-023-11603-0"
+      },
+      {
+        "key": "bibr53-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s40862-018-0056-0"
+      },
+      {
+        "key": "bibr54-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jcal.12934"
+      },
+      {
+        "key": "bibr55-13621688241277911",
+        "first-page": "141",
+        "volume": "349",
+        "author": "Johnson C.",
+        "year": "2022",
+        "journal-title": "Innovations in Learning and Technology for the Workplace and Higher Education"
+      },
+      {
+        "key": "bibr56-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICALT.2017.71"
+      },
+      {
+        "key": "bibr57-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/bjet.13440"
+      },
+      {
+        "key": "bibr58-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3352/jeehp.2023.20.38"
+      },
+      {
+        "key": "bibr59-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/publications11010010"
+      },
+      {
+        "key": "bibr60-13621688241277911",
+        "first-page": "335",
+        "volume": "19",
+        "author": "Lan Y.J.",
+        "year": "2016",
+        "journal-title": "Journal of Educational Technology and Society"
+      },
+      {
+        "key": "bibr61-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-319-13296-9_11"
+      },
+      {
+        "key": "bibr62-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11423-022-10162-4"
+      },
+      {
+        "key": "bibr63-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10639-023-11884-5"
+      },
+      {
+        "key": "bibr64-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/0305764X.2020.1772720"
+      },
+      {
+        "key": "bibr65-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02188791.2020.1806036"
+      },
+      {
+        "key": "bibr66-13621688241277911",
+        "first-page": "65",
+        "volume": "27",
+        "author": "Li M.",
+        "year": "2023",
+        "journal-title": "Language Learning and Technology"
+      },
+      {
+        "key": "bibr67-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10639-023-12078-9"
+      },
+      {
+        "key": "bibr68-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.14742/ajet.889"
+      },
+      {
+        "key": "bibr69-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10494820.2021.1958348"
+      },
+      {
+        "key": "bibr70-13621688241277911",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lin Y.P., Niu R.H., Yu Z.G. (2023). Roles of ambiguity tolerance and learning effectiveness: Structural equation modeling evidence from EFL students’ perceptions of factors influencing peer collaboration. Language Teaching Research. Advance online publication. https://doi.org/10.1177/13621688231216201",
+        "DOI": "10.1177/13621688231216201"
+      },
+      {
+        "key": "bibr71-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s41239-023-00403-8"
+      },
+      {
+        "key": "bibr72-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1108/ITSE-12-2022-0165"
+      },
+      {
+        "key": "bibr73-13621688241277911",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lin Y.P., Yu Z.G. (2024b). An integrated bibliometric analysis and systematic review modelling students’ technostress in higher education. Behaviour and Information Technology. Advance online publication. https://doi.org/10.1080/0144929X.2024.2332458",
+        "DOI": "10.1080/0144929X.2024.2332458"
+      },
+      {
+        "key": "bibr74-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s40299-020-00512-2"
+      },
+      {
+        "key": "bibr75-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/su15076069"
+      },
+      {
+        "key": "bibr76-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1515/jccall-2023-0023"
+      },
+      {
+        "key": "bibr77-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.37256/ser.5120243372"
+      },
+      {
+        "key": "bibr78-13621688241277911",
+        "first-page": "1",
+        "volume": "2022",
+        "author": "Liu Y.",
+        "year": "2022",
+        "journal-title": "Mobile Information Systems"
+      },
+      {
+        "key": "bibr79-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jad.2021.02.001"
+      },
+      {
+        "key": "bibr80-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11516-020-0006-8"
+      },
+      {
+        "key": "bibr81-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s40468-024-00275-3"
+      },
+      {
+        "key": "bibr82-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.specom.2009.04.011"
+      },
+      {
+        "key": "bibr83-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/su15097235"
+      },
+      {
+        "key": "bibr84-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/EITT.2017.73"
+      },
+      {
+        "key": "bibr85-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2022.1025761"
+      },
+      {
+        "key": "bibr86-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11192-021-04082-y"
+      },
+      {
+        "key": "bibr87-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13643-021-01626-4"
+      },
+      {
+        "key": "bibr88-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10209-015-0405-4"
+      },
+      {
+        "key": "bibr89-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/17501229.2018.1418633"
+      },
+      {
+        "key": "bibr90-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10494820.2021.1874999"
+      },
+      {
+        "key": "bibr91-13621688241277911",
+        "first-page": "6",
+        "volume": "2",
+        "author": "Rao P.",
+        "year": "2019",
+        "journal-title": "Alford Council of International English and Literature Journal (ACIELJ)"
+      },
+      {
+        "key": "bibr92-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.chb.2023.108097"
+      },
+      {
+        "key": "bibr93-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.compedu.2009.07.010"
+      },
+      {
+        "key": "bibr94-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-2729.2010.00383.x"
+      },
+      {
+        "key": "bibr95-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10639-021-10877-6"
+      },
+      {
+        "key": "bibr96-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/su16020755"
+      },
+      {
+        "key": "bibr97-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2022.897689"
+      },
+      {
+        "key": "bibr98-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/su12020524"
+      },
+      {
+        "key": "bibr99-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.24310/innoeduca.2022.v8i2.15413"
+      },
+      {
+        "key": "bibr100-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-44999-5_33"
+      },
+      {
+        "key": "bibr101-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jvlc.2009.12.004"
+      },
+      {
+        "key": "bibr102-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1558/cj.38574"
+      },
+      {
+        "key": "bibr103-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10494820.2017.1341940"
+      },
+      {
+        "key": "bibr104-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2023.1122612"
+      },
+      {
+        "key": "bibr105-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.sbspro.2014.10.181"
+      },
+      {
+        "key": "bibr106-13621688241277911",
+        "first-page": "61",
+        "volume": "10",
+        "author": "Valdebenito M.",
+        "year": "2019",
+        "journal-title": "Journal of Technology and Chinese Language Teaching"
+      },
+      {
+        "key": "bibr107-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11192-009-0146-3"
+      },
+      {
+        "key": "bibr108-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.joi.2014.07.006"
+      },
+      {
+        "key": "bibr109-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11192-017-2300-7"
+      },
+      {
+        "key": "bibr110-13621688241277911",
+        "unstructured": "Van Eck N.J., Waltman L. (2017b). VOSviewer manual. Available at: https://www.vosviewer.com/documentation/Manual_VOSviewer_1.6.6.pdf (accessed August 2024)."
+      },
+      {
+        "key": "bibr111-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.system.2022.102753"
+      },
+      {
+        "key": "bibr112-13621688241277911",
+        "volume-title": "Mind in society: Development of higher psychological processes",
+        "author": "Vygotsky L.S.",
+        "year": "1978"
+      },
+      {
+        "key": "bibr113-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/su14052616"
+      },
+      {
+        "key": "bibr114-13621688241277911",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1057/s41599-023-02237-1",
+        "volume": "11",
+        "author": "Wang C.",
+        "year": "2024",
+        "journal-title": "Humanities and Social Sciences Communications"
+      },
+      {
+        "key": "bibr115-13621688241277911",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang C., Wang H., Li Y., Dai J., Gu X., Yu T. (2024). Factors influencing university students’ behavioral intention to use generative artificial intelligence: Integrating the theory of planned behavior and AI literacy. International Journal of Human-Computer Interaction. Advance online publication. https://doi.org/10.1080/10447318.2024.2383033",
+        "DOI": "10.1080/10447318.2024.2383033"
+      },
+      {
+        "key": "bibr116-13621688241277911",
+        "first-page": "1",
+        "volume": "11",
+        "author": "Wang H.",
+        "year": "2012",
+        "journal-title": "Turkish Online Journal of Educational Technology"
+      },
+      {
+        "key": "bibr117-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09588221.2017.1417872"
+      },
+      {
+        "key": "bibr118-13621688241277911",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang M., Devitt A. (2022). A systematic review of computer-mediated communications in Chinese as a foreign language from 2008 to 2022: Research contexts, theoretical foundations and methodology, affordances and limitations. Language Teaching Research. Advance online publication. https://doi.org/10.1177/13621688221132475",
+        "DOI": "10.1177/13621688221132475"
+      },
+      {
+        "key": "bibr119-13621688241277911",
+        "first-page": "1",
+        "volume": "13",
+        "author": "Wang T.",
+        "year": "2022",
+        "journal-title": "Journal of Technology and Chinese Language Teaching"
+      },
+      {
+        "key": "bibr120-13621688241277911",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang T., Ge D., Qi C.H. (2022). The sleepiness of international students in online Chinese classroom: An experimental study based on hybrid technology of facial feature point distribution Model. International Journal of Human–Computer Interaction. Advance online publication. https://doi.org/10.1080/10447318.2022.2133673",
+        "DOI": "10.1080/10447318.2022.2133673"
+      },
+      {
+        "key": "bibr121-13621688241277911",
+        "volume": "13",
+        "author": "Wang T.",
+        "year": "2023",
+        "journal-title": "Sage Open"
+      },
+      {
+        "key": "bibr122-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/sym9080141"
+      },
+      {
+        "key": "bibr123-13621688241277911",
+        "first-page": "20053",
+        "volume-title": "AIP Conference Proceedings",
+        "volume": "2013",
+        "author": "Warris S.N.",
+        "year": "2018"
+      },
+      {
+        "key": "bibr124-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/EITT50754.2020.00047"
+      },
+      {
+        "key": "bibr125-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0958344024000041"
+      },
+      {
+        "key": "bibr126-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s40692-023-00271-1"
+      },
+      {
+        "key": "bibr127-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1016068530070"
+      },
+      {
+        "key": "bibr128-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.14742/ajet.913"
+      },
+      {
+        "key": "bibr129-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s12564-018-9568-z"
+      },
+      {
+        "key": "bibr130-13621688241277911",
+        "first-page": "64",
+        "volume": "13",
+        "author": "Wu S.M.",
+        "year": "2022",
+        "journal-title": "Journal of Technology and Chinese Language Teaching"
+      },
+      {
+        "key": "bibr131-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/app131910737"
+      },
+      {
+        "key": "bibr132-13621688241277911",
+        "first-page": "35",
+        "volume": "9",
+        "author": "Yang J.",
+        "year": "2018",
+        "journal-title": "Journal of Technology and Chinese Language Teaching"
+      },
+      {
+        "key": "bibr133-13621688241277911",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhang D., Hennessy S., Pérez-Paredes P. (2023). An investigation of Chinese EFL learners’ acceptance of mobile dictionaries in English language learning. Computer Assisted Language Learning. Advance online publication. https://doi.org/10.1080/09588221.2023.2189915",
+        "DOI": "10.1080/09588221.2023.2189915"
+      },
+      {
+        "key": "bibr134-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1155/2022/5040920"
+      },
+      {
+        "key": "bibr135-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10639-023-11993-1"
+      },
+      {
+        "key": "bibr136-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s40561-023-00223-3"
+      },
+      {
+        "key": "bibr137-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2022.1093475"
+      },
+      {
+        "key": "bibr138-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11516-020-0007-7"
+      },
+      {
+        "key": "bibr139-13621688241277911",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhou X., Chen S., Ohno S., She J., Kameda H. (2023). Motivational design for enhancing behavioral engagement in a flipped Chinese course. Asia Pacific Education Review. Advance online publication. https://doi.org/10.1007/s12564-023-09849-x",
+        "DOI": "10.1007/s12564-023-09849-x"
+      },
+      {
+        "key": "bibr140-13621688241277911",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/01690960903201281"
+      },
+      {
+        "key": "bibr141-13621688241277911",
+        "first-page": "1027",
+        "volume": "390",
+        "author": "Ziyatdinova J.N.",
+        "year": "2022",
+        "journal-title": "Mobility for Smart Cities and Regional Development"
+      }
+    ],
+    "container-title": [
+      "Language Teaching Research"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/13621688241277911",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/13621688241277911",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/13621688241277911",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          2
+        ]
+      ],
+      "date-time": "2025-03-02T09:12:28Z",
+      "timestamp": 1740906748000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/13621688241277911"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          20
+        ]
+      ]
+    },
+    "references-count": 141,
+    "alternative-id": [
+      "10.1177/13621688241277911"
+    ],
+    "URL": "https://doi.org/10.1177/13621688241277911",
+    "relation": {},
+    "ISSN": [
+      "1362-1688",
+      "1477-0954"
+    ],
+    "issn-type": [
+      {
+        "value": "1362-1688",
+        "type": "print"
+      },
+      {
+        "value": "1477-0954",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          20
+        ]
+      ]
+    },
+    "article-number": "13621688241277911"
+  }
+}

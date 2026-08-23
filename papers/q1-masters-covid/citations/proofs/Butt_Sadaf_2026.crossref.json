@@ -1,0 +1,1062 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          30
+        ]
+      ],
+      "date-time": "2026-07-30T09:15:29Z",
+      "timestamp": 1785402929519,
+      "version": "3.56.0"
+    },
+    "reference-count": 88,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              10
+            ]
+          ],
+          "date-time": "2026-03-10T00:00:00Z",
+          "timestamp": 1773100800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              10
+            ]
+          ],
+          "date-time": "2026-03-10T00:00:00Z",
+          "timestamp": 1773100800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "J Knowl Econ"
+    ],
+    "DOI": "10.1007/s13132-026-03164-7",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          10
+        ]
+      ],
+      "date-time": "2026-03-10T14:05:12Z",
+      "timestamp": 1773151512000
+    },
+    "page": "9567-9590",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Getting Around the Digital Horizon: Recognizing Multifaceted Digital Divide among University Students in Pakistan"
+    ],
+    "prefix": "10.1007",
+    "volume": "17",
+    "author": [
+      {
+        "given": "Areeba",
+        "family": "Butt",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7680-2021",
+        "authenticated-orcid": false,
+        "given": "Mamona",
+        "family": "Sadaf",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          10
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "3164_CR1",
+        "first-page": "29",
+        "volume": "34",
+        "author": "A Acilar",
+        "year": "2021",
+        "unstructured": "Acilar, A., Hakon, D., Frederik, N., & Roar, T. (2021). Factors contributing to the business digital divide: A systematic literature review. Univerze v Mariboru, 34, 29–39.",
+        "journal-title": "Univerze v Mariboru"
+      },
+      {
+        "key": "3164_CR2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.heliyon.2023.e18932",
+        "author": "T Aditya",
+        "year": "2023",
+        "unstructured": "Aditya, T., Ningrum, S., Nurasa, H., & Irawati, I. (2023). Community needs for the digital divide on the smart city policy. Heliyon. https://doi.org/10.1016/j.heliyon.2023.e18932",
+        "journal-title": "Heliyon"
+      },
+      {
+        "key": "3164_CR3",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Akhtar, M., Mathur, G., Kravchenko, O., & Manik Rakhra. (2023). Connecting the Unconnected: Bridging the Digital Divide with Affordable Satellite Through Enabled Smartphones. https://doi.org/10.1051/e3sconf/202345301054.",
+        "DOI": "10.1051/e3sconf/202345301054"
+      },
+      {
+        "key": "3164_CR4",
+        "unstructured": "Anbacha, A., Mapedza, E., Joshi, D., Nigussie, L., Puskur, R., Nchanji, E., & Gartaula, H. N. (2023). CGIAR Initiative on Diversification in East and Southern Africa and CGIAR Initiative on Gender Equality: Stakeholder Consultation Workshop."
+      },
+      {
+        "key": "3164_CR5",
+        "volume-title": "Universal access to E-mail - Feasibility and societal implications",
+        "author": "RH Anderson",
+        "year": "1995",
+        "unstructured": "Anderson, R. H., Bikson, T. K., Law, S. A., & Mitchell, B. M. (1995). Universal access to E-mail - Feasibility and societal implications. RAND."
+      },
+      {
+        "key": "3164_CR6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Anderson, R. H., Bikson, T. K., Law, S. A., & Mitchell, B. M. (2001). Universal access to email: feasibility and societal implications.",
+        "DOI": "10.7551/mitpress/2419.003.0017"
+      },
+      {
+        "issue": "27 & 28-Joint I",
+        "key": "3164_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "85",
+        "DOI": "10.5281/zenodo.11002400",
+        "volume": "10",
+        "author": "J Appalsami",
+        "year": "2024",
+        "unstructured": "Appalsami, J., Coopasamy, K., & Douglas, G. (2024). Barriers to transitioning from face-to-face schooling to online learning at a South African private tertiary institution. IJAEDU-International E-Journal of Advances in Education, 10(27 & 28-Joint Issue), 85–94. https://doi.org/10.5281/zenodo.11002400",
+        "journal-title": "IJAEDU-International E-Journal of Advances in Education"
+      },
+      {
+        "key": "3164_CR9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Awan, M. F., Ahmad, T., Qaisar, S., Feamster, N., & Sundaresan, S. (2015). Measuring broadband access network performance in Pakistan: A comparative study. In 2015 IEEE 40th Local Computer Networks Conference Workshops (LCN Workshops) (pp. 595–602). IEEE.",
+        "DOI": "10.1109/LCNW.2015.7365903"
+      },
+      {
+        "issue": "2",
+        "key": "3164_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "96",
+        "DOI": "10.1080/00208825.2022.2072067",
+        "volume": "52",
+        "author": "S Ben Slimane",
+        "year": "2022",
+        "unstructured": "Ben Slimane, S., Coeurderoy, R., & Mhenni, H. (2022). Digital transformation of small and medium enterprises: A systematic literature review and an integrative framework. International Studies of Management & Organization, 52(2), 96–120. https://doi.org/10.1080/00208825.2022.2072067",
+        "journal-title": "International Studies of Management & Organization"
+      },
+      {
+        "key": "3164_CR12",
+        "volume-title": "Losing ground bit by bit: Low-Income Communities in the Information Age",
+        "author": "Benton Foundation",
+        "year": "1998",
+        "unstructured": "Benton Foundation. (1998). Losing ground bit by bit: Low-Income Communities in the Information Age. Benton Foundation and National Urban League."
+      },
+      {
+        "issue": "2",
+        "key": "3164_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "121",
+        "DOI": "10.26864/pcs.v7.n2.8/",
+        "volume": "7",
+        "author": "C Berrío",
+        "year": "2017",
+        "unstructured": "Berrío, C., Marín, P., Ferreira, E., & Das-Chagas-Soares, E. (2017). Desafíos de la Inclusión digital: Antecedentes, problemáticas y medición de la Brecha digital de Género. Psicología, Conocimiento y Sociedad, 7(2), 121–151. https://doi.org/10.26864/pcs.v7.n2.8/",
+        "journal-title": "Psicología, Conocimiento y Sociedad"
+      },
+      {
+        "key": "3164_CR14",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Butt, M., & Park, S. (2024). The Influence of Cultural and Social Factors on Education in Pakistan. International Journal of Academic Research in Progressive Education and Development, 13(2). https://doi.org/10.6007/IJARPED/v13-i2/21336.",
+        "DOI": "10.6007/IJARPED/v13-i2/21336"
+      },
+      {
+        "key": "3164_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.physrep.2023.10.005",
+        "volume": "1044",
+        "author": "G Camps-Valls",
+        "year": "2023",
+        "unstructured": "Camps-Valls, G., Gerhardus, A., Ninad, U., Varando, G., Martius, G., Balaguer-Ballester, E., & Runge, J. (2023). Discovering causal relations and equations from data. Physics Reports, 1044, 1–68. https://doi.org/10.1016/j.physrep.2023.10.005",
+        "journal-title": "Physics Reports"
+      },
+      {
+        "key": "3164_CR16",
+        "first-page": "355",
+        "volume-title": "The Europa Directory of International Organizations 2021",
+        "author": "H Canton",
+        "year": "2021",
+        "unstructured": "Canton, H. (2021). International Telecommunication Union—ITU. The Europa Directory of International Organizations 2021 (pp. 355–358). Routledge."
+      },
+      {
+        "issue": "5",
+        "key": "3164_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "628",
+        "DOI": "10.1108/AJIM-03-2016-0036",
+        "volume": "68",
+        "author": "CM Chao",
+        "year": "2016",
+        "unstructured": "Chao, C. M., & Yu, T. K. (2016). How to overcome the digital divide? An empirical study of Taiwan’s DOCs. Aslib Journal of Information Management, 68(5), 628–642. https://doi.org/10.1108/AJIM-03-2016-0036",
+        "journal-title": "Aslib Journal of Information Management"
+      },
+      {
+        "key": "3164_CR18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.14707/ajbr.200087",
+        "author": "JH Cheah",
+        "year": "2020",
+        "unstructured": "Cheah, J. H., Thurasamy, R., Memon, M. A., Chuah, F., & Ting, H. (2020). Multigroup analysis using SmartPLS: Step-by-step guidelines for business research. Asian Journal of Business Research. https://doi.org/10.14707/ajbr.200087",
+        "journal-title": "Asian Journal of Business Research"
+      },
+      {
+        "issue": "1",
+        "key": "3164_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "16",
+        "DOI": "10.1093/oep/gpl024",
+        "volume": "59",
+        "author": "MD Chinn",
+        "year": "2007",
+        "unstructured": "Chinn, M. D., & Fairlie, R. W. (2007). The determinants of the global digital divide: A cross-country analysis of computer and internet penetration. Oxford Economic Papers, 59(1), 16–44.",
+        "journal-title": "Oxford Economic Papers"
+      },
+      {
+        "key": "3164_CR20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cohoon, J. M. (1999). Departmental differences can point the way to improving female retention in computer science. In The proceedings of the thirtieth SIGCSE technical symposium on Computer science education (pp. 198–202).",
+        "DOI": "10.1145/299649.299753"
+      },
+      {
+        "issue": "4",
+        "key": "3164_CR21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/21726",
+        "volume": "23",
+        "author": "AR Davies",
+        "year": "2021",
+        "unstructured": "Davies, A. R., Honeyman, M., & Gann, B. (2021). Addressing the digital inverse care law in the time of COVID-19: Potential for digital technology to exacerbate or mitigate health inequalities. Journal of Medical Internet Research, 23(4), Article e21726.",
+        "journal-title": "Journal of Medical Internet Research"
+      },
+      {
+        "key": "3164_CR22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijinfomgt.2020.102171",
+        "author": "R Dé",
+        "year": "2020",
+        "unstructured": "Dé, R., Pandey, N., & Pal, A. (2020). Impact of digital surge during Covid-19 pandemic: A viewpoint on research and practice. International Journal of Information Management. https://doi.org/10.1016/j.ijinfomgt.2020.102171",
+        "journal-title": "International Journal of Information Management"
+      },
+      {
+        "issue": "1",
+        "key": "3164_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "247",
+        "DOI": "10.1007/s10797-022-09742-0",
+        "volume": "30",
+        "author": "R Dell’Anno",
+        "year": "2023",
+        "unstructured": "Dell’Anno, R. (2023). Measuring the unobservable: Estimating informal economy by a structural equation modeling approach. International Tax and Public Finance, 30(1), 247–277.",
+        "journal-title": "International Tax and Public Finance"
+      },
+      {
+        "issue": "12",
+        "key": "3164_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "298",
+        "DOI": "10.17705/1jais.00074",
+        "volume": "6",
+        "author": "S Dewan",
+        "year": "2005",
+        "unstructured": "Dewan, S., & Riggins, F. J. (2005). The digital divide: Current and future research directions. Journal of the Association for Information Systems, 6(12), 298–337.",
+        "journal-title": "Journal of the Association for Information Systems"
+      },
+      {
+        "key": "3164_CR25",
+        "unstructured": "Digital 2024: Pakistan. (2024). DataReportal – Global digital insights.Accessed 23 February 2026. https://datareportal.com/reports/digital-2024-pakistan"
+      },
+      {
+        "key": "3164_CR96",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Du, Z. Y., & Wang, Q. (2024). Digital infrastructure and innovation: digital divide or digital dividend?. Journal of Innovation & Knowledge, 9(3), 100542. https://doi.org/10.1016/j.jik.2024.100542",
+        "DOI": "10.1016/j.jik.2024.100542"
+      },
+      {
+        "key": "3164_CR28",
+        "unstructured": "Fahad, Q. (2023). Online market for women in Pakistan: assessing the level contribution influenced by information and communication technologies. City University Research Journal (CURJ), 13(2)."
+      },
+      {
+        "issue": "1",
+        "key": "3164_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "68",
+        "DOI": "10.1080/13600869.2022.2030027",
+        "volume": "36",
+        "author": "B Faturoti",
+        "year": "2022",
+        "unstructured": "Faturoti, B. (2022). Online learning during COVID19 and beyond: A human right based approach to internet access in Africa. International Review of Law, Computers & Technology, 36(1), 68–90.",
+        "journal-title": "International Review of Law, Computers & Technology"
+      },
+      {
+        "key": "3164_CR30",
+        "unstructured": "Finquelievich, S., Feldman, P., & Fischnaller, C. (2012). Public policies on media and information literacy and education in Latin America: Overview and proposals. In International Conference “Media and Information Literacy in Knowledge Societies”. Moscow (pp. 24–28)."
+      },
+      {
+        "key": "3164_CR31",
+        "unstructured": "Gallup Pakistan - Pakistan’s Foremost Research Lab. (n.d.). Gallup Pakistan - Pakistan’s Foremost Research Lab. (Accessed 23 February 2026). https://gallup.com.pk/post/34481"
+      },
+      {
+        "key": "3164_CR32",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gbadebo, A. D. (2024). Digital Transformation for Educational Development in Sub-Saharan Africa. International Journal of Social Science and Religion (IJSSR), 397–418.",
+        "DOI": "10.53639/ijssr.v5i3.262"
+      },
+      {
+        "issue": "2",
+        "key": "3164_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "195",
+        "DOI": "10.1080/02601370.2023.2174197",
+        "volume": "42",
+        "author": "N Geerts",
+        "year": "2023",
+        "unstructured": "Geerts, N., Schirmer, W., Vercruyssen, A., & Glorieux, I. (2023). Bridging the ‘instruction gap’: How ICT instructors help older adults with the acquisition of digital skills. International Journal of Lifelong Education, 42(2), 195–207.",
+        "journal-title": "International Journal of Lifelong Education"
+      },
+      {
+        "key": "3164_CR34",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Giansanti, D., & Veltro, G. (2021). The digital divide in the era of COVID-19: An investigation into an important obstacle to the access to the mHealth by the Citizen. Healthcare. (Accessed 23 February 2026). https://www.mdpi.com/2227-9032/9/4/371",
+        "DOI": "10.3390/healthcare9040371"
+      },
+      {
+        "key": "3164_CR35",
+        "unstructured": "Global System for Mobile Communication. (2022). The mobile gender gap report 2022. Retrieved June 25, 2022"
+      },
+      {
+        "issue": "1",
+        "key": "3164_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "3",
+        "DOI": "10.1177/0894439319851163",
+        "volume": "39",
+        "author": "M Gui",
+        "year": "2021",
+        "unstructured": "Gui, M., & Büchi, M. (2021). From use to overuse: Digital inequality in the age of communication abundance. Social Science Computer Review, 39(1), 3–19. https://doi.org/10.1177/0894439319851163",
+        "journal-title": "Social Science Computer Review"
+      },
+      {
+        "key": "3164_CR37",
+        "volume-title": "Gender equality in the information society",
+        "author": "A Gurumurthy",
+        "year": "2014",
+        "unstructured": "Gurumurthy, A., & Chami, N. (2014). Gender equality in the information society. IT for Change."
+      },
+      {
+        "key": "3164_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "101",
+        "DOI": "10.1016/j.jbusres.2019.11.069",
+        "volume": "109",
+        "author": "JF Hair Jr.",
+        "year": "2020",
+        "unstructured": "Hair, J. F., Jr., Howard, M. C., & Nitzl, C. (2020). Assessing measurement model quality in PLS-SEM using confirmatory composite analysis. Journal of Business Research, 109, 101–110. https://doi.org/10.1016/j.jbusres.2019.11.069",
+        "journal-title": "Journal of Business Research"
+      },
+      {
+        "key": "3164_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "197",
+        "DOI": "10.1007/978-3-030-80519-7",
+        "volume-title": "Partial least squares structural equation modeling (PLS-SEM) using R: A workbook",
+        "author": "JF Hair Jr",
+        "year": "2021",
+        "unstructured": "Hair, J. F., Jr., Hult, G. T. M., Ringle, C. M., Sarstedt, M., Danks, N. P., & Ray, S. (2021). Partial least squares structural equation modeling (PLS-SEM) using R: A workbook (p. 197). Springer Nature. https://doi.org/10.1007/978-3-030-80519-7"
+      },
+      {
+        "key": "3164_CR40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.worlddev.2020.105197",
+        "volume": "138",
+        "author": "SM Hasan",
+        "year": "2021",
+        "unstructured": "Hasan, S. M., Rehman, A., & Zhang, W. (2021). Who can work and study from home in Pakistan: Evidence from a 2018–19 nationwide household survey. World Development, 138, Article 105197.",
+        "journal-title": "World Development"
+      },
+      {
+        "key": "3164_CR41",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Hussain, H., Jun, W., & Radulescu, M. (2024). Innovation performance in the digital divide context: Nexus of digital infrastructure, digital innovation, and e-knowledge. Journal of the Knowledge Economy(1). https://doi.org/10.1007/s13132-024-02058-w",
+        "DOI": "10.1007/s13132-024-02058-w"
+      },
+      {
+        "key": "3164_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "271",
+        "DOI": "10.1007/s10433-020-00552-z",
+        "volume": "17",
+        "author": "O Huxhold",
+        "year": "2020",
+        "unstructured": "Huxhold, O., Hees, E., & Webster, N. J. (2020). Towards bridging the grey digital divide: Changes in internet access and its predictors from 2002 to 2014 in Germany. European Journal of Ageing, 17, 271–280. https://doi.org/10.1007/s10433-020-00552-z",
+        "journal-title": "European Journal of Ageing"
+      },
+      {
+        "key": "3164_CR43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1787/oil-2013-en",
+        "volume-title": "Measuring the information society report 2013",
+        "author": "International Telecommunication Union",
+        "year": "2013",
+        "unstructured": "International Telecommunication Union. (2013). Measuring the information society report 2013. ITU."
+      },
+      {
+        "key": "3164_CR44",
+        "unstructured": "International Telecommunication Union. (2020). Facts and figures 2020 international telecommunication union development sector."
+      },
+      {
+        "key": "3164_CR45",
+        "unstructured": "International Telecommunication Union. (2021). Measuring digital development: Facts and figures 2020."
+      },
+      {
+        "key": "3164_CR93",
+        "unstructured": "International Telecommunication Union. (2023). Measuring digital development: Facts and Figures 2023. ITU Telecommunication Development Sector. Accessed 20 February 2026. https://www.itu.int/itu-d/reports/statistics/facts-figures-2023/"
+      },
+      {
+        "issue": "3",
+        "key": "3164_CR46",
+        "first-page": "211",
+        "volume": "15",
+        "author": "MS Iqbal",
+        "year": "2020",
+        "unstructured": "Iqbal, M. S., Rahim, Z. B. A., Hussain, S. A., Ahmad, N., Kaidi, H. M., Ahmad, R., & Dziyauddin, R. A. (2020). Mobile communication (2G, 3G & 4G) and future interest of 5G in Pakistan: A review. Indonesian Journal of Electrical Engineering and Computer Science, 15(3), 211–229.",
+        "journal-title": "Indonesian Journal of Electrical Engineering and Computer Science"
+      },
+      {
+        "issue": "2",
+        "key": "3164_CR47",
+        "doi-asserted-by": "publisher",
+        "first-page": "219",
+        "DOI": "10.1080/17447143.2020.1756305",
+        "volume": "15",
+        "author": "S Jamil",
+        "year": "2020",
+        "unstructured": "Jamil, S. (2020). Ethnic news media in the digital age: The impact of technological convergence in reshaping journalists’ practices in Pakistan. Journal of Multicultural Discourses, 15(2), 219–239. https://doi.org/10.1080/17447143.2020.1756305",
+        "journal-title": "Journal of Multicultural Discourses"
+      },
+      {
+        "issue": "8",
+        "key": "3164_CR48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.telpol.2021.102206",
+        "volume": "45",
+        "author": "S Jamil",
+        "year": "2021",
+        "unstructured": "Jamil, S. (2021). From digital divide to digital inclusion: Challenges for wide-ranging digitalization in Pakistan. Telecommunications Policy, 45(8), Article 102206. https://doi.org/10.1016/j.telpol.2021.102206",
+        "journal-title": "Telecommunications Policy"
+      },
+      {
+        "key": "3164_CR49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1057/s41284-023-00375-4",
+        "author": "NF Khan",
+        "year": "2023",
+        "unstructured": "Khan, N. F., Ikram, N., & Saleem, S. (2023). Effects of socioeconomic and digital inequalities on cybersecurity in a developing country. Security Journal. https://doi.org/10.1057/s41284-023-00375-4",
+        "journal-title": "Security Journal"
+      },
+      {
+        "issue": "1",
+        "key": "3164_CR50",
+        "first-page": "1",
+        "volume": "11",
+        "author": "A Kreuder",
+        "year": "2024",
+        "unstructured": "Kreuder, A., Frick, U., Rakoczy, K., & Schlittmeier, S. J. (2024). Digital competence in adolescents and young adults: A critical analysis of concomitant variables, methodologies and intervention strategies. Humanities and Social Sciences Communications, 11(1), 1–20.",
+        "journal-title": "Humanities and Social Sciences Communications"
+      },
+      {
+        "issue": "1",
+        "key": "3164_CR51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13063-024-07937-w",
+        "volume": "25",
+        "author": "RA Krukowski",
+        "year": "2024",
+        "unstructured": "Krukowski, R. A., Ross, K. M., Western, M. J., Cooper, R., Busse, H., Forbes, C., Kuntsche, E., Allmeta, A., Silva, A. M., John-Akinola, Y. O., & König, L. M. (2024). Digital health interventions for all? Examining inclusivity across all stages of the digital health intervention research process. Trials, 25(1), Article 98. https://doi.org/10.1186/s13063-024-07937-w",
+        "journal-title": "Trials"
+      },
+      {
+        "issue": "2",
+        "key": "3164_CR52",
+        "doi-asserted-by": "publisher",
+        "first-page": "1034",
+        "DOI": "10.1177/14614448211072306",
+        "volume": "26",
+        "author": "A Kuhn",
+        "year": "2024",
+        "unstructured": "Kuhn, A., Schwabe, A., Boomgarden, H., Brandl, L., Stocker, G., Lauer, G., Brendel-Kepser, I., & Krause-Wolters, M. (2024). Who gets lost? How digital academic reading impacts equal opportunity in higher education. New Media & Society, 26(2), 1034–1055. https://doi.org/10.1177/14614448211072306",
+        "journal-title": "New Media & Society"
+      },
+      {
+        "key": "3164_CR94",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Kuteesa, K. N., Akpuokwe, C. U., & Udeh, C. A. (2024). Theoretical perspectives on digital divide and ICT access: Comparative study of rural communities in Africa and the United States. Computer science & it research journal, 5(4), 839-849. https://doi.org/10.51594/csitjr.v5i4.1045",
+        "DOI": "10.51594/csitjr.v5i4.1045"
+      },
+      {
+        "issue": "1",
+        "key": "3164_CR53",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/23311975.2023.2177400",
+        "volume": "10",
+        "author": "MA Kurniawan",
+        "year": "2023",
+        "unstructured": "Kurniawan, M. A., & Iskandar, Y. (2023). The effect of technology adaptation and government financial support on sustainable performance of MSMEs during the COVID-19 pandemic. Cogent Business & Management, 10(1), Article 2177400. https://doi.org/10.1080/23311975.2023.2177400",
+        "journal-title": "Cogent Business & Management"
+      },
+      {
+        "key": "3164_CR54",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.techsoc.2020.101433",
+        "volume": "63",
+        "author": "J Lopez-Sintas",
+        "year": "2020",
+        "unstructured": "Lopez-Sintas, J., Lamberti, G., & Sukphan, J. (2020). The social structuring of the digital gap in a developing country. The impact of computer and internet access opportunities on internet use in Thailand. Technology in Society, 63, Article 101433.",
+        "journal-title": "Technology in Society"
+      },
+      {
+        "key": "3164_CR55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.techfore.2021.121359",
+        "volume": "175",
+        "author": "S Lythreatis",
+        "year": "2022",
+        "unstructured": "Lythreatis, S., Singh, S. K., & El-Kassar, A. N. (2022). The digital divide: A review and future research agenda. Technological Forecasting and Social Change, 175, Article 121359.",
+        "journal-title": "Technological Forecasting and Social Change"
+      },
+      {
+        "issue": "5",
+        "key": "3164_CR56",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0303061",
+        "volume": "19",
+        "author": "OS Malkowski",
+        "year": "2024",
+        "unstructured": "Malkowski, O. S., Townsend, N. P., Kelson, M. J., Foster, C. E., & Western, M. J. (2024). Socio-economic inequalities in the breadth of internet use before and during the COVID-19 pandemic among older adults in England. PLoS ONE, 19(5), Article e0303061.",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "3164_CR57",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mangla, T., Paul, U., Gupta, A., Marwell, N. P., & Feamster, N. (2022). Internet inequity in Chicago: Adoption, affordability, and availability. Affordability, and Availability.",
+        "DOI": "10.2139/ssrn.4182994"
+      },
+      {
+        "issue": "1",
+        "key": "3164_CR59",
+        "doi-asserted-by": "publisher",
+        "first-page": "70",
+        "DOI": "10.59075/ijss.v3i1.536",
+        "volume": "3",
+        "author": "B Manzoor",
+        "year": "2025",
+        "unstructured": "Manzoor, B., Kakepoto, H., & Brohi, A. A. (2025). A sociological exploration of institutional, sociocultural, and economic barriers to women’s higher education aspirations in Balochistan. Indus Journal of Social Sciences, 3(1), 70–86.",
+        "journal-title": "Indus Journal of Social Sciences"
+      },
+      {
+        "key": "3164_CR60",
+        "unstructured": "Martin, M. (2021). Computer and internet use in the United States: 2018. American Community Survey Reports."
+      },
+      {
+        "key": "3164_CR61",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.techsoc.2019.101226",
+        "volume": "60",
+        "author": "M Martínez-Domínguez",
+        "year": "2020",
+        "unstructured": "Martínez-Domínguez, M., & Mora-Rivera, J. (2020). Internet adoption and usage patterns in rural Mexico. Technology in Society, 60, Article 101226.",
+        "journal-title": "Technology in Society"
+      },
+      {
+        "issue": "3",
+        "key": "3164_CR62",
+        "doi-asserted-by": "publisher",
+        "first-page": "263",
+        "DOI": "10.1080/17439884.2018.1462206",
+        "volume": "43",
+        "author": "J McDougall",
+        "year": "2018",
+        "unstructured": "McDougall, J., Readman, M., & Wilkinson, P. (2018). The uses of (digital) literacy. Learning, Media and Technology, 43(3), 263–279.",
+        "journal-title": "Learning, Media and Technology"
+      },
+      {
+        "issue": "1",
+        "key": "3164_CR63",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.47263/JASEM.5(1)06",
+        "volume": "5",
+        "author": "MA Memon",
+        "year": "2021",
+        "unstructured": "Memon, M. A., Ramayah, T., Cheah, J. H., Ting, H., Chuah, F., & Cham, T. H. (2021). PLS-SEM statistical programs: A review. Journal of Applied Structural Equation Modeling, 5(1), 1–14.",
+        "journal-title": "Journal of Applied Structural Equation Modeling"
+      },
+      {
+        "issue": "12",
+        "key": "3164_CR64",
+        "doi-asserted-by": "publisher",
+        "first-page": "393",
+        "DOI": "10.5897/ajbm2014.7438",
+        "volume": "8",
+        "author": "A Monir",
+        "year": "2014",
+        "unstructured": "Monir, A., & Asif, I. (2014). Grooming those microfinance fails to accommodate in: System needs major overhauling. African Journal of Business Management, 8(12), 393–440. https://doi.org/10.5897/ajbm2014.7438",
+        "journal-title": "African Journal of Business Management"
+      },
+      {
+        "issue": "2",
+        "key": "3164_CR65",
+        "volume": "17",
+        "author": "M Nafees",
+        "year": "2020",
+        "unstructured": "Nafees, M., & Khan, F. (2020). Pakistan’s response to COVID-19 pandemic and efficacy of quarantine and partial lockdown: A review. Electronic Journal of General Medicine, 17(2), Article emXXX.",
+        "journal-title": "Electronic Journal of General Medicine"
+      },
+      {
+        "key": "3164_CR66",
+        "doi-asserted-by": "publisher",
+        "first-page": "224",
+        "DOI": "10.4324/9781315231365-13",
+        "volume-title": "Marketing management in Africa",
+        "author": "FA Nandonde",
+        "year": "2018",
+        "unstructured": "Nandonde, F. A., & Kuada, J. (2018). Factors determining the rise of modern food retailing in East Africa: Evidence from Tanzania. Marketing management in Africa (pp. 224–239). Routledge."
+      },
+      {
+        "issue": "2",
+        "key": "3164_CR67",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/26145",
+        "volume": "23",
+        "author": "SS Oh",
+        "year": "2021",
+        "unstructured": "Oh, S. S., Kim, K. A., Kim, M., Oh, J., Chu, S. H., & Choi, J. (2021). Measurement of digital literacy among older adults: Systematic review. Journal of Medical Internet Research, 23(2), Article e26145.",
+        "journal-title": "Journal of Medical Internet Research"
+      },
+      {
+        "issue": "1",
+        "key": "3164_CR69",
+        "doi-asserted-by": "publisher",
+        "first-page": "98",
+        "DOI": "10.1163/09744061-20220204",
+        "volume": "14",
+        "author": "TA Ojo",
+        "year": "2022",
+        "unstructured": "Ojo, T. A. (2022). Digital financial inclusion for women in the fourth industrial revolution: A key towards achieving sustainable development goal 5. Africa Review, 14(1), 98–123.",
+        "journal-title": "Africa Review"
+      },
+      {
+        "key": "3164_CR71",
+        "unstructured": "Pew Center for the People and the Press. (1995). Technology in the American household. Washington, D.C. (Accessed 23 February 2026). https://www.pewresearch.org/politics/1994/05/24/technology-in-the-american-household/"
+      },
+      {
+        "key": "3164_CR72",
+        "doi-asserted-by": "publisher",
+        "first-page": "306",
+        "DOI": "10.1016/j.jrurstud.2018.09.011",
+        "volume": "68",
+        "author": "L Philip",
+        "year": "2019",
+        "unstructured": "Philip, L., & Williams, F. (2019). Remote rural home based businesses and digital inequalities: Understanding needs and expectations in a digitally underserved community. Journal of Rural Studies, 68, 306–318.",
+        "journal-title": "Journal of Rural Studies"
+      },
+      {
+        "issue": "2",
+        "key": "3164_CR73",
+        "first-page": "1",
+        "volume": "3",
+        "author": "SM Rasoolimanesh",
+        "year": "2022",
+        "unstructured": "Rasoolimanesh, S. M. (2022). Discriminant validity assessment in PLS-SEM: A comprehensive composite-based approach. Data Analysis Perspectives Journal, 3(2), 1–8.",
+        "journal-title": "Data Analysis Perspectives Journal"
+      },
+      {
+        "issue": "1",
+        "key": "3164_CR74",
+        "first-page": "78",
+        "volume": "2",
+        "author": "A Raza",
+        "year": "2022",
+        "unstructured": "Raza, A. (2022). Advances in wireless communication technologies for rural areas in PAKISTAN. Pakistan Journal of Science, Engineering, and Modern Research, 2(1), 78–105.",
+        "journal-title": "Pakistan Journal of Science, Engineering, and Modern Research"
+      },
+      {
+        "issue": "2",
+        "key": "3164_CR75",
+        "doi-asserted-by": "publisher",
+        "first-page": "328",
+        "DOI": "10.1177/0894439320909507",
+        "volume": "40",
+        "author": "E Sala",
+        "year": "2022",
+        "unstructured": "Sala, E., Gaia, A., & Cerati, G. (2022). The gray digital divide in social networking site use in Europe: Results from a quantitative study. Social Science Computer Review, 40(2), 328–345.",
+        "journal-title": "Social Science Computer Review"
+      },
+      {
+        "issue": "3",
+        "key": "3164_CR76",
+        "doi-asserted-by": "publisher",
+        "first-page": "196",
+        "DOI": "10.52223/jei4032206",
+        "volume": "4",
+        "author": "W Shair",
+        "year": "2022",
+        "unstructured": "Shair, W., Waheed, A., Kamran, M. M., & Kubra, N. (2022). Digital divide in Pakistan: Barriers to ICT usage among the individuals of Pakistan. Journal of Economic Impact, 4(3), 196–204.",
+        "journal-title": "Journal of Economic Impact"
+      },
+      {
+        "key": "3164_CR77",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.techfore.2024.123443",
+        "volume": "204",
+        "author": "YA Shiferaw",
+        "year": "2024",
+        "unstructured": "Shiferaw, Y. A. (2024). A spatial analysis of the digital gender gap in South Africa: Are there any fundamental differences? Technological Forecasting and Social Change, 204, Article 123443.",
+        "journal-title": "Technological Forecasting and Social Change"
+      },
+      {
+        "issue": "2",
+        "key": "3164_CR78",
+        "first-page": "349",
+        "volume": "8",
+        "author": "R Shukla",
+        "year": "2022",
+        "unstructured": "Shukla, R., & Jha, R. (2022). Digital divide-its implications on class divide. Journal of Legal Studies & Research, 8(2), 349–358.",
+        "journal-title": "Journal of Legal Studies & Research"
+      },
+      {
+        "issue": "2",
+        "key": "3164_CR79",
+        "doi-asserted-by": "publisher",
+        "first-page": "27",
+        "DOI": "10.1080/13183222.2013.11009113",
+        "volume": "20",
+        "author": "C Sparks",
+        "year": "2013",
+        "unstructured": "Sparks, C. (2013). What is the “digital divide” and why is it important? Javnost-The Public, 20(2), 27–46.",
+        "journal-title": "Javnost-The Public"
+      },
+      {
+        "issue": "1",
+        "key": "3164_CR80",
+        "doi-asserted-by": "publisher",
+        "first-page": "41",
+        "DOI": "10.1080/19422539.2020.1858639",
+        "volume": "16",
+        "author": "AS Suárez",
+        "year": "2024",
+        "unstructured": "Suárez, A. S., & Colmenero, M. R. (2024). The challenge of incorporating digital skills in the classroom: Perceptions and attitudes of Spanish Salesian teachers. International Studies in Catholic Education, 16(1), 41–56.",
+        "journal-title": "International Studies in Catholic Education"
+      },
+      {
+        "key": "3164_CR81",
+        "first-page": "1",
+        "volume": "1361",
+        "author": "A Thierer",
+        "year": "2000",
+        "unstructured": "Thierer, A. (2000). How free computers are filling the digital divide. Heritage Foundation Backgrounder, 1361, 1–21.",
+        "journal-title": "Heritage Foundation Backgrounder"
+      },
+      {
+        "key": "3164_CR95",
+        "unstructured": "Tilly, C. (1999). Durable Inequality. Berkeley: University of California Press."
+      },
+      {
+        "issue": "6",
+        "key": "3164_CR83",
+        "doi-asserted-by": "publisher",
+        "first-page": "1248",
+        "DOI": "10.1177/14614448211024012",
+        "volume": "25",
+        "author": "AJ Van Deursen",
+        "year": "2023",
+        "unstructured": "Van Deursen, A. J., & van Dijk, J. A. (2023). IQ and digital inequality: An empirical investigation. New Media & Society, 25(6), 1248–1270.",
+        "journal-title": "New Media &amp; Society"
+      },
+      {
+        "issue": "2",
+        "key": "3164_CR84",
+        "doi-asserted-by": "publisher",
+        "first-page": "258",
+        "DOI": "10.1080/1369118X.2019.1646777",
+        "volume": "24",
+        "author": "AJ Van Deursen",
+        "year": "2021",
+        "unstructured": "Van Deursen, A. J., Van Der Zeeuw, A., De Boer, P., Jansen, G., & Van Rompay, T. (2021). Digital inequalities in the Internet of Things: Differences in attitudes, material access, skills, and usage. Information, Communication & Society, 24(2), 258–276. https://doi.org/10.1080/1369118X.2019.1646777",
+        "journal-title": "Information, Communication & Society"
+      },
+      {
+        "key": "3164_CR85",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4135/9781452229812",
+        "volume-title": "The deepening divide, Inequality in the Information Society",
+        "author": "J Van Dijk",
+        "year": "2005",
+        "unstructured": "Van Dijk, J. (2005). The deepening divide, Inequality in the Information Society. Sage Publications."
+      },
+      {
+        "key": "3164_CR86",
+        "volume-title": "The digital divide",
+        "author": "J Van Dijk",
+        "year": "2020",
+        "unstructured": "Van Dijk, J. (2020). The digital divide. John Wiley & Sons."
+      },
+      {
+        "key": "3164_CR87",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Van Laar, E., van Deursen, A. J. A. M., & van Dijk, J. A. G. M. (2017). The relation between 21st-century skills and digital skills (p. 72). Computers in human behavior: A systematic literature review.org/. https://doi.org/10.1016/j.chb.2017.03.010",
+        "DOI": "10.1016/j.chb.2017.03.010"
+      },
+      {
+        "issue": "2",
+        "key": "3164_CR88",
+        "doi-asserted-by": "publisher",
+        "first-page": "119",
+        "DOI": "10.1080/17447143.2020.1780244",
+        "volume": "15",
+        "author": "E Vartanova",
+        "year": "2020",
+        "unstructured": "Vartanova, E., & Gladkova, A. (2020). Old and new discourses in Emerging States: Communication challenges of the digital age. Journal of Multicultural Discourses, 15(2), 119–125. https://doi.org/10.1080/17447143.2020.1780244",
+        "journal-title": "Journal of Multicultural Discourses"
+      },
+      {
+        "issue": "3",
+        "key": "3164_CR89",
+        "doi-asserted-by": "publisher",
+        "first-page": "955",
+        "DOI": "10.1007/s10796-020-10096-3",
+        "volume": "25",
+        "author": "P Vassilakopoulou",
+        "year": "2023",
+        "unstructured": "Vassilakopoulou, P., & Hustad, E. (2023). Bridging digital divides: A literature review and research agenda for information systems research. Information Systems Frontiers, 25(3), 955–969. https://doi.org/10.1007/s10796-020-10096-3",
+        "journal-title": "Information Systems Frontiers"
+      },
+      {
+        "issue": "1",
+        "key": "3164_CR90",
+        "doi-asserted-by": "publisher",
+        "first-page": "179",
+        "DOI": "10.3102/0091732X09349791",
+        "volume": "34",
+        "author": "M Warschauer",
+        "year": "2010",
+        "unstructured": "Warschauer, M., & Matuchniak, T. (2010). New technology and digital worlds: Analyzing evidence of equity in access, use, and outcomes. Review of Research in Education, 34(1), 179–225.",
+        "journal-title": "Review of Research in Education"
+      },
+      {
+        "key": "3164_CR91",
+        "unstructured": "Wasson, B., Ness, I., Hansen, C., Lakkala, M., Ilomäki, L., Tammets, K., ... & Dagiene, V. (2021). State of the field review of research on digital innovation. D1. 1. accelerating digital innovation in schools through Regional innovation hubs and a whole-school mentoring model (iHub4Schools) project, Horizon 2020. European Union."
+      },
+      {
+        "issue": "1",
+        "key": "3164_CR92",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12889-024-18474-1",
+        "volume": "24",
+        "author": "D Zhihao",
+        "year": "2024",
+        "unstructured": "Zhihao, D., Tao, W., Yingjie, S., & Feng, Z. (2024). The influence of physical activity on internet addiction among Chinese college students: The mediating role of self-esteem and the moderating role of gender. BMC Public Health, 24(1), Article 935. https://doi.org/10.1186/s12889-024-18474-1",
+        "journal-title": "BMC Public Health"
+      }
+    ],
+    "container-title": [
+      "Journal of the Knowledge Economy"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s13132-026-03164-7.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s13132-026-03164-7",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s13132-026-03164-7.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          30
+        ]
+      ],
+      "date-time": "2026-07-30T08:47:37Z",
+      "timestamp": 1785401257000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s13132-026-03164-7"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          10
+        ]
+      ]
+    },
+    "references-count": 88,
+    "journal-issue": {
+      "issue": "4",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            8
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "3164"
+    ],
+    "URL": "https://doi.org/10.1007/s13132-026-03164-7",
+    "relation": {},
+    "ISSN": [
+      "1868-7873"
+    ],
+    "issn-type": [
+      {
+        "value": "1868-7873",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          10
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "15 August 2024",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "23 January 2026",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "10 March 2026",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 1,
+        "name": "Ethics",
+        "label": "Ethical Approval",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "The authors declare no conflicts of interest.",
+        "order": 2,
+        "name": "Ethics",
+        "label": "Conflict of interest",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      }
+    ]
+  }
+}

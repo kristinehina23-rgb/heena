@@ -49,6 +49,11 @@ Raw Crossref JSON for each DOI is in `proofs/`.
 | 39 | White (2006), *Language Teaching, 39*(4), 247-264 | https://doi.org/10.1017/S0261444806003727 | True | `proofs/White_2006.crossref.json` | Distance language learning precedes the pandemic. |
 | 40 | Zhang & Liu (2023), *Foreign Language Annals, 56*(3), 740-763 | https://doi.org/10.1111/flan.12704 | True | `proofs/Zhang_Liu_2023.crossref.json` | Designed online work by Chinese-language learners. |
 | 41 | Zhang & Pladevall-Ballester (2021), *LCC, 35*(2), 200-216 | https://doi.org/10.1080/07908318.2021.1979576 | True | `proofs/Zhang_Pladevall-Ballester_2021.crossref.json` | Target journal; student questionnaires on courses. |
+| 42 | Qi (2025), *Language Teaching Research*, advance online | https://doi.org/10.1177/13621688251387320 | True | `proofs/Qi_2025.crossref.json` | Online CSL anxiety. Later affect lens only; not evidence for the present stress item. |
+| 43 | Xu, B. (2024), *Language Teaching Research*, advance online | https://doi.org/10.1177/13621688241277911 | True | `proofs/Xu_B_2024.crossref.json` | CFL technology review 2000–2024. Used to show the field still says less about household access. |
+| 44 | Zhang & Osborne (2026), *CASLAR, 15*(1), 11-43 | https://doi.org/10.1515/caslar-2026-2002 | True | `proofs/Zhang_Osborne_2026.crossref.json` | CFL digital-transformation review; flags digital equity as under-examined. |
+| 45 | Vishnu, Tengli, Ramadas, Sathyan, & Bhatt (2024), *TechTrends, 68*(6), 1107-1116 | https://doi.org/10.1007/s11528-024-00997-4 | True | `proofs/Vishnu_Tengli_Ramadas_Sathyan_Bhatt_2024.crossref.json` | Digital infrastructure as a condition of HE online learning. |
+| 46 | Butt & Sadaf (2026), *Journal of the Knowledge Economy, 17*(4), 9567-9590 | https://doi.org/10.1007/s13132-026-03164-7 | True | `proofs/Butt_Sadaf_2026.crossref.json` | Pakistan university digital divide. Nationality-context background only. |
 
 ## Books and the Hodges essay
 
