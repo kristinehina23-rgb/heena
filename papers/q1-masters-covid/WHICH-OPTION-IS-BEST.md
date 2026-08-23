@@ -1,8 +1,8 @@
 # Which option is best
 
-**Winner:** Track A → *Language, Culture and Curriculum* → current title → inequality / platform / investment frame (not GenAI).
+**Winner (this revision):** Track A → *Foreign Language Annals* → current title → household infrastructure and platform access as a delivery problem (not GenAI; not an LCC culture/curriculum frame).
 
-That is the only combination that matches the data we actually have (N = 38, no interviews, no ChatGPT items) and still counts as **JCR Q1 SSCI** for a SYSU / CSP file.
+That is the only combination that matches the data we actually have (N = 38, no interviews, no ChatGPT items) and the journal’s official remit (languages other than English; they have already printed emergency-online and Chinese studies). It is **SSCI, JCR Q2**, not SSCI Q1.
 
 ---
 
@@ -15,7 +15,7 @@ That is the only combination that matches the data we actually have (N = 38, no 
 | Risk | Small N; 2024 *Arbor* note must be disclosed | Looks like 开题 if sent to the same journal as A |
 | Use | Degree-relevant empirical paper | Supports 开题; submit **after** A, to a **different** journal |
 
-**Best now: Track A.** Do not merge A and B. Do not send both to LCC in the same season. When B is drafted, first choice is *Language Teaching Research*.
+**Best now: Track A.** Do not merge A and B. Do not send both to the same journal in the same season. When B is drafted, first choice is *Language Teaching Research*.
 
 ---
 
@@ -25,13 +25,13 @@ Fit beats impact factor. Committees count **Q1**, not “IF 8 vs 2.8.”
 
 | Journal | ~2026 JCR | Fit with *this* file | Desk-reject risk | Verdict |
 |---|---|---|---|---|
-| ***Language, Culture and Curriculum*** | IF ~2.8, **Q1** Linguistics + Education | Home, CSC corridor, Chinese as additional language, investment (they just published Hajar & Karakuş 2024) | **Lowest** of the Q1 list | **Submit here first** |
-| *RELC Journal* | IF ~6–7, **Q1** | Likes post-pandemic tech; we have platform names | Medium: they often want tasks/classroom design, not only a questionnaire | Backup if LCC rejects |
+| ***Foreign Language Annals*** | JIF 2.0; **Q2** Linguistics + Education | Languages other than English; already printed ERT, online Chinese, anxiety, platforms | Medium: small N, 2022 data, no ethics number | **Submit here first** |
+| *Language, Culture and Curriculum* | IF ~2.8, **Q1** | Official remit is cultural content / intercultural / curriculum | Higher for a household/platform paper; they have no such record | Do not send first |
+| *RELC Journal* | IF ~6–7, **Q1** | Likes post-pandemic tech; we have platform names | Medium: they often want tasks/classroom design; 6,000-word cap | Backup if FLA rejects |
 | *ReCALL* | IF ~7.7, **Q1** | Platform geography is a CALL finding | High unless we add tasks and skill outcomes we do not have | Do not send first |
 | *System* / *CALL* | IF ~8 | Want SEM, experiments, or rich interviews | **Very high** at N = 38, self-report, COVID-era | Not yet |
-| *Asia-Pacific Education Researcher* and similar | Q1/Q2 mix | Safer empirically | Lower prestige in linguistics files | Only after two Q1 linguistics desks |
 
-**Best: LCC.** Higher-IF CALL journals would punish the same honest paper.
+**Best official fit: FLA.** Closest SSCI Q1 by mission is *System*, but the methods bar is higher. LCC remains SSCI Q1 and a stretch.
 
 ---
 
@@ -62,4 +62,4 @@ Fit beats impact factor. Committees count **Q1**, not “IF 8 vs 2.8.”
 
 ## One line to tell Cao Huimin
 
-We submit the n = 38 home / infrastructure / platform paper to *Language, Culture and Curriculum* first. The HSK localisation paper is a second Q1, later, in *Language Teaching Research*. We do not turn the 2022 questionnaire into an AI study.
+We submit the n = 38 home / infrastructure / platform paper to *Foreign Language Annals* first. That journal has already printed emergency remote language teaching and online Chinese studies; it is SSCI but JCR Q2, not SSCI Q1. The HSK localization paper is a later paper, in *Language Teaching Research* or another materials journal. We do not turn the 2022 questionnaire into an AI study.

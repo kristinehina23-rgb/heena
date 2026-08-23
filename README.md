@@ -1,6 +1,6 @@
 # heena
 
-Working papers for turning the CCNU master’s Wenjuan export into a Q1 SSCI manuscript (*Language, Culture and Curriculum*), plus a later second track from the SYSU PhD framework.
+Working papers for turning the CCNU master’s Wenjuan export into an original manuscript for *Foreign Language Annals* (ACTFL / Wiley; SSCI, JCR Q2), plus a later second track from the SYSU PhD framework.
 
 Start here: [`papers/q1-masters-covid/00-READ-ME-FIRST.md`](papers/q1-masters-covid/00-READ-ME-FIRST.md)
 

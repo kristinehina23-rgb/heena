@@ -18,20 +18,20 @@ Quartiles below use the June 2026 JCR release (2025 citation data). “Q1” her
 
 **Working title:** When Chinese class moved home: Pakistani students, infrastructure, and platform access
 
-**Now with n = 38 item-level data.** First target remains *Language, Culture and Curriculum*. *ReCALL* is a better second choice than before, because the new **platform geography** finding is a CALL result. *System* / *CALL* still want a larger N or richer interviews.
+**Now with n = 38 item-level data.** First target is *Foreign Language Annals* (ACTFL / Wiley; languages other than English; they have already printed emergency-online and Chinese studies). *Language, Culture and Curriculum* is SSCI Q1 but is not the official-fit home for a household/platform paper. *ReCALL* is a possible second choice because of platform geography. *System* / *CALL* still want a larger N or richer interviews.
 
 ### First choice (submit here first)
 
-**Language, Culture and Curriculum** (Taylor & Francis)  
-- JCR Q1 (Linguistics; Education)  
-- 2026 IF about 2.8  
-- Cares about **context, culture, and curriculum**, not only fancy statistics  
-- Strong fit: Pakistani homes, CSC mobility, Chinese as an additional language, post-pandemic lessons  
-- This journal already publishes international students of Chinese, online Chinese-culture courses, CSL learner emotion, student views of curriculum, and Hajar and Karakuş (2024) on **investment** / LOTE international students. Our South-South home-and-platform case is the gap, not a copy. See `LCC-JOURNAL-RULES.md`.  
-- Typical length: ~8,000 words  
-- Style: APA; British spelling; ScholarOne anonymous review  
+**Foreign Language Annals** (ACTFL / Wiley)  
+- Official refereed journal of ACTFL; languages **other than English**  
+- SSCI; JCR **Q2** Linguistics and Education (do not call this SSCI Q1). Official Wiley 2025 snapshot: JIF 2.0  
+- Cares about classroom teaching, online world-language delivery, and pedagogical implications  
+- Already printed emergency remote language teaching, online tasks, online anxiety, emergency Chinese character teaching, faculty perceptions, and online collaborative writing by Chinese-language learners. See `FLA-JOURNAL-RULES.md`.  
+- Typical length: 4,000–10,000 words including references  
+- Style: APA 7th; American English; Challenge statement; Pedagogical implications; ScholarOne double-blind review  
+- Before final acceptance: at least one author must be an ACTFL member  
 
-Why first: the contribution is *where* Chinese was learned (digitally unequal Pakistani households), not a new app or a new experiment. LCC editors have published Global South, Islamic-context, and curriculum papers. A COVID dataset is still acceptable if the claim is about **lasting digital inequality in ICLE corridors**, not “we discovered online learning is hard.”
+Why first: the contribution is whether an online Chinese course can still be *taken* (household power, network speed, platform access), not a new app and not a culture-curriculum argument. FLA has named that failure; this file measures the learner-side conditions.
 
 ### Second choice (if the paper is framed as CALL)
 
@@ -77,7 +77,7 @@ Do **not** send Track A and Track B to the same journal in the same season.
 | Output | Typical reading in SYSU / CSP files |
 |---|---|
 | ICCC 2026 (Springer, ESCI) | International publication; **not** Q1 SSCI |
-| Track A in *Language, Culture and Curriculum* | **Q1 SSCI** — this is the degree-relevant paper |
+| Track A in *Foreign Language Annals* | **SSCI, JCR Q2** — closest official fit; not the SSCI Q1 label Chinese files usually want |
 | Track B conceptual paper in LTR / LCC | **Q1 SSCI** — often easier than COVID reanalysis |
 | *System* / *CALL* | Excellent if accepted; high desk-reject risk with current tables |
 
@@ -85,9 +85,9 @@ Do **not** send Track A and Track B to the same journal in the same season.
 
 ## Suggested timeline (no calendar padding)
 
-**Decision (see `WHICH-OPTION-IS-BEST.md`):** Track A to *Language, Culture and Curriculum* first, current title, current frame.
+**Decision (see `WHICH-OPTION-IS-BEST.md`):** Track A to *Foreign Language Annals* first, current title, delivery-problem frame.
 
 1. Confirm Cao Huimin as co-author and send her this draft.  
 2. Do **not** wait for a second data wave (none exists). Optional: she checks item wording in Chinese.  
-3. Submit Track A to *Language, Culture and Curriculum*.  
-4. After 开题, polish Track B from Chapter 3 and submit to *Language Teaching Research* (not LCC again).
+3. Submit Track A to *Foreign Language Annals* only after Xu Yiru and Cao Huimin approve, and after an ethics letter or waiver exists.  
+4. After 开题, polish Track B from Chapter 3 and submit to *Language Teaching Research* or *Language, Culture and Curriculum* (not FLA again).

@@ -1,6 +1,6 @@
 # Supervisor review (before Q1 submit)
 
-Read as if Xu Yiru were marking the draft for *Language, Culture and Curriculum*.
+Read as if Xu Yiru were marking the draft for *Foreign Language Annals*. The older notes below still flag overclaims. The current journal pattern is in `FLA-JOURNAL-RULES.md`.
 
 **Status after the recheck (this revision):** the overclaims listed below have been cut in `manuscript.md`. Table 3 now uses only columns in the committed analysis file. RQ4 (implications) is no longer treated as a data question. Send this version to Xu Yiru.
 
@@ -33,9 +33,9 @@ Verdict before submit: **Xu Yiru and Cao Huimin must still read it.** The data s
 
 ---
 
-## Concept (this is the Q1 problem)
+## Concept (historical note; the current target is FLA)
 
-*Language, Culture and Curriculum* wants three words together. Right now:
+*Foreign Language Annals* wants a Challenge statement, a pedagogical-implications section, and a teaching problem in a language other than English. It does not require LCC’s three-word culture/curriculum frame. The older LCC note below is kept only so those overclaims are not put back:
 
 - **Language:** present (Chinese as an additional language, oral class).
 - **Curriculum:** thin. We never name the course, university, textbook, weekly hours, or HSK target. Reviewers will ask “which curriculum?”
@@ -79,7 +79,7 @@ Numbers in Tables 1–5 match the export. These still need a sentence in the pap
 2. One short **coding table** for the ordinals.
 3. Say what **culture** and **curriculum** mean in *this* paper (home as classroom; campus course plan used off campus).
 4. Implications as **suggestions from this sample**, not national policy for CSC/CLEC.
-5. Keep British academic English; no em-dashes; no “It is not X, it is Y” slogans.
-6. Xu Yiru and Cao Huimin must actually read it. Supervisor review in the Chinese sense is not optional for T&F.
+5. Keep American academic English for FLA; no em-dashes; no “It is not X, it is Y” slogans.
+6. Xu Yiru and Cao Huimin must actually read it. Supervisor review in the Chinese sense is not optional for Wiley.
 
 After that, the paper is still a small exploratory questionnaire. That can be enough for LCC if the claim stays small. It will not be enough for *System* or *CALL*.
