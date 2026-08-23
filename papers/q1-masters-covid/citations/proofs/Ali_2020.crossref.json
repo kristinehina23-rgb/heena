@@ -1,0 +1,173 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        21
+      ]
+    ],
+    "date-time": "2026-08-21T11:56:37Z",
+    "timestamp": 1787313397788,
+    "version": "3.56.0"
+  },
+  "reference-count": 0,
+  "publisher": "Canadian Center of Science and Education",
+  "issue": "3",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            5,
+            18
+          ]
+        ],
+        "date-time": "2020-05-18T00:00:00Z",
+        "timestamp": 1589760000000
+      },
+      "content-version": "unspecified",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "HES"
+  ],
+  "abstract": "<jats:p>In light of the rising concerns about the spread of COVID-19 and calls to contain the Corona Virus, a growing number of tertiary institutions have shut down in regards to face-to-face classes globally. The Corona virus has revealed emerging vulnerabilities in education systems around the world. It is now clear that society needs flexible and resilient education systems as we face unpredictable futures. A meta-analysis methodology was adopted for this study and pertinent literature was visited to capture the essence of continued learning during these unprecedented times. Findings reveal that universities worldwide are moving more and more towards online learning or E- Learning. Findings also reveal that apart from resources, staff readiness, confidence, student accessibility and motivation play important function in ICT integrated learning. This exploratory paper proposes that staff members should use technology and technological gadgets to enhance learning especially during these exceptional times. Findings also propose online and remote learning as a necessity in times of lock downs and social distancing due to COVID-19 pandemic. It also provides a strong platform for further research.</jats:p>",
+  "DOI": "10.5539/hes.v10n3p16",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        5,
+        17
+      ]
+    ],
+    "date-time": "2020-05-17T20:36:16Z",
+    "timestamp": 1589747776000
+  },
+  "page": "16",
+  "source": "Crossref",
+  "is-referenced-by-count": 931,
+  "title": [
+    "Online and Remote Learning in Higher Education Institutes: A Necessity in light of COVID-19 Pandemic"
+  ],
+  "prefix": "10.5539",
+  "volume": "10",
+  "author": [
+    {
+      "given": "Wahab",
+      "family": "Ali",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "3486",
+  "published-online": {
+    "date-parts": [
+      [
+        2020,
+        5,
+        18
+      ]
+    ]
+  },
+  "container-title": [
+    "Higher Education Studies"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "http://www.ccsenet.org/journal/index.php/hes/article/download/0/0/42784/44703",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.ccsenet.org/journal/index.php/HES/article/download/0/0/42784/44703",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        5
+      ]
+    ],
+    "date-time": "2025-12-05T02:10:16Z",
+    "timestamp": 1764900616000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://www.ccsenet.org/journal/index.php/hes/article/view/0/42784"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        5,
+        18
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "3",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          17
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.5539/hes.v10n3p16",
+  "relation": {},
+  "ISSN": [
+    "1925-475X",
+    "1925-4741"
+  ],
+  "issn-type": [
+    {
+      "value": "1925-475X",
+      "type": "electronic"
+    },
+    {
+      "value": "1925-4741",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        5,
+        18
+      ]
+    ]
+  }
+}

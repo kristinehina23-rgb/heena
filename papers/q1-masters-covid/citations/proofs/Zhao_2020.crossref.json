@@ -1,0 +1,446 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2022,
+        12,
+        19
+      ]
+    ],
+    "date-time": "2022-12-19T05:23:36Z",
+    "timestamp": 1671427416591
+  },
+  "reference-count": 52,
+  "publisher": "Walter de Gruyter GmbH",
+  "issue": "2",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2020,
+        9,
+        25
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Chinese is now the second most commonly spoken language in Australia. There is a growing interest in learning Chinese in local schools. However, it is reported that the principally English-speaking learners in Australia have great difficulties and challenges in learning Chinese. The high dropout rate in Chinese courses demonstrates this. This paper presents a case study conducted in a local public school in New South Wales. The purpose of this study is to explore and employ the local students’ daily recurring sociolinguistic activities, performed in English at school, for creating suitable learning content. In this way, a localised Chinese curriculum is constructed in the Australian educational environment. The case study shows that the local students’ translanguaging aptitudes between English and Chinese are developing and becoming influential, as they have engaged in learning Chinese in the form of a local practice – playing chess, which is a typical instance of their daily recurring sociolinguistic activities in school. Therefore, in the process of such contextualised learning practices, not only can Chinese be made learnable for them, but also the specific vocabulary learnt can be the basis for their wider learning of Chinese in the future.</jats:p>",
+  "DOI": "10.1515/glochi-2020-0014",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2021,
+        2,
+        25
+      ]
+    ],
+    "date-time": "2021-02-25T12:52:38Z",
+    "timestamp": 1614257558000
+  },
+  "page": "263-288",
+  "source": "Crossref",
+  "is-referenced-by-count": 2,
+  "title": [
+    "Localising Chinese language curriculum construction: A case study in an Australian primary school"
+  ],
+  "prefix": "10.1515",
+  "volume": "6",
+  "author": [
+    {
+      "given": "K.",
+      "family": "Zhao",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "School of Humanities and International Education , Zhejiang University of Science & Technology , Zhejiang , China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "374",
+  "published-online": {
+    "date-parts": [
+      [
+        2020,
+        11,
+        2
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_001_w2aab3b7c11b1b6b1ab2b1b1Aa",
+      "unstructured": "AITSL. 2012. Australian professional standards for teachers. Melbourne: Australian Institute for Teaching and School Leadership."
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_002_w2aab3b7c11b1b6b1ab2b1b2Aa",
+      "unstructured": "Baker, Colin. 2011.Foundations of bilingual education and bilingualism, 5th edn. Buffalo, N.Y.: Multilingual Matters."
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_003_w2aab3b7c11b1b6b1ab2b1b3Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Canagarajah, Suresh. 2011. Codemeshing in academic writing: Identifying teachable strategies of translanguaging. The Modern Language Journal 95(3). 401–417. https://doi.org/10.1111/j.1540-4781.2011.01207.x.",
+      "DOI": "10.1111/j.1540-4781.2011.01207.x"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_004_w2aab3b7c11b1b6b1ab2b1b4Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Carter, Shannon. 2006. Redefining literacy as a social practice. Journal of Basic Writing 25(2). 94–125.",
+      "DOI": "10.37514/JBW-J.2006.25.2.06"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_005_w2aab3b7c11b1b6b1ab2b1b5Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Cheng, M-T., She, H-C. & Leonard, Annetta. 2015. Game immersion experience: Its hierarchical structure and impact on game-based science learning. Journal of Computer Assisted Learning 31(3). 232–253. https://doi.org/10.1111/jcal.12066.",
+      "DOI": "10.1111/jcal.12066"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_006_w2aab3b7c11b1b6b1ab2b1b6Aa",
+      "unstructured": "Cohen, Louis, Lawrence Manion & Keith Morrison. 2011. Research methods in education, 7th edn. New York: Routledge."
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_007_w2aab3b7c11b1b6b1ab2b1b7Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Creese, Angela & Adrian Blackledge. 2010. Translanguaging in the bilingual classroom: A pedagogy for learning and teaching?. The Modern Language Journal 94(1). 103–115. https://doi.org/10.1111/j.1540-4781.2009.00986.x.",
+      "DOI": "10.1111/j.1540-4781.2009.00986.x"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_008_w2aab3b7c11b1b6b1ab2b1b8Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Duff, Patricia, Tim Anderson, Roma Ilnyckyj, Ella VanGaya, Rachel Wang & Elliott Yates. 2013. Learning Chinese: Linguistic, sociocultural, and narrative perspectives. Boston, MA: Walter de Gruyter.",
+      "DOI": "10.1515/9781934078778"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_009_w2aab3b7c11b1b6b1ab2b1b9Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Florio-Ruane, Susan. 1987. Sociolinguistics for educational researchers. American Educational Research Journal 24(2). 185–197. https://doi.org/10.3102/00028312024002185.",
+      "DOI": "10.3102/00028312024002185"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_010_w2aab3b7c11b1b6b1ab2b1c10Aa",
+      "unstructured": "García, Ofelia. 2009. Bilingual education in the 21st century: A global perspective. Malden, MA: Blackwell Pub."
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_011_w2aab3b7c11b1b6b1ab2b1c11Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "García, Ofelia & Wei Li. 2014. Translanguaging: Language, bilingualism and education: Palgrave Macmillan.",
+      "DOI": "10.1057/9781137385765_4"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_012_w2aab3b7c11b1b6b1ab2b1c12Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Gort, Mileidis & Sabrina Francesca Sembiante. 2015. Navigating hybridized language learning spaces through translanguaging pedagogy: Dual language preschool teachers’ languaging practices in support of emergent bilingual children’s performance of academic discourse. International Multilingual Research Journal 9(1). 7–25. https://doi.org/10.1080/19313152.2014.981775.",
+      "DOI": "10.1080/19313152.2014.981775"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_013_w2aab3b7c11b1b6b1ab2b1c13Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Howell, Kerry. 2013. An introduction to the philosophy of methodology. Los Angeles: Sage.",
+      "DOI": "10.4135/9781473957633"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_014_w2aab3b7c11b1b6b1ab2b1c14Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Jørgensen, Normann. 2008. Polylingual languaging around and among children and adolescents. International Journal of Multilingualism 5(3). 161–176.",
+      "DOI": "10.1080/14790710802387562"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_015_w2aab3b7c11b1b6b1ab2b1c15Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Karrebæk, Martha Sif, Lian Malai Madsen & Janus Spindler Møller. 2015. Everyday languaging: Collaborative research on the language use of children and youth. In Lian Malai Madsen, Janus Spindler Møller & Martha Sif Karrebæk (eds.), Everyday languaging: Studies in the Amager project, 1–18. Boston, Massachusetts: De Gruyter, Inc.",
+      "DOI": "10.1515/9781614514800-001"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_016_w2aab3b7c11b1b6b1ab2b1c16Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Kelly, Courtney R. 2012. Recognizing the ‘social’ in literacy as a social practice: Building on the resources of nonmainstream students. Journal of Adolescent & Adult Literacy 55 (7). 608–618. https://doi.org/10.1002/jaal.00072.",
+      "DOI": "10.1002/JAAL.00072"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_017_w2aab3b7c11b1b6b1ab2b1c17Aa",
+      "unstructured": "Lankiewicz, Hadrian. 2014. From the concept of languaging to L2 pedagogy. In Hadrian Lankiewicz & Emilia Wąsikiewicz-Firlej (eds.), Languaging experiences: Learning and teaching revisited, 1–32. Newcastle upon Tyne, England: Cambridge Scholars Publishing."
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_018_w2aab3b7c11b1b6b1ab2b1c18Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Leather, Jonathan & Jet van Dam. 2003. Towards an ecology of language acquisition. In Jonathan Leather & Jet van Dam (eds.), Ecology of language acquisition, 1–29. Boston: Kluwer Academic Publishers.",
+      "DOI": "10.1007/978-94-017-0341-3_1"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_019_w2aab3b7c11b1b6b1ab2b1c19Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Lewis, Gwyn, Bryn Jones & Colin Baker. 2012. Translanguaging: Developing its conceptualisation and contextualisation. Educational Research and Evaluation 18(7). 655–670. https://doi.org/10.1080/13803611.2012.718490.",
+      "DOI": "10.1080/13803611.2012.718490"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_020_w2aab3b7c11b1b6b1ab2b1c20Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Li, Jilin. 2017. Curriculum and practice for children’s contextualized learning: Springer.",
+      "DOI": "10.1007/978-3-662-55769-3"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_021_w2aab3b7c11b1b6b1ab2b1c21Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Marsh, Colin. 2009. Key concepts for understanding curriculum, 4th edn. London: Routledge.",
+      "DOI": "10.4324/9780203870457"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_022_w2aab3b7c11b1b6b1ab2b1c22Aa",
+      "unstructured": "Maxwell, Joseph A. 2013. Qualitative research design: An interactive approach, 3rd edn. Thousand Oaks, Calif: SAGE Publications."
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_023_w2aab3b7c11b1b6b1ab2b1c23Aa",
+      "unstructured": "Merriam, Sharan B. & Elizabeth J. Tisdell. 2015. Qualitative research: A guide to design and implementation, 4th edn. San Francisco, CA: Jossey-Bass, a Wiley Brand."
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_024_w2aab3b7c11b1b6b1ab2b1c24Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Moloney, Robyn & Huiling Xu. 2015. Transitioning beliefs in teachers of Chinese as a foreign language: An Australian case study. Cogent Education 2(1). 1024960. https://doi.org/10.1080/2331186x.2015.1024960.",
+      "DOI": "10.1080/2331186X.2015.1024960"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_025_w2aab3b7c11b1b6b1ab2b1c25Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Moloney, Robyn & Huiling Xu. 2018. Teaching and learning Chinese in schools: Case studies in quality language education: Springer.",
+      "DOI": "10.1007/978-3-319-89372-3"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_026_w2aab3b7c11b1b6b1ab2b1c26Aa",
+      "unstructured": "Orton, Jane. 2008. Chinese language education in Australian schools. Melbourne, Australia: The University of Melbourne."
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_027_w2aab3b7c11b1b6b1ab2b1c27Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Orton, Jane. 2016. Issues in Chinese language teaching in Australian schools. Chinese Education & Society 49(6). 369–375. https://doi.org/10.1080/10611932.2016.1283929.",
+      "DOI": "10.1080/10611932.2016.1283929"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_028_w2aab3b7c11b1b6b1ab2b1c28Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Pennycook, Alastair. 2010. Language as a local practice. New York, NY: Routledge.",
+      "DOI": "10.4324/9780203846223"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_029_w2aab3b7c11b1b6b1ab2b1c29Aa",
+      "unstructured": "Robson, Colin. 2002. Real world research: A resource for social scientists and practitioner-researchers, 2nd edn. Madden, Mass: Blackwell Publishers."
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_030_w2aab3b7c11b1b6b1ab2b1c30Aa",
+      "unstructured": "Robson, Colin & Kieran McCartan. 2016. Real world research: A resource for users of social research methods in applied settings, 4th edn. Hoboken: Wiley."
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_031_w2aab3b7c11b1b6b1ab2b1c31Aa",
+      "unstructured": "Scarino, Angela. 2010. Language and languages and the curriculum. In Anthony Liddicoat & Angela Scarino (eds.), Languages in Australian education: Problems, prospects and future directions, 157–178. Newcastle upon Tyne: Cambridge Scholars Press."
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_032_w2aab3b7c11b1b6b1ab2b1c32Aa",
+      "unstructured": "Schifter, Catherine. 2013. Games in learning, design, and motivation. In Marilyn Murphy, Sam Redding & Janet Twyman (eds.), Handbook on innovations in learning, 149–164. Charlotte: NC Information Age Publishing Inc."
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_033_w2aab3b7c11b1b6b1ab2b1c33Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Scrimgeour, Andrew. 2014. Dealing with ‘Chinese Fever’: The challenge of Chinese teaching in the Australian classroom. In Neil Murray & Angela Scarino (eds.), Dynamic ecologies, 151–167. Dordrecht: Springer.",
+      "DOI": "10.1007/978-94-007-7972-3_10"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_034_w2aab3b7c11b1b6b1ab2b1c34Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Singh, Michael & Cheryl Ballantyne. 2014. Making Chinese learnable for beginning second language learners?. In Neil Murray & Angela Scarino (eds.), Dynamic ecologies, 199–214. Dordrecht: Springer.",
+      "DOI": "10.1007/978-94-007-7972-3_13"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_035_w2aab3b7c11b1b6b1ab2b1c35Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Singh, Michael & Jinghe Han. 2014. Educating teachers of “Chinese as a local/global language”: Teaching “Chinese with Australian characteristics”. Frontiers of Education in China 9(3). 403–428. https://doi.org/10.1007/bf03397029.",
+      "DOI": "10.1007/BF03397029"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_036_w2aab3b7c11b1b6b1ab2b1c36Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Singh, Michael & Jinghe Han. 2015. Making Chinese learnable: Strategies for the retention of language learners. In Fred Dervin (ed.), Chinese educational migration and student-teacher mobilities: Experiencing otherness, 166–190. London: Palgrave Macmillan UK.",
+      "DOI": "10.1057/9781137492913_9"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_037_w2aab3b7c11b1b6b1ab2b1c37Aa",
+      "unstructured": "Singh, Michael, Jinghe Han & Cheryl Ballantyne. 2014. Making Chinese learnable: Research oriented school engaged teacher-researcher education. Kingswood, Australia: Western Sydney University Library Collection."
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_038_w2aab3b7c11b1b6b1ab2b1c38Aa",
+      "unstructured": "Sleeter, Christine & Judith Carmona. 2016. Un-standardizing curriculum: Multicultural teaching in the standards-based classroom: Teachers College Press."
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_039_w2aab3b7c11b1b6b1ab2b1c39Aa",
+      "unstructured": "Smith, David & Terence Lovat. 2003. Curriculum: Action on reflection. Tuggerah, N.S.W.: Social Science Press."
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_040_w2aab3b7c11b1b6b1ab2b1c40Aa",
+      "unstructured": "Sowell, Evelyn. 2005. Curriculum: An integrative introduction, 3rd edn. Upper Saddle River, N.J.: Pearson/Merrill/Prentice Hall."
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_041_w2aab3b7c11b1b6b1ab2b1c41Aa",
+      "unstructured": "Sturak, Katharine & Zoe Naughten. 2010. The current state of Chinese, Indonesian, Japanese and Korean language education in Australian schools: Four languages, four stories: Education Services Australia."
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_042_w2aab3b7c11b1b6b1ab2b1c42Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Swanborn, Peter. 2010. Case study research: What, why and how?. London: SAGE.",
+      "DOI": "10.4135/9781526485168"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_043_w2aab3b7c11b1b6b1ab2b1c43Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Torre, Daniela & Joseph Murphy. 2015. A different lens: Using photo-elicitation interviews in education research. Education Policy Analysis Archives 23(111). 1–26. https://doi.org/10.14507/epaa.v23.2051.",
+      "DOI": "10.14507/epaa.v23.2051"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_044_w2aab3b7c11b1b6b1ab2b1c44Aa",
+      "unstructured": "Tsung, Linda & Ken Cruickshank. 2010. Emerging trends and issues in teaching and learning Chinese. In Linda Tsung and Ken Cruickshank (eds.), Teaching and learning Chinese in global contexts: CFL worldwide, 1–10. London: Bloomsbury Publishing."
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_045_w2aab3b7c11b1b6b1ab2b1c45Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "van Lier, Leo. 2004. The ecology and semiotics of language learning: A sociocultural perspective. Boston: Kluwer Academic Publishers.",
+      "DOI": "10.1007/1-4020-7912-5"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_046_w2aab3b7c11b1b6b1ab2b1c46Aa",
+      "unstructured": "van Lier, Leo. 2008. The ecology of language learning and sociocultural theory. In Nancy H Hornberger (ed.), Encyclopedia of language and education: Ecology of language, 53–65. Boston, MA: Springer Science+Business Media LLC."
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_047_w2aab3b7c11b1b6b1ab2b1c47Aa",
+      "unstructured": "Wells, Gordon. 1986. The meaning makers: Children learning language and using language to learn. Portsmouth, N.H.: Heinemann."
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_048_w2aab3b7c11b1b6b1ab2b1c48Aa",
+      "unstructured": "Yin, Robert. 2015. Qualitative research from start to finish, 2nd edn. New York: Guilford Publications."
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_049_w2aab3b7c11b1b6b1ab2b1c49Aa",
+      "unstructured": "Yin, Robert. 2018. Case study research and applications: Design and methods, 6th edn. Los Angeles: SAGE."
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_050_w2aab3b7c11b1b6b1ab2b1c50Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Zhang, George & Linda Li. 2010. Chinese language teaching in the UK: Present and future. The Language Learning Journal 38(1). 87–97. https://doi.org/10.1080/09571731003620689.",
+      "DOI": "10.1080/09571731003620689"
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_051_w2aab3b7c11b1b6b1ab2b1c51Aa",
+      "unstructured": "Zhao, Kunpeng. 2019. Localised, student-centred curriculum construction: A case study of making Chinese learnable for Australian primary school students. Sydney: Western Sydney University PhD thesis."
+    },
+    {
+      "key": "2021062202135246847_j_glochi_2020-0014_ref_052_w2aab3b7c11b1b6b1ab2b1c52Aa",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Zhao, Hongqin & Jianbin Huang. 2010. China’s policy of Chinese as a foreign language and the use of overseas Confucius Institutes. Education Research Policy and Practice 9. 127–142. https://doi.org/10.1007/s10671-009-9078-1.",
+      "DOI": "10.1007/s10671-009-9078-1"
+    }
+  ],
+  "container-title": [
+    "Global Chinese"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.degruyter.com/document/doi/10.1515/glochi-2020-0014/xml",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.degruyter.com/document/doi/10.1515/glochi-2020-0014/pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        12,
+        18
+      ]
+    ],
+    "date-time": "2022-12-18T23:58:11Z",
+    "timestamp": 1671407891000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.degruyter.com/document/doi/10.1515/glochi-2020-0014/html"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        9,
+        1
+      ]
+    ]
+  },
+  "references-count": 52,
+  "journal-issue": {
+    "issue": "2",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          2
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          25
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1515/glochi-2020-0014"
+  ],
+  "URL": "https://doi.org/10.1515/glochi-2020-0014",
+  "relation": {},
+  "ISSN": [
+    "2199-4382",
+    "2199-4374"
+  ],
+  "issn-type": [
+    {
+      "value": "2199-4382",
+      "type": "electronic"
+    },
+    {
+      "value": "2199-4374",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        9,
+        1
+      ]
+    ]
+  }
+}

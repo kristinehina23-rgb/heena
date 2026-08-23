@@ -1,0 +1,127 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        20
+      ]
+    ],
+    "date-time": "2026-08-20T15:49:34Z",
+    "timestamp": 1787240974158,
+    "version": "3.56.0"
+  },
+  "reference-count": 0,
+  "publisher": "JSTOR",
+  "issue": "4",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "TESOL Quarterly"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2001
+      ]
+    ]
+  },
+  "DOI": "10.2307/3588427",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2007,
+        1,
+        23
+      ]
+    ],
+    "date-time": "2007-01-23T14:43:37Z",
+    "timestamp": 1169563417000
+  },
+  "page": "537",
+  "source": "Crossref",
+  "is-referenced-by-count": 366,
+  "title": [
+    "Toward a Postmethod Pedagogy"
+  ],
+  "prefix": "10.2307",
+  "volume": "35",
+  "author": [
+    {
+      "given": "B.",
+      "family": "Kumaravadivelu",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "1121",
+  "container-title": [
+    "TESOL Quarterly"
+  ],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        7,
+        21
+      ]
+    ],
+    "date-time": "2021-07-21T12:23:56Z",
+    "timestamp": 1626870236000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.jstor.org/stable/3588427?origin=crossref"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2001
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "4",
+    "published-print": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.2307/3588427",
+  "relation": {},
+  "ISSN": [
+    "0039-8322"
+  ],
+  "issn-type": [
+    {
+      "value": "0039-8322",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2001
+      ]
+    ]
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        20
+      ]
+    ],
+    "date-time": "2026-04-20T11:00:37Z",
+    "timestamp": 1776682837625,
+    "version": "3.51.2"
+  },
+  "reference-count": 14,
+  "publisher": "Oxford University Press (OUP)",
+  "issue": "4",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            1,
+            6
+          ]
+        ],
+        "date-time": "2023-01-06T00:00:00Z",
+        "timestamp": 1672963200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100001747",
+      "name": "Hong Kong Baptist University",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100001747",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        12
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This article reports on a study that investigated primary-school English-language teachers’ use of digital technologies in their in-person classrooms after a period of online teaching necessitated by the COVID-19 pandemic. It also explored the perceived effects the period of online teaching had on the teachers’ practices. Data were collected through in-depth interviews with sixteen experienced Hong Kong primary-school English-language teachers approximately one year after they returned to in-person teaching. The findings suggest that the period of online teaching has led to a greater utilization of technology for teaching. In addition, they suggest digital technologies are now embedded in teachers’ regular teaching practices, with the digital technologies adopted primarily those that enhance existing practices. Common digital technologies include: (1) learning management systems; (2) digital noticeboards; (3) interactive digital worksheets and quizzes; and (4) interactive presentation software. Examples of how teachers use digital technologies, and considerations for their use, are provided.</jats:p>",
+  "DOI": "10.1093/elt/ccac050",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        1,
+        8
+      ]
+    ],
+    "date-time": "2023-01-08T06:20:50Z",
+    "timestamp": 1673158850000
+  },
+  "page": "445-457",
+  "source": "Crossref",
+  "is-referenced-by-count": 35,
+  "title": [
+    "Teachers’ digital technology use after a period of online teaching"
+  ],
+  "prefix": "10.1093",
+  "volume": "77",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-3913-5194",
+      "authenticated-orcid": false,
+      "given": "Benjamin Luke",
+      "family": "Moorhouse",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "286",
+  "published-online": {
+    "date-parts": [
+      [
+        2023,
+        1,
+        6
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "issue": "4",
+      "key": "2023121216261392100_CIT0001",
+      "doi-asserted-by": "crossref",
+      "first-page": "528",
+      "DOI": "10.1080/09588221.2019.1627459",
+      "article-title": "‘Understanding Hong Kong Primary School English Teachers’ Continuance Intention to Teach with ICT.’",
+      "volume": "34",
+      "author": "Bai",
+      "year": "2021",
+      "journal-title": "Computer Assisted Language Learning"
+    },
+    {
+      "issue": "2",
+      "key": "2023121216261392100_CIT0002",
+      "doi-asserted-by": "crossref",
+      "first-page": "77",
+      "DOI": "10.1191/1478088706qp063oa",
+      "article-title": "‘Using Thematic Analysis in Psychology.’",
+      "volume": "3",
+      "author": "Braun",
+      "year": "2006",
+      "journal-title": "Qualitative Research in Psychology"
+    },
+    {
+      "issue": "1",
+      "key": "2023121216261392100_CIT0003",
+      "doi-asserted-by": "crossref",
+      "first-page": "34",
+      "DOI": "10.1093/elt/ccab073",
+      "article-title": "Insights into Emergency Remote Teaching in EFL.’",
+      "volume": "76",
+      "author": "Can",
+      "year": "2021",
+      "journal-title": "ELT Journal"
+    },
+    {
+      "key": "2023121216261392100_CIT0004",
+      "doi-asserted-by": "crossref",
+      "first-page": "102566",
+      "DOI": "10.1016/j.system.2021.102566",
+      "article-title": "‘Synchronous Online Teaching, a Blessing or a Curse? Insights from EFL Primary Students’ Interaction During Online English Lessons.’",
+      "volume": "100",
+      "author": "Cheung",
+      "year": "2021",
+      "journal-title": "System"
+    },
+    {
+      "key": "2023121216261392100_CIT0005",
+      "doi-asserted-by": "crossref",
+      "first-page": "103478",
+      "DOI": "10.1016/j.tate.2021.103478",
+      "article-title": "A Snapshot of the Readiness for E-learning Among In-service Teachers Prior to the Pandemic-Related Transition to E-learning in Turkey.’",
+      "volume": "107",
+      "author": "Çınar",
+      "year": "2021",
+      "journal-title": "Teaching and Teacher Education"
+    },
+    {
+      "key": "2023121216261392100_CIT0006",
+      "volume-title": "Research Methods in Education (Eighth edition)",
+      "author": "Cohen",
+      "year": "2018"
+    },
+    {
+      "key": "2023121216261392100_CIT0007",
+      "doi-asserted-by": "crossref",
+      "first-page": "70",
+      "DOI": "10.1080/09588221.2012.700315",
+      "article-title": "‘Technologies for Foreign Language Learning: A Review of Technology Types and their Effectiveness.’",
+      "volume": "27(1)",
+      "author": "Golonka",
+      "year": "2014",
+      "journal-title": "Computer Assisted Language Learning"
+    },
+    {
+      "issue": "2",
+      "key": "2023121216261392100_CIT0008",
+      "doi-asserted-by": "crossref",
+      "first-page": "164",
+      "DOI": "10.1177/0033688218777318",
+      "article-title": "‘Current and Future Digital Trends in ELT’",
+      "volume": "49",
+      "author": "Hockley",
+      "year": "2018",
+      "journal-title": "RELC Journal"
+    },
+    {
+      "issue": "1",
+      "key": "2023121216261392100_CIT0009",
+      "doi-asserted-by": "crossref",
+      "first-page": "205",
+      "DOI": "10.1111/flan.12318",
+      "article-title": "‘Technology and the Future of Language Teaching.’",
+      "volume": "51",
+      "author": "Kessler",
+      "year": "2018",
+      "journal-title": "Foreign language annals"
+    },
+    {
+      "issue": "1",
+      "key": "2023121216261392100_CIT0010",
+      "doi-asserted-by": "crossref",
+      "first-page": "20",
+      "DOI": "10.1093/elt/ccab074",
+      "article-title": "‘Coping with COVID-19-Related Online English Teaching Challenges: Teacher Educators’ Suggestions.’",
+      "volume": "76",
+      "author": "Latif",
+      "year": "2021",
+      "journal-title": "ELT Journal"
+    },
+    {
+      "issue": "3",
+      "key": "2023121216261392100_CIT0011",
+      "doi-asserted-by": "crossref",
+      "first-page": "359",
+      "DOI": "10.1177/00336882211053052",
+      "article-title": "‘Responses of the English-Language-Teaching Community to the COVID-19 Pandemic.’",
+      "volume": "52",
+      "author": "Moorhouse",
+      "year": "2021",
+      "journal-title": "RELC Journal"
+    },
+    {
+      "key": "2023121216261392100_CIT0012",
+      "doi-asserted-by": "crossref",
+      "first-page": "105",
+      "DOI": "10.1080/02188791.2021.1988511",
+      "article-title": "‘The COVID-19 Pandemic as a Catalyst for Teacher Pedagogical and Technological Innovation and Development: Teachers’ Perspectives.’",
+      "volume": "42",
+      "author": "Moorhouse",
+      "year": "2022",
+      "journal-title": "Asia Pacific Journal of Education"
+    },
+    {
+      "issue": "1",
+      "key": "2023121216261392100_CIT0013",
+      "doi-asserted-by": "crossref",
+      "first-page": "44",
+      "DOI": "10.1093/elt/ccab076",
+      "article-title": "‘Children’s and Teachers’ Views on Digital Games in the EFL Classroom.’",
+      "volume": "76",
+      "author": "Waddington",
+      "year": "2021",
+      "journal-title": "ELT Journal"
+    },
+    {
+      "issue": "3",
+      "key": "2023121216261392100_CIT0014",
+      "article-title": "‘Envisioning Possibilities Amid the COVID-1",
+      "volume": "11",
+      "author": "Yi",
+      "year": "2020",
+      "journal-title": "TESOL Journal"
+    }
+  ],
+  "container-title": [
+    "ELT Journal"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://academic.oup.com/eltj/article-pdf/77/4/445/54355982/ccac050.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "syndication"
+    },
+    {
+      "URL": "https://academic.oup.com/eltj/article-pdf/77/4/445/54355982/ccac050.pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        12
+      ]
+    ],
+    "date-time": "2023-12-12T18:39:10Z",
+    "timestamp": 1702406350000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://academic.oup.com/eltj/article/77/4/445/6972857"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        1,
+        6
+      ]
+    ]
+  },
+  "references-count": 14,
+  "journal-issue": {
+    "issue": "4",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          6
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          12
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.1093/elt/ccac050",
+  "relation": {},
+  "ISSN": [
+    "0951-0893",
+    "1477-4526"
+  ],
+  "issn-type": [
+    {
+      "value": "0951-0893",
+      "type": "print"
+    },
+    {
+      "value": "1477-4526",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published-other": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        1
+      ]
+    ]
+  },
+  "published": {
+    "date-parts": [
+      [
+        2023,
+        1,
+        6
+      ]
+    ]
+  }
+}

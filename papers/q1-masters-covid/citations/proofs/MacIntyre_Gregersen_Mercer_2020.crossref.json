@@ -1,0 +1,695 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        22
+      ]
+    ],
+    "date-time": "2026-08-22T23:16:37Z",
+    "timestamp": 1787440597840,
+    "version": "3.56.0"
+  },
+  "reference-count": 53,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            11,
+            1
+          ]
+        ],
+        "date-time": "2020-11-01T00:00:00Z",
+        "timestamp": 1604188800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            11,
+            1
+          ]
+        ],
+        "date-time": "2020-11-01T00:00:00Z",
+        "timestamp": 1604188800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "System"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2020,
+        11
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.system.2020.102352",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        8,
+        22
+      ]
+    ],
+    "date-time": "2020-08-22T17:29:20Z",
+    "timestamp": 1598117360000
+  },
+  "page": "102352",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 637,
+  "special_numbering": "C",
+  "title": [
+    "Language teachers’ coping strategies during the Covid-19 conversion to online teaching: Correlations with stress, wellbeing and negative emotions"
+  ],
+  "prefix": "10.1016",
+  "volume": "94",
+  "author": [
+    {
+      "given": "Peter D.",
+      "family": "MacIntyre",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-0744-9655",
+      "authenticated-orcid": false,
+      "given": "Tammy",
+      "family": "Gregersen",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Sarah",
+      "family": "Mercer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.system.2020.102352_bib1",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1037/rep0000312",
+      "article-title": "Development of a resilience item bank and short forms",
+      "author": "Amtmann",
+      "year": "2020",
+      "journal-title": "Rehabilitation Psychology"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib2",
+      "series-title": "Loneliness around the world: Age, gender, and cultural differences in loneliness. Personality and Individual Differences",
+      "author": "Barreto",
+      "year": "2020"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.system.2020.102352_bib3",
+      "doi-asserted-by": "crossref",
+      "first-page": "470",
+      "DOI": "10.1177/0004867413476752",
+      "article-title": "Mental health correlates of anger in the general population: Findings from the 2007 national survey of mental health and wellbeing",
+      "volume": "47",
+      "author": "Barrett",
+      "year": "2013",
+      "journal-title": "Australian and New Zealand Journal of Psychiatry"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.system.2020.102352_bib4",
+      "doi-asserted-by": "crossref",
+      "first-page": "20",
+      "DOI": "10.1037/0003-066X.59.1.20",
+      "article-title": "Loss, trauma, and human resilience: Have we underestimated the human capacity to thrive after extremely aversive events?",
+      "volume": "59",
+      "author": "Bonanno",
+      "year": "2004",
+      "journal-title": "American Psychologist"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib5",
+      "series-title": "Positive psychology: Theory, research and applications",
+      "author": "Boniwell",
+      "year": "2019"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.system.2020.102352_bib6",
+      "doi-asserted-by": "crossref",
+      "first-page": "3",
+      "DOI": "10.1191/1362168806lr182oa",
+      "article-title": "The distinctive characteristics of foreign language teachers",
+      "volume": "10",
+      "author": "Borg",
+      "year": "2006",
+      "journal-title": "Language Teaching Research"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib7",
+      "doi-asserted-by": "crossref",
+      "first-page": "36",
+      "DOI": "10.1016/j.jsp.2019.10.002",
+      "article-title": "Teacher stress and burnout in urban middle schools: Associations with job demands, resources, and effective classroom practices",
+      "volume": "77",
+      "author": "Bottiani",
+      "year": "2019",
+      "journal-title": "Journal of School Psychology"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib8",
+      "article-title": "Avoidance Coping: Avoidance coping plays an important role in common psychological problems",
+      "author": "Boyce",
+      "year": "2013",
+      "journal-title": "Psychology Today"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.system.2020.102352_bib9",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.5502/ijw.v6i3.526",
+      "article-title": "The PERMA-profiler: A brief and multidimensional measure of flourishing",
+      "volume": "6",
+      "author": "Butler",
+      "year": "2016",
+      "journal-title": "International Journal of Wellbeing"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.system.2020.102352_bib10",
+      "doi-asserted-by": "crossref",
+      "first-page": "92",
+      "DOI": "10.1207/s15327558ijbm0401_6",
+      "article-title": "You want to measure coping but your protocol’s too long: Consider the brief COPE",
+      "volume": "4",
+      "author": "Carver",
+      "year": "1997",
+      "journal-title": "International Journal of Behavioral Medicine"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib11",
+      "doi-asserted-by": "crossref",
+      "first-page": "679",
+      "DOI": "10.1146/annurev.psych.093008.100352",
+      "article-title": "Personality and coping",
+      "volume": "61",
+      "author": "Carver",
+      "year": "2010",
+      "journal-title": "Annual Review of Psychology"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib12",
+      "series-title": "On the self-regulation of behavior",
+      "author": "Carver",
+      "year": "1998"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib13",
+      "doi-asserted-by": "crossref",
+      "first-page": "267",
+      "DOI": "10.1037/0022-3514.56.2.267",
+      "article-title": "Assessing coping strategies: A theoretically based approach",
+      "volume": "56",
+      "author": "Carver",
+      "year": "1989",
+      "journal-title": "Journal of Personality and Social Psychology"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib14",
+      "series-title": "Breakdown: The facts about stress in teaching",
+      "author": "Cosgrove",
+      "year": "2001"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib15",
+      "series-title": "Foreign language enjoyment and foreign language classroom anxiety. The right and left feet of FL learning?",
+      "first-page": "215",
+      "author": "Dewaele",
+      "year": "2016"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib16",
+      "series-title": "Stress in teaching",
+      "author": "Dunham",
+      "year": "1992"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib53",
+      "series-title": "The emotional rollercoaster of language teaching",
+      "year": "2020"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.system.2020.102352_bib17",
+      "doi-asserted-by": "crossref",
+      "first-page": "372",
+      "DOI": "10.1177/1362168817728739",
+      "article-title": "Caring and emotional labour: Language teachers’ engagement with anxious learners in private language school classrooms",
+      "volume": "23",
+      "author": "Gkonou",
+      "year": "2017",
+      "journal-title": "Language Teaching Research"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.system.2020.102352_bib18",
+      "doi-asserted-by": "crossref",
+      "first-page": "1127",
+      "DOI": "10.1007/s10212-012-0158-x",
+      "article-title": "Coping strategies and psychological well-being among teacher education students",
+      "volume": "28",
+      "author": "Gustems-Carnicer",
+      "year": "2013",
+      "journal-title": "European Journal of Psychology of Education"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib19",
+      "series-title": "So much to learn about emergency remote teaching, but so little to claim about online learning",
+      "author": "Guzdial",
+      "year": "2020"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib20",
+      "series-title": "Handbook of emotions",
+      "first-page": "774",
+      "article-title": "Anger",
+      "author": "Harmon-Jones",
+      "year": "2016"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib52",
+      "doi-asserted-by": "crossref",
+      "first-page": "69",
+      "DOI": "10.1016/j.jsp.2020.01.001",
+      "article-title": "Advances in understanding and intervening in teacher stress and coping: The Coping-Competence-Context Theory",
+      "volume": "78",
+      "author": "Herman",
+      "year": "2020",
+      "journal-title": "Journal of School Psychology"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib21",
+      "series-title": "Positive Psychology in SLA",
+      "first-page": "168",
+      "article-title": "The triumph over experience: Hope and hardiness in novice L2 teachers",
+      "author": "Hiver",
+      "year": "2016"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.system.2020.102352_bib22",
+      "doi-asserted-by": "crossref",
+      "first-page": "365",
+      "DOI": "10.1111/j.1944-9720.1996.tb01248.x",
+      "article-title": "Even teachers get the blues: Recognizing and alleviating language teachers’ feelings of foreign language anxiety",
+      "volume": "29",
+      "author": "Horwitz",
+      "year": "1996",
+      "journal-title": "Foreign Language Annals"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.system.2020.102352_bib23",
+      "doi-asserted-by": "crossref",
+      "first-page": "178",
+      "DOI": "10.1108/02683940510579803",
+      "article-title": "The experience of work-related stress across occupations",
+      "volume": "20",
+      "author": "Johnson",
+      "year": "2005",
+      "journal-title": "Journal of Managerial Psychology"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib24",
+      "series-title": "Psychological stress and the coping process",
+      "author": "Lazarus",
+      "year": "1996"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.system.2020.102352_bib25",
+      "doi-asserted-by": "crossref",
+      "first-page": "173",
+      "DOI": "10.1207/S15327965PLI1402_04",
+      "article-title": "The Lazarus manifesto for positive psychology and psychology in general",
+      "volume": "14",
+      "author": "Lazarus",
+      "year": "2003",
+      "journal-title": "Psychological Inquiry"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib26",
+      "series-title": "Stress and emotion: A new synthesis",
+      "author": "Lazarus",
+      "year": "2006"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib27",
+      "series-title": "Stress, appraisal, and coping",
+      "author": "Lazarus",
+      "year": "1984"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib28",
+      "series-title": "“Doing school” in the time of coronavirus",
+      "author": "Lehmann",
+      "year": "2020"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib29",
+      "doi-asserted-by": "crossref",
+      "first-page": "26",
+      "DOI": "10.1016/j.system.2019.02.013",
+      "article-title": "Stressors, personality and wellbeing among language teachers",
+      "volume": "82",
+      "author": "MacIntyre",
+      "year": "2019",
+      "journal-title": "System"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib30",
+      "doi-asserted-by": "crossref",
+      "first-page": "301",
+      "DOI": "10.1111/j.2044-8260.1992.tb00997.x",
+      "article-title": "The development of a six-item short-form of the state scale of the Spielberger State-Trait Anxiety Inventory (STAI)",
+      "volume": "31",
+      "author": "Marteau",
+      "year": "1992",
+      "journal-title": "British Journal of Clinical Psychology"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib31",
+      "doi-asserted-by": "crossref",
+      "first-page": "227",
+      "DOI": "10.1037/0003-066X.56.3.227",
+      "article-title": "Ordinary magic: Resilience processes in development",
+      "volume": "56",
+      "author": "Masten",
+      "year": "2001",
+      "journal-title": "American Psychologist"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib32",
+      "series-title": "Teacher wellbeing",
+      "author": "Mercer",
+      "year": "2020"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib33",
+      "series-title": "Positive psychology perspectives on foreign language learning and teaching",
+      "first-page": "213",
+      "article-title": "Helping language teachers to thrive: Using positive psychology to promote teachers’ professional well-being",
+      "author": "Mercer",
+      "year": "2016"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib34",
+      "series-title": "Emergency remote teaching: A post secondary reality check",
+      "author": "Milligan",
+      "year": "2020"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib35",
+      "doi-asserted-by": "crossref",
+      "first-page": "30",
+      "DOI": "10.1016/j.socscimed.2016.04.031",
+      "article-title": "Stress contagion in the classroom? The link between classroom teacher burnout and morning cortisol in elementary school students",
+      "volume": "159",
+      "author": "Oberle",
+      "year": "2016",
+      "journal-title": "Social Science & Medicine"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib36",
+      "author": "Petrie"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib37",
+      "first-page": "1",
+      "article-title": "Teacher burnout profiles and proactive strategies",
+      "author": "Pyhältö",
+      "year": "2020",
+      "journal-title": "European Journal of Psychology of Education"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib38",
+      "series-title": "Understanding motivation and emotion",
+      "author": "Reeve",
+      "year": "2015"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib39",
+      "series-title": "Upside: The new science of post-traumatic growth",
+      "author": "Rendon",
+      "year": "2016"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib40",
+      "article-title": "The COVID-19 Crisis is a trauma pandemic in the making",
+      "author": "Salas",
+      "year": "2020",
+      "journal-title": "PsychCentral"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib41",
+      "series-title": "The science of subjective well-being",
+      "first-page": "97",
+      "article-title": "The structure of subjective well-being",
+      "author": "Schimmack",
+      "year": "2008"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib42",
+      "author": "Schleicher"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib43",
+      "series-title": "Flourish",
+      "author": "Seligman",
+      "year": "2011"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.system.2020.102352_bib44",
+      "doi-asserted-by": "crossref",
+      "first-page": "158",
+      "DOI": "10.1002/jts.20305",
+      "article-title": "The factor structure of the posttraumatic growth inventory: A comparison of five models using confirmatory factor analysis",
+      "volume": "21",
+      "author": "Taku",
+      "year": "2008",
+      "journal-title": "Journal of Traumatic Stress"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.system.2020.102352_bib45",
+      "doi-asserted-by": "crossref",
+      "first-page": "410",
+      "DOI": "10.1515/cjal-2018-0031",
+      "article-title": "Exploring university ESL/EFL teachers’ emotional well-being and emotional regulation in the United States, Japan and Austria",
+      "volume": "41",
+      "author": "Talbot",
+      "year": "2019",
+      "journal-title": "Chinese Journal of Applied Linguistics"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.system.2020.102352_bib46",
+      "doi-asserted-by": "crossref",
+      "first-page": "455",
+      "DOI": "10.1002/jts.2490090305",
+      "article-title": "The posttraumatic growth inventory: Measuring the positive legacy of trauma",
+      "volume": "9",
+      "author": "Tedeschi",
+      "year": "1996",
+      "journal-title": "Journal of Traumatic Stress"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.system.2020.102352_bib47",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1207/s15327965pli1501_01",
+      "article-title": "Posttraumatic growth: Conceptual foundations and empirical evidence",
+      "volume": "15",
+      "author": "Tedeschi",
+      "year": "2004",
+      "journal-title": "Psychological Inquiry"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib48",
+      "doi-asserted-by": "crossref",
+      "first-page": "167",
+      "DOI": "10.1159/000376585",
+      "article-title": "The WHO-5 well-being index: A systematic review of the literature",
+      "volume": "84",
+      "author": "Topp",
+      "year": "2015",
+      "journal-title": "Psychotherapy and Psychosomatics"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib49",
+      "author": "Tuominen"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib50",
+      "series-title": "Positive psychology perspectives on foreign language learning and teaching",
+      "first-page": "231",
+      "article-title": "High inhibitions and low self-esteem as factors contributing to foreign language teacher stress",
+      "author": "Wieczorek",
+      "year": "2016"
+    },
+    {
+      "key": "10.1016/j.system.2020.102352_bib51",
+      "series-title": "Well-being measures in primary health care/the DEPCARE Project",
+      "author": "World Health Organization (WHO)",
+      "year": "1998"
+    }
+  ],
+  "container-title": [
+    "System"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0346251X20307120?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0346251X20307120?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        6
+      ]
+    ],
+    "date-time": "2025-10-06T07:13:27Z",
+    "timestamp": 1759734807000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0346251X20307120"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        11
+      ]
+    ]
+  },
+  "references-count": 53,
+  "alternative-id": [
+    "S0346251X20307120"
+  ],
+  "URL": "https://doi.org/10.1016/j.system.2020.102352",
+  "relation": {},
+  "ISSN": [
+    "0346-251X"
+  ],
+  "issn-type": [
+    {
+      "value": "0346-251X",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        11
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Language teachers’ coping strategies during the Covid-19 conversion to online teaching: Correlations with stress, wellbeing and negative emotions",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "System",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.system.2020.102352",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "Crown Copyright © 2020 Published by Elsevier Ltd. All rights reserved.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "102352"
+}

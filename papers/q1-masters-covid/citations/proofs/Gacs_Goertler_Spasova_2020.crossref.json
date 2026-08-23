@@ -1,0 +1,499 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        18
+      ]
+    ],
+    "date-time": "2026-08-18T00:50:12Z",
+    "timestamp": 1787014212757,
+    "version": "3.56.0"
+  },
+  "reference-count": 40,
+  "publisher": "Wiley",
+  "issue": "2",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            6,
+            9
+          ]
+        ],
+        "date-time": "2020-06-09T00:00:00Z",
+        "timestamp": 1591660800000
+      },
+      "content-version": "vor",
+      "delay-in-days": 8,
+      "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "onlinelibrary.wiley.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Foreign Language Annals"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2020,
+        6
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Online (language) teaching has been found to be as effective as face‐to‐face (F2F) learning (Moneypenny &amp; Aldrich 2016,\n                    <jats:italic>J. Educators Online</jats:italic>\n                    , 13, 105–174; Goertler &amp; Gacs, 2018,\n                    <jats:italic>Die Unterrichtspraxis/Teaching German</jats:italic>\n                    , 51, 156–174). Online language teaching has different affordances and challenges than F2F teaching, which can be taken into consideration when online language education is carefully planned using a backwards design iterative process (e.g., Meskill &amp; Anthony, 2015,\n                    <jats:italic>Teaching language online</jats:italic>\n                    ). In early 2020, many institutions rapidly transitioned away from F2F instruction due to the global pandemic. While this was at times referred to as online teaching, it in fact is not planned online teaching but rather crisis‐prompted remote teaching (Hodges, Moore, Lockee, Trust, &amp; Bond, 2020,\n                    <jats:italic>Educause Review</jats:italic>\n                    , 27 March). Given the circumstances and the timeframes for crisis online teaching, quality expectations must be lowered especially in regards to testing security, technological sophistication, accessibility, copyright, and learning outcomes. This article presents a roadmap for planning, implementing, and evaluating online education in ideal and in crisis contexts.\n                  </jats:p>",
+  "DOI": "10.1111/flan.12460",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        6,
+        9
+      ]
+    ],
+    "date-time": "2020-06-09T08:51:00Z",
+    "timestamp": 1591692660000
+  },
+  "page": "380-392",
+  "update-policy": "https://doi.org/10.1002/crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 208,
+  "title": [
+    "Planned online language education versus crisis‐prompted online language teaching: Lessons for the future"
+  ],
+  "prefix": "10.1111",
+  "volume": "53",
+  "author": [
+    {
+      "given": "Adam",
+      "family": "Gacs",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Linguistics and Germanic Slavic, Asian, and African Languages, Michigan State University  East Lansing Michigan"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Senta",
+      "family": "Goertler",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Linguistics and Germanic Slavic, Asian, and African Languages, Michigan State University  East Lansing Michigan"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Shannon",
+      "family": "Spasova",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Linguistics and Germanic Slavic, Asian, and African Languages, Michigan State University  East Lansing Michigan"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "311",
+  "published-online": {
+    "date-parts": [
+      [
+        2020,
+        6,
+        9
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_2_7_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.system.2012.10.013"
+    },
+    {
+      "key": "e_1_2_7_3_1",
+      "unstructured": "American Council on the Teaching of Foreign Languages. (n.d.).Backward design. Retrieved fromhttps://www.actfl.org/guiding‐principles/backward‐design"
+    },
+    {
+      "key": "e_1_2_7_4_1",
+      "unstructured": "Baralt M. &Morcillo Gómez J.(2017).Task‐based language teaching online: A guide for teachers.Language Learning & Technology 21(3) 28–43. Retrieved fromhttp://llt.msu.edu/issues/october2017/baraltmorcillogomez.pdf"
+    },
+    {
+      "key": "e_1_2_7_5_1",
+      "unstructured": "Brooks C. &Grajek S.(2020March 12). Faculty readiness to begin fully remote teaching.Educause Review.https://er.educause.edu/blogs/2020/3/faculty‐readiness‐to‐begin‐fully‐remote‐teaching"
+    },
+    {
+      "key": "e_1_2_7_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0261444809005850"
+    },
+    {
+      "issue": "2",
+      "key": "e_1_2_7_7_1",
+      "first-page": "159",
+      "article-title": "20 years of technology and language assessment in language learning and technology",
+      "volume": "20",
+      "author": "Chapelle C. A.",
+      "year": "2016",
+      "journal-title": "Language Learning & Technology"
+    },
+    {
+      "key": "e_1_2_7_8_1",
+      "unstructured": "Digital Learning Pulse Survey(2020) by Bay View Analytics.https://onlinelearningconsortium.org/news_item/digital‐learning‐pulse‐survey‐90‐of‐u‐s‐higher‐ed‐institutions‐used‐emergency‐distance‐education‐to‐complete‐spring‐2020‐term/"
+    },
+    {
+      "key": "e_1_2_7_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/modl.12301"
+    },
+    {
+      "key": "e_1_2_7_10_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.17161/iallt.v46i2.8562"
+    },
+    {
+      "issue": "4",
+      "key": "e_1_2_7_11_1",
+      "article-title": "Distance education readiness assessments: An overview and application",
+      "volume": "14",
+      "author": "Gascoigne C.",
+      "year": "2014",
+      "journal-title": "Online Journal of Distance Learning Administration"
+    },
+    {
+      "key": "e_1_2_7_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/tger.12071"
+    },
+    {
+      "key": "e_1_2_7_13_1",
+      "first-page": "51",
+      "volume-title": "From theory and research to new directions in language teaching",
+      "author": "Goertler S.",
+      "year": "2019"
+    },
+    {
+      "key": "e_1_2_7_14_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1075/tblt.6.02gon"
+    },
+    {
+      "key": "e_1_2_7_15_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1057/9781137514370"
+    },
+    {
+      "key": "e_1_2_7_16_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1057/9781137412263"
+    },
+    {
+      "key": "e_1_2_7_17_1",
+      "unstructured": "Hodges C. Moore S. Lockee B. Trust T. &Bond A.(2020March 27). The difference between emergency remote teaching and online teaching.Educause Review.https://er.educause.edu/articles/2020/3/the‐difference‐between‐emergency‐remote‐teaching‐and‐online‐learning"
+    },
+    {
+      "key": "e_1_2_7_18_1",
+      "unstructured": "Indiana University. (n.d.).Online teaching readiness survey. Retrieved fromhttps://elearn.sitehost.iu.edu/courses/tos/online‐teaching/red/index.html"
+    },
+    {
+      "key": "e_1_2_7_19_1",
+      "volume-title": "Assessment across online language education",
+      "author": "Link S.",
+      "year": "2018"
+    },
+    {
+      "issue": "4",
+      "key": "e_1_2_7_20_1",
+      "article-title": "Online vs. face‐to‐face course evaluations: Considerations for administrators and faculty",
+      "volume": "19",
+      "author": "Marzano M.",
+      "year": "2016",
+      "journal-title": "Online Journal of Distance Learning Administration"
+    },
+    {
+      "key": "e_1_2_7_21_1",
+      "unstructured": "Means B. Toyama Y. Murphy R. Bakia M. &Jones K.(2009).Evaluation of evidence‐based practices in online learning: A meta‐analysis and review of online learning studies. US Department of Education Office of Planning Evaluation and Policy Development Policy and Program Studies Services. Retrieved fromhttps://www2.ed.gov/rschstat/eval/tech/evidence‐based‐practices/finalreport.pdf"
+    },
+    {
+      "key": "e_1_2_7_22_1",
+      "unstructured": "Merlot G.(2013February 13).Bookmark collection: Student readiness for online learning.https://www.merlot.org/merlot/viewPortfolio.htm?id=731796"
+    },
+    {
+      "key": "e_1_2_7_23_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.21832/9781783093786"
+    },
+    {
+      "issue": "1",
+      "key": "e_1_2_7_24_1",
+      "first-page": "264",
+      "article-title": "Netiquette: Make it part of your syllabus",
+      "volume": "6",
+      "author": "Mintu‐Wimsatt A.",
+      "year": "2010",
+      "journal-title": "MERLOT Journal of Online Learning and Teaching"
+    },
+    {
+      "key": "e_1_2_7_25_1",
+      "first-page": "105",
+      "article-title": "Online and face‐to‐face language learning: A comparative analysis of oral proficiency in introductory Spanish",
+      "volume": "13",
+      "author": "Moneypenny D.",
+      "year": "2016",
+      "journal-title": "Journal of Educators Online"
+    },
+    {
+      "key": "e_1_2_7_26_1",
+      "unstructured": "OLC Continuity Planning and Emergency Preparedness. (n.d.)https://onlinelearningconsortium.org/about/continuity‐planning‐emergency‐preparedness‐resources/"
+    },
+    {
+      "key": "e_1_2_7_27_1",
+      "unstructured": "Online Language Consortium (OLC). (2014).Quality scorecard 2014: Criteria for excellence in the administration of online programs.https://onlinelearningconsortium.org/consult/olc‐quality‐scorecard‐suite"
+    },
+    {
+      "key": "e_1_2_7_28_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1558/cj.33855"
+    },
+    {
+      "issue": "2",
+      "key": "e_1_2_7_29_1",
+      "doi-asserted-by": "crossref",
+      "first-page": "189",
+      "DOI": "10.1558/cj.v25i2.189-206",
+      "article-title": "Investigating the promise of learner corpora: Methodological issues",
+      "volume": "25",
+      "author": "Pendar N.",
+      "year": "2008",
+      "journal-title": "CALICO Journal"
+    },
+    {
+      "issue": "2",
+      "key": "e_1_2_7_30_1",
+      "first-page": "17",
+      "article-title": "The CALL–SLA interface: Insights from a second‐order synthesis",
+      "volume": "20",
+      "author": "Plonsky L.",
+      "year": "2016",
+      "journal-title": "Language Learning & Technology"
+    },
+    {
+      "key": "e_1_2_7_31_1",
+      "unstructured": "Quality Matters. (n.d.).Course reviews.https://www.qualitymatters.org/reviews‐certifications/course‐design‐reviews"
+    },
+    {
+      "key": "e_1_2_7_32_1",
+      "unstructured": "Quality Matters. (2020/03/13).QM Emergency Remote Instruction (ERI) Checklist.https://www.qualitymatters.org/qa‐resources/resource‐center/articles‐resources/ERI‐Checklist"
+    },
+    {
+      "issue": "2",
+      "key": "e_1_2_7_33_1",
+      "first-page": "143",
+      "article-title": "20 years of autonomy and technology: How far have we come and where to next?",
+      "volume": "20",
+      "author": "Reinders H.",
+      "year": "2016",
+      "journal-title": "Language, Learning & Technology"
+    },
+    {
+      "key": "e_1_2_7_34_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/modl.12220"
+    },
+    {
+      "key": "e_1_2_7_35_1",
+      "unstructured": "Teach Access. (2020).Creating accessible course content.http://teachaccess.org/resources/creating‐accessible‐course‐content/"
+    },
+    {
+      "key": "e_1_2_7_36_1",
+      "volume-title": "The Copyright Ninja: Rise of the Ninja",
+      "author": "Tobin T.",
+      "year": "2017"
+    },
+    {
+      "key": "e_1_2_7_37_1",
+      "unstructured": "University of California at Davis. (n.d.).Online teaching readiness survey.https://canvas.ucdavis.edu/courses/34528/modules/items/4964"
+    },
+    {
+      "key": "e_1_2_7_38_1",
+      "unstructured": "University of Michigan. (2020April 28).Resources for instructors to help students.https://onlineteaching.umich.edu/resources‐for‐instructors‐to‐help‐students/"
+    },
+    {
+      "key": "e_1_2_7_39_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.14705/rpnet.2019.38.1039"
+    },
+    {
+      "key": "e_1_2_7_40_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0261444806003727"
+    },
+    {
+      "key": "e_1_2_7_41_1",
+      "volume-title": "Understanding by design",
+      "author": "Wiggins G.",
+      "year": "2005"
+    }
+  ],
+  "container-title": [
+    "Foreign Language Annals"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fflan.12460",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/flan.12460",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/flan.12460",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/flan.12460",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        6
+      ]
+    ],
+    "date-time": "2023-09-06T00:22:35Z",
+    "timestamp": 1693959755000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://onlinelibrary.wiley.com/doi/10.1111/flan.12460"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        6
+      ]
+    ]
+  },
+  "references-count": 40,
+  "journal-issue": {
+    "issue": "2",
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          6
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1111/flan.12460"
+  ],
+  "URL": "https://doi.org/10.1111/flan.12460",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "0015-718X",
+    "1944-9720"
+  ],
+  "issn-type": [
+    {
+      "value": "0015-718X",
+      "type": "print"
+    },
+    {
+      "value": "1944-9720",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        6
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2020-05-07",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2020-05-08",
+      "order": 1,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2020-06-09",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

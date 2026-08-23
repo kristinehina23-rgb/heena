@@ -1,0 +1,125 @@
+{
+  "institution": [
+    {
+      "name": "EdTech Hub"
+    }
+  ],
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        2
+      ]
+    ],
+    "date-time": "2025-08-02T16:54:07Z",
+    "timestamp": 1754153647565,
+    "version": "3.41.2"
+  },
+  "reference-count": 0,
+  "publisher": "EdTech Hub",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "abstract": "<jats:p>This report examines gender disparities in the use of educational technology (EdTech) among students in Pakistan, with the aim of informing policies that foster more inclusive and equitable digital learning environments. Drawing on data from a survey of over 2,000 teachers and interviews with EdTech stakeholders in Islamabad, the report explores how sociocultural norms and parental attitudes shape differential access to and use of EdTech at home—particularly disadvantaging female students. It identifies key barriers including limited access to affordable internet and devices, low digital literacy among parents (especially mothers), and prevailing gender norms that restrict girls’ engagement with technology.\nThe findings highlight an urgent need for targeted interventions that address both infrastructural and sociocultural challenges. Recommendations include: expanding subsidised internet and device access in underserved areas; launching community-based digital literacy programmes for parents; creating safe online spaces for female students; promoting positive gender representation in media; and organising inclusive EdTech initiatives to increase girls’ participation. By tackling these barriers through coordinated action, the report offers a roadmap to bridge the gender gap in EdTech adoption and enhance educational equity in Pakistan.\nKeywords: EdTech; gender; Pakistan; girls’ education; developing economies; educational technology \nAn output of the EdTech Hub, https://edtechhub.org/</jats:p>",
+  "DOI": "10.53832/edtechhub.1099",
+  "type": "report",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        22
+      ]
+    ],
+    "date-time": "2025-07-22T14:58:29Z",
+    "timestamp": 1753196309000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Exploring the Gender Differences in Technology Use for Educational Purposes at Home Among Students in Pakistan"
+  ],
+  "prefix": "10.53832",
+  "author": [
+    {
+      "given": "Oneir",
+      "family": "Raza",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Sara",
+      "family": "Hennessy",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "31947",
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        5
+      ]
+    ]
+  },
+  "container-title": [],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        23
+      ]
+    ],
+    "date-time": "2025-07-23T09:32:21Z",
+    "timestamp": 1753263141000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://docs.edtechhub.org/lib/KM9JWBE7"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        5
+      ]
+    ]
+  },
+  "references-count": 0,
+  "URL": "https://doi.org/10.53832/edtechhub.1099",
+  "relation": {},
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        5
+      ]
+    ]
+  }
+}

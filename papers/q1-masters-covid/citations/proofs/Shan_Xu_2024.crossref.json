@@ -1,0 +1,509 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        13
+      ]
+    ],
+    "date-time": "2026-05-13T18:27:46Z",
+    "timestamp": 1778696866129,
+    "version": "3.51.4"
+  },
+  "reference-count": 39,
+  "publisher": "Informa UK Limited",
+  "issue": "2",
+  "funder": [
+    {
+      "name": "‘Research on the Innovation of Foreign Language Education in China’"
+    },
+    {
+      "DOI": "10.13039/501100008346",
+      "name": "Beijing Foreign Studies University",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100008346",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/100002886",
+      "name": "First",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/100002886",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/100013825",
+      "name": "Class",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/100013825",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "www.tandfonline.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Language, Culture and Curriculum"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        2
+      ]
+    ]
+  },
+  "DOI": "10.1080/07908318.2024.2313984",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        7
+      ]
+    ],
+    "date-time": "2024-02-07T06:36:57Z",
+    "timestamp": 1707287817000
+  },
+  "page": "230-246",
+  "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+  "source": "Crossref",
+  "is-referenced-by-count": 6,
+  "title": [
+    "Students’ conceptions and experiences of institutionalised curriculum for multilingual learning: the case of a dual-foreign-languages programme"
+  ],
+  "prefix": "10.1080",
+  "volume": "37",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-0481-7144",
+      "authenticated-orcid": false,
+      "given": "Zhibin",
+      "family": "Shan",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Faculty of French and Francophone Studies, Beijing Foreign Studies University, Beijing, People’s Republic of China"
+        },
+        {
+          "name": "Laboratory STIH (Sens, Texte, Informatique, Histoire), Faculty of Arts and Humanities, Sorbonne University, Paris, France"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-6507-4436",
+      "authenticated-orcid": false,
+      "given": "Hao",
+      "family": "Xu",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "National Research Centre for Foreign Language Education, Beijing Foreign Studies University, Beijing, People’s Republic of China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "301",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        6
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_3_3_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ijedudev.2007.12.004"
+    },
+    {
+      "key": "e_1_3_3_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3726/978-3-653-03179-9"
+    },
+    {
+      "key": "e_1_3_3_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/00131911.2016.1213224"
+    },
+    {
+      "key": "e_1_3_3_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1515/9780691216348"
+    },
+    {
+      "key": "e_1_3_3_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s40299-013-0088-7"
+    },
+    {
+      "key": "e_1_3_3_7_1",
+      "first-page": "393",
+      "article-title": "A study on institutionalization of media education focused on a point of contact with Korean language education",
+      "volume": "10",
+      "author": "Choi U. H.",
+      "year": "2004",
+      "unstructured": "Choi, U. H. (2004). A study on institutionalization of media education focused on a point of contact with Korean language education. Journal of Education & Culture, 10, 393–411.",
+      "journal-title": "Journal of Education & Culture"
+    },
+    {
+      "key": "e_1_3_3_8_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0261444822000283"
+    },
+    {
+      "key": "e_1_3_3_9_1",
+      "volume-title": "Rethinking the education of multilingual learners: A critical analysis of theoretical concepts",
+      "author": "Cummins J.",
+      "year": "2021",
+      "unstructured": "Cummins, J. (2021). Rethinking the education of multilingual learners: A critical analysis of theoretical concepts. Multilingual Matters."
+    },
+    {
+      "key": "e_1_3_3_10_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/9781108333603.006"
+    },
+    {
+      "key": "e_1_3_3_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1300/J021v02n02_12"
+    },
+    {
+      "key": "e_1_3_3_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/17501229.2021.1950159"
+    },
+    {
+      "key": "e_1_3_3_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0033688220935478"
+    },
+    {
+      "key": "e_1_3_3_14_1",
+      "volume-title": "The curriculum: Theory and practice",
+      "author": "Kelly A. V.",
+      "year": "2004",
+      "unstructured": "Kelly, A. V. (2004). The curriculum: Theory and practice (5th ed.). Sage.",
+      "edition": "5"
+    },
+    {
+      "key": "e_1_3_3_15_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.35179/jeiu.2020.15.2.47"
+    },
+    {
+      "key": "e_1_3_3_16_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-030-36983-5"
+    },
+    {
+      "key": "e_1_3_3_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/00219096221086546"
+    },
+    {
+      "key": "e_1_3_3_18_1",
+      "volume-title": "Plurilingual classroom practices and participation: Analysing interaction in local and translocal settings",
+      "author": "Masats D.",
+      "year": "2022",
+      "unstructured": "Masats, D., & Nussbaum, L.2022). Plurilingual classroom practices and participation: Analysing interaction in local and translocal settings. Routledge."
+    },
+    {
+      "key": "e_1_3_3_19_1",
+      "volume-title": "Qualitative data analysis: A methods sourcebook",
+      "author": "Miles M. B.",
+      "year": "2020",
+      "unstructured": "Miles, M. B., Huberman, A. M., & Saldaña, J. (2020). Qualitative data analysis: A methods sourcebook (4th ed.). Sage.",
+      "edition": "4"
+    },
+    {
+      "key": "e_1_3_3_20_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/07908318.2019.1661687"
+    },
+    {
+      "key": "e_1_3_3_21_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.system.2013.11.003"
+    },
+    {
+      "key": "e_1_3_3_22_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-030-96969-1"
+    },
+    {
+      "key": "e_1_3_3_23_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jeap.2022.101122"
+    },
+    {
+      "key": "e_1_3_3_24_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/01434632.2019.1620753"
+    },
+    {
+      "key": "e_1_3_3_25_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-981-16-3603-5"
+    },
+    {
+      "key": "e_1_3_3_26_1",
+      "first-page": "147",
+      "volume-title": "Symbolische Ordnungen: Beiträge zu einer soziologischen Theorie der Institutionen",
+      "author": "Rehberg K.-S.",
+      "year": "2014",
+      "unstructured": "Rehberg, K.-S. (2014). Die stabilisierende, fiktionalität von präsenz und dauer: Institutionelle analyse und historische forschung. In H. Vorländer (Ed.), Symbolische Ordnungen: Beiträge zu einer soziologischen Theorie der Institutionen (pp. 147–173). Nomos."
+    },
+    {
+      "key": "e_1_3_3_27_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.52183/KSPE.2019.26.1.231"
+    },
+    {
+      "key": "e_1_3_3_28_1",
+      "volume-title": "Twelve lectures on multilingualism",
+      "author": "Singleton D.",
+      "year": "2019",
+      "unstructured": "Singleton, D., & Aronin, L.2019). Twelve lectures on multilingualism. Multilingual Matters."
+    },
+    {
+      "key": "e_1_3_3_29_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/14790718.2022.2105849"
+    },
+    {
+      "key": "e_1_3_3_30_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/9781108916943"
+    },
+    {
+      "key": "e_1_3_3_31_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/07908318.2015.1085063"
+    },
+    {
+      "key": "e_1_3_3_32_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3928/0148-4834-19940301-07"
+    },
+    {
+      "key": "e_1_3_3_33_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/02701960903578386"
+    },
+    {
+      "key": "e_1_3_3_34_1",
+      "volume-title": "Institutionalization, technology, and power: The ideological context of style organizations",
+      "author": "Wilson D.",
+      "year": "2011",
+      "unstructured": "Wilson, D. (2011). Institutionalization, technology, and power: The ideological context of style organizations. Verlag."
+    },
+    {
+      "key": "e_1_3_3_35_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5209/clac.71997"
+    },
+    {
+      "key": "e_1_3_3_36_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10936-022-09842-2"
+    },
+    {
+      "key": "e_1_3_3_37_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3389/fpsyg.2021.790592"
+    },
+    {
+      "key": "e_1_3_3_38_1",
+      "volume-title": "Case study research and applications: Design and methods",
+      "author": "Yin R. K.",
+      "year": "2018",
+      "unstructured": "Yin, R. K. (2018). Case study research and applications: Design and methods (6th ed.). Sage.",
+      "edition": "6"
+    },
+    {
+      "key": "e_1_3_3_39_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-981-16-2327-1_28-1"
+    },
+    {
+      "key": "e_1_3_3_40_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1186/2191-5059-3-1"
+    }
+  ],
+  "container-title": [
+    "Language, Culture and Curriculum"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.tandfonline.com/doi/pdf/10.1080/07908318.2024.2313984",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        25
+      ]
+    ],
+    "date-time": "2024-09-25T00:36:59Z",
+    "timestamp": 1727224619000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.tandfonline.com/doi/full/10.1080/07908318.2024.2313984"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        6
+      ]
+    ]
+  },
+  "references-count": 39,
+  "journal-issue": {
+    "issue": "2",
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          2
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1080/07908318.2024.2313984"
+  ],
+  "URL": "https://doi.org/10.1080/07908318.2024.2313984",
+  "relation": {},
+  "ISSN": [
+    "0790-8318",
+    "1747-7573"
+  ],
+  "issn-type": [
+    {
+      "value": "0790-8318",
+      "type": "print"
+    },
+    {
+      "value": "1747-7573",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        6
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+      "order": 1,
+      "name": "peerreview_statement",
+      "label": "Peer Review Statement"
+    },
+    {
+      "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rlcc20",
+      "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rlcc20",
+      "order": 2,
+      "name": "aims_and_scope_url",
+      "label": "Aim & Scope"
+    },
+    {
+      "value": "2023-01-08",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2024-01-29",
+      "order": 1,
+      "name": "revised",
+      "label": "Revised",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2024-01-30",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2024-02-06",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

@@ -1,0 +1,847 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        22
+      ]
+    ],
+    "date-time": "2026-08-22T01:50:35Z",
+    "timestamp": 1787363435328,
+    "version": "3.56.0"
+  },
+  "reference-count": 66,
+  "publisher": "Frontiers Media SA",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            12,
+            22
+          ]
+        ],
+        "date-time": "2022-12-22T00:00:00Z",
+        "timestamp": 1671667200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "frontiersin.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Front. Psychol."
+  ],
+  "abstract": "<jats:p>Universities in China’s transition to online education in response to the COVID-19 pandemic have spawned several research studies. However, studies exploring college students’ technological skills, relationships with their peers and instructors, and collaborative learning experiences during the pandemic are scarce. Three aspects were explored in this mixed study: (1) changes in students’ engagement in class and the main factors involved; (2) students’ feelings and reactions during online learning; and (3) how students related to their peers and instructors. Data were collected through a qualitative survey supplemented by quantitative data about students’ attitudes to online learning using the SAROL scale. This paper argues that online learning may not produce the desired results due to lack of interaction with instructors, no campus socialization or well-trained technology skills, and appropriate content for online courses and group work. The findings further revealed that online learning offers college students new ways to learn independently, collaborate and build relationships with their peers. It encourages them to reconsider ways to improve their technology skills, learning methods, communication skills and reconceptualize their responsibilities as team members.</jats:p>",
+  "DOI": "10.3389/fpsyg.2022.1037311",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        12,
+        22
+      ]
+    ],
+    "date-time": "2022-12-22T12:27:25Z",
+    "timestamp": 1671712045000
+  },
+  "update-policy": "https://doi.org/10.3389/crossmark-policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 56,
+  "title": [
+    "Challenges of online learning amid the COVID-19: College students’ perspective"
+  ],
+  "prefix": "10.3389",
+  "volume": "13",
+  "author": [
+    {
+      "given": "Yuefan",
+      "family": "Xia",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Yawen",
+      "family": "Hu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Chenyi",
+      "family": "Wu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ling",
+      "family": "Yang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Man",
+      "family": "Lei",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "1965",
+  "published-online": {
+    "date-parts": [
+      [
+        2022,
+        12,
+        22
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "ref1",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1080/10494820.2020.1813180",
+      "article-title": "Covid-19 pandemic and online learning: the challenges and opportunities",
+      "volume": "11",
+      "author": "Adedoyin",
+      "year": "2020",
+      "journal-title": "Interact. Learn. Environ."
+    },
+    {
+      "key": "ref2",
+      "unstructured": "Fata and the internet\n            AhmadI.\n          2020"
+    },
+    {
+      "key": "ref3",
+      "doi-asserted-by": "publisher",
+      "first-page": "380",
+      "DOI": "10.1108/AEDS-06-2020-0131",
+      "article-title": "The effect of online learning on communication between instructors and students during Covid-19 pandemic",
+      "volume": "11",
+      "author": "Alawamleh",
+      "year": "2020",
+      "journal-title": "Asian Educ. Dev. Stud."
+    },
+    {
+      "key": "ref4",
+      "doi-asserted-by": "publisher",
+      "first-page": "286",
+      "DOI": "10.24059/olj.v25i1.2470",
+      "article-title": "Jordanian university students’ views on emergency online learning during COVID-19",
+      "volume": "25",
+      "author": "Al-Salman",
+      "year": "2021",
+      "journal-title": "Online Learn."
+    },
+    {
+      "key": "ref5",
+      "unstructured": "‘Smiles are infectious’: what a school principal in China learned from going remote\n            AndersonL.\n          2020"
+    },
+    {
+      "key": "ref6",
+      "doi-asserted-by": "publisher",
+      "first-page": "37",
+      "DOI": "10.1080/09720510.2021.1875567",
+      "article-title": "Faculty perspectives on work from home: teaching efficacy, constraints and challenges during COVID’ 19 lockdown",
+      "volume": "24",
+      "author": "Arora",
+      "year": "2021",
+      "journal-title": "J. Stat. Manag. Syst."
+    },
+    {
+      "key": "ref7",
+      "doi-asserted-by": "publisher",
+      "first-page": "473",
+      "DOI": "10.1002/jmv.25706",
+      "article-title": "Economic impacts of Wuhan 2019-nCoV on China and the world",
+      "volume": "92",
+      "author": "Ayittey",
+      "year": "2020",
+      "journal-title": "J. Med. Virol."
+    },
+    {
+      "key": "ref8",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.5281/zenodo.3778083",
+      "article-title": "Emergency remote teaching in a time of global crisis due to coronavirus pandemic",
+      "volume": "15",
+      "author": "Bozkurt",
+      "year": "2020",
+      "journal-title": "Asian J. Distance Educ."
+    },
+    {
+      "key": "ref9",
+      "doi-asserted-by": "publisher",
+      "first-page": "77",
+      "DOI": "10.1191/1478088706qp063oa",
+      "article-title": "Using thematic analysis in psychology",
+      "volume": "3",
+      "author": "Braun",
+      "year": "2006",
+      "journal-title": "Qual. Res. Psychol."
+    },
+    {
+      "key": "ref10",
+      "doi-asserted-by": "publisher",
+      "first-page": "100",
+      "DOI": "10.1186/s12966-017-0555-2",
+      "article-title": "Understanding differences between summer vs. school obesogenic behaviors of children: the structured days hypothesis",
+      "volume": "14",
+      "author": "Brazendale",
+      "year": "2017",
+      "journal-title": "Int. J. Behav. Nutr. Phys. Act."
+    },
+    {
+      "key": "ref11",
+      "volume-title": "Social Research Methods",
+      "author": "Bryman",
+      "year": "2016"
+    },
+    {
+      "key": "ref12",
+      "doi-asserted-by": "publisher",
+      "first-page": "251",
+      "DOI": "10.3390/electronics10030251",
+      "article-title": "Designing online platforms supporting emotions and awareness",
+      "volume": "10",
+      "author": "Collazos",
+      "year": "2021",
+      "journal-title": "Electronics"
+    },
+    {
+      "key": "ref13",
+      "doi-asserted-by": "publisher",
+      "first-page": "1022",
+      "DOI": "10.3217/jucs-013-07-1022",
+      "article-title": "Designing collaborative learning environments using digital games",
+      "volume": "3",
+      "author": "Collazos",
+      "year": "2007",
+      "journal-title": "J. Univ. Comput. Sci."
+    },
+    {
+      "key": "ref14",
+      "doi-asserted-by": "publisher",
+      "first-page": "10367",
+      "DOI": "10.3390/su122410367",
+      "article-title": "Online teaching and learning in higher education during the coronavirus pandemic: students’ perspective",
+      "volume": "12",
+      "author": "Coman",
+      "year": "2020",
+      "journal-title": "Sustainability"
+    },
+    {
+      "key": "ref15",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.37074/jalt.2020.3.1.7",
+      "article-title": "COVID-19: 20 countries’ higher education intra-period digital pedagogy responses",
+      "volume": "3",
+      "author": "Crawford",
+      "year": "2020",
+      "journal-title": "J. Appl. Teach. Learn."
+    },
+    {
+      "key": "ref16",
+      "volume-title": "Research Design",
+      "author": "Creswell",
+      "year": "2003"
+    },
+    {
+      "key": "ref17",
+      "volume-title": "Educational Research: Planning, Conducting, and Evaluating Quantitative and Qualitative Research",
+      "author": "Creswell",
+      "year": "2011"
+    },
+    {
+      "key": "ref18",
+      "doi-asserted-by": "publisher",
+      "first-page": "38",
+      "DOI": "10.5539/hes.v4n3p38",
+      "article-title": "Data for flipped classroom design: using student feedback to identify the best components from online and face-to-face classes",
+      "volume": "4",
+      "author": "Crews",
+      "year": "2014",
+      "journal-title": "High. Educ. Stud."
+    },
+    {
+      "key": "ref001",
+      "doi-asserted-by": "publisher",
+      "first-page": "e24496",
+      "DOI": "10.2196/24496",
+      "article-title": "Experiences and attitudes of elementary school students and their parents toward online learning in china during the COVID-19 pandemic: questionnaire study",
+      "volume": "23",
+      "author": "Cui",
+      "year": "2020",
+      "journal-title": "J. Med. Internet Res."
+    },
+    {
+      "key": "ref19",
+      "doi-asserted-by": "publisher",
+      "first-page": "25",
+      "DOI": "10.1080/02602938.2018.1467877",
+      "article-title": "What makes for effective feedback: staff and student perspectives",
+      "volume": "44",
+      "author": "Dawson",
+      "year": "2019",
+      "journal-title": "Assess. Eval. High. Educ."
+    },
+    {
+      "key": "ref20",
+      "doi-asserted-by": "publisher",
+      "first-page": "367",
+      "DOI": "10.1007/978-3-030-35343-8_39",
+      "article-title": "Student performance evaluation based on online discussion",
+      "volume": "11937",
+      "author": "Du",
+      "year": "2019",
+      "journal-title": "ICITL"
+    },
+    {
+      "key": "ref002",
+      "doi-asserted-by": "publisher",
+      "first-page": "11",
+      "DOI": "10.1177/1469787417721384",
+      "article-title": "Exploring new elements of the student approaches to learning framework: the role of online learning technologies in student learning",
+      "volume": "20",
+      "author": "Ellis",
+      "year": "2019",
+      "journal-title": "Active Learn. High. Educ."
+    },
+    {
+      "key": "ref21",
+      "doi-asserted-by": "publisher",
+      "first-page": "003368822098177",
+      "DOI": "10.1177/0033688220981778",
+      "article-title": "“COVID-19 is an opportunity to rediscover ourselves”: reflections of a novice EFL teacher in Central America",
+      "volume": "5",
+      "author": "Farrell",
+      "year": "2021",
+      "journal-title": "RELC J."
+    },
+    {
+      "key": "ref22",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1080/09588221.2022.2099902",
+      "article-title": "Pre-service EFL teachers’ motivational beliefs about instructional use of technology: development and validation of a scale",
+      "author": "Gan",
+      "year": "2022",
+      "journal-title": "Comput. Assist. Lang. Learn."
+    },
+    {
+      "key": "ref23",
+      "doi-asserted-by": "publisher",
+      "first-page": "549653",
+      "DOI": "10.3389/fpsyg.2020.549653",
+      "article-title": "Teacher learning in difficult times: examining foreign language teachers’ cognitions about online teaching to tide over COVID-19",
+      "volume": "11",
+      "author": "Gao",
+      "year": "2020",
+      "journal-title": "Front. Psychol."
+    },
+    {
+      "key": "ref24",
+      "doi-asserted-by": "publisher",
+      "first-page": "53",
+      "DOI": "10.1016/j.iheduc.2006.10.003",
+      "article-title": "Quality in blended learning: exploring the relationships between on-line and face-to-face teaching and learning",
+      "volume": "10",
+      "author": "Ginns",
+      "year": "2007",
+      "journal-title": "Internet High. Educ."
+    },
+    {
+      "key": "ref25",
+      "doi-asserted-by": "publisher",
+      "first-page": "475",
+      "DOI": "10.33902/JPR.2020063786",
+      "article-title": "Students’ perceptions of using Mobile Technologies in Informal English Learning during the COVID-19 epidemic: a study in Chinese rural secondary schools",
+      "volume": "4",
+      "author": "Guo",
+      "year": "2020",
+      "journal-title": "J. Pedagog. Res."
+    },
+    {
+      "key": "ref26",
+      "doi-asserted-by": "publisher",
+      "first-page": "217",
+      "DOI": "10.2015/IJIRMF.2455.0620/202005041",
+      "article-title": "Challenges and opportunities created by COVID-19 for ODL: a case study of IGNOU",
+      "volume": "6",
+      "author": "Jena",
+      "year": "2020",
+      "journal-title": "Int. J. Innov. Res. Multidiscip. Field"
+    },
+    {
+      "key": "ref27",
+      "first-page": "416",
+      "article-title": "Digital life: boon or bane in teaching sector on COVID-19",
+      "volume": "6",
+      "author": "Kaur",
+      "year": "2020",
+      "journal-title": "CLIO Annu. Interdiscip. J. Hist."
+    },
+    {
+      "key": "ref28",
+      "doi-asserted-by": "publisher",
+      "first-page": "305",
+      "DOI": "10.1007/s11217-016-9516-5",
+      "article-title": "Posthumanism and the MOOC: opening the subject of digital education",
+      "volume": "35",
+      "author": "Knox",
+      "year": "2016",
+      "journal-title": "Stud. Philos. Educ."
+    },
+    {
+      "key": "ref29",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.21125/inted.2019.0445",
+      "article-title": "Five common assumptions that prevent digital transformation at higher education institutions",
+      "author": "Kopp",
+      "year": "2019"
+    },
+    {
+      "key": "ref30",
+      "doi-asserted-by": "publisher",
+      "first-page": "596",
+      "DOI": "10.1080/02607476.2020.1803051",
+      "article-title": "Initial teacher education in England and the COVID-19 pandemic: challenges and opportunities",
+      "volume": "46",
+      "author": "la Velle",
+      "year": "2020",
+      "journal-title": "J. Educ. Teach."
+    },
+    {
+      "key": "ref31",
+      "doi-asserted-by": "publisher",
+      "first-page": "169",
+      "DOI": "10.1007/s12564-021-09686-w",
+      "article-title": "Impact of the COVID-19 pandemic on student teachers: how the shift to online collaborative learning affects student teachers’ learning and future teaching in a Chinese context",
+      "volume": "22",
+      "author": "Lei",
+      "year": "2021",
+      "journal-title": "Asia Pac. Educ. Rev."
+    },
+    {
+      "key": "ref32",
+      "article-title": "Research on blended teaching mode based on internet plus. Lecture Notes of the Institute for Computer Sciences",
+      "volume-title": "Social Informatics and Telecommunications Ensgineering",
+      "author": "Li",
+      "year": "2019"
+    },
+    {
+      "key": "ref33",
+      "unstructured": "The difference between synchronous and asynchronous distance learning\n            LittlefieldJ.\n          2018"
+    },
+    {
+      "key": "ref34",
+      "doi-asserted-by": "publisher",
+      "first-page": "139",
+      "DOI": "10.1016/j.sbspro.2014.01.1407",
+      "article-title": "A study on the student’s perspective on the effectiveness of using e-learning",
+      "volume": "123",
+      "author": "Luaran",
+      "year": "2014",
+      "journal-title": "Proc. Soc. Behav. Sci."
+    },
+    {
+      "key": "ref35",
+      "doi-asserted-by": "publisher",
+      "first-page": "102352",
+      "DOI": "10.1016/j.system.2020.102352",
+      "article-title": "Language teachers’ coping strategies during the Covid-19 conversion to online teaching: correlations with stress, wellbeing and negative emotions",
+      "volume": "94",
+      "author": "MacIntyre",
+      "year": "2020",
+      "journal-title": "System"
+    },
+    {
+      "key": "ref36",
+      "doi-asserted-by": "publisher",
+      "first-page": "93",
+      "DOI": "10.1007/s43545-021-00083-z",
+      "article-title": "The attitudes of elementary and middle school students and teachers towards online learning during the corona pandemic outbreak",
+      "volume": "1",
+      "author": "Masry-Herzallh",
+      "year": "2021",
+      "journal-title": "SN Soc. Sci."
+    },
+    {
+      "key": "ref37",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.19173/irrodl.v10i3.605",
+      "article-title": "Virtual spaces: employing a synchronous online classroom to facilitate student engagement in online learning",
+      "volume": "10",
+      "author": "McBrien",
+      "year": "2009",
+      "journal-title": "Int. Rev. Res. Open Dis. Learn."
+    },
+    {
+      "key": "ref38",
+      "unstructured": "The global impact of coronavirus on education\n            McCarthyK.\n          2020"
+    },
+    {
+      "key": "ref39",
+      "volume-title": "Evaluation of Evidence-based Practices in Online Learning: A Meta-analysis and Review of Online Learning Studies",
+      "author": "Means",
+      "year": "2009"
+    },
+    {
+      "key": "ref003",
+      "doi-asserted-by": "publisher",
+      "first-page": "253",
+      "DOI": "10.3390/fi13100253",
+      "article-title": "Designing a collaborative virtual conference application: challenges, requirements, and guidelines",
+      "volume": "13",
+      "author": "Ming",
+      "year": "2021",
+      "journal-title": "Future Internet"
+    },
+    {
+      "key": "ref004",
+      "doi-asserted-by": "crossref",
+      "first-page": "120",
+      "DOI": "10.1080/02188791.2021.1988511",
+      "article-title": "The COVID-19 pandemic as a catalyst for teacher pedagogical and technological innovation and development: teachers’ perspectives",
+      "volume": "42",
+      "author": "Moorhouse",
+      "year": "2022",
+      "journal-title": "Asia Pacific J. Educ."
+    },
+    {
+      "key": "ref40",
+      "doi-asserted-by": "publisher",
+      "first-page": "135",
+      "DOI": "10.1080/00098655.2020.1751480",
+      "article-title": "Best practices for implementing remote learning during a pandemic",
+      "volume": "93",
+      "author": "Morgan",
+      "year": "2020",
+      "journal-title": "Clearing House J. Educ. Strateg. Issues Ideas"
+    },
+    {
+      "key": "ref41",
+      "doi-asserted-by": "publisher",
+      "first-page": "45",
+      "DOI": "10.33902/JPSP",
+      "article-title": "Online learning amid the COVID-19 pandemic: students’ perspectives",
+      "volume": "2",
+      "author": "Muhammad",
+      "year": "2020",
+      "journal-title": "J. Pedagog. Sociol. Psychol."
+    },
+    {
+      "key": "ref42",
+      "doi-asserted-by": "publisher",
+      "first-page": "23",
+      "DOI": "10.4236/jssm.2022.151003",
+      "article-title": "Assessing the perceptions and preferences between online and in-person classroom learning among university students in Rwanda",
+      "volume": "15",
+      "author": "Nishimwe",
+      "year": "2022",
+      "journal-title": "J. Serv. Sci. Manag."
+    },
+    {
+      "key": "ref43",
+      "doi-asserted-by": "publisher",
+      "first-page": "342",
+      "DOI": "10.1080/07380569.2022.2090764",
+      "article-title": "Adaptation to remote teaching during spring 2020 amidst COVID-19: perspectives of advanced placement statistics teachers",
+      "volume": "39",
+      "author": "Ober",
+      "year": "2022",
+      "journal-title": "Comput. Sch."
+    },
+    {
+      "key": "ref44",
+      "doi-asserted-by": "publisher",
+      "first-page": "427",
+      "DOI": "10.1023/A:1008621827601",
+      "article-title": "Asynchronous computer-mediated communication versus face-to-face collaboration: results on student learning, quality and satisfaction",
+      "volume": "8",
+      "author": "Ocker",
+      "year": "1999",
+      "journal-title": "Group Decis. Negot."
+    },
+    {
+      "key": "ref45",
+      "first-page": "4984",
+      "article-title": "Techno pedagogical skills for teaching-learning process in smart class",
+      "volume": "12",
+      "author": "Palanisamy",
+      "year": "2020",
+      "journal-title": "Talent Dev. Excell."
+    },
+    {
+      "key": "ref46",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1016/j.iheduc.2014.10.002",
+      "article-title": "Student preparedness for university e-learning environments",
+      "volume": "25",
+      "author": "Parkes",
+      "year": "2014",
+      "journal-title": "Internet High. Educ."
+    },
+    {
+      "key": "ref47",
+      "doi-asserted-by": "publisher",
+      "first-page": "68",
+      "DOI": "10.1007/BF02940939",
+      "article-title": "Indicators of constructivist principles in internet-based courses",
+      "volume": "14",
+      "author": "Partlow",
+      "year": "2003",
+      "journal-title": "J. Comput. High. Educ."
+    },
+    {
+      "key": "ref48",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.19173/irrodl.v5i2.183",
+      "article-title": "A comparative study of dropout rates and causes for two different distance education courses",
+      "volume": "5",
+      "author": "Pierrakeas",
+      "year": "2004",
+      "journal-title": "Int. Rev. Res. Open Dis. Learn."
+    },
+    {
+      "key": "ref49",
+      "article-title": "Corona virus and its impact on higher education",
+      "volume-title": "Research Gate",
+      "author": "Rieley",
+      "year": "2020"
+    },
+    {
+      "key": "ref51",
+      "doi-asserted-by": "publisher",
+      "first-page": "335",
+      "DOI": "10.46328/ijtes.v4i4.148",
+      "article-title": "Transitioning from face-to-face to remote learning: Students’ attitudes and perceptions of using zoom during COVID-19 pandemic",
+      "volume": "4",
+      "author": "Serhan",
+      "year": "2020",
+      "journal-title": "Int. J. Technol. Educ. Sci."
+    },
+    {
+      "key": "ref52",
+      "article-title": "10 strategies for online learning during a coronavirus outbreak",
+      "author": "Snelling",
+      "year": "2020",
+      "journal-title": "Int. Soc. Technol. Educ."
+    },
+    {
+      "key": "ref53",
+      "doi-asserted-by": "publisher",
+      "first-page": "59",
+      "DOI": "10.1016/j.iheduc.2003.11.003",
+      "article-title": "Improving online learning: student perceptions of useful and challenging characteristics",
+      "volume": "7",
+      "author": "Song",
+      "year": "2004",
+      "journal-title": "Internet High. Educ."
+    },
+    {
+      "key": "ref54",
+      "doi-asserted-by": "publisher",
+      "first-page": "79",
+      "DOI": "10.1111/j.1365-2729.2005.00115.x",
+      "article-title": "Group cognition in computer-assisted collaborative learning",
+      "volume": "21",
+      "author": "Stahl",
+      "year": "2005",
+      "journal-title": "J. Comput. Assist. Learn."
+    },
+    {
+      "key": "ref55",
+      "unstructured": "With weeks of e-learning ahead, be fexible and forget perfection\n            TateE.\n          2020"
+    },
+    {
+      "key": "ref57",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.29333/pr/7947",
+      "article-title": "Challenges and opportunities for higher education amid the COVID-19 pandemic: the Philippine context",
+      "volume": "5",
+      "author": "Toquero",
+      "year": "2020",
+      "journal-title": "Pedagog. Res."
+    },
+    {
+      "key": "ref58",
+      "first-page": "15",
+      "article-title": "Factors leading to online learner satisfaction",
+      "volume": "12",
+      "author": "Van Wart",
+      "year": "2020",
+      "journal-title": "Bus. Educ. Innov. J."
+    },
+    {
+      "key": "ref59",
+      "doi-asserted-by": "publisher",
+      "first-page": "152",
+      "DOI": "10.1186/s12889-021-10222-z",
+      "article-title": "Covid-19 outbreak in Brazil: adherence to national preventive measures and impact on people’s lives, an online survey",
+      "volume": "21",
+      "author": "Villela",
+      "year": "2021",
+      "journal-title": "BMC Public Health"
+    },
+    {
+      "key": "ref005",
+      "doi-asserted-by": "publisher",
+      "first-page": "10",
+      "DOI": "10.16482/j.sdwy37-1026.2020-04-002",
+      "article-title": "Teachers’ professional development under the new normal of foreign language education at tertiary level: connotation and approach",
+      "volume": "41",
+      "author": "Wang",
+      "year": "2020",
+      "journal-title": "Shandong Foreign Language Teaching"
+    },
+    {
+      "key": "ref60",
+      "doi-asserted-by": "publisher",
+      "first-page": "115",
+      "DOI": "10.24059/olj.v13i3.1659",
+      "article-title": "Factors that influence students’ decision to dropout of online courses",
+      "volume": "13",
+      "author": "Willging",
+      "year": "2009",
+      "journal-title": "JALN"
+    },
+    {
+      "key": "ref61",
+      "doi-asserted-by": "publisher",
+      "first-page": "799",
+      "DOI": "10.1080/00131857.2020.1821188",
+      "article-title": "Online education action for defeating COVID-19 in China: an analysis of the system, mechanism and mode",
+      "volume": "54",
+      "author": "Xue",
+      "year": "2020",
+      "journal-title": "Educ. Philos. Theory"
+    },
+    {
+      "key": "ref62",
+      "unstructured": "The coronavirus exposes education’s digital divide\n            ZhongR.\n          2020"
+    },
+    {
+      "key": "ref63",
+      "doi-asserted-by": "publisher",
+      "first-page": "106",
+      "DOI": "10.3969/j.issn.1009-8097",
+      "article-title": "Production, application and striving directions of online courses in virtual scene",
+      "volume": "29",
+      "author": "Zhou",
+      "year": "2019",
+      "journal-title": "Mod. Educ. Technol."
+    }
+  ],
+  "container-title": [
+    "Frontiers in Psychology"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1037311/full",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        12,
+        22
+      ]
+    ],
+    "date-time": "2022-12-22T12:27:40Z",
+    "timestamp": 1671712060000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1037311/full"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        12,
+        22
+      ]
+    ]
+  },
+  "references-count": 66,
+  "alternative-id": [
+    "10.3389/fpsyg.2022.1037311"
+  ],
+  "URL": "https://doi.org/10.3389/fpsyg.2022.1037311",
+  "relation": {},
+  "ISSN": [
+    "1664-1078"
+  ],
+  "issn-type": [
+    {
+      "value": "1664-1078",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2022,
+        12,
+        22
+      ]
+    ]
+  },
+  "article-number": "1037311"
+}

@@ -1,0 +1,1160 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        2
+      ]
+    ],
+    "date-time": "2026-08-02T13:58:53Z",
+    "timestamp": 1785679133642,
+    "version": "3.56.0"
+  },
+  "reference-count": 120,
+  "publisher": "Informa UK Limited",
+  "issue": "9",
+  "content-domain": {
+    "domain": [
+      "www.tandfonline.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Journal of Multilingual and Multicultural Development"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2017,
+        10,
+        21
+      ]
+    ]
+  },
+  "DOI": "10.1080/01434632.2016.1268146",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2017,
+        1,
+        17
+      ]
+    ],
+    "date-time": "2017-01-17T05:50:16Z",
+    "timestamp": 1484632216000
+  },
+  "page": "815-830",
+  "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+  "source": "Crossref",
+  "is-referenced-by-count": 92,
+  "title": [
+    "The teaching of Chinese as a second or foreign language: a systematic review of the literature 2005–2015"
+  ],
+  "prefix": "10.1080",
+  "volume": "38",
+  "author": [
+    {
+      "given": "Xiuli",
+      "family": "Ma",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "College of International Education, Minzu University of China, Beijing, People’s Republic of China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-5294-6437",
+      "authenticated-orcid": false,
+      "given": "Yang",
+      "family": "Gong",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Faculty of Education, The University of Hong Kong, Hong Kong SAR, People’s Republic of China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-3426-8721",
+      "authenticated-orcid": false,
+      "given": "Xuesong",
+      "family": "Gao",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Faculty of Education, The University of Hong Kong, Hong Kong SAR, People’s Republic of China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Yiqing",
+      "family": "Xiang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Beijing Union University, Beijing, People’s Republic of China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "301",
+  "published-online": {
+    "date-parts": [
+      [
+        2017,
+        1,
+        17
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "CIT0001",
+      "first-page": "11",
+      "volume": "3",
+      "author": "An F.",
+      "year": "2015",
+      "journal-title": "Language Teaching and Linguistic Studies"
+    },
+    {
+      "key": "CIT0002",
+      "first-page": "64",
+      "volume": "4",
+      "author": "An R.",
+      "year": "2007",
+      "journal-title": "Chinese Language Learning"
+    },
+    {
+      "key": "CIT0003",
+      "first-page": "4",
+      "volume": "4",
+      "author": "Bellassen J.",
+      "year": "2013",
+      "journal-title": "Teaching Chinese to Speakers of Other Languages Studies"
+    },
+    {
+      "key": "CIT0004",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0261444803001903"
+    },
+    {
+      "key": "CIT0005",
+      "first-page": "8",
+      "volume": "2",
+      "author": "Cai L.",
+      "year": "2009",
+      "journal-title": "Journal of College of Chinese Language and Culture of Jinan University"
+    },
+    {
+      "key": "CIT0006",
+      "first-page": "14",
+      "volume": "3",
+      "author": "Cai L.",
+      "year": "2011",
+      "journal-title": "Teaching Chinese to Speakers of Other Languages Studies"
+    },
+    {
+      "key": "CIT0007",
+      "first-page": "125",
+      "volume": "3",
+      "author": "Cao X.",
+      "year": "2008",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0008",
+      "first-page": "128",
+      "volume": "3",
+      "author": "Chen J.",
+      "year": "2006",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0009",
+      "first-page": "9",
+      "volume": "4",
+      "author": "Chen M.",
+      "year": "2011",
+      "journal-title": "Teaching Chinese to Speakers of Other Languages Studies"
+    },
+    {
+      "key": "CIT0010",
+      "first-page": "400",
+      "volume": "3",
+      "author": "Chen P.",
+      "year": "2013",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0011",
+      "first-page": "1",
+      "volume": "2",
+      "author": "Chen W.",
+      "year": "2015",
+      "journal-title": "Teaching Chinese to Speakers of Other Languages Studies"
+    },
+    {
+      "key": "CIT0012",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.22158/selt.v3n1p1"
+    },
+    {
+      "key": "CIT0013",
+      "first-page": "19",
+      "volume": "2",
+      "author": "Chen L.",
+      "year": "2015",
+      "journal-title": "Language Teaching and Linguistic Studies"
+    },
+    {
+      "key": "CIT0014",
+      "first-page": "11",
+      "volume": "4",
+      "author": "Chin C.",
+      "year": "2013",
+      "journal-title": "Teaching Chinese to Speakers of Other Languages Studies"
+    },
+    {
+      "key": "CIT0015",
+      "first-page": "69",
+      "volume": "6",
+      "author": "Dai Y.",
+      "year": "2007",
+      "journal-title": "Chinese Language Learning"
+    },
+    {
+      "key": "CIT0016",
+      "first-page": "16",
+      "volume": "4",
+      "author": "Dai H.",
+      "year": "2012",
+      "journal-title": "Teaching Chinese to Speakers of Other Languages Studies"
+    },
+    {
+      "key": "CIT0017",
+      "first-page": "47",
+      "volume": "5",
+      "author": "Ding X.",
+      "year": "2006",
+      "journal-title": "Chinese Language Learning"
+    },
+    {
+      "key": "CIT0018",
+      "first-page": "124",
+      "volume": "1",
+      "author": "Ding A.",
+      "year": "2007",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0019",
+      "first-page": "1",
+      "volume": "3",
+      "author": "Ding A.",
+      "year": "2014",
+      "journal-title": "Teaching Chinese to Speakers of Other Languages Studies"
+    },
+    {
+      "key": "CIT0020",
+      "first-page": "42",
+      "volume": "4",
+      "author": "Dong J.",
+      "year": "2014",
+      "journal-title": "Language Teaching and Linguistic Studies"
+    },
+    {
+      "key": "CIT0022",
+      "first-page": "29",
+      "volume": "1",
+      "author": "Fan H.",
+      "year": "2013",
+      "journal-title": "Teaching Chinese to Speakers of Other Languages Studies"
+    },
+    {
+      "key": "CIT0023",
+      "first-page": "63",
+      "volume": "4",
+      "author": "Feng L.",
+      "year": "2005",
+      "journal-title": "Chinese Language Learning"
+    },
+    {
+      "key": "CIT0024",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0889-4906(99)00015-0"
+    },
+    {
+      "key": "CIT0025",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0261444813000414"
+    },
+    {
+      "key": "CIT0026",
+      "first-page": "98",
+      "volume": "4",
+      "author": "Geng Y.",
+      "year": "2005",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0027",
+      "first-page": "133",
+      "volume": "4",
+      "author": "Gong Z.",
+      "year": "2008",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0028",
+      "first-page": "91",
+      "volume": "4",
+      "author": "Guo C.",
+      "year": "2005",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0029",
+      "first-page": "33",
+      "volume": "2",
+      "author": "Guo F.",
+      "year": "2012",
+      "journal-title": "Language Teaching and Linguistic Studies"
+    },
+    {
+      "key": "CIT0030",
+      "first-page": "20",
+      "volume": "6",
+      "author": "Guo R.",
+      "year": "2014",
+      "journal-title": "Language Teaching and Linguistic Studies"
+    },
+    {
+      "key": "CIT0031",
+      "volume-title": "2015 Confucius Institute Annual Development Report",
+      "author": "Hanban",
+      "year": "2016"
+    },
+    {
+      "key": "CIT0032",
+      "first-page": "41",
+      "volume": "3",
+      "author": "Hao L.",
+      "year": "2013",
+      "journal-title": "Teaching Chinese to Speakers of Other Languages Studies"
+    },
+    {
+      "key": "CIT0033",
+      "first-page": "50",
+      "volume": "3",
+      "author": "Hao Y.",
+      "year": "2013",
+      "journal-title": "Teaching Chinese to Speakers of Other Languages Studies"
+    },
+    {
+      "key": "CIT0034",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10993-004-6561-7"
+    },
+    {
+      "key": "CIT0035",
+      "first-page": "1",
+      "volume": "3",
+      "author": "Huang H.",
+      "year": "2005",
+      "journal-title": "Journal of College of Chinese Language and Culture of Jinan University"
+    },
+    {
+      "key": "CIT0036",
+      "volume-title": "Modern Chinese",
+      "author": "Huang B.",
+      "year": "2002",
+      "edition": "3"
+    },
+    {
+      "key": "CIT0037",
+      "first-page": "71",
+      "volume": "1",
+      "author": "Huang Z.",
+      "year": "2012",
+      "journal-title": "Chinese Language Learning"
+    },
+    {
+      "key": "CIT0038",
+      "first-page": "49",
+      "volume": "5",
+      "author": "Huang Y.",
+      "year": "2005",
+      "journal-title": "Chinese Language Learning"
+    },
+    {
+      "key": "CIT0039",
+      "first-page": "76",
+      "volume": "2",
+      "author": "Huang Y.",
+      "year": "2007",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0040",
+      "first-page": "91",
+      "volume": "2",
+      "author": "Jiang X.",
+      "year": "2007",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0041",
+      "first-page": "394",
+      "volume": "3",
+      "author": "Jiang X.",
+      "year": "2010",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0131",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.tate.2015.11.007"
+    },
+    {
+      "key": "CIT0042",
+      "first-page": "122",
+      "volume": "1",
+      "author": "Lei L.",
+      "year": "2006",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0043",
+      "first-page": "106",
+      "volume": "1",
+      "author": "Li B.",
+      "year": "2005",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0044",
+      "first-page": "1",
+      "volume": "3",
+      "author": "Li Q.",
+      "year": "2010",
+      "journal-title": "Teaching Chinese to Speakers of Other Languages Studies"
+    },
+    {
+      "key": "CIT0045",
+      "first-page": "3",
+      "volume": "1",
+      "author": "Li H.",
+      "year": "2010",
+      "journal-title": "Teaching Chinese to Speakers of Other Languages Studies"
+    },
+    {
+      "key": "CIT0046",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.22158/selt.v3n1p1"
+    },
+    {
+      "key": "CIT0047",
+      "first-page": "50",
+      "volume": "3",
+      "author": "Li Y.",
+      "year": "2005",
+      "journal-title": "Language Teaching and Linguistic Studies"
+    },
+    {
+      "key": "CIT0048",
+      "first-page": "76",
+      "volume": "1",
+      "author": "Li Q.",
+      "year": "2015",
+      "journal-title": "Chinese Language Learning"
+    },
+    {
+      "key": "CIT0049",
+      "first-page": "103",
+      "volume": "1",
+      "author": "Li X.",
+      "year": "2014",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0050",
+      "first-page": "20",
+      "volume": "3",
+      "author": "Li Y.",
+      "year": "2009",
+      "journal-title": "Journal of College of Chinese Language and Culture of Jinan University"
+    },
+    {
+      "key": "CIT0052",
+      "first-page": "89",
+      "volume": "3",
+      "author": "Lin Q.",
+      "year": "2011",
+      "journal-title": "Chinese Language Learning"
+    },
+    {
+      "key": "CIT0053",
+      "first-page": "50",
+      "volume": "4",
+      "author": "Liu L.",
+      "year": "2006",
+      "journal-title": "Chinese Language Learning"
+    },
+    {
+      "key": "CIT0055",
+      "first-page": "85",
+      "volume": "3",
+      "author": "Liu Y.",
+      "year": "2009",
+      "journal-title": "Chinese Language Learning"
+    },
+    {
+      "key": "CIT0056",
+      "first-page": "18",
+      "volume": "2",
+      "author": "Liu S.",
+      "year": "2009",
+      "journal-title": "Journal of College of Chinese Language and Culture of Jinan University"
+    },
+    {
+      "key": "CIT0057",
+      "first-page": "97",
+      "volume": "4",
+      "author": "Liu F.",
+      "year": "2012",
+      "journal-title": "Chinese Language Learning"
+    },
+    {
+      "key": "CIT0058",
+      "first-page": "37",
+      "volume": "2",
+      "author": "Liu Y.",
+      "year": "2014",
+      "journal-title": "Teaching Chinese to Speakers of Other Languages Studies"
+    },
+    {
+      "key": "CIT0059",
+      "volume-title": "An Introduction to Educational Research: Connecting Methods to Practice",
+      "author": "Lochmiller C. R.",
+      "year": "2016"
+    },
+    {
+      "key": "CIT0060",
+      "first-page": "20",
+      "volume": "3",
+      "author": "Luan Y.",
+      "year": "2013",
+      "journal-title": "Teaching Chinese to Speakers of Other Languages Studies"
+    },
+    {
+      "key": "CIT0132",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/02607476.2016.1182372"
+    },
+    {
+      "key": "CIT0061",
+      "first-page": "103",
+      "volume": "1",
+      "author": "Mao Y.",
+      "year": "2010",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0062",
+      "first-page": "276",
+      "volume": "2",
+      "author": "Mei L.",
+      "year": "2011",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0063",
+      "first-page": "31",
+      "volume": "3",
+      "author": "Mo F.",
+      "year": "2007",
+      "journal-title": "Journal of College of Chinese Language and Culture of Jinan University"
+    },
+    {
+      "key": "CIT0064",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/2331186X.2015.1024960"
+    },
+    {
+      "key": "CIT0065",
+      "first-page": "68",
+      "volume": "1",
+      "author": "Ni C.",
+      "year": "2007",
+      "journal-title": "Language Teaching and Linguistic Studies"
+    },
+    {
+      "key": "CIT0066",
+      "first-page": "91",
+      "volume": "2",
+      "author": "Peng S.",
+      "year": "2008",
+      "journal-title": "Chinese Language Learning"
+    },
+    {
+      "key": "CIT0067",
+      "first-page": "10",
+      "volume": "4",
+      "author": "Peng B.",
+      "year": "2012",
+      "journal-title": "Teaching Chinese to Speakers of Other Languages Studies"
+    },
+    {
+      "key": "CIT0068",
+      "first-page": "13",
+      "author": "Perfetti C. A.",
+      "year": "2008",
+      "journal-title": "Learning to Read Across Languages"
+    },
+    {
+      "key": "CIT0069",
+      "first-page": "42",
+      "volume": "3",
+      "author": "Qian Y.",
+      "year": "2010",
+      "journal-title": "Teaching Chinese to Speakers of Other Languages Studies"
+    },
+    {
+      "key": "CIT0070",
+      "first-page": "110",
+      "volume": "1",
+      "author": "Qian Q.",
+      "year": "2011",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0071",
+      "first-page": "537",
+      "volume": "4",
+      "author": "Shao J.",
+      "year": "2013",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0072",
+      "first-page": "75",
+      "volume": "5",
+      "author": "Shen S.",
+      "year": "2006",
+      "journal-title": "Language Teaching and Linguistic Studies"
+    },
+    {
+      "key": "CIT0073",
+      "first-page": "45",
+      "volume": "1",
+      "author": "Shen S.",
+      "year": "2014",
+      "journal-title": "Language Teaching and Linguistic Studies"
+    },
+    {
+      "issue": "1",
+      "key": "CIT0074",
+      "first-page": "1",
+      "volume": "25",
+      "author": "Shen H. H.",
+      "year": "2013",
+      "journal-title": "Reading in a Foreign Language"
+    },
+    {
+      "key": "CIT0075",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/flan.12137"
+    },
+    {
+      "key": "CIT0076",
+      "first-page": "83",
+      "volume": "2",
+      "author": "Su D.",
+      "year": "2010",
+      "journal-title": "Chinese Language Learning"
+    },
+    {
+      "key": "CIT0077",
+      "first-page": "557",
+      "volume": "4",
+      "author": "Su D.",
+      "year": "2010",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0078",
+      "first-page": "1",
+      "volume": "2",
+      "author": "Tao J.",
+      "year": "2012",
+      "journal-title": "Teaching Chinese to Speakers of Other Languages Studies"
+    },
+    {
+      "key": "CIT0079",
+      "first-page": "276",
+      "volume": "6",
+      "author": "Tian Y.",
+      "year": "2012",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0080",
+      "first-page": "55",
+      "volume": "5",
+      "author": "Wang J.",
+      "year": "2005",
+      "journal-title": "Language Teaching and Linguistic Studies"
+    },
+    {
+      "key": "CIT0081",
+      "first-page": "28",
+      "volume": "3",
+      "author": "Wang M.",
+      "year": "2005",
+      "journal-title": "Journal of College of Chinese Language and Culture of Jinan University"
+    },
+    {
+      "key": "CIT0082",
+      "first-page": "49",
+      "volume": "6",
+      "author": "Wang X.",
+      "year": "2006",
+      "journal-title": "Language Teaching and Linguistic Studies"
+    },
+    {
+      "key": "CIT0083",
+      "first-page": "65",
+      "volume": "1",
+      "author": "Wang J.",
+      "year": "2008",
+      "journal-title": "Language Teaching and Linguistic Studies"
+    },
+    {
+      "key": "CIT0084",
+      "first-page": "9",
+      "volume": "4",
+      "author": "Wang Y.",
+      "year": "2008",
+      "journal-title": "Journal of College of Chinese Language and Culture of Jinan University"
+    },
+    {
+      "key": "CIT0085",
+      "first-page": "1",
+      "volume": "3",
+      "author": "Wang Q.",
+      "year": "2009",
+      "journal-title": "Journal of College of Chinese Language and Culture of Jinan University"
+    },
+    {
+      "key": "CIT0086",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/01434630802147908"
+    },
+    {
+      "key": "CIT0087",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.14221/ajte.2013v38n9.8"
+    },
+    {
+      "key": "CIT0133",
+      "first-page": "95",
+      "volume": "3",
+      "author": "Wen B.",
+      "year": "2010",
+      "journal-title": "Chinese Language Learning"
+    },
+    {
+      "key": "CIT0088",
+      "first-page": "538",
+      "volume": "4",
+      "author": "Wen X.",
+      "year": "2011",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0089",
+      "first-page": "88",
+      "volume": "4",
+      "author": "Wu Y.",
+      "year": "2008",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0090",
+      "first-page": "58",
+      "volume": "2",
+      "author": "Wu Y.",
+      "year": "2006",
+      "journal-title": "Chinese Language Learning"
+    },
+    {
+      "key": "CIT0091",
+      "first-page": "11",
+      "volume": "3",
+      "author": "Wu M.",
+      "year": "2012",
+      "journal-title": "Teaching Chinese to Speakers of Other Languages Studies"
+    },
+    {
+      "key": "CIT0092",
+      "first-page": "64",
+      "volume": "6",
+      "author": "Wu M.",
+      "year": "2006",
+      "journal-title": "Language Teaching and Linguistic Studies"
+    },
+    {
+      "key": "CIT0093",
+      "first-page": "125",
+      "volume": "4",
+      "author": "Wu Y.",
+      "year": "2008",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0094",
+      "first-page": "37",
+      "volume": "1",
+      "author": "Xiao P.",
+      "year": "2013",
+      "journal-title": "Teaching Chinese to Speakers of Other Languages Studies"
+    },
+    {
+      "key": "CIT0095",
+      "first-page": "17",
+      "volume": "2",
+      "author": "Xie F.",
+      "year": "2010",
+      "journal-title": "Language Teaching and Linguistic Studies"
+    },
+    {
+      "key": "CIT0096",
+      "first-page": "106",
+      "volume": "2",
+      "author": "Xu L.",
+      "year": "2007",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0098",
+      "first-page": "8",
+      "volume": "3",
+      "author": "Xu X.",
+      "year": "2014",
+      "journal-title": "Teaching Chinese to Speakers of Other Languages Studies"
+    },
+    {
+      "key": "CIT0099",
+      "first-page": "102",
+      "volume": "4",
+      "author": "Yang H.",
+      "year": "2005",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0100",
+      "first-page": "116",
+      "volume": "4",
+      "author": "Yang L.",
+      "year": "2006",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0101",
+      "first-page": "568",
+      "volume": "4",
+      "author": "Yang H.",
+      "year": "2010",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0102",
+      "first-page": "9",
+      "volume": "1",
+      "author": "Yao D.",
+      "year": "2014",
+      "journal-title": "Teaching Chinese to Speakers of Other Languages Studies"
+    },
+    {
+      "key": "CIT0103",
+      "first-page": "38",
+      "volume": "4",
+      "author": "Yu Z.",
+      "year": "2012",
+      "journal-title": "Language Teaching and Linguistic Studies"
+    },
+    {
+      "key": "CIT0104",
+      "first-page": "27",
+      "volume": "4",
+      "author": "Yuan L.",
+      "year": "2009",
+      "journal-title": "Journal of College of Chinese Language and Culture of Jinan University"
+    },
+    {
+      "key": "CIT0134",
+      "first-page": "13",
+      "volume": "1",
+      "author": "Zha Y.",
+      "year": "2014",
+      "journal-title": "Language Teaching and Linguistic Studies"
+    },
+    {
+      "key": "CIT0105",
+      "volume-title": "Modern Chinese Character Tutorial",
+      "author": "Zhang J.",
+      "year": "1992"
+    },
+    {
+      "key": "CIT0106",
+      "first-page": "55",
+      "volume": "3",
+      "author": "Zhang L.",
+      "year": "2006",
+      "journal-title": "Language Teaching and Linguistic Studies"
+    },
+    {
+      "key": "CIT0107",
+      "first-page": "17",
+      "volume": "4",
+      "author": "Zhang X.",
+      "year": "2008",
+      "journal-title": "Journal of College of Chinese Language and Culture of Jinan University"
+    },
+    {
+      "key": "CIT0108",
+      "first-page": "22",
+      "volume": "1",
+      "author": "Zhang J.",
+      "year": "2008",
+      "journal-title": "Journal of College of Chinese Language and Culture of Jinan University"
+    },
+    {
+      "key": "CIT0109",
+      "first-page": "6",
+      "volume": "3",
+      "author": "Zhang L.",
+      "year": "2015",
+      "journal-title": "Teaching Chinese to Speakers of Other Languages Studies"
+    },
+    {
+      "key": "CIT0110",
+      "first-page": "114",
+      "volume": "4",
+      "author": "Zhang L.",
+      "year": "2008",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0111",
+      "first-page": "64",
+      "volume": "3",
+      "author": "Zhao L.",
+      "year": "2008",
+      "journal-title": "Language Teaching and Linguistic Studies"
+    },
+    {
+      "key": "CIT0113",
+      "first-page": "117",
+      "volume": "1",
+      "author": "Zhao W.",
+      "year": "2013",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0114",
+      "first-page": "393",
+      "volume": "3",
+      "author": "Zheng L.",
+      "year": "2015",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0135",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3138/jsp.48.1.1"
+    },
+    {
+      "key": "CIT0115",
+      "first-page": "268",
+      "volume": "2",
+      "author": "Zhou X.",
+      "year": "2013",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0116",
+      "first-page": "1",
+      "volume": "5",
+      "author": "Zhou X.",
+      "year": "2010",
+      "journal-title": "Language Teaching and Linguistic Studies"
+    },
+    {
+      "key": "CIT0117",
+      "first-page": "70",
+      "volume": "2",
+      "author": "Zhou J.",
+      "year": "2007",
+      "journal-title": "Chinese Language Learning"
+    },
+    {
+      "key": "CIT0118",
+      "first-page": "70",
+      "volume": "3",
+      "author": "Zhu Q.",
+      "year": "2007",
+      "journal-title": "Chinese Language Learning"
+    },
+    {
+      "key": "CIT0119",
+      "first-page": "254",
+      "volume": "2",
+      "author": "Zong S.",
+      "year": "2012",
+      "journal-title": "Chinese Teaching in the World"
+    },
+    {
+      "key": "CIT0120",
+      "first-page": "93",
+      "volume": "1",
+      "author": "Zu X.",
+      "year": "2008",
+      "journal-title": "Chinese Language Learning"
+    }
+  ],
+  "container-title": [
+    "Journal of Multilingual and Multicultural Development"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.tandfonline.com/doi/pdf/10.1080/01434632.2016.1268146",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2017,
+        9,
+        29
+      ]
+    ],
+    "date-time": "2017-09-29T06:36:05Z",
+    "timestamp": 1506666965000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.tandfonline.com/doi/full/10.1080/01434632.2016.1268146"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2017,
+        1,
+        17
+      ]
+    ]
+  },
+  "references-count": 120,
+  "journal-issue": {
+    "issue": "9",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          18
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          21
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1080/01434632.2016.1268146"
+  ],
+  "URL": "https://doi.org/10.1080/01434632.2016.1268146",
+  "relation": {},
+  "ISSN": [
+    "0143-4632",
+    "1747-7557"
+  ],
+  "issn-type": [
+    {
+      "value": "0143-4632",
+      "type": "print"
+    },
+    {
+      "value": "1747-7557",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2017,
+        1,
+        17
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+      "order": 1,
+      "name": "peerreview_statement",
+      "label": "Peer Review Statement"
+    },
+    {
+      "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rmmm20",
+      "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rmmm20",
+      "order": 2,
+      "name": "aims_and_scope_url",
+      "label": "Aim & Scope"
+    }
+  ]
+}

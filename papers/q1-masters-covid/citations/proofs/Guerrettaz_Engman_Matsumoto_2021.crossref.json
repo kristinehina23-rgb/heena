@@ -1,0 +1,686 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        10
+      ]
+    ],
+    "date-time": "2026-07-10T04:57:36Z",
+    "timestamp": 1783659456916,
+    "version": "3.55.0"
+  },
+  "reference-count": 72,
+  "publisher": "Wiley",
+  "issue": "S1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            3,
+            11
+          ]
+        ],
+        "date-time": "2021-03-11T00:00:00Z",
+        "timestamp": 1615420800000
+      },
+      "content-version": "vor",
+      "delay-in-days": 69,
+      "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "onlinelibrary.wiley.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "The Modern Language Journal"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2021,
+        1
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Language learning and teaching (LLT) materials—like teacher‐created handouts, textbooks, and overhead transparencies—are central elements of language classrooms worldwide. Nonetheless, how language students and teachers actually engage with and deploy LLT materials has rarely been the focus of research. In response, this issue offers the first compilation of classroom‐based studies of ‘materials use’ in language education and includes research on Ojibwe, Japanese, French, and English language pedagogy. In this introductory article to the special issue, we set the stage for the 7 empirical articles by offering much‐needed definitions for the concepts of ‘LLT materials’ and ‘materials use.’ These definitions are based on a metasynthesis (i.e., an integrative qualitative analysis) of all of the materials used throughout the 7 empirical articles. Additionally, we explore sociomaterialism as a compelling and well‐suited framework for the study of materials in use. Sociomaterialism is not a unified theory but rather a research orientation that seeks to examine connections between the social and the material world. In addition to substantively and theoretically advancing the field, all the articles of this special issue also have practical implications for language pedagogy.</jats:p>",
+  "DOI": "10.1111/modl.12691",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2021,
+        3,
+        11
+      ]
+    ],
+    "date-time": "2021-03-11T08:50:27Z",
+    "timestamp": 1615452627000
+  },
+  "page": "3-20",
+  "update-policy": "https://doi.org/10.1002/crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 86,
+  "title": [
+    "Empirically Defining Language Learning and Teaching Materials in Use Through Sociomaterial Perspectives"
+  ],
+  "prefix": "10.1111",
+  "volume": "105",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0003-2369-735X",
+      "authenticated-orcid": false,
+      "given": "ANNE MARIE",
+      "family": "GUERRETTAZ",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Washington State University, College of Education  Cleveland Hall 339, PO Box 642114 Pullman WA 99164"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4949-1176",
+      "authenticated-orcid": false,
+      "given": "MEL M.",
+      "family": "ENGMAN",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Queen's University Belfast, School of Social Sciences, Education and Social Work  Belfast BT7 1JT United Kingdom"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-6440-6400",
+      "authenticated-orcid": false,
+      "given": "YUMI",
+      "family": "MATSUMOTO",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of Pennsylvania, Graduate School of Education Educational Linguistics Division  3700 Walnut Street Philadelphia PA 19104"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "311",
+  "published-online": {
+    "date-parts": [
+      [
+        2021,
+        3,
+        11
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_2_7_2_1",
+      "first-page": "113",
+      "volume-title": "Theorizing and analyzing agency in second language learning: Interdisciplinary approaches",
+      "author": "Bagga–Gupta S.",
+      "year": "2015"
+    },
+    {
+      "key": "e_1_2_7_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/j.ctv12101zq"
+    },
+    {
+      "key": "e_1_2_7_4_1",
+      "first-page": "21281",
+      "article-title": "Capturing the sociomateriality of digital literacy events",
+      "volume": "21",
+      "author": "Bhatt I.",
+      "year": "2013",
+      "journal-title": "Research in Learning Technology"
+    },
+    {
+      "key": "e_1_2_7_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/3587398"
+    },
+    {
+      "key": "e_1_2_7_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/modl.12464"
+    },
+    {
+      "key": "e_1_2_7_7_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/applin/amx041"
+    },
+    {
+      "key": "e_1_2_7_8_1",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1093/acref/9780191800986.001.0001",
+      "volume-title": "A dictionary of media and communication",
+      "author": "Chandler D.",
+      "year": "2016"
+    },
+    {
+      "key": "e_1_2_7_9_1",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1093/acref/9780191800986.001.0001",
+      "volume-title": "A dictionary of media and communication",
+      "author": "Chandler D.",
+      "year": "2016"
+    },
+    {
+      "key": "e_1_2_7_10_1",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1093/acref/9780191800986.001.0001",
+      "volume-title": "A dictionary of media and communication",
+      "author": "Chandler D.",
+      "year": "2016"
+    },
+    {
+      "key": "e_1_2_7_11_1",
+      "volume-title": "Love Actually [Motion picture",
+      "author": "Curtis R.",
+      "year": "2003"
+    },
+    {
+      "key": "e_1_2_7_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4324/9781315743769"
+    },
+    {
+      "key": "e_1_2_7_13_1",
+      "volume-title": "Theorizing and analyzing agency in second language learning: Interdisciplinary approaches",
+      "author": "Deters P.",
+      "year": "2015"
+    },
+    {
+      "key": "e_1_2_7_14_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/modl.12301"
+    },
+    {
+      "key": "e_1_2_7_15_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/modl.12685"
+    },
+    {
+      "key": "e_1_2_7_16_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/acprof:oso/9780190457204.003.0002"
+    },
+    {
+      "key": "e_1_2_7_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/acprof:oso/9780190457204.001.0001"
+    },
+    {
+      "key": "e_1_2_7_18_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4135/9781473915213.n8"
+    },
+    {
+      "key": "e_1_2_7_19_1",
+      "volume-title": "Emerging approaches to educational research: Tracing the socio‐material",
+      "author": "Fenwick T.",
+      "year": "2011"
+    },
+    {
+      "key": "e_1_2_7_20_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/modl.12094"
+    },
+    {
+      "key": "e_1_2_7_21_1",
+      "first-page": "88",
+      "volume-title": "Innovating strategy processes",
+      "author": "Garud R.",
+      "year": "2009"
+    },
+    {
+      "key": "e_1_2_7_22_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/10350330.2015.1059578"
+    },
+    {
+      "key": "e_1_2_7_23_1",
+      "volume-title": "Exploring the use of video‐based materials in the Japanese university English language classroom",
+      "author": "Grandon M.",
+      "year": "2018"
+    },
+    {
+      "key": "e_1_2_7_24_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1057/9781137384263"
+    },
+    {
+      "key": "e_1_2_7_25_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/modl.12690"
+    },
+    {
+      "key": "e_1_2_7_26_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1540-4781.2013.12027.x"
+    },
+    {
+      "key": "e_1_2_7_27_1",
+      "first-page": "37",
+      "article-title": "Materials use and development: Synergetic processes and research prospects",
+      "volume": "18",
+      "author": "Guerrettaz A. M.",
+      "year": "2018",
+      "journal-title": "Folio"
+    },
+    {
+      "key": "e_1_2_7_28_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1057/9781137276285"
+    },
+    {
+      "key": "e_1_2_7_29_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/modl.12683"
+    },
+    {
+      "key": "e_1_2_7_30_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/modl.12689"
+    },
+    {
+      "key": "e_1_2_7_31_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/19463014.2017.1328703"
+    },
+    {
+      "key": "e_1_2_7_32_1",
+      "volume-title": "What do teachers and learners actually do with textbooks? Teacher and learner use of a fisheries‐based ELT textbook in the Philippines",
+      "author": "Hutchinson E. G.",
+      "year": "1996"
+    },
+    {
+      "key": "e_1_2_7_33_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.pragma.2015.10.001"
+    },
+    {
+      "key": "e_1_2_7_34_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/modl.12686"
+    },
+    {
+      "key": "e_1_2_7_35_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3389/fpsyt.2017.00269"
+    },
+    {
+      "key": "e_1_2_7_36_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/modl.12097"
+    },
+    {
+      "key": "e_1_2_7_37_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1467-954X.1999.tb03479.x"
+    },
+    {
+      "key": "e_1_2_7_38_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/modl.12550"
+    },
+    {
+      "key": "e_1_2_7_39_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/modl.12452"
+    },
+    {
+      "key": "e_1_2_7_40_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/modl.12547"
+    },
+    {
+      "key": "e_1_2_7_41_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/modl.12688"
+    },
+    {
+      "key": "e_1_2_7_42_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/02660830.2014.11661667"
+    },
+    {
+      "key": "e_1_2_7_43_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1515/multi-2012-0020"
+    },
+    {
+      "key": "e_1_2_7_44_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1515/9780748691371"
+    },
+    {
+      "key": "e_1_2_7_45_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/modl.12098"
+    },
+    {
+      "key": "e_1_2_7_46_1",
+      "unstructured": "MUSE International. (2019).April 2019 meeting [Minutes]. Accessed 8 December 2020 athttps://museinternational.wordpress.com/2019/04/02/april-2019-meeting/"
+    },
+    {
+      "key": "e_1_2_7_47_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1075/z.186"
+    },
+    {
+      "key": "e_1_2_7_48_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4135/9781412985000"
+    },
+    {
+      "key": "e_1_2_7_49_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1558/lst.31492"
+    },
+    {
+      "key": "e_1_2_7_50_1",
+      "first-page": "159",
+      "article-title": "What happens to textbooks in the classroom? Pupils’ access to literacy in an urban primary school in Ghana. Pedagogy",
+      "volume": "18",
+      "author": "Opoku–Amankwa K",
+      "year": "2010",
+      "journal-title": "Culture & Society"
+    },
+    {
+      "key": "e_1_2_7_51_1",
+      "article-title": "Use",
+      "author": "Oxford University Press",
+      "year": "2020",
+      "journal-title": "Lexico.com"
+    },
+    {
+      "key": "e_1_2_7_52_1",
+      "first-page": "445",
+      "article-title": "Posthumanist applied linguistics",
+      "volume": "39",
+      "author": "Pennycook A.",
+      "year": "2018",
+      "journal-title": "Applied Linguistics"
+    },
+    {
+      "key": "e_1_2_7_53_1",
+      "first-page": "119",
+      "article-title": "Built‐in learner participation potential of locally‐ and globally‐designed ELT materials",
+      "volume": "35",
+      "author": "Pourhaji M.",
+      "year": "2016",
+      "journal-title": "Journal of Teaching Language Skills"
+    },
+    {
+      "key": "e_1_2_7_54_1",
+      "unstructured": "Random House. (2021).Environment.Dictionary.com. Accessed on 14 January 2021 athttps://www.dictionary.com/browse/environmental"
+    },
+    {
+      "key": "e_1_2_7_55_1",
+      "first-page": "1",
+      "article-title": "The new materialisms and Indigenous theories of non‐human agency: Making the case for respectful anti‐colonial engagement",
+      "volume": "5",
+      "author": "Rosiek J. L.",
+      "year": "2019",
+      "journal-title": "Qualitative Inquiry"
+    },
+    {
+      "key": "e_1_2_7_56_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1057/9780230523470_12"
+    },
+    {
+      "key": "e_1_2_7_57_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/acprof:oso/9780190457204.003.0024"
+    },
+    {
+      "key": "e_1_2_7_58_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4324/9780203422724"
+    },
+    {
+      "key": "e_1_2_7_59_1",
+      "first-page": "107",
+      "volume-title": "L2 learning as social practice: Conversation‐analytic perspectives",
+      "author": "Seo M.–S.",
+      "year": "2011"
+    },
+    {
+      "key": "e_1_2_7_60_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/modl.12684"
+    },
+    {
+      "key": "e_1_2_7_61_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1086/656196"
+    },
+    {
+      "key": "e_1_2_7_62_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/modl.12093"
+    },
+    {
+      "key": "e_1_2_7_63_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/modl.12687"
+    },
+    {
+      "key": "e_1_2_7_64_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4135/9781446282243.n33"
+    },
+    {
+      "key": "e_1_2_7_65_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/johs.12124"
+    },
+    {
+      "key": "e_1_2_7_66_1",
+      "first-page": "95",
+      "volume-title": "Developing materials for language teaching",
+      "author": "Tomlinson B.",
+      "year": "2003"
+    },
+    {
+      "key": "e_1_2_7_67_1",
+      "volume-title": "Applied linguistics and materials development",
+      "author": "Tomlinson B.",
+      "year": "2013"
+    },
+    {
+      "key": "e_1_2_7_68_1",
+      "first-page": "4",
+      "article-title": "Text‐driven approaches to task‐based language teaching",
+      "volume": "18",
+      "author": "Tomlinson B.",
+      "year": "2018",
+      "journal-title": "Folio"
+    },
+    {
+      "key": "e_1_2_7_69_1",
+      "volume-title": "The complete guide to the theory and practice of materials development for language learning",
+      "author": "Tomlinson B.",
+      "year": "2018"
+    },
+    {
+      "key": "e_1_2_7_70_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/applin/amy046"
+    },
+    {
+      "key": "e_1_2_7_71_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/09500782.2015.1006643"
+    },
+    {
+      "key": "e_1_2_7_72_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/tesq.236"
+    },
+    {
+      "key": "e_1_2_7_73_1",
+      "first-page": "51",
+      "article-title": "Nonhumans unbound: Actor‐network theory and the reconsideration of “things” in educational foundations",
+      "volume": "20",
+      "author": "Waltz S. B.",
+      "year": "2006",
+      "journal-title": "Journal of Educational Foundations"
+    }
+  ],
+  "container-title": [
+    "The Modern Language Journal"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/modl.12691",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/modl.12691",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/modl.12691",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        8,
+        30
+      ]
+    ],
+    "date-time": "2023-08-30T18:21:13Z",
+    "timestamp": 1693419673000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://onlinelibrary.wiley.com/doi/10.1111/modl.12691"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        1
+      ]
+    ]
+  },
+  "references-count": 72,
+  "journal-issue": {
+    "issue": "S1",
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          1
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1111/modl.12691"
+  ],
+  "URL": "https://doi.org/10.1111/modl.12691",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "0026-7902",
+    "1540-4781"
+  ],
+  "issn-type": [
+    {
+      "value": "0026-7902",
+      "type": "print"
+    },
+    {
+      "value": "1540-4781",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2021,
+        1
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2020-12-15",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2020-12-15",
+      "order": 1,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2021-03-11",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

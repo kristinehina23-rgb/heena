@@ -1,0 +1,500 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        19
+      ]
+    ],
+    "date-time": "2026-08-19T20:06:34Z",
+    "timestamp": 1787169994508,
+    "version": "3.56.0"
+  },
+  "reference-count": 45,
+  "publisher": "Wiley",
+  "issue": "2",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            2,
+            17
+          ]
+        ],
+        "date-time": "2026-02-17T00:00:00Z",
+        "timestamp": 1771286400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            2,
+            17
+          ]
+        ],
+        "date-time": "2026-02-17T00:00:00Z",
+        "timestamp": 1771286400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100012325",
+      "name": "National Office for Philosophy and Social Sciences",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "18CSH011"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "18CSH011"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100012325",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "onlinelibrary.wiley.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Population Space and Place"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2026,
+        3
+      ]
+    ]
+  },
+  "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>China's rise as an education hub introduces a new dynamic to the current framework for understanding international academic mobility. This paper presents longitudinal case studies of Pakistani PhD students and recent graduates in China, comparing their imagined mobility in 2019 with their actual trajectories by 2023. Using a time‐sensitive approach, this study unpacks the individual‐institutional temporal entanglement against the macro‐level socioeconomic changes in China and Pakistan between 2019 and 2023. Shifting from study to work, Pakistani PhD graduates face age‐based discrimination, temporary contracts and lack of permanent residency prospect in China. Meanwhile, deteriorating conditions in Pakistan's academic sector, over time, further constrained options. Despite aspirations to reach the ‘Global North’, participants experienced reversed migration decision driven by precarity rather than advancement. This study highlights the limitations within ‘South−South’ academic mobility and the difficulty for highly educated migrants to align their mobility strategies with an increasingly uncertain global socioeconomic environment.</jats:p>",
+  "DOI": "10.1002/psp.70227",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        18
+      ]
+    ],
+    "date-time": "2026-02-18T06:48:19Z",
+    "timestamp": 1771397299000
+  },
+  "update-policy": "https://doi.org/10.1002/crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "Time and Precarity in ‘South−South’ Academic Mobility: A 2019−2023 Longitudinal Study of Pakistani PhD Students and Recent Graduates in China"
+  ],
+  "prefix": "10.1002",
+  "volume": "32",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-6855-1381",
+      "authenticated-orcid": false,
+      "given": "Mengwei",
+      "family": "Tu",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Criminology, Sociology and Social Policy Swansea University Swansea UK"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "311",
+  "published-online": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        17
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "issue": "20",
+      "key": "e_1_2_7_2_1",
+      "first-page": "64",
+      "article-title": "Framing and Contesting the Dominant Global Imaginary of North‐South Relations: Identifying and Challenging Socio‐Cultural Hierarchies",
+      "author": "Alasuutari H.",
+      "year": "2015",
+      "journal-title": "Policy & Practice: A Development Education Review"
+    },
+    {
+      "key": "e_1_2_7_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1163/9789087903596_003"
+    },
+    {
+      "key": "e_1_2_7_4_1",
+      "volume-title": "Imagined Mobility: Migration and Transnationalism Among Indian Students in Australia",
+      "author": "Baas M.",
+      "year": "2012"
+    },
+    {
+      "key": "e_1_2_7_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0011392118792924"
+    },
+    {
+      "key": "e_1_2_7_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0038038521996979"
+    },
+    {
+      "key": "e_1_2_7_7_1",
+      "unstructured": "Bureau of Emigration & Overseas Employment.2024. “Statement Showing the Number of Pakistani Workers Regestered for Employment Abroad During the Period 1971‐2024 (up to July).”"
+    },
+    {
+      "key": "e_1_2_7_8_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/sjtg.12420"
+    },
+    {
+      "key": "e_1_2_7_9_1",
+      "unstructured": "China Association for International Education.2010. “Statistics of International Students in China 2010.” Retrieved September 15 2024.http://www.cafsa.org.cn/research/show-194.html."
+    },
+    {
+      "key": "e_1_2_7_10_1",
+      "unstructured": "Drzeniek M. S.Tambourgi andI.Marchese.2024. “Recover (Re)Build: Exploring Country Recovery Capacity Post‐COVID.”https://www.covidrecoveryindex.org/_files/ugd/052a61_8a7ef4e592a94c92b778001a547997ca.pdf."
+    },
+    {
+      "key": "e_1_2_7_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/1369183x.2013.723253"
+    },
+    {
+      "key": "e_1_2_7_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.46521/pjws.025.01.0053"
+    },
+    {
+      "key": "e_1_2_7_13_1",
+      "unstructured": "Hashmi S. andS.Iftekhar.2019. “The Plight of Unemployed PhD Graduates in Pakistan.” Retrieved April 20 2025.https://theasiadialogue.com/2019/03/01/the-plight-of-unemployed-phd-graduates-in-pakistan/."
+    },
+    {
+      "key": "e_1_2_7_14_1",
+      "unstructured": "Higher Education Commission.2017. “Gender and PhD/Non‐PhD Wise Full Time Faculty in HEIs for Year 2017‐18.” Retrieved March 20 2025.https://www.hec.gov.pk/english/services/students/PCD/Documents/UniversityFulltimeFaculty.pdf."
+    },
+    {
+      "key": "e_1_2_7_15_1",
+      "unstructured": "Higher Education Commission.2022. “HEC Pakistan Annual Report 2021‐22.” Retrieved April 20 2025.https://www.hec.gov.pk/english/news/AnnualReports/Annual%20Report%202021-22.pdf."
+    },
+    {
+      "key": "e_1_2_7_16_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/ejed.12514"
+    },
+    {
+      "key": "e_1_2_7_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10734-023-01176-9"
+    },
+    {
+      "key": "e_1_2_7_18_1",
+      "unstructured": "Ilieva J. P.Killingley andV.Tsiligiris.2024. “Mapping International Student Mobility From Pakistan at the Province/territory and City Level: British Council.”"
+    },
+    {
+      "issue": "2",
+      "key": "e_1_2_7_19_1",
+      "first-page": "447",
+      "article-title": "International Students Mobility: A Case of Pakistan",
+      "volume": "9",
+      "author": "Kayani F. N.",
+      "year": "2015",
+      "journal-title": "Pakistan Journal of Commerce and Social Sciences"
+    },
+    {
+      "key": "e_1_2_7_20_1",
+      "unstructured": "Khan M. A.2023. “Dire or Dying Demand for the Government Job: Analysing A PhD Holder's Future Prospects.”https://pide.org.pk/research/dire-or-dying-demand-for-the-government-job-analysing-a-phd-holders-future-prospects/."
+    },
+    {
+      "key": "e_1_2_7_21_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/hequ.12409"
+    },
+    {
+      "key": "e_1_2_7_22_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4103/jme.Jme_140_22"
+    },
+    {
+      "key": "e_1_2_7_23_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/09502386.2019.1660690"
+    },
+    {
+      "key": "e_1_2_7_24_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4103/sja.sja_549_23"
+    },
+    {
+      "key": "e_1_2_7_25_1",
+      "unstructured": "Ministry of Education China.2019. “Statistical Report on International Students in China for 2018.” Retrieved May 31 2025.http://en.moe.gov.cn/documents/reports/201904/t20190418_378692.html."
+    },
+    {
+      "key": "e_1_2_7_26_1",
+      "unstructured": "Ministry of Education China.2022. “Ministry of Education Budget 2022.” Retrieved May 31 2025.http://www.moe.gov.cn/srcsite/A05/s7499/202203/W020220324585210061715.pdf."
+    },
+    {
+      "key": "e_1_2_7_27_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/00380385211037574"
+    },
+    {
+      "key": "e_1_2_7_28_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/00380385211033729"
+    },
+    {
+      "key": "e_1_2_7_29_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/psp.1747"
+    },
+    {
+      "key": "e_1_2_7_30_1",
+      "unstructured": "Reuters.2023. “‘Curse of 35’: China's State Media Takes Aim at Ageist Hiring Policies.” Retrieved September 5 2024.https://www.reuters.com/world/china/curse-35-chinas-state-media-takes-aim-ageist-hiring-policies-2023-07-06/."
+    },
+    {
+      "key": "e_1_2_7_31_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1057/9781137474957_4"
+    },
+    {
+      "key": "e_1_2_7_32_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/1468796813504552"
+    },
+    {
+      "key": "e_1_2_7_33_1",
+      "volume-title": "Mobility Justice: The Politics of Movement in an Age of Extremes",
+      "author": "Sheller M.",
+      "year": "2018"
+    },
+    {
+      "key": "e_1_2_7_34_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10734-022-00931-8"
+    },
+    {
+      "key": "e_1_2_7_35_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/01425692.2022.2057925"
+    },
+    {
+      "key": "e_1_2_7_36_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ijer.2025.102593"
+    },
+    {
+      "key": "e_1_2_7_37_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/13607804221130362"
+    },
+    {
+      "key": "e_1_2_7_38_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/14649373.2024.2426385"
+    },
+    {
+      "key": "e_1_2_7_39_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/imig.12589"
+    },
+    {
+      "key": "e_1_2_7_40_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/1369183x.2019.1642741"
+    },
+    {
+      "key": "e_1_2_7_41_1",
+      "unstructured": "Wang B. andJ.Yeung.2023. “The ‘curse of 35’: In China Millennials Are Already Too Old for Some Employers.” Retrieved September 5 2024.https://edition.cnn.com/2023/08/26/china/35-curse-unemployment-discrimination-intl-hnk/index.html."
+    },
+    {
+      "key": "e_1_2_7_42_1",
+      "unstructured": "Xinhua News.2022. “Educational Cooperation Between Pakistan China Promotes High‐Quality CPEC Development Says Expert.” Retrieved September 20 2024.http://english.scio.gov.cn/m/beltandroad/2022-12/28/content_85030011.htm."
+    },
+    {
+      "key": "e_1_2_7_43_1",
+      "volume-title": "The Time Inheritors: How Time Inequalities Shape Higher Education Mobility in China",
+      "author": "Xu C. L.",
+      "year": "2025"
+    },
+    {
+      "key": "e_1_2_7_44_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-319-78120-4_11"
+    },
+    {
+      "key": "e_1_2_7_45_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/03057925.2020.1764334"
+    },
+    {
+      "key": "e_1_2_7_46_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/01419870.2019.1648847"
+    }
+  ],
+  "container-title": [
+    "Population, Space and Place"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/psp.70227",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/psp.70227",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/psp.70227",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        27
+      ]
+    ],
+    "date-time": "2026-03-27T05:25:33Z",
+    "timestamp": 1774589133000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://onlinelibrary.wiley.com/doi/10.1002/psp.70227"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        17
+      ]
+    ]
+  },
+  "references-count": 45,
+  "journal-issue": {
+    "issue": "2",
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          3
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1002/psp.70227"
+  ],
+  "URL": "https://doi.org/10.1002/psp.70227",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "1544-8444",
+    "1544-8452"
+  ],
+  "issn-type": [
+    {
+      "value": "1544-8444",
+      "type": "print"
+    },
+    {
+      "value": "1544-8452",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        17
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2025-11-24",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2026-02-10",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2026-02-17",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ],
+  "article-number": "e70227"
+}

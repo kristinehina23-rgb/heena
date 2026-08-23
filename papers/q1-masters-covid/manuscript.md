@@ -259,7 +259,7 @@ See `analysis/supplementary_stats.md` for full tables. Summary: female × cannot
 
 Ali, W. (2020). Online and remote learning in higher education institutes: A necessity in light of COVID-19 pandemic. *Higher Education Studies, 10*(3), 16-25. https://doi.org/10.5539/hes.v10n3p16
 
-Canagarajah, A. S. (2005). *Reclaiming the local in language policy and practice*. Lawrence Erlbaum.
+Canagarajah, A. S. (Ed.). (2005). *Reclaiming the local in language policy and practice*. Lawrence Erlbaum.
 
 Gacs, A., Goertler, S., & Spasova, S. (2020). Planned online language education versus crisis-prompted online language teaching: Lessons for the future. *Foreign Language Annals, 53*(2), 380-392. https://doi.org/10.1111/flan.12460
 
@@ -271,7 +271,7 @@ Gong, Y., Gao, X., & Lyu, B. (2020). Teaching Chinese as a second or foreign lan
 
 Guenier, A. W., Xing, M., & Yan, J. (2026). From barriers to breakthroughs: Communicating Chinese culture to Irish learners with a multimodality online course. *Language, Culture and Curriculum*. Advance online publication. https://doi.org/10.1080/07908318.2026.2626775
 
-Guerrettaz, A. M., Engman, M. M., & Matsumoto, Y. (2021). Empirically defining language learning and teaching materials in use: Holistic, situated, and dynamic perspectives. *The Modern Language Journal, 105*(S1), 3-20. https://doi.org/10.1111/modl.12691
+Guerrettaz, A. M., Engman, M. M., & Matsumoto, Y. (2021). Empirically defining language learning and teaching materials in use through sociomaterial perspectives. *The Modern Language Journal, 105*(S1), 3-20. https://doi.org/10.1111/modl.12691
 
 Helsper, E. (2021). *The digital disconnect: The social causes and consequences of digital inequalities*. SAGE.
 
@@ -287,7 +287,7 @@ Lu, X., Tan, A., Ma, Y., Feng, H., & Hanif, B. (2024). Scenario analysis of loca
 
 Ma, X., Gong, Y., Gao, X., & Xiang, Y. (2017). The teaching of Chinese as a second or foreign language: A systematic review of the literature 2005-2015. *Journal of Multilingual and Multicultural Development, 38*(9), 815-830. https://doi.org/10.1080/01434632.2016.1268146
 
-MacIntyre, P. D., Gregersen, T., & Mercer, S. (2020). Language teachers' coping strategies during the Covid-19 conversion to online teaching: Correlations with stress, wellbeing and negative emotions. *System, 94*, 102313. https://doi.org/10.1016/j.system.2020.102313
+MacIntyre, P. D., Gregersen, T., & Mercer, S. (2020). Language teachers' coping strategies during the Covid-19 conversion to online teaching: Correlations with stress, wellbeing and negative emotions. *System, 94*, Article 102352. https://doi.org/10.1016/j.system.2020.102352
 
 McDonough, J., & Shaw, C. (2003). *Materials and methods in ELT: A teacher's guide* (2nd ed.). Blackwell.
 
@@ -317,6 +317,6 @@ Xia, Y., Hu, Y., Wu, C., Yang, L., & Lei, M. (2022). Challenges of online learni
 
 Zhang, W., Wang, Y., Yang, L., & Wang, C. (2020). Suspending classes without stopping learning: China’s education emergency management policy in the COVID-19 outbreak. *Journal of Risk and Financial Management, 13*(3), 55. https://doi.org/10.3390/jrfm13030055
 
-Zhao, H., & Huang, J. (2010). China’s policy of Chinese as a foreign language and the use of overseas Confucius Institutes. *Educational Research for Policy and Practice, 9*, 127-142. https://doi.org/10.1007/s10671-009-9078-1
+Zhao, H., & Huang, J. (2010). China’s policy of Chinese as a foreign language and the use of overseas Confucius Institutes. *Educational Research for Policy and Practice, 9*(2), 127-142. https://doi.org/10.1007/s10671-009-9078-1
 
 Zhao, K. (2020). Localising Chinese language curriculum construction: A case study in an Australian primary school. *Global Chinese, 6*(2), 263-288. https://doi.org/10.1515/glochi-2020-0014

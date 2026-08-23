@@ -1,0 +1,460 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        31
+      ]
+    ],
+    "date-time": "2026-07-31T19:30:04Z",
+    "timestamp": 1785526204725,
+    "version": "3.56.0"
+  },
+  "reference-count": 45,
+  "publisher": "SAGE Publications",
+  "issue": "2",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            4,
+            25
+          ]
+        ],
+        "date-time": "2023-04-25T00:00:00Z",
+        "timestamp": 1682380800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "journals.sagepub.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "RELC Journal"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2023,
+        8
+      ]
+    ]
+  },
+  "abstract": "<jats:p>The impact of the COVID-19 pandemic has been varied, and while there was a clear upsurge in the use of technology in language and learning contexts during the worst lockdown periods, the long-term impact on technology usage remains to be seen. As has been widely noted, lockdowns forced teaching into remote modes, making technology indispensable. Many teachers found themselves struggling to use technologies with little or no experience or training, and often in spite of earlier resistance to using it. The affective barriers to using technology may have decreased somewhat, but other potential problems have arisen as well. There has generally been a narrow view about the effectiveness of technology use in language teaching and learning. During the pandemic, teaching often entailed using videoconferencing tools as a means of emulating face-to-face teaching, albeit inhibited by the limitations and the affordances of the technologies. While research into mobile learning prospered prior to the pandemic, long periods of lockdown saw them being used as little more than a backup for when other technologies experienced technical difficulties. In this paper, we discuss not only the often-cited positive effects of technology usage in language learning during COVID, but also the possible negative implications for how technology has come to be used and viewed by learners, teachers, and administrators. Suggestions for a potential way forward in this ‘aftermath’ of the pandemic are discussed, along with some guidelines for making the most of what we have learned about using technology for language learning in the future.</jats:p>",
+  "DOI": "10.1177/00336882231168438",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        4,
+        26
+      ]
+    ],
+    "date-time": "2023-04-26T02:38:03Z",
+    "timestamp": 1682476683000
+  },
+  "page": "474-482",
+  "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 24,
+  "title": [
+    "Exploring the Challenges of Technology in Language Teaching in the Aftermath of the Pandemic"
+  ],
+  "prefix": "10.1177",
+  "volume": "54",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-6420-3788",
+      "authenticated-orcid": false,
+      "given": "Glenn",
+      "family": "Stockwell",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Waseda University, Tokyo, Japan"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-6876-5427",
+      "authenticated-orcid": false,
+      "given": "Yijen",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Graduate School of International Culture and Communication Studies, School of International Liberal Studies, Waseda University, Tokyo, Japan"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "179",
+  "published-online": {
+    "date-parts": [
+      [
+        2023,
+        4,
+        25
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "bibr1-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/elt/ccab074"
+    },
+    {
+      "key": "bibr2-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ajp.2021.102867"
+    },
+    {
+      "key": "bibr3-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jebo.2020.12.004"
+    },
+    {
+      "key": "bibr4-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/elt/ccab073"
+    },
+    {
+      "key": "bibr5-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/ece3.7123"
+    },
+    {
+      "key": "bibr6-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/09588221.2019.1572018"
+    },
+    {
+      "key": "bibr7-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0033688220981784"
+    },
+    {
+      "issue": "1",
+      "key": "bibr8-00336882231168438",
+      "first-page": "35",
+      "volume": "2",
+      "author": "Dabrowski A",
+      "year": "2021",
+      "journal-title": "Social Education Research"
+    },
+    {
+      "key": "bibr9-00336882231168438",
+      "volume-title": "Teacher Education around the World: Changing Policies and Practices",
+      "author": "Darling-Hammond L",
+      "year": "2012"
+    },
+    {
+      "key": "bibr10-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/BF02299597"
+    },
+    {
+      "key": "bibr11-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0033688220981778"
+    },
+    {
+      "issue": "549653",
+      "key": "bibr12-00336882231168438",
+      "first-page": "1",
+      "volume": "11",
+      "author": "Gao LX",
+      "year": "2020",
+      "journal-title": "Frontiers in Psychology"
+    },
+    {
+      "key": "bibr13-00336882231168438",
+      "unstructured": "Hodge R (2020) Using zoom while working from home? Here are the privacy risks to watch out for. CNET, 2 April. Available at: https://www.sfgate.com/cnet/article/Using-Zoom-while-working-from-home-Here-are-the-15165641.php (accessed 13 April 2023)."
+    },
+    {
+      "key": "bibr14-00336882231168438",
+      "unstructured": "Hodges CB, Moore S, Lockee BB, et al. (2020) The difference between emergency remote teaching and online learning. Available at: https://er.educause.edu/articles/2020/3/the-difference-between-emergency-remote-teaching-and-online-learning (accessed 19 October 2022)."
+    },
+    {
+      "key": "bibr15-00336882231168438",
+      "volume-title": "Interaction, Language Use, and Second Language Teaching",
+      "author": "Huth T",
+      "year": "2021"
+    },
+    {
+      "key": "bibr16-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.chb.2021.106713"
+    },
+    {
+      "key": "bibr17-00336882231168438",
+      "unstructured": "Irish Universities Association (IUA) (2020) Academic integrity in online assessment. Available at: www.iua.ie/publications/academic-integrity-in-online-assessment (accessed 20 Feb 2023)."
+    },
+    {
+      "key": "bibr18-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1186/s40862-022-00159-0"
+    },
+    {
+      "key": "bibr19-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.caeo.2021.100055"
+    },
+    {
+      "key": "bibr46-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ssaho.2022.100253"
+    },
+    {
+      "key": "bibr20-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.31763/jsse.v1i1.5"
+    },
+    {
+      "key": "bibr45-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/10447318.2022.2080154"
+    },
+    {
+      "key": "bibr21-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/02602938.2014.956683"
+    },
+    {
+      "key": "bibr22-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10639-021-10486-3"
+    },
+    {
+      "key": "bibr23-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/elt/ccac050"
+    },
+    {
+      "key": "bibr24-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0033688220985274"
+    },
+    {
+      "key": "bibr25-00336882231168438",
+      "volume-title": "Sustainability of Blended Language Learning Programs",
+      "author": "Palikat CN",
+      "year": "2022"
+    },
+    {
+      "key": "bibr26-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0360-1315(01)00045-8"
+    },
+    {
+      "key": "bibr44-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/01587919.2020.1821605"
+    },
+    {
+      "key": "bibr27-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/2347631120983481"
+    },
+    {
+      "key": "bibr28-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/1475939X.2018.1483265"
+    },
+    {
+      "key": "bibr29-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.17002/sil..64.202207.143"
+    },
+    {
+      "key": "bibr30-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.chb.2021.106794"
+    },
+    {
+      "key": "bibr31-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ijedro.2021.100079"
+    },
+    {
+      "key": "bibr43-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3390/ijerph18157956"
+    },
+    {
+      "key": "bibr32-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.29140/ajal.v3n1.271"
+    },
+    {
+      "key": "bibr33-00336882231168438",
+      "doi-asserted-by": "crossref",
+      "volume-title": "Computer Assisted Language Learning: Diversity in Research & Practice",
+      "author": "Stockwell G",
+      "DOI": "10.1017/CBO9781139060981"
+    },
+    {
+      "key": "bibr34-00336882231168438",
+      "doi-asserted-by": "crossref",
+      "volume-title": "Mobile-Assisted Language Learning: Concepts, Contexts, and Challenges",
+      "author": "Stockwell G",
+      "DOI": "10.1017/9781108652087"
+    },
+    {
+      "issue": "2",
+      "key": "bibr35-00336882231168438",
+      "first-page": "4",
+      "volume": "22",
+      "author": "Tafazoli D",
+      "year": "2021",
+      "journal-title": "CALL-EJ"
+    },
+    {
+      "key": "bibr36-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.compedu.2014.11.009"
+    },
+    {
+      "key": "bibr37-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4324/9781315296135-16"
+    },
+    {
+      "key": "bibr38-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5040/9781474285568"
+    },
+    {
+      "key": "bibr39-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4102/the.v6i0.132"
+    },
+    {
+      "key": "bibr40-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.29140/jaltcall.v17n1.377"
+    },
+    {
+      "key": "bibr41-00336882231168438",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/2372966X.2021.1903815"
+    }
+  ],
+  "container-title": [
+    "RELC Journal"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://journals.sagepub.com/doi/pdf/10.1177/00336882231168438",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/00336882231168438",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://journals.sagepub.com/doi/pdf/10.1177/00336882231168438",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        1
+      ]
+    ],
+    "date-time": "2026-05-01T09:47:27Z",
+    "timestamp": 1777628847000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://journals.sagepub.com/doi/10.1177/00336882231168438"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        4,
+        25
+      ]
+    ]
+  },
+  "references-count": 45,
+  "journal-issue": {
+    "issue": "2",
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          8
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1177/00336882231168438"
+  ],
+  "URL": "https://doi.org/10.1177/00336882231168438",
+  "relation": {},
+  "ISSN": [
+    "0033-6882",
+    "1745-526X"
+  ],
+  "issn-type": [
+    {
+      "value": "0033-6882",
+      "type": "print"
+    },
+    {
+      "value": "1745-526X",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2023,
+        4,
+        25
+      ]
+    ]
+  }
+}

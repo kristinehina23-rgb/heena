@@ -1,0 +1,809 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        1
+      ]
+    ],
+    "date-time": "2026-08-01T03:23:12Z",
+    "timestamp": 1785554592572,
+    "version": "3.56.0"
+  },
+  "reference-count": 82,
+  "publisher": "Cambridge University Press (CUP)",
+  "issue": "1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            1,
+            3
+          ]
+        ],
+        "date-time": "2020-01-03T00:00:00Z",
+        "timestamp": 1578009600000
+      },
+      "content-version": "unspecified",
+      "delay-in-days": 2,
+      "URL": "https://www.cambridge.org/core/terms"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Lang. Teach."
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2020,
+        1
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>This review involved 60 articles chosen from 336 empirical studies identified in five leading journals on the learning and teaching of Chinese as a second or foreign language in mainland China during the period 2014–2018. The selected studies document Chinese researchers' efforts to improve the teaching and learning of the Chinese language in terms of language pedagogy, language learning and teacher development. We contend that these studies on the teaching and learning of Chinese as a second or foreign language (CSL/CFL) can contribute to the advancement of second/foreign language education theories even though they were largely conducted to address local needs and interests in the Chinese context. Unfortunately, the impact of these studies on international language education research and pedagogical development remains limited and peripheral. For this reason, this review concludes with recommendations for Chinese researchers and journal editors in the field of Chinese language teaching and learning research on how to promote quality empirical research and enhance their contributions to second/foreign language education research.</jats:p>",
+  "DOI": "10.1017/s0261444819000387",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        1,
+        3
+      ]
+    ],
+    "date-time": "2020-01-03T06:56:20Z",
+    "timestamp": 1578034580000
+  },
+  "page": "44-62",
+  "source": "Crossref",
+  "is-referenced-by-count": 146,
+  "title": [
+    "Teaching Chinese as a second or foreign language to non-Chinese learners in mainland China (2014–2018)"
+  ],
+  "prefix": "10.1017",
+  "volume": "53",
+  "author": [
+    {
+      "given": "Yang (Frank)",
+      "family": "Gong",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Xuesong (Andy)",
+      "family": "Gao",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Boning",
+      "family": "Lyu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "56",
+  "published-online": {
+    "date-parts": [
+      [
+        2020,
+        1,
+        3
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "S0261444819000387_ref82",
+      "first-page": "9",
+      "article-title": "模因論在對外漢語課堂教學中的應用研究 [A study of the application of Memetics in TCFL]",
+      "volume": "4",
+      "author": "Zhou",
+      "year": "2014",
+      "journal-title": "語言教學與研究 [Language Teaching and Linguistic Studies]"
+    },
+    {
+      "key": "S0261444819000387_ref79",
+      "first-page": "368",
+      "article-title": "來華留學預科生漢語口語水準調查及其教學啟示 [An Investigation into Chinese Spoken Language Proficiency for Preparatory Students in China]",
+      "volume": "30",
+      "author": "Zhao",
+      "year": "2016",
+      "journal-title": "世界漢語教學 [Chinese Teaching in the World]"
+    },
+    {
+      "key": "S0261444819000387_ref78",
+      "first-page": "27",
+      "article-title": "基於語料庫和統計的華語三音詞考察分析 [A corpus-based statistical analysis of three-syllable vocabulary in the Chinese language used overseas]",
+      "volume": "2",
+      "author": "Zhao",
+      "year": "2018",
+      "journal-title": "語言文字應用 [Applied Linguistics]"
+    },
+    {
+      "key": "S0261444819000387_ref77",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10671-009-9078-1"
+    },
+    {
+      "key": "S0261444819000387_ref75",
+      "first-page": "19",
+      "article-title": "初級漢語課堂教師更正性回饋與學生理解回應有效互動研究 [A study of the effective interaction between corrective feedback and uptake in elementary Chinese classrooms]",
+      "volume": "58",
+      "author": "Zhang",
+      "year": "2015",
+      "journal-title": "華文教學與研究 [TCSOL Studies]"
+    },
+    {
+      "key": "S0261444819000387_ref72",
+      "first-page": "6",
+      "article-title": "美國大學生漢語學習動機與成績的相關分析——以美國哥倫比亞大學學生為例 [An investigation into American college students’ motivation for Chinese learning: Based on the study of Chinese learners at Columbia University in the USA.]",
+      "volume": "59",
+      "author": "Zhang",
+      "year": "2015",
+      "journal-title": "華文教學與研究 [TCSOL Studies]"
+    },
+    {
+      "key": "S0261444819000387_ref70",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.system.2018.10.014"
+    },
+    {
+      "key": "S0261444819000387_ref69",
+      "first-page": "24",
+      "article-title": "漢語語音教學中教師策略性知識的發展研究 [A study on the development of teachers’ strategic knowledge in Chinese phonetic teaching]",
+      "volume": "66",
+      "author": "Yan",
+      "year": "2017",
+      "journal-title": "華文教學與研究 [TCSOL Studies]"
+    },
+    {
+      "key": "S0261444819000387_ref68",
+      "first-page": "96",
+      "article-title": "對韓韻母教學難度序列及其教學策略 [The difficulty sequence of teaching Chinese finals to the Korean and teaching strategies]",
+      "volume": "2",
+      "author": "Xuan",
+      "year": "2018",
+      "journal-title": "漢語學習 [Chinese Language Learning]"
+    },
+    {
+      "key": "S0261444819000387_ref67",
+      "first-page": "40",
+      "article-title": "後方法時代的教師研究：不同認知風格的漢語 教師在課堂教學策略運用上的差異 [Teacher research in the post-method era: Different applications of classroom teaching strategies for CSL/CFL teachers with different cognitive styles]",
+      "volume": "2",
+      "author": "Wu",
+      "year": "2016",
+      "journal-title": "語言教學與研究 [Language Teaching and Linguistic Studies]"
+    },
+    {
+      "key": "S0261444819000387_ref64",
+      "first-page": "395",
+      "article-title": "漢字認讀在漢語二語者入學分班測試中的應用—建構簡易漢語能力鑒別指標的實證研究 [Application of Chinese character identification in placement tests for CSL learners: An empirical study of constructing simple Chinese proficiency indicators]",
+      "volume": "31",
+      "author": "Wu",
+      "year": "2017",
+      "journal-title": "世界漢語教學 [Chinese Teaching in the World]"
+    },
+    {
+      "key": "S0261444819000387_ref61",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/00207596708247220"
+    },
+    {
+      "key": "S0261444819000387_ref57",
+      "first-page": "94",
+      "article-title": "漢語二語者詞彙豐富性與寫作成績的相關性——兼論測量寫作品質的多元線性回歸模型及方程 [The correlation between lexical richness and writing score of CSL learners: The multivariable linear regression model and equation of writing quality]",
+      "volume": "2",
+      "author": "Wang",
+      "year": "2017",
+      "journal-title": "語言文字應用 [Applied Linguistics]"
+    },
+    {
+      "key": "S0261444819000387_ref56",
+      "doi-asserted-by": "crossref",
+      "first-page": "380",
+      "DOI": "10.1080/01434630802147908",
+      "article-title": "English language education in China: A review of selected research",
+      "volume": "29",
+      "author": "Wang",
+      "year": "2008",
+      "journal-title": "Journal of Multilingual and Multicultural Development"
+    },
+    {
+      "key": "S0261444819000387_ref55",
+      "first-page": "95",
+      "article-title": "漢語語用教學探索 [An investigation into Chinese pragmatic teaching: A case study of “request”]",
+      "volume": "1",
+      "author": "Wang",
+      "year": "2016",
+      "journal-title": "語言文字應用 [Applied Linguistics]"
+    },
+    {
+      "key": "S0261444819000387_ref54",
+      "first-page": "377",
+      "article-title": "語義協商的效用與話步構成—基於母語者和非母語者自然語言互動的個案研究 [Effects of negotiation of meaning and turn-taking structure: A case study of naturalistic interactions between a native speaker and a non-native speaker]",
+      "volume": "29",
+      "author": "Wang",
+      "year": "2015",
+      "journal-title": "世界漢語教學 [Chinese Teaching in the World]"
+    },
+    {
+      "key": "S0261444819000387_ref53",
+      "first-page": "91",
+      "article-title": "音系認知同化與對韓漢語輔音聲母教學 [Assimilation theory and Chinese initial consonants teaching for Korean students]",
+      "volume": "5",
+      "author": "Wang",
+      "year": "2015",
+      "journal-title": "漢語學習 [Chinese Language Learning]"
+    },
+    {
+      "key": "S0261444819000387_ref52",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S1060-3743(96)90005-3"
+    },
+    {
+      "key": "S0261444819000387_ref50",
+      "first-page": "39",
+      "article-title": "日本高級漢語學習者漢語輕聲韻律習得偏誤分析 [A study of prosodic errors of Chinese neutral tone by advanced Japanese students]",
+      "volume": "56",
+      "author": "Tang",
+      "year": "2014",
+      "journal-title": "華文教學與研究 [TCSOL Studies]"
+    },
+    {
+      "key": "S0261444819000387_ref47",
+      "first-page": "22",
+      "article-title": "CSL學習者單音量度形容詞混淆的錯雜性與不平衡性 [Complexity and imbalance of confusion on the monosyllabic quantitative adjective words by CSL learners]",
+      "volume": "1",
+      "author": "Su",
+      "year": "2015",
+      "journal-title": "語言教學與研究 [Language Teaching and Linguistic Studies]"
+    },
+    {
+      "key": "S0261444819000387_ref46",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/flan.12137"
+    },
+    {
+      "key": "S0261444819000387_ref45",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/CBO9780511732942"
+    },
+    {
+      "key": "S0261444819000387_ref44",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/2342192"
+    },
+    {
+      "key": "S0261444819000387_ref41",
+      "first-page": "88",
+      "article-title": "日本留學生漢語自主學習能力調查分析 [An investigation and analysis of the autonomous Chinese language learning ability of Japanese]",
+      "volume": "4",
+      "author": "Mitsui",
+      "year": "2018",
+      "journal-title": "漢語學習 [Chinese Language Learning]"
+    },
+    {
+      "key": "S0261444819000387_ref40",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/job.4030020205"
+    },
+    {
+      "key": "S0261444819000387_ref39",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0261444809990358"
+    },
+    {
+      "key": "S0261444819000387_ref36",
+      "first-page": "91",
+      "article-title": "漢語學習者陳述句語調音高的聲學實驗分析 [Acoustic analysis of Chinese declarative sentences produced by leaners]",
+      "volume": "1",
+      "author": "Liu",
+      "year": "2014",
+      "journal-title": "漢語學習 [Chinese Language Learning]"
+    },
+    {
+      "key": "S0261444819000387_ref35",
+      "first-page": "43",
+      "article-title": "國際漢語教學中寫作方式對於寫作效果影響的個案研究 [A case study of the effect of writing method in TCSL]",
+      "volume": "54",
+      "author": "Liu",
+      "year": "2014",
+      "journal-title": "華文教學與研究 [TCSOL Studies]"
+    },
+    {
+      "key": "S0261444819000387_ref34",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.tree.2004.10.010"
+    },
+    {
+      "key": "S0261444819000387_ref33",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/applin/aml029"
+    },
+    {
+      "key": "S0261444819000387_ref31",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/40264518"
+    },
+    {
+      "key": "S0261444819000387_ref30",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.14746/ssllt.2012.2.1.2"
+    },
+    {
+      "key": "S0261444819000387_ref81",
+      "first-page": "401",
+      "article-title": "語境中語塊的加工及其影響因素—以中級漢語學習者為例 [The processing of the contextualized formulaic sequences: A case study of intermediate Chinese L2 learners]",
+      "volume": "30",
+      "author": "Zheng",
+      "year": "2016",
+      "journal-title": "世界漢語教學 [Chinese Teaching in the World]"
+    },
+    {
+      "key": "S0261444819000387_ref29",
+      "first-page": "250",
+      "article-title": "美國大學生漢語口語交際難點與應對策略研究 [American university students’ difficulties in speaking Chinese as a foreign language and their coping strategies]",
+      "volume": "29",
+      "author": "Jiang",
+      "year": "2015",
+      "journal-title": "世界漢語教學 [Chinese Teaching in The World]"
+    },
+    {
+      "key": "S0261444819000387_ref28",
+      "first-page": "17",
+      "article-title": "母語為英語和日語的學習者對漢語話題—述題結構的習得研究：可加工性理論視角 [Acquisition of Chinese topic-comment constructions by English- and Japanese-speaking learners: Processability theory approach]",
+      "volume": "3",
+      "author": "Hu",
+      "year": "2018",
+      "journal-title": "語言教學與研究 [Language Teaching and Linguistic Studies]"
+    },
+    {
+      "key": "S0261444819000387_ref25",
+      "first-page": "54",
+      "article-title": "語言中的模因 [Memes in language]",
+      "volume": "4",
+      "author": "He",
+      "year": "2005",
+      "journal-title": "語言科學 [Linguistic Sciences]"
+    },
+    {
+      "key": "S0261444819000387_ref23",
+      "first-page": "1",
+      "article-title": "高級漢語水準留學生漢字認讀影響因素研究 [Predictors of Chinese character reading: Evidence from proficient L2 learners]",
+      "volume": "5",
+      "author": "Hao",
+      "year": "2018",
+      "journal-title": "語言教學與研究 [Language Teaching and Linguistic Studies]"
+    },
+    {
+      "key": "S0261444819000387_ref21",
+      "volume-title": "2014 Confucius Institute Annual Development Report",
+      "year": "2015"
+    },
+    {
+      "key": "S0261444819000387_ref17",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s40299-018-0385-2"
+    },
+    {
+      "key": "S0261444819000387_ref15",
+      "volume-title": "Social psychology and second language learning: The role of attitudes and motivation",
+      "author": "Gardner",
+      "year": "1985"
+    },
+    {
+      "key": "S0261444819000387_ref13",
+      "first-page": "88",
+      "article-title": "語境對漢語閱讀過程中詞彙學習的影響一項基於眼動技術的實驗研究 [The effects of context on vocabulary learning during Chinese reading: Evidence from eye-movement studies]",
+      "volume": "4",
+      "author": "Gan",
+      "year": "2014",
+      "journal-title": "漢語學習 [Chinese Language Learning]"
+    },
+    {
+      "key": "S0261444819000387_ref12",
+      "first-page": "88",
+      "article-title": "來華留學預科生漢語學習障礙研究 [A study of the Chinese learning barriers for preparatory students in China]",
+      "volume": "3",
+      "author": "Fan",
+      "year": "2018",
+      "journal-title": "華文教學與研究 [TCSOL Studies]"
+    },
+    {
+      "key": "S0261444819000387_ref11",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0261444809990255"
+    },
+    {
+      "key": "S0261444819000387_ref7",
+      "volume-title": "The selfish gene 30th anniversary edition",
+      "author": "Dawkins",
+      "year": "2006"
+    },
+    {
+      "key": "S0261444819000387_ref5",
+      "first-page": "72",
+      "article-title": "外國留學生雙項並列賓語習得研究 [An acquisition study of binomial coordinate object]",
+      "volume": "4",
+      "author": "Cheng",
+      "year": "2017",
+      "journal-title": "漢語學習 [Chinese Language Learning]"
+    },
+    {
+      "key": "S0261444819000387_ref3",
+      "first-page": "61",
+      "article-title": "韓語母語者漢.語口語複雜度研究 [The complexity of Chinese oral speeches by Korean native speakers]",
+      "volume": "4",
+      "author": "Chen",
+      "year": "2016",
+      "journal-title": "語言文字應用 [Applied Linguistics]"
+    },
+    {
+      "key": "S0261444819000387_ref2",
+      "volume-title": "Principles of language learning and teaching",
+      "author": "Brown",
+      "year": "2000"
+    },
+    {
+      "key": "S0261444819000387_ref1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0261444810000340"
+    },
+    {
+      "key": "S0261444819000387_ref60",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S026144481600001X"
+    },
+    {
+      "key": "S0261444819000387_ref42",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0261444811000292"
+    },
+    {
+      "key": "S0261444819000387_ref59",
+      "first-page": "107",
+      "article-title": "影響漢語學習者跨文化認同的個體及社會心理因素 [Individual and sociopsychological factors on the cross-cultural identity of Chinese language learners]",
+      "volume": "2",
+      "author": "Wei",
+      "year": "2015",
+      "journal-title": "語言文字應用 [Applied Linguistics]"
+    },
+    {
+      "key": "S0261444819000387_ref80",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0267658311417836"
+    },
+    {
+      "key": "S0261444819000387_ref92",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/modl.12526"
+    },
+    {
+      "key": "S0261444819000387_ref32",
+      "first-page": "111",
+      "article-title": "漢語教師教學技能及二語習得理論知識的評估模式 [Assessing international Chinese language teachers’ second language acquisition theoretical foundation and language pedagogy]",
+      "volume": "29",
+      "author": "Ke",
+      "year": "2015",
+      "journal-title": "世界漢語教學 [Chinese Teaching in the World]"
+    },
+    {
+      "key": "S0261444819000387_ref63",
+      "first-page": "27",
+      "article-title": "基於對外漢語教師視角的二語習得研究和語言教學關係考察 [On the relationship of second language acquisition and language pedagogy from language teachers’ perspective]",
+      "volume": "63",
+      "author": "Wu",
+      "year": "2016",
+      "journal-title": "華文教學與研究 [TCSOL Studies]"
+    },
+    {
+      "key": "S0261444819000387_ref19",
+      "first-page": "20",
+      "article-title": "對外漢語教師職業倦怠：現狀與對策 [Job burnout of Chinese teachers: Current situation and counter measures]",
+      "volume": "6",
+      "author": "Guo",
+      "year": "2014",
+      "journal-title": "語言教學與研究 [Language Teaching and Linguistic Studies]"
+    },
+    {
+      "key": "S0261444819000387_ref62",
+      "first-page": "256",
+      "article-title": "英語、韓語母語者漢語否定標記習得研究 [L2 Chinese acquisition of negative markers by English- and Korean-speaking learners]",
+      "volume": "32",
+      "author": "Wu",
+      "year": "2018",
+      "journal-title": "世界漢語教學 [Chinese Teaching in the World]"
+    },
+    {
+      "key": "S0261444819000387_ref49",
+      "first-page": "120",
+      "article-title": "在穗外國留學生稱呼語研究 [The appellations used by foreign students in Guangzhou]",
+      "volume": "1",
+      "author": "Sun",
+      "year": "2014",
+      "journal-title": "語言文字應用 [Applied Linguistics]"
+    },
+    {
+      "key": "S0261444819000387_ref8",
+      "first-page": "17",
+      "article-title": "東南亞留學生對 “著” 使用條件的認知及其習得過程 [A study on Southeast Asian students’ cognition of conditions of using zhe (著) and its acquisition process]",
+      "volume": "55",
+      "author": "Ding",
+      "year": "2014",
+      "journal-title": "華文教學與研究 [TCSOL Studies]"
+    },
+    {
+      "key": "S0261444819000387_ref83",
+      "first-page": "26",
+      "article-title": "來華漢語專業研究生閱讀能力質性研究 [A qualitative research on reading abilities of the oversea postgraduates in China]",
+      "volume": "65",
+      "author": "Zhu",
+      "year": "2017",
+      "journal-title": "華文教學與研究 [TCSOL Studies]"
+    },
+    {
+      "key": "S0261444819000387_ref48",
+      "first-page": "34",
+      "article-title": "“翻轉課堂”教學模式在對外漢語教學中的應用 [The application of flipped classroom model in TCSL]",
+      "volume": "3",
+      "author": "Sun",
+      "year": "2015",
+      "journal-title": "語言教學與研究 [Language Teaching and Linguistic Studies]"
+    },
+    {
+      "key": "S0261444819000387_ref71",
+      "first-page": "125",
+      "article-title": "漢語第二語言學習者接受性詞彙量實證研究 [Investigation into receptive vocabulary size of second language learners of Chinese]",
+      "volume": "3",
+      "author": "Zhang",
+      "year": "2017",
+      "journal-title": "語言文字應用 [Applied Linguistics]"
+    },
+    {
+      "key": "S0261444819000387_ref66",
+      "first-page": "88",
+      "article-title": "意大利學生漢語口語學習策略使用的個案研究 [A case study on oral Chinese learning strategies used by Italian learners in different social environments]",
+      "volume": "4",
+      "author": "Wu",
+      "year": "2008",
+      "journal-title": "世界漢語教學 [Chinese Teaching in the World]"
+    },
+    {
+      "key": "S0261444819000387_ref16",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.system.2018.09.009"
+    },
+    {
+      "key": "S0261444819000387_ref74",
+      "first-page": "77",
+      "article-title": "留學生漢語聯合式雙音合成詞識別實驗分析 [The research on senior level foreign students’ recognition rules of coordinative compound words]",
+      "volume": "5",
+      "author": "Zhang",
+      "year": "2016",
+      "journal-title": "漢語學習 [Chinese Language Learning]"
+    },
+    {
+      "key": "S0261444819000387_ref65",
+      "first-page": "20",
+      "article-title": "從准教師撰寫的教案看漢語作為二語寫作教案的基本要求 [Basic requirements of teaching plans of Chinese writing as a second language viewed from plans by quasi-teachers]",
+      "volume": "69",
+      "author": "Wu",
+      "year": "2018",
+      "journal-title": "華文教學與研究 [TCSOL Studies]"
+    },
+    {
+      "key": "S0261444819000387_ref43",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/1362168812436903"
+    },
+    {
+      "key": "S0261444819000387_ref4",
+      "first-page": "84",
+      "article-title": "“拼打”識字偏誤分析及教學策略——基於智慧電子產品的零起點漢字教學 [Error analysis of typing and teaching strategies in reading Chinese characters: Teaching of Chinese characters based on the intelligent-electronic products on zero phase]",
+      "volume": "1",
+      "author": "Chen",
+      "year": "2016",
+      "journal-title": "漢語學習 [Chinese Language Learning]"
+    },
+    {
+      "key": "S0261444819000387_ref9",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/modl.12301"
+    },
+    {
+      "key": "S0261444819000387_ref91",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.system.2019.05.002"
+    },
+    {
+      "key": "S0261444819000387_ref18",
+      "first-page": "546",
+      "article-title": "“產出導向法”在對外漢語教學中的應用：教學材料改編 [Adapting teaching materials for POA use]",
+      "volume": "32",
+      "author": "Gui",
+      "year": "2018",
+      "journal-title": "世界漢語教學 [Chinese Teaching in the World]"
+    },
+    {
+      "key": "S0261444819000387_ref10",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0261444808005405"
+    },
+    {
+      "key": "S0261444819000387_ref6",
+      "first-page": "280",
+      "article-title": "語言距離、母語差異與漢語習得：基於語言經濟學的實證研究 [Linguistic distance, language learners’ mother tongue, and Chinese acquisition: An empirical study from the perspective of language economics]",
+      "volume": "32",
+      "author": "Cui",
+      "year": "2018",
+      "journal-title": "世界漢語教學 [Chinese Teaching in the World]"
+    },
+    {
+      "key": "S0261444819000387_ref58",
+      "first-page": "87",
+      "article-title": "初級階段留學生背景與閱讀測驗表現的關係 [On the relationship between background variables of elementary overseas students and their reading test performance]",
+      "volume": "63",
+      "author": "Wang",
+      "year": "2016",
+      "journal-title": "華文教學與研究 [TCSOL Studies]"
+    },
+    {
+      "key": "S0261444819000387_ref38",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/01434632.2016.1268146"
+    },
+    {
+      "key": "S0261444819000387_ref14",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0261444813000414"
+    },
+    {
+      "key": "S0261444819000387_ref37",
+      "first-page": "81",
+      "article-title": "漢語學習者書面語作文“口語化” 傾向的語體表徵 [Features of oral style in Chinese compositions written by CSL learners]",
+      "volume": "1",
+      "author": "Ma",
+      "year": "2017",
+      "journal-title": "漢語學習 [Chinese Language Learning]"
+    },
+    {
+      "key": "S0261444819000387_ref76",
+      "first-page": "99",
+      "article-title": "對外漢語教師話語中的禮貌策略 [Politeness strategies of teachers’ talk in the class of teaching Chinese as a second language]",
+      "volume": "4",
+      "author": "Zhang",
+      "year": "2014",
+      "journal-title": "漢語學習 [Chinese Language Learning]"
+    },
+    {
+      "key": "S0261444819000387_ref26",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0304-3800(02)00203-X"
+    },
+    {
+      "key": "S0261444819000387_ref51",
+      "unstructured": "Trask, R. L. (2000). 語音學和音系學詞典 (A dictionary of phonetics and phonology, Chinese version). 北京: 語文出版社."
+    },
+    {
+      "key": "S0261444819000387_ref24",
+      "volume-title": "Expected achievement in speaking proficiency",
+      "author": "Hart-Gonzalez",
+      "year": "1993"
+    },
+    {
+      "key": "S0261444819000387_ref27",
+      "first-page": "83",
+      "article-title": "輸入強化與輸入模態對漢語二語句法學習的影——以兩類“把”字結構的學習為例 [The effect of input enhancement and input modality on Chinese L2 syntactic learning: A case study of learning two types of “ba” construction]",
+      "volume": "2",
+      "author": "Hong",
+      "year": "2017",
+      "journal-title": "語言文字應用 [Applied Linguistics]"
+    }
+  ],
+  "container-title": [
+    "Language Teaching"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0261444819000387",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2020,
+        2,
+        24
+      ]
+    ],
+    "date-time": "2020-02-24T13:34:25Z",
+    "timestamp": 1582551265000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.cambridge.org/core/product/identifier/S0261444819000387/type/journal_article"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        1
+      ]
+    ]
+  },
+  "references-count": 82,
+  "journal-issue": {
+    "issue": "1",
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          1
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "S0261444819000387"
+  ],
+  "URL": "https://doi.org/10.1017/s0261444819000387",
+  "relation": {},
+  "ISSN": [
+    "0261-4448",
+    "1475-3049"
+  ],
+  "issn-type": [
+    {
+      "value": "0261-4448",
+      "type": "print"
+    },
+    {
+      "value": "1475-3049",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        1
+      ]
+    ]
+  }
+}

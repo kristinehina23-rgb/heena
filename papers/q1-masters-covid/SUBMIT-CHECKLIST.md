@@ -12,4 +12,5 @@ The article to paste is `manuscript.md` (~6,000 words of body; LCC articles are 
 8. ScholarOne needs two files: `title-page.md` (names) and an anonymized manuscript (no author block, no acknowledgements). The article is written as an original study. Do not cite a 2024 note in the manuscript.  
 9. Do not start Track B (*HSK Standard Course*) inside this file.  
 10. **Do not upload to ScholarOne until** (a) Xu Yiru and Cao Huimin have approved this version, and (b) you have a retrospective ethics letter, exemption, or written institutional statement. The article must not invent an approval number.  
-11. Do not call the sample “Chinese-university students” as a verified fact. Use the title and methods wording in `manuscript.md`.
+11. Do not call the sample “Chinese-university students” as a verified fact. Use the title and methods wording in `manuscript.md`.  
+12. Citation proof: `citations/VERIFICATION-TABLE.md`. Re-open every DOI before ScholarOne. The 23 August 2026 audit already corrected MacIntyre (102352) and Guerrettaz (official title).
