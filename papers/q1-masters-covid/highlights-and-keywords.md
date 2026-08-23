@@ -1,19 +1,19 @@
 # Highlights and keywords
 
-LCC may not require highlights. If a site asks for them, use these (not the old 97% stress slogan).
+LCC may not require highlights. If a site asks for them, use these.
 
 ## Highlights
 
-- n = 38 Wenjuan export: 76% unstable net, 42% power cuts; **36.8% very high stress**.
+- Extends ICLE localisation from content adaptation to delivery-context fit.
+- Exploratory questionnaire, N = 38: 76% unstable net, 42% power cuts; 36.8% very high stress.
 - Home “affects study very much”: 11/14 also reported very high stress, against 3/24 others.
-- Worse internet speed correlates with worse learning appraisal (ρ = .65). A problem-count does not (ρ = .02).
-- QQ and Chaoxing often marked unusable; Zoom and WhatsApp marked available. WhatsApp was not coded as used for class.
-- Women more often refuse that online can replace campus; 71% of the sample are men. 63% used an iPhone.
-- 2026 hook: inequality and platform access under hybrid ICLE, not a ChatGPT study.
+- Worse internet speed tracks worse learning appraisal (ρ = .65). A problem-count does not (ρ = .02).
+- QQ and Chaoxing often marked unusable; Zoom and WhatsApp marked available.
+- Design comments are considerations from this sample, not established solutions.
 
 ## Keywords
 
-emergency remote teaching; Chinese as an additional language; digital inequality; curriculum implementation; Pakistan; household
+localisation; Chinese as an additional language; digital inequality; curriculum implementation; Pakistan; household
 
 ## Short title
 
