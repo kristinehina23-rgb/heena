@@ -1,16 +1,16 @@
-[Journal Editor's name]  
+[Journal Editor’s name]  
 Editor-in-Chief  
 *Language, Culture and Curriculum*
 
 Dear Editor,
 
-Please consider "When Chinese class moved home: Pakistani students, infrastructure, and platform access" for publication in *Language, Culture and Curriculum*.
+Please consider “When Chinese class moved home: Pakistani students, infrastructure, and platform access” for publication in *Language, Culture and Curriculum*.
 
-This is an original questionnaire study (N = 38; Wenjuan export, February 2022). It is not a republication. The corresponding author is Heena Rathore, PhD student, School of Foreign Languages, Sun Yat-sen University. Co-authors: Cao Huimin and Xu Yiru. Nine IP addresses were labelled mainland China; the rest were not. The form did not record scholarship type. Emergency remote Chinese along this Pakistan-China corridor is read as a home and platform-access problem. QQ and Chaoxing were often marked unusable from "my country"; Zoom and WhatsApp were more often marked available (WhatsApp was not coded as used for class). Home conditions were associated with very high stress (OR = 25.67, 95% CI [4.42, 149.00]). Internet speed tracked learning appraisal (ρ = .65); a count of infrastructure problems did not (ρ = .02). Sensitivity checks keep the two focal associations in the same direction (Pakistani-only n = 37; offshore-IP n = 29).
+The article examines how household conditions and campus-platform access shaped Pakistani students’ participation in Chinese-university language classes during emergency remote teaching. It is written for this journal’s aims: additional-language learning outside the classroom, identity and investment (as a reading of participation), and curriculum implementation (the campus course plan used off campus). A questionnaire (N = 38; February 2022) shows that homes which affected study “very much” were associated with very high stress, that internet speed tracked learning appraisal, and that campus applications such as QQ and Chaoxing were often marked unusable from “my country.” The study supplies a South-South case that the journal’s investment agenda on international students of languages other than English (Hajar & Karakuş, 2024) still lacks.
 
-The manuscript is written for this journal's aims: additional-language learning outside the classroom, identity and investment (as a reading of participation proxies), and curriculum implementation (the campus course plan used off campus). It supplies a South-South case that the journal's investment agenda on international students of languages other than English (Hajar & Karakuş, 2024) still lacks.
+The corresponding author is Heena Rathore, PhD student, School of Foreign Languages, Sun Yat-sen University. Co-authors: Cao Huimin and Xu Yiru. This is an original article. It is not a republication and is not under review elsewhere.
 
-The manuscript is not under review elsewhere. Send only after all listed authors have read and approved this version.
+Send only after all listed authors have read and approved this version.
 
 Yours sincerely,
 
