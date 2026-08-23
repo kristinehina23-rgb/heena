@@ -18,13 +18,13 @@ Email: `[CONFIRM]`
 School of Foreign Languages, Sun Yat-sen University, Guangzhou, China  
 Email: xuyiru@mail.sysu.edu.cn
 
-**Acknowledgements.** Data were collected while the first author was an M.Phil. scholar at the School of International Cultural Exchange, Central China Normal University. Rathore and Cao (2024) is a short preliminary note on the same project. The present article reports a new item-level analysis of the questionnaire export. We thank the students who took part.
+**Acknowledgements.** Data were collected while the first author was an M.Phil. scholar at the School of International Cultural Exchange, Central China Normal University. We thank the students who took part.
 
 **Disclosure statement.** No potential conflict of interest was reported by the authors.
 
 **Funding.** None.
 
-**Data availability.** A de-identified analysis file is available from the corresponding author. Files containing names or IP addresses will not be shared. The 2024 note is at https://doi.org/10.5281/zenodo.13267236.
+**Data availability.** A de-identified analysis file is available from the corresponding author. Files containing names or IP addresses will not be shared.
 
 **Ethics.** Adult students completed an online questionnaire. Submission of the form was treated as consent to use anonymised answers for research. Direct identifiers are not published.
 

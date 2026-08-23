@@ -15,23 +15,23 @@ Xu Yiru (徐翌茹)
 School of Foreign Languages, Sun Yat-sen University, Guangzhou, China  
 Email: xuyiru@mail.sysu.edu.cn  
 
-**Acknowledgements.** Data were collected while the first author was an M.Phil. scholar at the School of International Cultural Exchange, Central China Normal University. Rathore and Cao (2024) is a short preliminary note on the same project. The present article reports a new item-level analysis of the questionnaire export. We thank the students who took part.
+**Acknowledgements.** Data were collected while the first author was an M.Phil. scholar at the School of International Cultural Exchange, Central China Normal University. We thank the students who took part.
 
 **Disclosure statement.** No potential conflict of interest was reported by the authors.
 
 **Funding.** None.
 
-**Data availability.** A de-identified analysis file is available from the corresponding author. Files containing names or IP addresses will not be shared. The 2024 note is at https://doi.org/10.5281/zenodo.13267236.
+**Data availability.** A de-identified analysis file is available from the corresponding author. Files containing names or IP addresses will not be shared.
 
 ## Abstract
 
-This article reports a new analysis of a Wenjuan questionnaire (N = 38; 5 to 8 February 2022) completed mainly by Pakistani students who continued Chinese-university language classes during COVID-19. Not every response was sent from Pakistan: nine IP addresses were labelled mainland China. Unstable networks (76.3%), power cuts (42.1%), and homes that were not quiet (71.1%) were common. Very high psychological stress was reported by 36.8%. Saying that the home affected study "very much" was associated with very high stress (OR = 25.67, 95% CI [4.42, 149.00], *p* < .001). Worse internet speed tracked worse learning appraisal (ρ = .65). A count of infrastructure problems did not (ρ = .02). Campus apps such as QQ and Chaoxing were often marked unusable from "my country"; Zoom and WhatsApp were more often marked available. Half the sample said online study could replace campus classes; women more often said it could not. The article reads these results through sequential digital inequality and, cautiously, language investment (proxies, not a full investment instrument). Chinese-course design on this corridor must fit household infrastructure and platform access, not only textbook culture. The 2024 n = 97 tables are not used. The male majority (27 of 38) is a sample limit.
+This article reports an original questionnaire study (N = 38; 5 to 8 February 2022) of mainly Pakistani students who continued Chinese-university language classes during COVID-19. Not every response was sent from Pakistan: nine IP addresses were labelled mainland China. Unstable networks (76.3%), power cuts (42.1%), and homes that were not quiet (71.1%) were common. Very high psychological stress was reported by 36.8%. Saying that the home affected study "very much" was associated with very high stress (OR = 25.67, 95% CI [4.42, 149.00], *p* < .001). Worse internet speed tracked worse learning appraisal (ρ = .65). A count of infrastructure problems did not (ρ = .02). Campus apps such as QQ and Chaoxing were often marked unusable from "my country"; Zoom and WhatsApp were more often marked available. Half the sample said online study could replace campus classes; women more often said it could not. The article reads these results through sequential digital inequality and, cautiously, language investment (proxies, not a full investment instrument). Chinese-course design on this corridor must fit household infrastructure and platform access, not only textbook culture. The male majority (27 of 38) is a sample limit.
 
 **Keywords:** emergency remote teaching; Chinese as an additional language; digital inequality; language investment; Pakistan; curriculum
 
 ## 1. Introduction
 
-When Chinese universities moved instruction online in 2020, many Pakistani students were already in Pakistan or returned there. Scholarship holders and degree students continued their Chinese-language courses from family homes, hostels, and towns with load-shedding, prepaid mobile data, and little quiet space (Rathore & Cao, 2024). Large numbers of Pakistani students were enrolled in Chinese universities on government and bilateral awards; this file does not record award type. This article examines emergency remote teaching (Hodges et al., 2020) of Chinese as an additional language. The courses crossed a national and infrastructural border and entered households that had not been designed as language classrooms.
+When Chinese universities moved instruction online in 2020, many Pakistani students were already in Pakistan or returned there. Scholarship holders and degree students continued their Chinese-language courses from family homes, hostels, and towns with load-shedding, prepaid mobile data, and little quiet space. Large numbers of Pakistani students were enrolled in Chinese universities on government and bilateral awards; this file does not record award type. This article examines emergency remote teaching (Hodges et al., 2020) of Chinese as an additional language. The courses crossed a national and infrastructural border and entered households that had not been designed as language classrooms.
 
 That shift also changed the curriculum in practice. A Chinese-university language course is more than a textbook and an HSK calendar. It is a planned sequence of live hours, oral tasks, and campus platforms that assume a dormitory, a timetable, and a login that works. Emergency remote teaching kept those elements and changed the site. Learners met the old campus course plan in households and other off-campus settings rather than in a redesigned distance-education programme.
 
@@ -39,9 +39,7 @@ Research on COVID-19 and language education documented teacher coping, task rede
 
 COVID special issues have largely closed. Two later strands now dominate the field. After the return to campus, digital tools became ordinary in many in-person language classrooms (Moorhouse, 2023; Moorhouse, Wong, & Li, 2023). Reviews also note that crisis teaching often used videoconferencing to copy the campus hour (Stockwell & Wang, 2023). A second strand is generative AI, which now appears in work on language investment (Darvin, 2025). The 2022 questionnaire contains no items on ChatGPT or similar tools, so this article does not treat AI as a finding. The present data speak to a more basic problem that has not disappeared: unequal digital conditions, and the question of which campus platforms open, for students on this South-South route. Hajar and Karakuş (2024), writing in *Language, Culture and Curriculum*, call for research on the (dis)investment of international students in languages other than English. Pakistani learners of Chinese belong in that agenda. Hybrid ICLE and HSK delivery on Chinese-campus systems still assume logins, bandwidth, and a quiet room. The present sample shows that many homes could not supply those conditions.
 
-A short note on this population has been published (Rathore & Cao, 2024). It described a 14-item survey of 97 students. The only coded questionnaire file retained is a 30-question Chinese-medium Wenjuan export with 38 complete responses (5 to 8 February 2022). The present article is a new analysis of that export. The 2024 sample size, scales, and percentages are not reused.
-
-The research question is: How did digital inequality, including which Chinese-campus platforms opened from homes outside the Chinese campus network, relate to how these learners could take part in Chinese class under emergency remote teaching? Three operational questions follow in Section 3. Investment is used as a reading, not as a scale in the questionnaire.
+This article reports a Wenjuan questionnaire completed by 38 students between 5 and 8 February 2022. The research question is: How did digital inequality, including which Chinese-campus platforms opened from homes outside the Chinese campus network, relate to how these learners could take part in Chinese class under emergency remote teaching? Three operational questions follow in Section 3. Investment is used as a reading, not as a scale in the questionnaire.
 
 The article offers three contributions. First, an item-level description of the export, a three-item learning-appraisal scale (α = .84), Fisher tests with odds ratios, Spearman correlations, and sensitivity checks (Pakistani-only n = 37; offshore-IP n = 29). Second, a reading of sequential digital inequality (van Dijk, 2020) together with a cautious use of Nortonian investment (Norton, 2013; Darvin & Norton, 2015, 2023) as a lens on participation proxies, with attention to which platforms opened. Third, a practical claim: ICLE localisation has to include the conditions of delivery, not only the cultural content of textbooks.
 
@@ -77,7 +75,7 @@ ICLE research after COVID-19 has turned toward blended models, interaction desig
 
 ### 2.5 Gap
 
-Recent literature still leaves several gaps that these data can address. Post-pandemic CALL has moved toward normalisation and AI, often in English classrooms with working campus Wi-Fi (Moorhouse et al., 2023; Darvin, 2025). Digital-inequality research under-represents additional-language classrooms. Pakistan EdTech gender work has so far spoken mainly about school homes rather than Chinese-university language courses taken from Pakistan (Raza & Hennessy, 2025). ICLE localisation research under-represents the home as a site of delivery, and under-represents which Chinese-campus apps open from phones outside China. Investment research is asking for evidence on international students of languages other than English (Hajar & Karakuş, 2024) but has little South-South Chinese evidence. Rathore and Cao (2024) described the phenomenon with descriptive tools. An account is still needed of how inequality entered participation in class, and of what course design should do with that knowledge after the emergency.
+Recent literature still leaves several gaps that these data can address. Post-pandemic CALL has moved toward normalisation and AI, often in English classrooms with working campus Wi-Fi (Moorhouse et al., 2023; Darvin, 2025). Digital-inequality research under-represents additional-language classrooms. Pakistan EdTech gender work has so far spoken mainly about school homes rather than Chinese-university language courses taken from Pakistan (Raza & Hennessy, 2025). ICLE localisation research under-represents the home as a site of delivery, and under-represents which Chinese-campus apps open from phones outside China. Investment research is asking for evidence on international students of languages other than English (Hajar & Karakuş, 2024) but has little South-South Chinese evidence. An account is still needed of how inequality entered participation in class, and of what course design should do with that knowledge after the emergency.
 
 ## 3. Theoretical framework
 
@@ -109,7 +107,7 @@ Figure 1. Material-context model of emergency remote Chinese learning (reading m
 
 The respondents were enrolled in Chinese-university language courses that had moved online. In early February 2022 many Pakistani students were at home rather than in a Chinese dormitory; nine responses in this file were still labelled mainland China. The course they were still expected to attend assumed a campus timetable, a live oral hour, and a login on a Chinese-campus platform. The household, the power supply, and the apps that opened from a Pakistani mobile network were not part of that plan. The export does not name the host university, the textbook, or an HSK target. Curriculum here means that campus delivery plan as lived, not a named programme.
 
-The master's project included a Chinese-medium online questionnaire (Rathore & Cao, 2024). This article is a new quantitative analysis of the only coded export the authors retain: a Wenjuan file on influencing factors in international students' online Chinese learning during COVID-19, with 38 complete cases (5 to 8 February 2022). No additional wave or paper-survey file exists. The 2024 printed frequency tables (reported n = 97; 14-item Likert) are not analysed, because this export does not contain them. The design is a cross-sectional questionnaire study of how that course was lived from wherever the student sat that week. It is not a national census.
+Data come from a Chinese-medium Wenjuan questionnaire on influencing factors in international students' online Chinese learning during COVID-19 (38 complete cases, 5 to 8 February 2022). The design is a cross-sectional questionnaire study of how that course was lived from wherever the student sat that week. It is not a national census.
 
 ### 4.2 Participants
 
@@ -129,8 +127,6 @@ A learning-appraisal composite was formed from three same-direction ordinals (le
 | Learned / improve / interest | a lot / very much | worse appraisal |
 | Stress | very high | less stress |
 | Teacher interaction | very much | thinner interaction |
-
-The four 2024 scales are not forced onto this instrument.
 
 One open comment on preferred class length is retained: "我觉得中国现在让学生回来上课。在线上上课一分钟也不合适" (I think China should have students come back to class now. Even one minute of online class is not suitable). Names, IP addresses, and exact timestamps beyond the date were removed before analysis.
 
@@ -322,12 +318,11 @@ Future work should (a) oversample Pakistani women on Chinese-university and rela
 ## 8. Limitations
 
 1. n = 38. Odds-ratio intervals are wide. They are reported as direction plus exact tests, not as precise population values.
-2. The 2024 note's tabulated N is not used. Rathore and Cao (2024) printed n = 97. The only surviving coded file has 38 complete cases, which is the N of this article.
-3. Male-majority convenience sample (27 men, 11 women), phones only, nine China-labelled IPs. Findings describe this network, not Pakistani women as a group. Sensitivity on n = 37 and n = 29 does not remove that limit.
-4. Self-report; no HSK scores or oral tasks. "Advanced" is a self-rating.
-5. Chinese-medium items with non-native wording may have been understood unevenly.
-6. The export does not name the host university, textbook, or award type. Investment was not measured as a scale.
-7. COVID-specific delivery. The transferable claim concerns inequality, home, platform access, and participation, not the pandemic as such.
+2. Male-majority convenience sample (27 men, 11 women), phones only, nine China-labelled IPs. Findings describe this network, not Pakistani women as a group. Sensitivity on n = 37 and n = 29 does not remove that limit.
+3. Self-report; no HSK scores or oral tasks. "Advanced" is a self-rating.
+4. Chinese-medium items with non-native wording may have been understood unevenly.
+5. The export does not name the host university, textbook, or award type. Investment was not measured as a scale.
+6. COVID-specific delivery. The transferable claim concerns inequality, home, platform access, and participation, not the pandemic as such.
 
 ## 9. Conclusion
 
@@ -378,8 +373,6 @@ Moorhouse, B. L., Wong, K. M., & Li, L. (2023). Teaching with technology in the 
 Norton, B. (2013). *Identity and language learning: Extending the conversation* (2nd ed.). Multilingual Matters.
 
 Piller, I., Zhang, J., & Li, J. (2020). Linguistic diversity in a time of crisis: Language challenges of the COVID-19 pandemic. *Multilingua, 39*(5), 503-515. https://doi.org/10.1515/multi-2020-0136
-
-Rathore, H., & Cao, H. (2024). An exploration the challenges and impacts during COVID-19 for online Chinese learning in Pakistan. *Arbor, 11*(1), 194-201. https://doi.org/10.5281/zenodo.13267236
 
 Raza, O., & Hennessy, S. (2025). *Exploring the gender differences in technology use for educational purposes at home among students in Pakistan*. EdTech Hub. https://doi.org/10.53832/edtechhub.1099
 

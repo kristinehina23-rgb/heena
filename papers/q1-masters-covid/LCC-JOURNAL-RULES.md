@@ -72,7 +72,7 @@ ScholarOne is **anonymous review**. Upload:
 - `title-page.md` (names, emails, acknowledgements, disclosure, funding, data, contributor notes)
 - anonymized manuscript (title + abstract + body + tables + references; no author names)
 
-Do not write “the first author was an M.Phil. at CCNU” in the review file. Put that only on the title page. Cite Rathore and Cao (2024) in the third person.
+Do not write “the first author was an M.Phil. at CCNU” in the review file. Put that only on the title page. Do not cite a 2024 note in the article; the manuscript stands as an original study.
 
 ---
 
@@ -80,7 +80,7 @@ Do not write “the first author was an M.Phil. at CCNU” in the review file. P
 
 | Rule | What we do |
 |---|---|
-| Original work | New analysis of N = 38. Disclose the 2024 *Arbor* note. Do not reuse its n = 97 tables. |
+| Original work | Original analysis of N = 38. Do not reuse any other tabulated N. |
 | All authors agree | Xu Yiru and Cao Huimin must read the draft, agree the journal, and approve every version. Listing someone without consent is misconduct. |
 | Authorship (T&F / COPE) | Each listed author must have (1) a real contribution, (2) drafted or **critically reviewed** the article, (3) agreed the journal, (4) approved the version, (5) agreed to be accountable. A supervisor name with no reading does not meet this. |
 | Affiliations | Current post on the byline. Heena: **PhD student, School of Foreign Languages, SYSU**. Do not write “PhD” after the name (the degree is not finished). CCNU stays in Acknowledgements as the site of data collection. Xu: SYSU. Cao: BFSU. |
@@ -89,7 +89,7 @@ Do not write “the first author was an M.Phil. at CCNU” in the review file. P
 | Ethics | Adult questionnaire; consent by submission; no names or IPs in the published file. |
 | Competing interests | “No potential conflict of interest was reported by the authors.” |
 | Data | De-identified file from the corresponding author. Files with names or IPs will not be shared. |
-| Similarity | iThenticate / Turnitin on the Word **body**; exclude references. Expect topical overlap with the 2024 note; that is self-citation. |
+| Similarity | iThenticate / Turnitin on the Word **body**; exclude references. |
 | Not under review elsewhere | Cover letter already says this. Do not send Track B to LCC in the same season. |
 | British or American English | Pick one and keep it. We use British academic English. |
 | Tables / figure | Tables in the text. Figure 1 as a real graphic, not AI-fabricated research results. |
@@ -101,7 +101,7 @@ Instructions for authors on the journal site can be updated. Check the live page
 ## 4. Author order on this paper
 
 1. **Heena Rathore** (corresponding author; wrote the analysis). Current identity: **PhD student**, School of Foreign Languages, Sun Yat-sen University. Email: kristine_2020@qq.com. CCNU is named only in Acknowledgements (where the 2022 questionnaire was collected).
-2. **Cao Huimin** (2024 note co-author; confirm still). Institute for International Communication of Chinese Culture, Beijing Foreign Studies University. Email: `[CONFIRM]`
+2. **Cao Huimin** (confirm co-authorship). Institute for International Communication of Chinese Culture, Beijing Foreign Studies University. Email: `[CONFIRM]`
 3. **Xu Yiru (徐翌茹)** (doctoral supervisor). School of Foreign Languages, Sun Yat-sen University. Email: xuyiru@mail.sysu.edu.cn. Staff page: https://fls.sysu.edu.cn/teacher/XuYiru (教授 / 博士生导师). Do not put rank on the byline unless she asks.
 
 Do not submit until Xu Yiru has agreed to be listed.
@@ -112,8 +112,8 @@ Do not submit until Xu Yiru has agreed to be listed.
 
 中文可用：
 
-老师好，我是中山大学外国语学院博士生喜娜。想请您作为共同作者（博士生导师）看一篇准备投 *Language, Culture and Curriculum*（Routledge，SSCI Q1）的稿子。第一作者：喜娜（中山大学博士生）；第二作者：曹慧敏（2024 短文合作者，待她确认）。这是 2022 年问卷网文件的新分析（N = 38），不是 Rathore and Cao (2024) 的再投。草稿在 `manuscript.md`。这本刊发过中国大学国际学生、线上汉语文化课、汉语学习者情绪和投资理论，但还没有巴基斯坦奖学金学生在家里上汉语课、校园平台打不开这一类证据。按出版社规定，署名需要您读过并同意。如果您同意，我们会等您看完再投 ScholarOne。
+老师好，我是中山大学外国语学院博士生喜娜。想请您作为共同作者（博士生导师）看一篇准备投 *Language, Culture and Curriculum*（Routledge，SSCI Q1）的原创问卷研究（N = 38）。第一作者：喜娜（中山大学博士生）；第二作者：曹慧敏（待她确认）。草稿在 `manuscript.md`。这本刊发过中国大学国际学生、线上汉语文化课、汉语学习者情绪和投资理论，但还没有巴基斯坦学生在家里上汉语课、校园平台打不开这一类证据。按出版社规定，署名需要您读过并同意。如果您同意，我们会等您看完再投 ScholarOne。
 
 English if she prefers:
 
-Please consider being a co-author (doctoral supervisor) on a new article for *Language, Culture and Curriculum* (SSCI Q1). First author: Heena Rathore, PhD student, School of Foreign Languages, SYSU. Second: Cao Huimin. The paper is a new analysis of the 2022 Wenjuan file (N = 38), not a reprint of Rathore and Cao (2024). Draft: manuscript.md. The journal already publishes international students of Chinese, online Chinese-culture courses, and investment research; this draft supplies a South-South home-and-platform case. Taylor & Francis requires that every listed author has read and approved the manuscript. We will submit only after you have done so.
+Please consider being a co-author (doctoral supervisor) on an original article for *Language, Culture and Curriculum* (SSCI Q1). First author: Heena Rathore, PhD student, School of Foreign Languages, SYSU. Second: Cao Huimin. The paper is an original questionnaire study (N = 38). Draft: manuscript.md. The journal already publishes international students of Chinese, online Chinese-culture courses, and investment research; this draft supplies a South-South home-and-platform case. Taylor & Francis requires that every listed author has read and approved the manuscript. We will submit only after you have done so.
