@@ -2,10 +2,8 @@
 
 **Use this:**
 
-> **Home conditions and named platforms in a 2022 online Chinese questionnaire**
+> **Home conditions and platform access for online Chinese learners**
 
-**Short title:** Home conditions and named platforms
+**Short title:** Home and platform access
 
-**Piece:** short contribution, not a full research article.
-
-**Venue I am assigning:** *Chinese as a Second Language* (CLTA / John Benjamins). They take short contributions. They are not *Foreign Language Annals*.
+This is a full research article based on the N = 38 questionnaire data. Not a short note.
