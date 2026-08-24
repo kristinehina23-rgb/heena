@@ -9,7 +9,7 @@
 |---|---|
 | `data/publication_n38.csv` | 投稿用匿名数据（已清洗） |
 | `analysis/apa_tables.md` | 表 1–5，可贴进 Word |
-| `manuscript.md` | **投稿正文**（题目：mainly Pakistani respondents reporting online Chinese coursework）。第一作者：喜娜（中山大学博士生）；曹慧敏；徐翌茹 |
+| `manuscript.md` | **投稿正文**（题目：Home conditions and platform access in a 2022 online Chinese questionnaire）。第一作者：喜娜（中山大学博士生）；曹慧敏；徐翌茹 |
 | `word/` | **Word 文件（.docx）**。发给徐老师、查重、ScholarOne 用这个文件夹 |
 | `title-page.md` | ScholarOne 署名页（姓名、致谢、利益声明） |
 | `FLA-JOURNAL-RULES.md` | **Foreign Language Annals 接不接这类文章、已发过的同类论文、格式、Wiley / ACTFL 规矩** |

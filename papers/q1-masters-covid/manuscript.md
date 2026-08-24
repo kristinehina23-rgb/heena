@@ -1,26 +1,28 @@
-# Home conditions and platform access for online Chinese learners
+# Home conditions and platform access in a 2022 online Chinese questionnaire
 
 **Short title:** Home and platform access
 
 ## Abstract
 
-This study analysed 38 completed questionnaires, written in Chinese, from people who said they were taking online Chinese courses. Thirty-seven selected Pakistani nationality. Unstable networks and power interruptions were common. Respondents who said home conditions affected study very much also more often selected very high stress. Worse reported internet speed went with a more negative view of online learning. QQ and Chaoxing were often marked unusable. Zoom and WhatsApp were more often marked available. The sample is small. The questionnaires were collected in February 2022, during emergency remote teaching, so the results do not describe current hybrid practice.
+This study reports 38 completed questionnaires, written in Chinese, collected in February 2022 from respondents who said they were taking online Chinese courses. Thirty-seven selected Pakistani nationality. The question is what they marked about home conditions, connectivity, and named-platform access. The study does not ask whether a verified class could still be taken. Unstable networks and power interruptions were common. Respondents who said home conditions affected study very much also more often selected very high stress. Worse reported internet speed went with a more negative view of online learning. QQ and Chaoxing were often marked unusable. Zoom and WhatsApp were more often marked available. The sample is small. The questionnaires were collected during emergency remote teaching, so the results do not describe current hybrid practice.
 
 **Keywords:** Chinese; online language teaching; household infrastructure; platform access; emergency remote teaching
 
 ## 1. Introduction
 
-When Chinese teaching moved online, many programs kept the sending class’s timetable and classroom tasks. Hodges et al. (2020) called that emergency remote teaching, not a planned online course. Gacs, Goertler, and Spasova (2020) made the same point for language classes: a live hour still assumes that students can join. That assumption often fails. Tao and Gao (2022) read the emergency literature as a story of technical disruption and thinner talk. A device in the house is not enough if there is no power, little speed, or no usable application (Warschauer, 2003). When those conditions do not hold, the content may still be sound, but the class is closed.
+During COVID-19, many language programs moved a campus hour online without redesigning it as a planned online course. Hodges et al. (2020) called that emergency remote teaching. Gacs, Goertler, and Spasova (2020) made the same point for language classes: a live hour still assumes that students can join. Tao and Gao (2022) read the emergency literature as a story of technical disruption and thinner talk. A device in the house is not enough if there is no power, little speed, or no usable application (Warschauer, 2003). Those are learner-side conditions. This paper counts them on one form. It does not test whether a named program’s class remained open.
 
-Those difficulties are often named. They are less often counted from the learner’s side. Xu, Jin, Deifell, and Angus (2022) showed how character teaching was adapted on the sending side. Yu and Xu (2022) surveyed 153 South Asian students in China on online learning during the pandemic. They reported generally positive learning status, and they linked autonomous learning to how students judged the effect. Their form did not count household power, network speed, or whether named applications were marked unusable. Jin, Xu, and Deifell (2023) reported what faculty thought about pandemic online teaching. Li and Li (2024) still say more about tools than about household access.
+Those difficulties are often named. They are less often counted from the learner’s side, with household items and named platforms on the same questionnaire. Xu, Jin, Deifell, and Angus (2022) showed how character teaching was adapted on the sending side. Yu and Xu (2022) surveyed 153 South Asian students in China on online learning during the pandemic. They reported generally positive learning status, and they linked autonomous learning to how students judged the effect. Their form did not count household power, network speed, or whether named applications were marked unusable. Jin, Xu, and Deifell (2023) reported what faculty thought about pandemic online teaching. Li and Li (2024) still say more about tools than about household access.
 
-This study reports questionnaire data from the learner side. Thirty-eight respondents who said they were taking online Chinese courses completed a form written in Chinese in February 2022. The form asked about home conditions, connectivity, and platform access, and about stress and their view of online learning. Thirty-seven selected Pakistani nationality. Residence, university, and program were not asked, so those boxes are not inferred.
+This study reports questionnaire data from the learner side. Thirty-eight respondents who said they were taking online Chinese courses completed a form written in Chinese in February 2022. The form asked about home conditions, connectivity, and platform access, and about stress and their view of online learning. Thirty-seven selected Pakistani nationality. Residence, university, and program were not asked, so those boxes are not inferred. Completing the form is not treated as proof of enrollment.
 
-The study asks:
+What household, connectivity, and named-platform conditions did these 38 respondents report in February 2022? The paper does not ask whether a verified class could still be taken, and it does not describe current hybrid teaching.
 
 **RQ1.** What household, connectivity, and platform-access conditions did the 38 respondents report?
 
-**RQ2.** How did those conditions sit alongside “very high stress” and their appraisals of online learning?
+**RQ2 (exploratory).** In the same form, how did those reports sit alongside “very high stress” and a three-item appraisal of online learning?
+
+RQ1 is the question these 38 questionnaires can answer. RQ2 reports co-occurrence on the same form. It is not a causal test.
 
 The answers are presented as three themes that follow the items on the form: home and connection, named platforms, and stress with appraisal.
 
@@ -121,7 +123,7 @@ Among Pakistani-nationality respondents only (n = 37), the home and stress table
 
 ## 4. Discussion
 
-The 38 rows show home trouble, unused platforms, and stress sitting together in this sample. Tao and Gao (2022) had already named networks, platforms, and strain. Yu and Xu (2022) found overall positive online learning status in a larger South Asian sample. Their questionnaire and this form are not the same sample and are not read here as a single test. The present data add counts of power, quiet, speed, and named tools from February 2022.
+The 38 rows show home trouble, unused platforms, and stress sitting together in this sample. That is what the questionnaire can show. It cannot show that a verified Chinese class was closed, or that these respondents stood for online Chinese learners as a group. Tao and Gao (2022) had already named networks, platforms, and strain. Yu and Xu (2022) found overall positive online learning status in a larger South Asian sample. Their questionnaire and this form are not the same sample and are not read here as a single test. The present data add counts of power, quiet, speed, and named tools from February 2022.
 
 A better textbook would not, by itself, have answered a live session on an unstable connection, or a required application that respondents marked unusable. QQ and Chaoxing were often marked unusable; Zoom and WhatsApp were more often marked available. A teacher who requires one campus application can at least ask whether that application opens. The data do not recommend WhatsApp as a class tool: the form never asked whether it was used for class.
 
@@ -129,7 +131,7 @@ A live oral hour that needs a quiet room and a steady line will treat many of th
 
 The sample is 38 self-selected rows from four days in February 2022. Recruitment is unknown. Enrollment was not verified. The instrument was not piloted. Several platform columns were never asked. There is no ethics-committee number for the original collection. The results are not a picture of current hybrid teaching.
 
-Online Chinese teaching is not only a content problem. In these data it is also a delivery problem.
+In these 38 rows, home conditions and named-platform access were part of how respondents marked online Chinese study in February 2022.
 
 ## References
 

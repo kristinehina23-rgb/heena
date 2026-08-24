@@ -4,7 +4,7 @@ FLA does not use Taylor & Francis highlights. It uses **The Challenge** (about 5
 
 ## The Challenge
 
-When a Chinese course moves online, programs still have to decide the hour, the application, the oral task, and the form of assessment. If household power, network speed, or a required platform does not support those decisions, how should the program treat the failure: as a technical inconvenience, or as a teaching problem?
+A February 2022 questionnaire asked 38 respondents about home power, network speed, and named platforms during online Chinese study. Enrollment was not verified. What did they mark about those conditions, and how should a live hour that still assumes students can join be read against those marks?
 
 ## Keywords
 

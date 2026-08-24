@@ -109,18 +109,22 @@ def main() -> None:
     with tempfile.TemporaryDirectory() as td:
         ref = Path(td) / "reference.docx"
         make_reference_doc(ref)
+        reading_out = WORD / "manuscript.docx"
         named_out = WORD / "Rathore-Cao-Xu-When-Chinese-class-moved-home.docx"
         anon_out = WORD / "Rathore-manuscript-anonymized-for-review.docx"
         title_out = WORD / "Rathore-title-page.docx"
         cover_out = WORD / "Rathore-cover-letter-FLA.docx"
+        pandoc_md(named, reading_out, ref)
         pandoc_md(named, named_out, ref)
         pandoc_md(anon, anon_out, ref)
         pandoc_md(title, title_out, ref)
         pandoc_md(cover, cover_out, ref)
+        drop_duplicate_title(reading_out)
         drop_duplicate_title(named_out)
 
     print("Wrote:")
     for p in (
+        WORD / "manuscript.docx",
         WORD / "Rathore-Cao-Xu-When-Chinese-class-moved-home.docx",
         WORD / "Rathore-manuscript-anonymized-for-review.docx",
         WORD / "Rathore-title-page.docx",

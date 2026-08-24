@@ -16,7 +16,7 @@ Quartiles below use the June 2026 JCR release (2025 citation data). “Q1” her
 
 ## Track A — empirical paper from the master’s COVID data
 
-**Working title:** When Chinese class moved home: Pakistani students, infrastructure, and platform access
+**Working title:** Home conditions and platform access in a 2022 online Chinese questionnaire
 
 **Now with n = 38 item-level data.** First target is *Foreign Language Annals* (ACTFL / Wiley; languages other than English; they have already printed emergency-online and Chinese studies). *Language, Culture and Curriculum* is SSCI Q1 but is not the official-fit home for a household/platform paper. *ReCALL* is a possible second choice because of platform geography. *System* / *CALL* still want a larger N or richer interviews.
 
