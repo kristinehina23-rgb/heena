@@ -69,6 +69,7 @@ See `books/BOOKS-AND-ESSAYS.md` and `hodges-educause.md`. All eight items were f
 | 30 | van Dijk (2020) | Polity / Wiley ISBN 978-1-509-53445-6 |
 | 31 | van Lier (2004) | Kluwer / Springer |
 | 32 | Warschauer (2003) | MIT Press ISBN 9780262232241 |
+| 33 | Yu & Xu (2022), *Journal of International Students, 12*(S1), 45-60 | https://doi.org/10.32674/jis.v12iS1.4607 | True | Publisher record at ojed.org/jis | Learner-side South Asian online Chinese questionnaire. English title used in the manuscript. |
 
 ## Corrections made because of this audit
 
