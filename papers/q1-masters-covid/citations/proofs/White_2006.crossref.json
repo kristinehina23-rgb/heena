@@ -1,0 +1,183 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          27
+        ]
+      ],
+      "date-time": "2026-05-27T18:44:33Z",
+      "timestamp": 1779907473887,
+      "version": "3.53.1"
+    },
+    "reference-count": 0,
+    "publisher": "Cambridge University Press (CUP)",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2006,
+              9,
+              26
+            ]
+          ],
+          "date-time": "2006-09-26T00:00:00Z",
+          "timestamp": 1159228800000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://www.cambridge.org/core/terms"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Lang. Teach."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2006,
+          10
+        ]
+      ]
+    },
+    "abstract": "<jats:p>This article provides a critical overview of the field of distance language learning, challenging the way in which the field is often narrowly conceptualised as the development of technology-mediated language learning opportunities. Early sections focus on issues of concept and definition and both theoretical and pedagogical perspectives on the field. Emphasis is placed on evident shifts from a concern with structural and organisational issues to a focus on transactional issues associated with teaching/learning opportunities within emerging paradigms for distance language learning. The next section reviews choices and challenges in incorporating technology into distance language learning environments, foregrounding decisions about technology made in particular sociocultural contexts, the contribution of \u2018low-end\u2019 technologies and research directions in developing new learning spaces and in using online technologies. The investigation of learner contributions to distance language learning is an important avenue of enquiry in the field, given the preoccupation with technology and virtual learning environments, and this is the subject of section six. The two final sections identify future research directions and provide a series of conclusions about research and practice in distance language learning as technology-mediated interactions increasingly come to influence the way we think about the processes of language learning and teaching.</jats:p>",
+    "DOI": "10.1017/s0261444806003727",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2006,
+          9,
+          26
+        ]
+      ],
+      "date-time": "2006-09-26T12:28:17Z",
+      "timestamp": 1159273697000
+    },
+    "page": "247-264",
+    "source": "Crossref",
+    "is-referenced-by-count": 75,
+    "title": [
+      "Distance learning of foreign languages"
+    ],
+    "prefix": "10.1017",
+    "volume": "39",
+    "author": [
+      {
+        "given": "Cynthia",
+        "family": "White",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "56",
+    "published-online": {
+      "date-parts": [
+        [
+          2006,
+          9,
+          26
+        ]
+      ]
+    },
+    "container-title": [
+      "Language Teaching"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0261444806003727",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          2
+        ]
+      ],
+      "date-time": "2019-05-02T19:43:09Z",
+      "timestamp": 1556826189000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.cambridge.org/core/product/identifier/S0261444806003727/type/journal_article"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          9,
+          26
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2006,
+            10
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0261444806003727"
+    ],
+    "URL": "https://doi.org/10.1017/s0261444806003727",
+    "relation": {},
+    "ISSN": [
+      "0261-4448",
+      "1475-3049"
+    ],
+    "issn-type": [
+      {
+        "value": "0261-4448",
+        "type": "print"
+      },
+      {
+        "value": "1475-3049",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2006,
+          9,
+          26
+        ]
+      ]
+    }
+  }
+}

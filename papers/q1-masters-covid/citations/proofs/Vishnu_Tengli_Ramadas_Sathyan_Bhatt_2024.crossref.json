@@ -1,0 +1,1016 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          3
+        ]
+      ],
+      "date-time": "2026-06-03T21:18:56Z",
+      "timestamp": 1780521536028,
+      "version": "3.54.1"
+    },
+    "reference-count": 73,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              17
+            ]
+          ],
+          "date-time": "2024-09-17T00:00:00Z",
+          "timestamp": 1726531200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              17
+            ]
+          ],
+          "date-time": "2024-09-17T00:00:00Z",
+          "timestamp": 1726531200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "TechTrends"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1007/s11528-024-00997-4",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          18
+        ]
+      ],
+      "date-time": "2024-09-18T13:07:19Z",
+      "timestamp": 1726664839000
+    },
+    "page": "1107-1116",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+      "Bridging the Divide: Assessing Digital Infrastructure for Higher Education Online Learning"
+    ],
+    "prefix": "10.1007",
+    "volume": "68",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-3012-2386",
+        "authenticated-orcid": false,
+        "given": "Sreeram",
+        "family": "Vishnu",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8664-3925",
+        "authenticated-orcid": false,
+        "given": "Mahesh B",
+        "family": "Tengli",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5336-6415",
+        "authenticated-orcid": false,
+        "given": "Sendhil",
+        "family": "Ramadas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7526-4452",
+        "authenticated-orcid": false,
+        "given": "Archana Raghavan",
+        "family": "Sathyan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Archana",
+        "family": "Bhatt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          17
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "997_CR1",
+        "unstructured": "Agrawal, S., Mani, S., Jain, A., & Ganesan, K. (2020). State of electricity access in India: Insights from the India Residential Energy Survey (IRES) 2020. Council on Energy, Environment and Water (CEEW). https://www.ceew.in/sites/default/files/CEEW-India-Residential-Energy-Survey-State-of-Electricity-Access-05Oct20.pdf"
+      },
+      {
+        "issue": "6",
+        "key": "997_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "4782",
+        "DOI": "10.3390/su15064782",
+        "volume": "15",
+        "author": "M Alenezi",
+        "year": "2023",
+        "unstructured": "Alenezi, M., Wardat, S., & Akour, M. (2023). The need of integrating digital education in higher education: Challenges and opportunities. Sustainability, 15(6), 4782. https://doi.org/10.3390/su15064782",
+        "journal-title": "Sustainability"
+      },
+      {
+        "issue": "2",
+        "key": "997_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "113",
+        "DOI": "10.1002/hbe2.191",
+        "volume": "2",
+        "author": "W Bao",
+        "year": "2020",
+        "unstructured": "Bao, W. (2020). COVID-19 and online teaching in higher education: A case study of Peking University. Human Behavior and Emerging Technologies, 2(2), 113–115. https://doi.org/10.1002/hbe2.191",
+        "journal-title": "Human Behavior and Emerging Technologies"
+      },
+      {
+        "issue": "1",
+        "key": "997_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "83",
+        "DOI": "10.1108/aaouj-09-2019-0042",
+        "volume": "15",
+        "author": "R Bordoloi",
+        "year": "2020",
+        "unstructured": "Bordoloi, R., Das, P., & Das, K. (2020). Lifelong learning opportunities through MOOCs in India. Asian Association of Open Universities Journal, 15(1), 83–95. https://doi.org/10.1108/aaouj-09-2019-0042",
+        "journal-title": "Asian Association of Open Universities Journal"
+      },
+      {
+        "issue": "1",
+        "key": "997_CR6",
+        "first-page": "1",
+        "volume": "15",
+        "author": "A Bozkurt",
+        "year": "2020",
+        "unstructured": "Bozkurt, A., Jung, I., Xiao, J., Vladimirschi, V., Schuwer, R., Egorov, G., Lambert, S., Al-Freih, M., Pete, J., Olcott, J. D., Rodes, V., Aranciaga, I., Bali, M., Alvarez, A. J., Roberts, J., Pazurek, A., Raffaghelli, J. E., Panagiotou, N., de Coëtlogon, P., & Paskevicius, M. (2020). A global outlook to the interruption of education due to COVID-19 pandemic: Navigating in a time of uncertainty and crisis. Asian Journal of Distance Education, 15(1), 1–126.",
+        "journal-title": "Asian Journal of Distance Education"
+      },
+      {
+        "issue": "1",
+        "key": "997_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "3",
+        "DOI": "10.1504/IJEB.2003.002162",
+        "volume": "1",
+        "author": "TX Bui",
+        "year": "2003",
+        "unstructured": "Bui, T. X., Sankaran, S., & Sebastian, I. M. (2003). A framework for measuring national e-readiness. International Journal of Electronic Business, 1(1), 3–22. https://doi.org/10.1504/IJEB.2003.002162",
+        "journal-title": "International Journal of Electronic Business"
+      },
+      {
+        "issue": "1",
+        "key": "997_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "155",
+        "DOI": "10.26817/16925777.711",
+        "volume": "20",
+        "author": "G Cabaleiro-Cerviño",
+        "year": "2020",
+        "unstructured": "Cabaleiro-Cerviño, G., & Vera, C. (2020). The impact of educational technologies in higher education. GIST Education and Learning Research Journal, 20(1), 155–169. https://files.eric.ed.gov/fulltext/EJ1262695.pdf",
+        "journal-title": "GIST Education and Learning Research Journal"
+      },
+      {
+        "issue": "3",
+        "key": "997_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "357",
+        "DOI": "10.1002/hbe2.240",
+        "volume": "3",
+        "author": "P Chakraborty",
+        "year": "2020",
+        "unstructured": "Chakraborty, P., Mittal, P., Gupta, M., Yadav, S., & Arora, A. (2020). Opinion of students on online education during the COVID-19 pandemic. Human Behavior and Emerging Technologies, 3(3), 357–365. https://doi.org/10.1002/hbe2.240",
+        "journal-title": "Human Behavior and Emerging Technologies"
+      },
+      {
+        "issue": "2",
+        "key": "997_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "152",
+        "DOI": "10.1177/0047239518795828",
+        "volume": "47",
+        "author": "LY Chaw",
+        "year": "2018",
+        "unstructured": "Chaw, L. Y., & Tang, C. M. (2018). What makes learning management systems effective for learning? Journal of Educational Technology Systems, 47(2), 152–169. https://doi.org/10.1177/0047239518795828",
+        "journal-title": "Journal of Educational Technology Systems"
+      },
+      {
+        "key": "997_CR11",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Chugh, R., Turnbull, D., Cowling, M. A., Vanderburg, R., & Vanderburg, M. A. (2023). Implementing educational technology in Higher Education Institutions: A review of technologies, stakeholder perceptions, frameworks and metrics. Education and Information Technologies, 28(12), 16403–16429. https://doi.org/10.1007/s10639-023-11846-x",
+        "DOI": "10.1007/s10639-023-11846-x"
+      },
+      {
+        "issue": "24",
+        "key": "997_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "10367",
+        "DOI": "10.3390/su122410367",
+        "volume": "12",
+        "author": "C Coman",
+        "year": "2020",
+        "unstructured": "Coman, C., Țîru, L. G., Meseșan-Schmitz, L., Stanciu, C., & Bularca, M. C. (2020). Online teaching and learning in higher education during the coronavirus pandemic: Students’ perspective. Sustainability, 12(24), 10367. https://doi.org/10.3390/su122410367",
+        "journal-title": "Sustainability"
+      },
+      {
+        "key": "997_CR14",
+        "unstructured": "Department of Higher Education (2020). All India Survey on Higher Education 2019-20. Ministry of Education, Government of India. https://www.education.gov.in/sites/upload_files/mhrd/files/statistics-new/aishe_eng.pdf"
+      },
+      {
+        "issue": "1",
+        "key": "997_CR15",
+        "first-page": "1",
+        "volume": "25",
+        "author": "SN Deshmukh",
+        "year": "2022",
+        "unstructured": "Deshmukh, S. N., & Kale, R. (2022). The impact of IT infrastructure on higher education in Maharashtra. Journal of Educational Technology & Society, 25(1), 1–15.",
+        "journal-title": "Journal of Educational Technology & Society"
+      },
+      {
+        "key": "997_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "102211",
+        "DOI": "10.1016/j.ijinfomgt.2020.102211",
+        "volume": "55",
+        "author": "Y Dwivedi",
+        "year": "2020",
+        "unstructured": "Dwivedi, Y., Hughes, L., Coombs, C., Constantiou, I., Duan, Y., & Edwards, J. (2020). Impact of COVID-19 pandemic on information management research and practice: Transforming education, work and life. International Journal of Information Management, 55, 102211. https://doi.org/10.1016/j.ijinfomgt.2020.102211",
+        "journal-title": "International Journal of Information Management"
+      },
+      {
+        "issue": "3",
+        "key": "997_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1186/s41239-017-0087-5",
+        "volume": "15",
+        "author": "C Dziuban",
+        "year": "2018",
+        "unstructured": "Dziuban, C., Graham, C. R., Moskal, P. D., Norberg, A., & Sicilia, N. (2018). Blended learning: The new normal and emerging technologies. International Journal of Educational Technology in Higher Education, 15(3), 1–16. https://doi.org/10.1186/s41239-017-0087-5",
+        "journal-title": "International Journal of Educational Technology in Higher Education"
+      },
+      {
+        "key": "997_CR18",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Farahmand, A., Dewan, M. A. A., Lin, F. Student-facing educational dashboard design for online learners. In 2020 IEEE International Conference on Dependable, Autonomic and Secure Computing, International Conference on Pervasive Intelligence and Computing, International Conference on Cloud and Big Data Computing, International Conference on Cyber Science and, & Congress, T. (2020). (DASC/PiCom/CBDCom/CyberSciTech) (pp. 345–349). https://doi.org/10.1109/DASC-PICom-CBDCom-CyberSciTech49142.2020.00067",
+        "DOI": "10.1109/DASC-PICom-CBDCom-CyberSciTech49142.2020.00067"
+      },
+      {
+        "issue": "4",
+        "key": "997_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "331",
+        "DOI": "10.15206/ajpor.2021.9.4.331",
+        "volume": "9",
+        "author": "MP Goswami",
+        "year": "2021",
+        "unstructured": "Goswami, M. P., Thanvi, J., & Padhi, S. R. (2021). Impact of online learning in India: A survey of university students during the COVID-19 crisis. Asian Journal for Public Opinion Research, 9(4), 331–351. https://doi.org/10.15206/ajpor.2021.9.4.331",
+        "journal-title": "Asian Journal for Public Opinion Research"
+      },
+      {
+        "key": "997_CR21",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Greenhow, C., Graham, C. R., & Koehler, M. J. (2022). Foundations of online learning: Challenges and opportunities. Educational Psychologist, 57(3), 131–147. https://doi.org/10.1080/00461520.2022.2090364",
+        "DOI": "10.1080/00461520.2022.2090364"
+      },
+      {
+        "key": "997_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "275",
+        "DOI": "10.1016/j.susoc.2022.05.004",
+        "volume": "3",
+        "author": "A Haleem",
+        "year": "2022",
+        "unstructured": "Haleem, A., Javaid, M., Qadri, M. A., & Suman, R. (2022). Understanding the role of digital technologies in education: A review. Sustainable Operations and Computers, 3, 275–285. https://doi.org/10.1016/j.susoc.2022.05.004",
+        "journal-title": "Sustainable Operations and Computers"
+      },
+      {
+        "issue": "7",
+        "key": "997_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "385",
+        "DOI": "10.1016/j.telpol.2009.04.002",
+        "volume": "33",
+        "author": "MR Hanafizadeh",
+        "year": "2009",
+        "unstructured": "Hanafizadeh, M. R., Saghaei, A., & Hanafizadeh, P. (2009). An index for cross-country analysis of ICT infrastructure and access. Telecommunications Policy, 33(7), 385–405. https://doi.org/10.1016/j.telpol.2009.04.002",
+        "journal-title": "Telecommunications Policy"
+      },
+      {
+        "key": "997_CR24",
+        "unstructured": "Hodges, B. C., Moore, S., Lockee, B. B., Trust, T., & Bond, M. (2020). The difference between emergency remote teaching and online learning. Educational Review. https://vtechworks.lib.vt.edu/handle/10919/104648"
+      },
+      {
+        "key": "997_CR25",
+        "unstructured": "IEEE CTU (2021). The digital divide in developing countries: Why we need to close the gap. IEEE CTU. https://ctu.ieee.org/whats-new/"
+      },
+      {
+        "key": "997_CR26",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Ignatyeva, I. (2015). The trend of technologization of modern education (the use of humanitarian technologies). Proceedings - Social and Behavioral Sciences, 214, 606–613. https://doi.org/10.1016/j.sbspro.2015.11.766",
+        "DOI": "10.1016/j.sbspro.2015.11.766"
+      },
+      {
+        "key": "997_CR27",
+        "unstructured": "International Telecommunication Union (2007). Digital Opportunity Index (DOI). https://www.itu.int/ITU-D/ict/doi/index.html"
+      },
+      {
+        "key": "997_CR28",
+        "unstructured": "International Telecommunication Union (2017). Measuring the information society report 2017. https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2017.aspx"
+      },
+      {
+        "key": "997_CR29",
+        "unstructured": "International Telecommunication Union (2019). Digital skills insights 2019. ITU. https://academy.itu.int/itu-d/projects-activities/research-publications/digital-skills-insights/digital-skills-insights-2019"
+      },
+      {
+        "key": "997_CR30",
+        "unstructured": "Internet and Mobile Association of India (2022). Internet in India 2022. https://www.iamai.in/sites/default/files/research/Internet%20in%20India%202022_Print%20version.pdf"
+      },
+      {
+        "key": "997_CR31",
+        "unstructured": "Internet and Mobile Association of India (2019). Digital in India 2019-Round 2 Report. Nielsen Holdings plc. https://cms.iamai.in/Content/ResearchPapers/2286f4d7-424f-4bde-be88-6415fe5021d5.pdf"
+      },
+      {
+        "key": "997_CR33",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Johnson, I. E., Nkanu, C. U., & Udo, A. L. (2021). Checkmating the weaknesses associated with information and communication technologies in education for improved effectiveness and efficiency. Journal of Education and Practice, 12(8), 80–85. https://doi.org/10.7176/JEP/12-8-11",
+        "DOI": "10.7176/JEP/12-8-11"
+      },
+      {
+        "issue": "1",
+        "key": "997_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "32",
+        "DOI": "10.1108/INFO-10-2013-0051",
+        "volume": "16",
+        "author": "R Katz",
+        "year": "2014",
+        "unstructured": "Katz, R., Koutroumpis, P., & Callorda, F. M. (2014). Using a digitization index to measure the economic and social impact of digital agendas. Info, 16(1), 32–44. https://doi.org/10.1108/INFO-10-2013-0051",
+        "journal-title": "Info"
+      },
+      {
+        "key": "997_CR35",
+        "unstructured": "Kloza, B. (2023, January 23). Digital divide in developing countries: Why we need to close the gap - Connecting the unconnected. Connecting the Unconnected. https://ctu.ieee.org/digital-divide-in-developing-countries-why-we-need-to-close-the-gap/"
+      },
+      {
+        "key": "997_CR39",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Kumar Jha, A., & Singh, A. (2020). Digital education in India: Challenges and their solutions. https://doi.org/10.13140/RG.2.2.32600.32000",
+        "DOI": "10.13140/RG.2.2.32600.32000"
+      },
+      {
+        "key": "997_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "405",
+        "DOI": "10.1002/rev3.3250",
+        "volume": "9",
+        "author": "S Maity",
+        "year": "2020",
+        "unstructured": "Maity, S., Sahu, T. N., & Sen, N. (2020). Panoramic view of digital education in COVID-19: A new explored avenue. Review of Education, 9, 405–423. https://doi.org/10.1002/rev3.3250",
+        "journal-title": "Review of Education"
+      },
+      {
+        "key": "997_CR41",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Majerová, I. (2018). Regional development and its measurement in Visegrad Group countries. DETUROPE – The central European Journal of Regional Development and Tourism, 10(2), 17–37. https://www.deturope.eu/pdfs/det/2018/02/02.pdf",
+        "DOI": "10.32725/det.2018.011"
+      },
+      {
+        "issue": "1",
+        "key": "997_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "100281",
+        "DOI": "10.1016/j.ssaho.2022.100281",
+        "volume": "6",
+        "author": "AVD Martín",
+        "year": "2022",
+        "unstructured": "Martín, A. V. D., & Ramos, J. M. L. (2022). DEIFDC framework: Evaluation of digital education deployment in India in the midst of the Covid-19 pandemic. Social Sciences & Humanities Open, 6(1), 100281. https://doi.org/10.1016/j.ssaho.2022.100281",
+        "journal-title": "Social Sciences & Humanities Open"
+      },
+      {
+        "issue": "5",
+        "key": "997_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "625",
+        "DOI": "10.1080/14767724.2021.1981253",
+        "volume": "20",
+        "author": "A Mathrani",
+        "year": "2022",
+        "unstructured": "Mathrani, A., Sarvesh, T., & Umer, R. (2022). Digital divide framework: Online learning in developing countries during the COVID-19 lockdown. Globalisation Societies and Education, 20(5), 625–640. https://doi.org/10.1080/14767724.2021.1981253",
+        "journal-title": "Globalisation Societies and Education"
+      },
+      {
+        "key": "997_CR45",
+        "doi-asserted-by": "publisher",
+        "first-page": "1191995",
+        "DOI": "10.3389/fcomm.2023.1191995",
+        "volume": "8",
+        "author": "P Méndez-Domínguez",
+        "year": "2023",
+        "unstructured": "Méndez-Domínguez, P., Muñoz, C., Raya, D., Díez, E., & De Castillo, J. (2023). Digital inclusion for social inclusion: Case study on digital literacy. Frontiers in Communication, 8, 1191995. https://doi.org/10.3389/fcomm.2023.1191995",
+        "journal-title": "Frontiers in Communication"
+      },
+      {
+        "key": "997_CR48",
+        "doi-asserted-by": "publisher",
+        "first-page": "100012",
+        "DOI": "10.1016/j.ijedro.2020.100012",
+        "volume": "1",
+        "author": "L Mishra",
+        "year": "2020",
+        "unstructured": "Mishra, L., Gupta, T., & Shree, A. (2020). Online teaching-learning in higher education during lockdown period of COVID-19 pandemic. International Journal of Educational Research Open, 1, 100012. https://doi.org/10.1016/j.ijedro.2020.100012",
+        "journal-title": "International Journal of Educational Research Open"
+      },
+      {
+        "key": "997_CR49",
+        "unstructured": "Mittal, P., & Pani, S. R. D. (2020). Reimagining Indian universities. Association of Indian Universities, Springer Nature India Pvt. Ltd. https://www.aiu.ac.in/documents/AIU_Publications/AIU%20Books/Reimagining%20Indian%20Universities.pdf"
+      },
+      {
+        "issue": "5",
+        "key": "997_CR50",
+        "first-page": "10",
+        "volume": "10",
+        "author": "A Mittal",
+        "year": "2021",
+        "unstructured": "Mittal, A., Mittal, V., & Goyal, A. (2021). E-learning in higher education: Challenges and opportunities in the Indian context. International Journal of Innovative Technology and Exploring Engineering (IJITEE), 10(5), 10–16.",
+        "journal-title": "International Journal of Innovative Technology and Exploring Engineering (IJITEE)"
+      },
+      {
+        "issue": "1",
+        "key": "997_CR53",
+        "doi-asserted-by": "publisher",
+        "first-page": "em0090",
+        "DOI": "10.29333/pr/9665",
+        "volume": "6",
+        "author": "GL Naik",
+        "year": "2021",
+        "unstructured": "Naik, G. L., Deshpande, M., Shivananda, D. C., Ajey, C. P., & Manjunath Patel, G. C. (2021). Online teaching and learning of higher education in India during COVID-19 emergency lockdown. Pedagogical Research, 6(1), em0090. https://doi.org/10.29333/pr/9665",
+        "journal-title": "Pedagogical Research"
+      },
+      {
+        "key": "997_CR55",
+        "unstructured": "Organisation for Economic Co-operation and Development (2008). Handbook on constructing composite indicators: Methodology and user guide. https://www.oecd.org/sdd/42495745.pdf"
+      },
+      {
+        "key": "997_CR56",
+        "unstructured": "Organisation for Economic Co-operation and Development (2016). Skills for a digital world. OECD Publishing. https://www.oecd.org/els/emp/Skills-for-a-Digital-World.pdf"
+      },
+      {
+        "key": "997_CR58",
+        "unstructured": "Oxford University Press (2021). Education: The journey towards a digital revolution. https://global.oup.com/news-items/OUP_DigitalReportFinal.pdf?cc=gb"
+      },
+      {
+        "key": "997_CR60",
+        "doi-asserted-by": "publisher",
+        "first-page": "234763112098348",
+        "DOI": "10.1177/2347631120983481",
+        "volume": "8",
+        "author": "S Pokhrel",
+        "year": "2021",
+        "unstructured": "Pokhrel, S., & Chhetri, R. (2021). A literature review on impact of COVID-19 pandemic on teaching and learning. Higher Education for the Future, 8, 234763112098348. https://doi.org/10.1177/2347631120983481",
+        "journal-title": "Higher Education for the Future"
+      },
+      {
+        "key": "997_CR61",
+        "unstructured": "QS I Gauge (2020). A wake-up call for Indian internet service providers: Indian students exclusive. https://www.igauge.in/admin/uploaded/report/files/QSIGAUGECOVIDISPReportApril2020_1606732097.pdf"
+      },
+      {
+        "issue": "1",
+        "key": "997_CR62",
+        "doi-asserted-by": "publisher",
+        "first-page": "71",
+        "DOI": "10.1177/2347631120980549",
+        "volume": "8",
+        "author": "A Rahman",
+        "year": "2021",
+        "unstructured": "Rahman, A. (2021). Using students’ experience to derive effectiveness of COVID-19-lockdown-induced emergency online learning at undergraduate level: Evidence from Assam, India. Higher Education for the Future, 8(1), 71–89. https://doi.org/10.1177/2347631120980549",
+        "journal-title": "Higher Education for the Future"
+      },
+      {
+        "issue": "11",
+        "key": "997_CR63",
+        "first-page": "456",
+        "volume": "11",
+        "author": "P Rajendran",
+        "year": "2022",
+        "unstructured": "Rajendran, P. (2022). A study of IT infrastructure in higher education institutions in Tamil Nadu. International Journal of Engineering Research & Technology (IJERT), 11(11), 456–462.",
+        "journal-title": "International Journal of Engineering Research & Technology (IJERT)"
+      },
+      {
+        "issue": "2",
+        "key": "997_CR64",
+        "doi-asserted-by": "publisher",
+        "first-page": "340",
+        "DOI": "10.1177/0973703020946700",
+        "volume": "14",
+        "author": "S Rashid",
+        "year": "2020",
+        "unstructured": "Rashid, S., & Yadav, S. S. (2020). Impact of COVID-19 pandemic on higher education and research. Indian Journal of Human Development, 14(2), 340–343. https://doi.org/10.1177/0973703020946700",
+        "journal-title": "Indian Journal of Human Development"
+      },
+      {
+        "issue": "5",
+        "key": "997_CR65",
+        "doi-asserted-by": "publisher",
+        "first-page": "1439",
+        "DOI": "10.1007/S10113-017-1273-7",
+        "volume": "18",
+        "author": "D Reckien",
+        "year": "2018",
+        "unstructured": "Reckien, D. (2018). What is in an index? Construction method, data metric, and weighting scheme determine the outcome of composite social vulnerability indices in New York City. Regional Environmental Change, 18(5), 1439–1451. https://doi.org/10.1007/S10113-017-1273-7",
+        "journal-title": "Regional Environmental Change"
+      },
+      {
+        "issue": "1",
+        "key": "997_CR66",
+        "doi-asserted-by": "publisher",
+        "first-page": "72",
+        "DOI": "10.1353/ctt.2003.0009",
+        "volume": "1",
+        "author": "M Rice",
+        "year": "2003",
+        "unstructured": "Rice, M. (2003). Information and communication technologies and the global digital divide: Technology transfer, development, and least developing countries. Comparative Technology Transfer and Society, 1(1), 72–88.",
+        "journal-title": "Comparative Technology Transfer and Society"
+      },
+      {
+        "key": "997_CR67",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Roy, S., & Brown, S. (2022). Higher education in India in the time of pandemic, sans a learning management system. AERA Open, 8. https://doi.org/10.1177/23328584211069527",
+        "DOI": "10.1177/23328584211069527"
+      },
+      {
+        "key": "997_CR68",
+        "unstructured": "Saisana, M., & Tarantola, S. (2002). State-of-the-art report on current methodologies and practices for composite indicator development. https://cv.uoc.edu/moduls/UW08_M3105_00015/web/main/fichas/material/ISPRA_2002.pdf"
+      },
+      {
+        "key": "997_CR69",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/FEDUC.2021.703723",
+        "author": "SS Sarkar",
+        "year": "2021",
+        "unstructured": "Sarkar, S. S., Das, P., Rahman, M. M., & Zobaer, M. S. (2021). Perceptions of public university students towards online classes during COVID-19 pandemic in Bangladesh. Frontiers in Education. https://doi.org/10.3389/FEDUC.2021.703723",
+        "journal-title": "Frontiers in Education"
+      },
+      {
+        "key": "997_CR70",
+        "doi-asserted-by": "publisher",
+        "first-page": "102444",
+        "DOI": "10.1016/j.ijedudev.2021.102444",
+        "volume": "85",
+        "author": "A Selvaraj",
+        "year": "2021",
+        "unstructured": "Selvaraj, A., Radhin, V., Nithin, K. A., Benson, N., & Mathew, A. J. (2021). Effect of pandemic-based online education on teaching and learning system. International Journal of Educational Development, 85, 102444. https://doi.org/10.1016/j.ijedudev.2021.102444",
+        "journal-title": "International Journal of Educational Development"
+      },
+      {
+        "key": "997_CR71",
+        "unstructured": "Shamika, R., & Gupta, N. (2019). Reviving higher education in India. Brookings Institution. https://www.brookings.edu/wp-content/uploads/2019/11/Reviving-Higher-Education-in-India-email-1.pdf"
+      },
+      {
+        "issue": "1",
+        "key": "997_CR73",
+        "first-page": "39",
+        "volume": "8",
+        "author": "YA Sheikh",
+        "year": "2017",
+        "unstructured": "Sheikh, Y. A. (2017). Higher education in India: Challenges and opportunities. Journal of Education and Practice, 8(1), 39–42.",
+        "journal-title": "Journal of Education and Practice"
+      },
+      {
+        "issue": "3",
+        "key": "997_CR74",
+        "first-page": "235",
+        "volume": "10",
+        "author": "S Singh",
+        "year": "2020",
+        "unstructured": "Singh, S., & Kumar, A. (2020). Impact of poor IT infrastructure on online learning: A study of university students in India. International Journal of Research in Educational Technology, 10(3), 235–245.",
+        "journal-title": "International Journal of Research in Educational Technology"
+      },
+      {
+        "issue": "4",
+        "key": "997_CR75",
+        "first-page": "53",
+        "volume": "13",
+        "author": "P Singh",
+        "year": "2022",
+        "unstructured": "Singh, P., & Mishra, R. (2022). The impact of digital education on higher education in India. International Journal of Educational Research and Innovation, 13(4), 53–62.",
+        "journal-title": "International Journal of Educational Research and Innovation"
+      },
+      {
+        "issue": "7",
+        "key": "997_CR77",
+        "doi-asserted-by": "publisher",
+        "first-page": "em1851",
+        "DOI": "10.29333/ejmste/7893",
+        "volume": "16",
+        "author": "EJ Sintema",
+        "year": "2020",
+        "unstructured": "Sintema, E. J. (2020). Effect of COVID-19 on the performance of grade 12 students: Implications for STEM education. Eurasia Journal of Mathematics Science and Technology Education, 16(7), em1851. https://doi.org/10.29333/ejmste/7893",
+        "journal-title": "Eurasia Journal of Mathematics Science and Technology Education"
+      },
+      {
+        "issue": "4",
+        "key": "997_CR78",
+        "doi-asserted-by": "publisher",
+        "first-page": "66",
+        "DOI": "10.3390/resources6040066",
+        "volume": "6",
+        "author": "B Talukder",
+        "year": "2017",
+        "unstructured": "Talukder, B., Hipel, K. W., & van Loon, G. W. (2017). Developing composite indicators for agricultural sustainability assessment: Effect of normalization and aggregation techniques. Resources, 6(4), 66–74. https://doi.org/10.3390/resources6040066",
+        "journal-title": "Resources"
+      },
+      {
+        "issue": "2",
+        "key": "997_CR79",
+        "doi-asserted-by": "publisher",
+        "first-page": "325",
+        "DOI": "10.1007/s11069-012-0152-2",
+        "volume": "63",
+        "author": "E Tate",
+        "year": "2012",
+        "unstructured": "Tate, E. (2012). Social vulnerability indices: A comparative assessment using uncertainty and sensitivity analysis. Natural Hazards, 63(2), 325–347. https://doi.org/10.1007/s11069-012-0152-2",
+        "journal-title": "Natural Hazards"
+      },
+      {
+        "key": "997_CR80",
+        "unstructured": "Telecom Regulatory Authority of India (2020). The Indian telecom services performance indicators April – June, 2020. Government of India. https://www.trai.gov.in/sites/default/files/Report_09112020_0.pdf"
+      },
+      {
+        "issue": "3",
+        "key": "997_CR82",
+        "first-page": "88",
+        "volume": "1",
+        "author": "K Tembo",
+        "year": "2019",
+        "unstructured": "Tembo, K., & Mwale, C. G. (2019). Expanding access to higher education in public universities through open and distance learning (ODL) in Malawi: Quality issues. International Journal of Engineering Science and Management, 1(3), 88–96.",
+        "journal-title": "International Journal of Engineering Science and Management"
+      },
+      {
+        "key": "997_CR83",
+        "unstructured": "Tobenkin, D. (2022, April 12). India’s higher education landscape. NAFSA. Retrieved September 6, 2024, from https://www.nafsa.org/ie-magazine/2022/4/12/indias-higher-education-landscape"
+      },
+      {
+        "issue": "1",
+        "key": "997_CR84",
+        "doi-asserted-by": "publisher",
+        "first-page": "98",
+        "DOI": "10.1080/13538322.2019.1603611",
+        "volume": "25",
+        "author": "CE Tømte",
+        "year": "2019",
+        "unstructured": "Tømte, C. E., Fossland, T., Aamodt, P. O., & Degn, L. (2019). Digitalisation in higher education: Mapping institutional approaches for teaching and learning. Quality in Higher Education, 25(1), 98–114. https://doi.org/10.1080/13538322.2019.1603611",
+        "journal-title": "Quality in Higher Education"
+      },
+      {
+        "key": "997_CR85",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Tulinayo, F. P., Ssentume, P., & Najjuma, R. (2018). Digital technologies in resource constrained higher institutions of learning: a study on students’ acceptance and usability. International Journal of Educational Technology in Higher Education, 15(1), 1–19. https://doi.org/10.1186/s41239-018-0117-y",
+        "DOI": "10.1186/s41239-018-0117-y"
+      },
+      {
+        "key": "997_CR86",
+        "unstructured": "UNESCO (2022). State of broadband 2022: Achieving inclusive digital development. https://unesdoc.unesco.org/ark:/48223/pf0000383330"
+      },
+      {
+        "key": "997_CR87",
+        "unstructured": "University Grants Commission (2020). Blended mode of teaching and learning: Concept note. Government of India. https://www.ugc.ac.in/pdfnews/6100340_Concept-Note-Blended-Mode-of-Teaching-and-Learning.pdf"
+      },
+      {
+        "key": "997_CR88",
+        "unstructured": "Verma, N., Kumar, K., & Saroha, V. K. (2024). Examining advanced pedagogies using digital tools for enhanced academic engagement in haryana's higher education amidst the covid-19 crisis. Educational Administration: Theory and Practice, 30(6), 3702–3711."
+      },
+      {
+        "issue": "1",
+        "key": "997_CR89",
+        "doi-asserted-by": "publisher",
+        "first-page": "100320",
+        "DOI": "10.1016/j.ssaho.2022.100320",
+        "volume": "6",
+        "author": "S Vishnu",
+        "year": "2022",
+        "unstructured": "Vishnu, S., Sathyan, A. R., Sam, A. S., Radhakrishnan, A., Ragavan, S. O., Kandathil, J. V., & Funk, C. (2022). Digital competence of higher education learners in the context of COVID-19 triggered online learning. Social Sciences & Humanities Open, 6(1), 100320. https://doi.org/10.1016/j.ssaho.2022.100320",
+        "journal-title": "Social Sciences & Humanities Open"
+      },
+      {
+        "key": "997_CR90",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Weziak-Bialowolska, D. (2014). Normalisation. In 12th JRC Annual Training on Composite Indicators & Multicriteria Decision Analysis (COIN 2014) (pp. 1–26). https://doi.org/10.2788/10063",
+        "DOI": "10.2788/10063"
+      },
+      {
+        "key": "997_CR91",
+        "unstructured": "World Bank. (2020). The World Bank Education Strategy 2020–2025: Learning for a world on the move. World Bank. http://wbgfiles.worldbank.org/documents/hdn/ed/saber/Education_Strategy_2020.pdf"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1007/s11528-024-01005-5",
+        "type": "correction",
+        "label": "Correction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              30
+            ]
+          ],
+          "date-time": "2024-09-30T00:00:00Z",
+          "timestamp": 1727654400000
+        }
+      }
+    ],
+    "container-title": [
+      "TechTrends"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11528-024-00997-4.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s11528-024-00997-4/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11528-024-00997-4.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          28
+        ]
+      ],
+      "date-time": "2024-11-28T09:07:06Z",
+      "timestamp": 1732784826000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s11528-024-00997-4"
+      }
+    },
+    "subtitle": [
+      "Authors and Contact Information:"
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          17
+        ]
+      ]
+    },
+    "references-count": 73,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            11
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "997"
+    ],
+    "URL": "https://doi.org/10.1007/s11528-024-00997-4",
+    "relation": {
+      "correction": [
+        {
+          "id-type": "doi",
+          "id": "10.1007/s11528-024-01005-5",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "8756-3894",
+      "1559-7075"
+    ],
+    "issn-type": [
+      {
+        "value": "8756-3894",
+        "type": "print"
+      },
+      {
+        "value": "1559-7075",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          17
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "29 August 2024",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "17 September 2024",
+        "order": 2,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "30 September 2024",
+        "order": 3,
+        "name": "change_date",
+        "label": "Change Date",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "Update",
+        "order": 4,
+        "name": "change_type",
+        "label": "Change Type",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "The original online version of this article was revised: the affiliation of Archana Raghavan Sathyan was corrected.",
+        "order": 5,
+        "name": "change_details",
+        "label": "Change Details",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "30 September 2024",
+        "order": 6,
+        "name": "change_date",
+        "label": "Change Date",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "Correction",
+        "order": 7,
+        "name": "change_type",
+        "label": "Change Type",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "A Correction to this paper has been published:",
+        "order": 8,
+        "name": "change_details",
+        "label": "Change Details",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "https://doi.org/10.1007/s11528-024-01005-5",
+        "URL": "https://doi.org/10.1007/s11528-024-01005-5",
+        "order": 9,
+        "name": "change_details",
+        "label": "Change Details",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "The authors have no competing interests to declare relevant to this article’s content.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "<!--Emphasis Type='Bold' removed-->Competing Interests"
+        }
+      }
+    ]
+  }
+}

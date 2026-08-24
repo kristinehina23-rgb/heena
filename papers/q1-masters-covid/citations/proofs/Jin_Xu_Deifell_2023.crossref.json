@@ -1,0 +1,463 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          28
+        ]
+      ],
+      "date-time": "2025-11-28T21:17:36Z",
+      "timestamp": 1764364656881,
+      "version": "3.37.3"
+    },
+    "reference-count": 34,
+    "publisher": "Wiley",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              5,
+              7
+            ]
+          ],
+          "date-time": "2023-05-07T00:00:00Z",
+          "timestamp": 1683417600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Foreign Language Annals"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          3
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>The COVID\u201019 pandemic enabled an unprecedented remote teaching experience for world language faculty who had to move their courses online in spring 2020. Previous studies show that faculty background characteristics affect their perceptions of and experience with online teaching. The present study examined the effect of two college\u2010level world language faculty background characteristics (prior experience with online language teaching and academic rank) on their perceptions of online language teaching during the pandemic (perceived value of online language teaching, self\u2010confidence in online language teaching, and stress felt during the pandemic). A mixed\u2010methods approach was adopted to analyze data collected from a large\u2010scale online questionnaire and follow\u2010up interviews. The results show very complex relationships between college\u2010level world language faculty background characteristics and their perceptions of online language teaching during the pandemic. Based on the findings, the study also provides suggestions for world language faculty professional development to prepare for crisis\u2010prompted and planned online language teaching in the future.</jats:p>",
+    "DOI": "10.1111/flan.12689",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          8
+        ]
+      ],
+      "date-time": "2023-05-08T06:48:55Z",
+      "timestamp": 1683528535000
+    },
+    "page": "137-162",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "College\u2010level world language faculty background characteristics and their perceptions of online language teaching during the pandemic"
+    ],
+    "prefix": "10.1111",
+    "volume": "57",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-6078-5837",
+        "authenticated-orcid": false,
+        "given": "Li",
+        "family": "Jin",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Modern Languages DePaul University Chicago Illinois USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3673-057X",
+        "authenticated-orcid": false,
+        "given": "Yi",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of East Asian Languages and Literatures University of Pittsburgh Pittsburgh Pennsylvania USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2274-1443",
+        "authenticated-orcid": false,
+        "given": "Elizabeth",
+        "family": "Deifell",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Languages, Literatures, and Cultures Appalachian State University Boone North Carolina USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          7
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_8_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-84067-9_1"
+      },
+      {
+        "key": "e_1_2_8_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/j.ctv1nc6rkf"
+      },
+      {
+        "key": "e_1_2_8_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/08923647.2020.1692553"
+      },
+      {
+        "key": "e_1_2_8_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0958344012000249"
+      },
+      {
+        "key": "e_1_2_8_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-84067-9_5"
+      },
+      {
+        "key": "e_1_2_8_7_1",
+        "first-page": "209",
+        "volume-title": "Handbook on mixed methods in the behavioral and social sciences",
+        "author": "Creswell J. W.",
+        "year": "2003"
+      },
+      {
+        "volume-title": "Discovering statistics using IBM SPSS",
+        "year": "2013",
+        "author": "Field A.",
+        "key": "e_1_2_8_8_1"
+      },
+      {
+        "key": "e_1_2_8_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/flan.12460"
+      },
+      {
+        "key": "e_1_2_8_10_1",
+        "first-page": "51",
+        "volume-title": "From theory and research to new directions in language teaching",
+        "author": "Goertler S.",
+        "year": "2019"
+      },
+      {
+        "volume-title": "Doing qualitative research education settings",
+        "year": "2002",
+        "author": "Hatch J. A.",
+        "key": "e_1_2_8_11_1"
+      },
+      {
+        "key": "e_1_2_8_12_1",
+        "unstructured": "IBM Corp. (2020). IBM SPSS Statistics for Windows (Version 27.0). [Computer software]."
+      },
+      {
+        "key": "e_1_2_8_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1558/cj.20858"
+      },
+      {
+        "key": "e_1_2_8_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/modl.12712"
+      },
+      {
+        "key": "e_1_2_8_15_1",
+        "unstructured": "Johnson N. Seaman J. &Veletsianos G.(2021).Teaching during a pandemic: Spring transition fall continuation winter evaluation. Bay View Analytics.http://www.bayviewanalytics.com/"
+      },
+      {
+        "key": "e_1_2_8_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/flan.12318"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_2_8_17_1",
+        "first-page": "1",
+        "article-title": "Introduction to the special issue: Emergency remote teaching, online instruction, and the community: Lessons from the COVID\u201019 crisis in language education",
+        "volume": "71",
+        "author": "Klimanova L.",
+        "year": "2021",
+        "journal-title": "Russian Language Journal"
+      },
+      {
+        "key": "e_1_2_8_18_1",
+        "unstructured": "Looney D. &Lusin N.(2016).Enrollments in languages other than English in United States institutions of higher education summer 2016 and fall 2016: Preliminary report. Modern Language Association.https://www.mla.org/content/download/83540/2197676/2016-Enrollments-Short-Report.pdf"
+      },
+      {
+        "key": "e_1_2_8_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.system.2020.102352"
+      },
+      {
+        "key": "e_1_2_8_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.24059/olj.v23i3.1555"
+      },
+      {
+        "key": "e_1_2_8_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.21832/9781783093786"
+      },
+      {
+        "key": "e_1_2_8_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.system.2020.102431"
+      },
+      {
+        "key": "e_1_2_8_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.19173/irrodl.v14i3.1477"
+      },
+      {
+        "key": "e_1_2_8_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.17161/iallt.v47i1.8570"
+      },
+      {
+        "key": "e_1_2_8_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0033688220971862"
+      },
+      {
+        "key": "e_1_2_8_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9780429426483"
+      },
+      {
+        "key": "e_1_2_8_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.chb.2020.106675"
+      },
+      {
+        "volume-title": "Grade increase: Tracking distance education in the United States",
+        "year": "2019",
+        "author": "Seaman J.",
+        "key": "e_1_2_8_28_1"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_2_8_29_1",
+        "first-page": "73",
+        "article-title": "Bridges and barriers to teaching online college courses: A study of experienced online faculty in thirty six colleges",
+        "volume": "11",
+        "author": "Shea P.",
+        "year": "2007",
+        "journal-title": "Journal of Asynchronous Learning Networks"
+      },
+      {
+        "key": "e_1_2_8_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0958344018000101"
+      },
+      {
+        "key": "e_1_2_8_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1558/cj.42986"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_8_32_1",
+        "first-page": "41",
+        "article-title": "A two\u2010step approach for transforming continuous variables to normal: Implications and recommendations for IS research",
+        "volume": "28",
+        "author": "Tempton G. F.",
+        "year": "2011",
+        "journal-title": "Communications for the Association for Information Systems"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_8_33_1",
+        "first-page": "59",
+        "article-title": "Perceptions of higher education faculty members on the value of distance education",
+        "volume": "8",
+        "author": "Ulmer L. W.",
+        "year": "2007",
+        "journal-title": "The Quarterly Review of Distance Education"
+      },
+      {
+        "key": "e_1_2_8_34_1",
+        "first-page": "57",
+        "article-title": "Teaching languages virtually during a global pandemic: Perspectives from post\u2010secondary language educators",
+        "volume": "2022",
+        "author": "Waldvogel D. A.",
+        "year": "2022",
+        "journal-title": "Dimension"
+      },
+      {
+        "key": "e_1_2_8_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/flan.12541"
+      }
+    ],
+    "container-title": [
+      "Foreign Language Annals"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/flan.12689",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          8
+        ]
+      ],
+      "date-time": "2024-03-08T12:57:49Z",
+      "timestamp": 1709902669000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1111/flan.12689"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          7
+        ]
+      ]
+    },
+    "references-count": 34,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/flan.12689"
+    ],
+    "URL": "https://doi.org/10.1111/flan.12689",
+    "archive": [
+      "Portico"
+    ],
+    "relation": {},
+    "ISSN": [
+      "0015-718X",
+      "1944-9720"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0015-718X"
+      },
+      {
+        "type": "electronic",
+        "value": "1944-9720"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          7
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2022-05-13",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2023-03-16",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2023-05-07",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

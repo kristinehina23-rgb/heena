@@ -1,0 +1,583 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        18
+      ]
+    ],
+    "date-time": "2026-08-18T00:50:12Z",
+    "timestamp": 1787014212261,
+    "version": "3.56.0"
+  },
+  "reference-count": 49,
+  "publisher": "Wiley",
+  "issue": "1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            6,
+            22
+          ]
+        ],
+        "date-time": "2021-06-22T00:00:00Z",
+        "timestamp": 1624320000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "onlinelibrary.wiley.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Foreign Language Annals"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2022,
+        4
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The study reports pedagogical adaptations that Chinese language instructors made to support students' character learning during emergency remote teaching in 2020. Data from an online questionnaire and follow‐up interviews show that the handwriting requirement in the language curriculum was modified to give way to technology‐based instruction, making the conventionally isolated and solitary task of character learning more integrative and interactive. Beginning‐level instructors' use of technology in character instruction was correlated with their self‐confidence, perceived time sufficiency, technology access, and support received. Meanwhile, intermediate‐ and upper‐level instructors' self‐confidence and perceived values of online teaching were factors associated with their technology use. The crucial role of teacher communities in offering language‐specific training and peer support is emphasized, and implications to the broader field of foreign language teaching are discussed.</jats:p>",
+  "DOI": "10.1111/flan.12541",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2021,
+        6,
+        22
+      ]
+    ],
+    "date-time": "2021-06-22T13:46:27Z",
+    "timestamp": 1624369587000
+  },
+  "page": "72-97",
+  "update-policy": "https://doi.org/10.1002/crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 17,
+  "title": [
+    "Facilitating technology‐based character learning in emergency remote teaching"
+  ],
+  "prefix": "10.1111",
+  "volume": "55",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-3673-057X",
+      "authenticated-orcid": false,
+      "given": "Yi",
+      "family": "Xu",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "University of Pittsburgh Pittsburgh Pennsylvania USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-6078-5837",
+      "authenticated-orcid": false,
+      "given": "Li",
+      "family": "Jin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "DePaul University Chicago Illinois USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2274-1443",
+      "authenticated-orcid": false,
+      "given": "Elizabeth",
+      "family": "Deifell",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "The University of Texas at Arlington Arlington Texas USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-0645-1684",
+      "authenticated-orcid": false,
+      "given": "Katie",
+      "family": "Angus",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of Southern Mississippi Hattiesburg Mississippi USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "311",
+  "published-online": {
+    "date-parts": [
+      [
+        2021,
+        6,
+        22
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_2_9_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1944-9720.2008.tb03291.x"
+    },
+    {
+      "key": "e_1_2_9_3_1",
+      "unstructured": "American Council on the Teaching of Foreign Languages. (2017).The role of technology in language learning.https://www.actfl.org/advocacy/actfl-position-statements/the-role-technology-language-learning"
+    },
+    {
+      "issue": "1",
+      "key": "e_1_2_9_4_1",
+      "first-page": "174",
+      "article-title": "Language program coordination during the pandemic: Challenges encountered and lessons learned",
+      "volume": "1",
+      "author": "Azaz M.",
+      "year": "2020",
+      "journal-title": "Second Language Research and Practice"
+    },
+    {
+      "key": "e_1_2_9_5_1",
+      "volume-title": "Stakeholder views of the place of technology in flagship programs",
+      "author": "Brown J. D.",
+      "year": "2016"
+    },
+    {
+      "key": "e_1_2_9_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jneuroling.2013.01.003"
+    },
+    {
+      "issue": "1",
+      "key": "e_1_2_9_7_1",
+      "first-page": "89",
+      "article-title": "Using a radical‐derived character E‐learning platform to increase learner knowledge of Chinese characters",
+      "volume": "17",
+      "author": "Chen H.‐C.",
+      "year": "2013",
+      "journal-title": "Language Learning and Technology"
+    },
+    {
+      "key": "e_1_2_9_8_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/249008"
+    },
+    {
+      "key": "e_1_2_9_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/BF02299597"
+    },
+    {
+      "key": "e_1_2_9_10_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0267190511000171"
+    },
+    {
+      "key": "e_1_2_9_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/flan.12460"
+    },
+    {
+      "issue": "1",
+      "key": "e_1_2_9_12_1",
+      "first-page": "83",
+      "article-title": "Australian students' perceptions of the challenges and strategies for learning Chinese characters in emergency online teaching",
+      "volume": "1",
+      "author": "Gao X.",
+      "year": "2020",
+      "journal-title": "International Journal of Chinese Language Teaching"
+    },
+    {
+      "key": "e_1_2_9_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1540-4781.2009.00969.x"
+    },
+    {
+      "key": "e_1_2_9_14_1",
+      "unstructured": "Gasaymeh A. M.(2009).A study of faculty attitudes toward Internet‐based distance education: A survey of two Jordanian public universities. Ohio University. ProQuest Doctoral dissertation."
+    },
+    {
+      "key": "e_1_2_9_15_1",
+      "first-page": "51",
+      "volume-title": "From theory and research to new directions in language teaching",
+      "author": "Goertler S.",
+      "year": "2019"
+    },
+    {
+      "key": "e_1_2_9_16_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/bjet.12864"
+    },
+    {
+      "key": "e_1_2_9_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/a0023730"
+    },
+    {
+      "key": "e_1_2_9_18_1",
+      "volume-title": "Doing qualitative research in education settings",
+      "author": "Hatch J. A.",
+      "year": "2002"
+    },
+    {
+      "key": "e_1_2_9_19_1",
+      "first-page": "217",
+      "volume-title": "Teaching and learning Chinese: Issues and perspectives",
+      "author": "He W. W.",
+      "year": "2010"
+    },
+    {
+      "key": "e_1_2_9_20_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/flan.12318"
+    },
+    {
+      "key": "e_1_2_9_21_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/flan.12458"
+    },
+    {
+      "key": "e_1_2_9_22_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1504/IJTEL.2018.088342"
+    },
+    {
+      "key": "e_1_2_9_23_1",
+      "volume-title": "A guide to doing statistics in second language research using SPSS",
+      "author": "Larson‐Hall J.",
+      "year": "2010"
+    },
+    {
+      "key": "e_1_2_9_24_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-319-21308-8_8"
+    },
+    {
+      "issue": "3",
+      "key": "e_1_2_9_25_1",
+      "first-page": "275",
+      "article-title": "Teaching practices and teacher perceptions in online world language courses",
+      "volume": "1",
+      "author": "Lin C.‐H.",
+      "year": "2015",
+      "journal-title": "Journal of Online Learning Research"
+    },
+    {
+      "key": "e_1_2_9_26_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0958344013000268"
+    },
+    {
+      "key": "e_1_2_9_27_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0735633117708313"
+    },
+    {
+      "key": "e_1_2_9_28_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/2332858419890326"
+    },
+    {
+      "key": "e_1_2_9_29_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11516-020-0006-8"
+    },
+    {
+      "key": "e_1_2_9_30_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-981-287-772-7_13"
+    },
+    {
+      "key": "e_1_2_9_31_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0735633117700144"
+    },
+    {
+      "key": "e_1_2_9_32_1",
+      "unstructured": "Morgan Y.‐Y. K.(2012).Attitudes toward Hanzi production ability among Chinese teachers and learners. Purdue University. ProQuest Doctoral dissertation."
+    },
+    {
+      "key": "e_1_2_9_33_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/flan.12222"
+    },
+    {
+      "key": "e_1_2_9_34_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/09588221.2011.589390"
+    },
+    {
+      "key": "e_1_2_9_35_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/09588221.2020.1750430"
+    },
+    {
+      "key": "e_1_2_9_36_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0503523102"
+    },
+    {
+      "issue": "1",
+      "key": "e_1_2_9_37_1",
+      "first-page": "110",
+      "article-title": "Effects on learning logographic character formation in computer‐assisted handwriting instruction",
+      "volume": "16",
+      "author": "Tsai C.‐H",
+      "year": "2012",
+      "journal-title": "Language Learning & Technology"
+    },
+    {
+      "issue": "1",
+      "key": "e_1_2_9_38_1",
+      "first-page": "1",
+      "article-title": "Constructing an emergency Chinese curriculum during the pandemic: A New Zealand experience",
+      "volume": "1",
+      "author": "Wang D.",
+      "year": "2020",
+      "journal-title": "International Journal of Chinese Language Teaching"
+    },
+    {
+      "key": "e_1_2_9_39_1",
+      "unstructured": "Wang L.(2013).The effects of single and dual coded multimedia instructional methods on Chinese character learning(Doctoral dissertation). Middle Tennessee State University. ProQuest."
+    },
+    {
+      "key": "e_1_2_9_40_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/flan.12119"
+    },
+    {
+      "key": "e_1_2_9_41_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/09588221.2010.486576"
+    },
+    {
+      "key": "e_1_2_9_42_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-319-21308-8_6"
+    },
+    {
+      "issue": "2",
+      "key": "e_1_2_9_43_1",
+      "first-page": "25",
+      "article-title": "“Penless” Chinese language learning: A computer‐assisted approach",
+      "volume": "40",
+      "author": "Xu P.",
+      "year": "2005",
+      "journal-title": "Journal of the Chinese Language Teachers Association"
+    },
+    {
+      "key": "e_1_2_9_44_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4018/978-1-4666-6174-5.ch001"
+    },
+    {
+      "key": "e_1_2_9_45_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/modl.12122"
+    },
+    {
+      "key": "e_1_2_9_46_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/flan.12040"
+    },
+    {
+      "issue": "1",
+      "key": "e_1_2_9_47_1",
+      "first-page": "20",
+      "article-title": "Narrative inquiry into online teaching of Chinese characters during the pandemic",
+      "volume": "1",
+      "author": "Zhang Q.",
+      "year": "2020",
+      "journal-title": "International Journal of Chinese Language Teaching"
+    },
+    {
+      "key": "e_1_2_9_48_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.compcom.2019.102522"
+    },
+    {
+      "issue": "1",
+      "key": "e_1_2_9_49_1",
+      "first-page": "83",
+      "article-title": "Comparing face‐to‐face and online teaching of written and spoken Chinese to adult learners: An Edinburgh‐Sheffield case study",
+      "volume": "1",
+      "author": "Zhao L. X.",
+      "year": "2020",
+      "journal-title": "International Journal of Chinese Language Teaching"
+    },
+    {
+      "key": "e_1_2_9_50_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.11139/cj.29.3.563-577"
+    }
+  ],
+  "container-title": [
+    "Foreign Language Annals"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/flan.12541",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/flan.12541",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/flan.12541",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        8,
+        25
+      ]
+    ],
+    "date-time": "2023-08-25T19:53:54Z",
+    "timestamp": 1692993234000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://onlinelibrary.wiley.com/doi/10.1111/flan.12541"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        6,
+        22
+      ]
+    ]
+  },
+  "references-count": 49,
+  "journal-issue": {
+    "issue": "1",
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          4
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1111/flan.12541"
+  ],
+  "URL": "https://doi.org/10.1111/flan.12541",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "0015-718X",
+    "1944-9720"
+  ],
+  "issn-type": [
+    {
+      "value": "0015-718X",
+      "type": "print"
+    },
+    {
+      "value": "1944-9720",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2021,
+        6,
+        22
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2020-09-08",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2021-05-14",
+      "order": 1,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2021-06-22",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

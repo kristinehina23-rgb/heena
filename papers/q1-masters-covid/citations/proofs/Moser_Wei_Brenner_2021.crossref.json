@@ -1,0 +1,696 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        27
+      ]
+    ],
+    "date-time": "2026-07-27T05:11:36Z",
+    "timestamp": 1785129096306,
+    "version": "3.55.0"
+  },
+  "reference-count": 46,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2021-04-01T00:00:00Z",
+        "timestamp": 1617235200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2021-04-01T00:00:00Z",
+        "timestamp": 1617235200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/100008782",
+      "name": "University of Hawaii",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/100008782",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/100007249",
+      "name": "University of Minnesota",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/100007249",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "System"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2021,
+        4
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.system.2020.102431",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        12,
+        11
+      ]
+    ],
+    "date-time": "2020-12-11T00:04:34Z",
+    "timestamp": 1607645074000
+  },
+  "page": "102431",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 227,
+  "special_numbering": "C",
+  "title": [
+    "Remote teaching during COVID-19: Implications from a national survey of language educators"
+  ],
+  "prefix": "10.1016",
+  "volume": "97",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-4063-2948",
+      "authenticated-orcid": false,
+      "given": "Kelly M.",
+      "family": "Moser",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-8270-5287",
+      "authenticated-orcid": false,
+      "given": "Tianlan",
+      "family": "Wei",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-2030-2837",
+      "authenticated-orcid": false,
+      "given": "Devon",
+      "family": "Brenner",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.system.2020.102431_bib1",
+      "doi-asserted-by": "crossref",
+      "first-page": "269",
+      "DOI": "10.1558/cj.v17i2.269-306",
+      "article-title": "Evaluating the integration of technology and second language learning",
+      "volume": "17",
+      "author": "Adair–Hauck",
+      "year": "1999",
+      "journal-title": "CALICO Journal"
+    },
+    {
+      "key": "10.1016/j.system.2020.102431_bib2",
+      "author": "American Councils of International Education"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.system.2020.102431_bib4",
+      "first-page": "96",
+      "article-title": "A professional development framework for online teaching",
+      "volume": "58",
+      "author": "Baran",
+      "year": "2014",
+      "journal-title": "TechTrends"
+    },
+    {
+      "key": "10.1016/j.system.2020.102431_bib5",
+      "doi-asserted-by": "crossref",
+      "first-page": "19",
+      "DOI": "10.1017/S026719051100002X",
+      "article-title": "Current trends in online language learning",
+      "volume": "31",
+      "author": "Blake",
+      "year": "2011",
+      "journal-title": "Annual Review Of Applied Linguistics"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.system.2020.102431_bib6",
+      "doi-asserted-by": "crossref",
+      "first-page": "408",
+      "DOI": "10.1111/modl.12234_5",
+      "article-title": "The messy task of evaluating proficiency in online language courses",
+      "volume": "99",
+      "author": "Blake",
+      "year": "2015",
+      "journal-title": "The Modern Language Journal"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.system.2020.102431_bib7",
+      "doi-asserted-by": "crossref",
+      "first-page": "114",
+      "DOI": "10.64152/10125/44158",
+      "article-title": "Measuring oral proficiency in distance, face-to-face, and blended classrooms",
+      "volume": "12",
+      "author": "Blake",
+      "year": "2008",
+      "journal-title": "Language, Learning and Technology"
+    },
+    {
+      "key": "10.1016/j.system.2020.102431_bib66",
+      "series-title": "The Bloomsbury Handbook of Rural Education in the USA",
+      "article-title": "Toward a Rural Critical Policy Analysis",
+      "author": "Brenner",
+      "year": "2020"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.system.2020.102431_bib8",
+      "doi-asserted-by": "crossref",
+      "first-page": "19",
+      "DOI": "10.1080/08923647.2020.1692553",
+      "article-title": "The effects of training on instructor beliefs and attitudes toward online teaching",
+      "volume": "34",
+      "author": "Brinkley-Etzkorn",
+      "year": "2020",
+      "journal-title": "American Journal of Distance Education"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.system.2020.102431_bib9",
+      "doi-asserted-by": "crossref",
+      "first-page": "153",
+      "DOI": "10.1080/15299732.2014.867571",
+      "article-title": "Potentially perilous pedagogies: Teaching trauma is not the same as trauma-informed teaching",
+      "volume": "15",
+      "author": "Carello",
+      "year": "2014",
+      "journal-title": "Journal of Trauma & Dissociation"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.system.2020.102431_bib10",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.24059/olj.v19i2.454",
+      "article-title": "A large sample comparison of grade based student learning outcomes in online vs. face-to-face courses",
+      "volume": "19",
+      "author": "Cavanaugh",
+      "year": "2015",
+      "journal-title": "Online Learning"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.system.2020.102431_bib12",
+      "doi-asserted-by": "crossref",
+      "first-page": "285",
+      "DOI": "10.1558/cj.v20i2.285-314",
+      "article-title": "Measuring student learning in an online French course",
+      "volume": "20",
+      "author": "Chenoweth",
+      "year": "2003",
+      "journal-title": "CALICO Journal"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.system.2020.102431_bib13",
+      "doi-asserted-by": "crossref",
+      "first-page": "115",
+      "DOI": "10.1558/cj.v24i1.115-146",
+      "article-title": "Student learning in hybrid French and Spanish courses: An overview of language online",
+      "volume": "24",
+      "author": "Chenoweth",
+      "year": "2006",
+      "journal-title": "CALICO Journal"
+    },
+    {
+      "key": "10.1016/j.system.2020.102431_bib14",
+      "doi-asserted-by": "crossref",
+      "first-page": "30",
+      "DOI": "10.1017/S0958344012000249",
+      "article-title": "Effects of webcams on multimodal interactive learning",
+      "volume": "25",
+      "author": "Codreanu",
+      "year": "2013",
+      "journal-title": "ReCALL"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.system.2020.102431_bib16",
+      "doi-asserted-by": "crossref",
+      "first-page": "412",
+      "DOI": "10.1111/modl.12234_6",
+      "article-title": "Accountability of foreign language programs",
+      "volume": "99",
+      "author": "Doughty",
+      "year": "2015",
+      "journal-title": "The Modern Language Journal"
+    },
+    {
+      "key": "10.1016/j.system.2020.102431_bib18",
+      "author": "Education Week"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.system.2020.102431_bib20",
+      "doi-asserted-by": "crossref",
+      "first-page": "176",
+      "DOI": "10.1111/ijal.12112",
+      "article-title": "The effectiveness of online teaching in an advanced Spanish language course",
+      "volume": "27",
+      "author": "Enkin",
+      "year": "2017",
+      "journal-title": "International Journal of Applied Linguistics"
+    },
+    {
+      "key": "10.1016/j.system.2020.102431_bib23",
+      "author": "Gewertz"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.system.2020.102431_bib24",
+      "doi-asserted-by": "crossref",
+      "first-page": "156",
+      "DOI": "10.1111/tger.12071",
+      "article-title": "Assessment in online German: Assessment methods and results",
+      "volume": "51",
+      "author": "Goertler",
+      "year": "2018",
+      "journal-title": "Die Unterrichtspraxis/Teaching German"
+    },
+    {
+      "key": "10.1016/j.system.2020.102431_bib25",
+      "doi-asserted-by": "crossref",
+      "first-page": "260",
+      "DOI": "10.1111/flan.12466",
+      "article-title": "Collaborative tasks for online language teaching",
+      "volume": "53",
+      "author": "González-Lloret",
+      "year": "2020",
+      "journal-title": "Foreign Language Annals"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.system.2020.102431_bib64",
+      "doi-asserted-by": "crossref",
+      "first-page": "320",
+      "DOI": "10.1111/flan.12459",
+      "article-title": "Zooming out of the Crisis: Language and Human Collaboration",
+      "volume": "53",
+      "author": "Guillén",
+      "year": "2020",
+      "journal-title": "Foreign Language Annals"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.system.2020.102431_bib26",
+      "first-page": "230",
+      "article-title": "What are the perceptions of the students about synchronous distance learning and blended learning?",
+      "volume": "11",
+      "author": "Gunes",
+      "year": "2019",
+      "journal-title": "World Journal on Educational Technology: Current Issues"
+    },
+    {
+      "key": "10.1016/j.system.2020.102431_bib27",
+      "author": "Hamilton"
+    },
+    {
+      "key": "10.1016/j.system.2020.102431_bib28",
+      "author": "Hodges"
+    },
+    {
+      "key": "10.1016/j.system.2020.102431_bib29",
+      "series-title": "Online and distance learning in southwest Tennessee: Implementation and challenges",
+      "author": "Holia",
+      "year": "2014"
+    },
+    {
+      "key": "10.1016/j.system.2020.102431_bib65",
+      "doi-asserted-by": "crossref",
+      "first-page": "141",
+      "DOI": "10.1177/001316446002000116",
+      "article-title": "The application of electronic computers to factor analysis",
+      "volume": "20",
+      "author": "Kaiser",
+      "year": "1960",
+      "journal-title": "Educational and Psychological Measurement"
+    },
+    {
+      "key": "10.1016/j.system.2020.102431_bib30",
+      "author": "Kelly"
+    },
+    {
+      "key": "10.1016/j.system.2020.102431_bib31",
+      "doi-asserted-by": "crossref",
+      "first-page": "298",
+      "DOI": "10.1111/flan.12458",
+      "article-title": "Establishing professional online communities for world language educators",
+      "volume": "53",
+      "author": "Knight",
+      "year": "2020",
+      "journal-title": "Foreign Language Annals"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.system.2020.102431_bib32",
+      "doi-asserted-by": "crossref",
+      "first-page": "394",
+      "DOI": "10.1111/modl.12234_1",
+      "article-title": "Online foreign language education: What are the proficiency outcomes?",
+      "volume": "99",
+      "author": "Lin",
+      "year": "2015",
+      "journal-title": "The Modern Language Journal"
+    },
+    {
+      "key": "10.1016/j.system.2020.102431_bib33",
+      "author": "Looney"
+    },
+    {
+      "key": "10.1016/j.system.2020.102431_bib34",
+      "author": "McMurtrie"
+    },
+    {
+      "key": "10.1016/j.system.2020.102431_bib35",
+      "series-title": "Teaching language online",
+      "author": "Meskill",
+      "year": "2015"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.system.2020.102431_bib36",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1080/08923648909526659",
+      "article-title": "Three types of interaction",
+      "volume": "3",
+      "author": "Moore",
+      "year": "1989",
+      "journal-title": "American Journal of Distance Education"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.system.2020.102431_bib38",
+      "doi-asserted-by": "crossref",
+      "first-page": "269",
+      "DOI": "10.11139/cj.29.2.269-296",
+      "article-title": "An investigation into reported differences between online foreign language instruction and other subject areas in a virtual school",
+      "volume": "29",
+      "author": "Oliver",
+      "year": "2012",
+      "journal-title": "CALICO Journal"
+    },
+    {
+      "key": "10.1016/j.system.2020.102431_bib41",
+      "doi-asserted-by": "crossref",
+      "first-page": "243",
+      "DOI": "10.1111/flan.12457",
+      "article-title": "Developing L2 productive language skills online and the strategic use of instructional tools",
+      "volume": "53",
+      "author": "Payne",
+      "year": "2020",
+      "journal-title": "Foreign Language Annals"
+    },
+    {
+      "key": "10.1016/j.system.2020.102431_bib42",
+      "author": "Pettit"
+    },
+    {
+      "key": "10.1016/j.system.2020.102431_bib45",
+      "series-title": "Distance education courses for public elementary and secondary school students: 2009–10. First look. NCES 2012–008",
+      "author": "Queen",
+      "year": "2011"
+    },
+    {
+      "key": "10.1016/j.system.2020.102431_bib46",
+      "author": "Rauf"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.system.2020.102431_bib49",
+      "doi-asserted-by": "crossref",
+      "first-page": "226",
+      "DOI": "10.1080/09588221.2017.1372481",
+      "article-title": "The role of teaching presence and student participation in Spanish blended courses",
+      "volume": "31",
+      "author": "Rubio",
+      "year": "2018",
+      "journal-title": "Computer Assisted Language Learning"
+    },
+    {
+      "key": "10.1016/j.system.2020.102431_bib50",
+      "doi-asserted-by": "crossref",
+      "first-page": "338",
+      "DOI": "10.1111/flan.12461",
+      "article-title": "Language anxiety and the online learner",
+      "volume": "53",
+      "author": "Russell",
+      "year": "2020",
+      "journal-title": "Foreign Language Annals"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.system.2020.102431_bib51",
+      "first-page": "16",
+      "article-title": "Implementing trauma-informed principles in the remote Spanish classroom during the coronavirus pandemic",
+      "volume": "15",
+      "author": "Salidívar García",
+      "year": "2020",
+      "journal-title": "Language and Education"
+    },
+    {
+      "key": "10.1016/j.system.2020.102431_bib52",
+      "series-title": "Handbook of research on K-12 online and blended learning",
+      "first-page": "7",
+      "article-title": "A history of K-12 online and blended instruction in the United States",
+      "author": "Schwirzke",
+      "year": "2018"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.system.2020.102431_bib53",
+      "doi-asserted-by": "crossref",
+      "first-page": "204",
+      "DOI": "10.1017/S0958344018000101",
+      "article-title": "Videoconferencing and the networked provision of language programs in regional and rural schools",
+      "volume": "31",
+      "author": "Slaughter",
+      "year": "2019",
+      "journal-title": "ReCALL"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.system.2020.102431_bib58",
+      "doi-asserted-by": "crossref",
+      "first-page": "90",
+      "DOI": "10.64152/10125/43997",
+      "article-title": "Supporting synchronous distance language learning with desktop videoconferencing",
+      "volume": "8",
+      "author": "Wang",
+      "year": "2004",
+      "journal-title": "Language, Learning and Technology"
+    },
+    {
+      "key": "10.1016/j.system.2020.102431_bib59",
+      "doi-asserted-by": "crossref",
+      "first-page": "247",
+      "DOI": "10.1017/S0261444806003727",
+      "article-title": "Distance learning of foreign languages",
+      "volume": "39",
+      "author": "White",
+      "year": "2006",
+      "journal-title": "Language Teaching"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.system.2020.102431_bib61",
+      "doi-asserted-by": "crossref",
+      "first-page": "57",
+      "DOI": "10.1080/1475939X.2019.1694061",
+      "article-title": "Student interaction and the role of the teacher in a state virtual high school: What predicts online learner satisfaction?",
+      "volume": "29",
+      "author": "Zhang",
+      "year": "2020",
+      "journal-title": "Technology, Pedagogy and Education"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.system.2020.102431_bib62",
+      "doi-asserted-by": "crossref",
+      "first-page": "515",
+      "DOI": "10.1111/bjet.12871",
+      "article-title": "Motivational profiles and their correlates among students in virtual school foreign language courses",
+      "volume": "51",
+      "author": "Zhang",
+      "year": "2020",
+      "journal-title": "British Journal of Educational Technology"
+    }
+  ],
+  "container-title": [
+    "System"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0346251X20307910?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0346251X20307910?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        6
+      ]
+    ],
+    "date-time": "2025-10-06T07:15:50Z",
+    "timestamp": 1759734950000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0346251X20307910"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        4
+      ]
+    ]
+  },
+  "references-count": 46,
+  "alternative-id": [
+    "S0346251X20307910"
+  ],
+  "URL": "https://doi.org/10.1016/j.system.2020.102431",
+  "relation": {},
+  "ISSN": [
+    "0346-251X"
+  ],
+  "issn-type": [
+    {
+      "value": "0346-251X",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2021,
+        4
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Remote teaching during COVID-19: Implications from a national survey of language educators",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "System",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.system.2020.102431",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2020 Elsevier Ltd. All rights reserved.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "102431"
+}

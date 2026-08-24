@@ -1,0 +1,409 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        5
+      ]
+    ],
+    "date-time": "2026-03-05T16:03:20Z",
+    "timestamp": 1772726600565,
+    "version": "3.50.1"
+  },
+  "reference-count": 29,
+  "publisher": "Informa UK Limited",
+  "issue": "4",
+  "content-domain": {
+    "domain": [
+      "www.tandfonline.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Language, Culture and Curriculum"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        10
+      ]
+    ]
+  },
+  "DOI": "10.1080/07908318.2024.2354874",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        24
+      ]
+    ],
+    "date-time": "2024-05-24T07:35:33Z",
+    "timestamp": 1716536133000
+  },
+  "page": "472-496",
+  "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "At the intersection of multiliteracies and glocalisation: a case study in a university in Taiwan"
+  ],
+  "prefix": "10.1080",
+  "volume": "37",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0003-1902-2210",
+      "authenticated-orcid": false,
+      "given": "Ka Yan",
+      "family": "Lam",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "National Taiwan University of Science and Technology, Taipei, Taiwan"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "301",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        24
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_3_3_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/BF03651954"
+    },
+    {
+      "key": "e_1_3_3_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1515/mc-2020-0026"
+    },
+    {
+      "key": "e_1_3_3_4_1",
+      "first-page": "47",
+      "volume-title": "Worlds of words: Complexity, creativity and conventionality in English language, literature and culture",
+      "author": "Camiciottoli B. C.",
+      "year": "2015",
+      "unstructured": "Camiciottoli, B. C. (2015). Harnessing multimodal literacy for knowledge dissemination in ESP settings. In V. Bonsignori, G. Cappelli, & E. Mattiello (Eds.), Worlds of words: Complexity, creativity and conventionality in English language, literature and culture (pp. 47–52). Pisa University Press."
+    },
+    {
+      "key": "e_1_3_3_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1057/9781137539724_1"
+    },
+    {
+      "key": "e_1_3_3_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1186/1471-2288-11-100"
+    },
+    {
+      "issue": "3",
+      "key": "e_1_3_3_7_1",
+      "first-page": "68",
+      "article-title": "Fostering learner autonomy in English for Science: A collaborative digital video project in a technological learning environment",
+      "volume": "15",
+      "author": "Hafner C. A.",
+      "year": "2011",
+      "unstructured": "Hafner, C. A., & Miller, L. (2011). Fostering learner autonomy in English for Science: A collaborative digital video project in a technological learning environment. Language Learning & Technology, 15(3), 68–86.",
+      "journal-title": "Language Learning & Technology"
+    },
+    {
+      "key": "e_1_3_3_8_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.29140/jaltcall.v2n2.23"
+    },
+    {
+      "key": "e_1_3_3_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1467-8535.2012.01337.x"
+    },
+    {
+      "key": "e_1_3_3_10_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/00131910123753"
+    },
+    {
+      "key": "e_1_3_3_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2304/elea.2010.7.3.200"
+    },
+    {
+      "key": "e_1_3_3_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/09695940301692"
+    },
+    {
+      "key": "e_1_3_3_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.17509/bs_jpbsp.v20i1.25969"
+    },
+    {
+      "issue": "1",
+      "key": "e_1_3_3_14_1",
+      "first-page": "22",
+      "article-title": "Multimodal pedagogies in teaching English for specific purposes in higher education: Perceptions, challenges and strategies",
+      "volume": "1",
+      "author": "Laadem M.",
+      "year": "2019",
+      "unstructured": "Laadem, M., & Mallahi, H. (2019). Multimodal pedagogies in teaching English for specific purposes in higher education: Perceptions, challenges and strategies. International Journal on Studies in Education, 1(1), 22–28.",
+      "journal-title": "International Journal on Studies in Education"
+    },
+    {
+      "key": "e_1_3_3_15_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.30659/e.5.1.66-77"
+    },
+    {
+      "key": "e_1_3_3_16_1",
+      "first-page": "287",
+      "volume-title": "The Routledge handbook of language and professional communication",
+      "author": "Littlewood W.",
+      "year": "2014",
+      "unstructured": "Littlewood, W. (2014). Methodology in teaching ESP. In V. Bhatia & S. Bremner (Eds.), The Routledge handbook of language and professional communication (pp. 287–303). Routledge."
+    },
+    {
+      "key": "e_1_3_3_17_1",
+      "volume-title": "Seizing the opportunity to become global citizens—The Program on Bilingual Education for Students in College (BEST)",
+      "author": "Ministry of Education",
+      "year": "2022",
+      "unstructured": "Ministry of Education. (2022). Seizing the opportunity to become global citizens—The Program on Bilingual Education for Students in College (BEST). https://english.moe.gov.tw/cp-117-28793-9052c-1.html"
+    },
+    {
+      "key": "e_1_3_3_18_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1598/JAAL.52.2.1"
+    },
+    {
+      "key": "e_1_3_3_19_1",
+      "volume-title": "Bilingual 2030",
+      "author": "National Development Council",
+      "year": "2021",
+      "unstructured": "National Development Council. (2021). Bilingual 2030. The Executive Yuan. https://shorturl.at/eHI29"
+    },
+    {
+      "key": "e_1_3_3_20_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.17763/haer.66.1.17370n67v22j160u"
+    },
+    {
+      "key": "e_1_3_3_21_1",
+      "unstructured": "Nikula T. Nashaat-Sobhy N. Minardi S. Gülle T. Yalçın Ş. Duman S. K. Bozbıyık M. Džanić N. D. Ellison M. Gerns P. Gómez E. Hanušová S. Kováčiková E. Kääntä L. Lin A. Llinares A. Lo Y. Y. Lopriore L. Meyer O. … Žmavc J. (2024). Towards an initial operationalisation of disciplinary literacies. CLILNetLe. 1–13. https://phaidra.univie.ac.at/detail/o:2050621"
+    },
+    {
+      "key": "e_1_3_3_22_1",
+      "first-page": "372",
+      "article-title": "Multimodality in English for specific purposes: Reconceptualizing meaning-making practices",
+      "volume": "19",
+      "author": "Plastina A. F.",
+      "year": "2013",
+      "unstructured": "Plastina, A. F. (2013). Multimodality in English for specific purposes: Reconceptualizing meaning-making practices. Revista de Lenguas para Fines Específicos, 19, 372–396.",
+      "journal-title": "Revista de Lenguas para Fines Específicos"
+    },
+    {
+      "issue": "1",
+      "key": "e_1_3_3_23_1",
+      "article-title": "Glocalization in food business: Strategies of adaptation to local needs and demands",
+      "volume": "1",
+      "author": "Prakash A.",
+      "year": "2011",
+      "unstructured": "Prakash, A., & Singh, V. B. (2011). Glocalization in food business: Strategies of adaptation to local needs and demands. Asian Journal of Technology & Management Research, 1(1).",
+      "journal-title": "Asian Journal of Technology & Management Research"
+    },
+    {
+      "key": "e_1_3_3_24_1",
+      "first-page": "519",
+      "volume-title": "The handbook of English for specific purposes",
+      "author": "Prior P.",
+      "year": "2013",
+      "unstructured": "Prior, P. (2013). Multimodality and ESP research. In B. Paltridge & S. Starfield (Eds.), The handbook of English for specific purposes (pp. 519–534). Wiley."
+    },
+    {
+      "key": "e_1_3_3_25_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4135/9781446250563.n2"
+    },
+    {
+      "key": "e_1_3_3_26_1",
+      "first-page": "292",
+      "article-title": "Project-based learning in the advertising and public relations ESP class. A longitudinal study on students’ motivation, attitudes and interest",
+      "volume": "27",
+      "author": "Rodríguez-Peñarroja M.",
+      "year": "2021",
+      "unstructured": "Rodríguez-Peñarroja, M. (2021). Project-based learning in the advertising and public relations ESP class. A longitudinal study on students’ motivation, attitudes and interest. Innovación en la Docencia e Investigación de las Ciencias Sociales y de la Educación, 27, 292–315.",
+      "journal-title": "Innovación en la Docencia e Investigación de las Ciencias Sociales y de la Educación"
+    },
+    {
+      "key": "e_1_3_3_27_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4324/9781315858296"
+    },
+    {
+      "key": "e_1_3_3_28_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1097/TLD.0b013e318244557a"
+    },
+    {
+      "key": "e_1_3_3_29_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/BF03651836"
+    },
+    {
+      "key": "e_1_3_3_30_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.12795/IROCAMM.2018.i1.02"
+    }
+  ],
+  "container-title": [
+    "Language, Culture and Curriculum"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.tandfonline.com/doi/pdf/10.1080/07908318.2024.2354874",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        2
+      ]
+    ],
+    "date-time": "2024-12-02T11:27:28Z",
+    "timestamp": 1733138848000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.tandfonline.com/doi/full/10.1080/07908318.2024.2354874"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        24
+      ]
+    ]
+  },
+  "references-count": 29,
+  "journal-issue": {
+    "issue": "4",
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          10
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1080/07908318.2024.2354874"
+  ],
+  "URL": "https://doi.org/10.1080/07908318.2024.2354874",
+  "relation": {},
+  "ISSN": [
+    "0790-8318",
+    "1747-7573"
+  ],
+  "issn-type": [
+    {
+      "value": "0790-8318",
+      "type": "print"
+    },
+    {
+      "value": "1747-7573",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        24
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+      "order": 1,
+      "name": "peerreview_statement",
+      "label": "Peer Review Statement"
+    },
+    {
+      "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rlcc20",
+      "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rlcc20",
+      "order": 2,
+      "name": "aims_and_scope_url",
+      "label": "Aim & Scope"
+    },
+    {
+      "value": "2023-02-21",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2024-04-30",
+      "order": 1,
+      "name": "revised",
+      "label": "Revised",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2024-05-04",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2024-05-24",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

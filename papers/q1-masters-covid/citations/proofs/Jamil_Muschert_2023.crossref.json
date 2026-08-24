@@ -1,0 +1,453 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        26
+      ]
+    ],
+    "date-time": "2026-06-26T18:36:17Z",
+    "timestamp": 1782498977646,
+    "version": "3.54.5"
+  },
+  "reference-count": 47,
+  "publisher": "SAGE Publications",
+  "issue": "9",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            3,
+            17
+          ]
+        ],
+        "date-time": "2023-03-17T00:00:00Z",
+        "timestamp": 1679011200000
+      },
+      "content-version": "unspecified",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "journals.sagepub.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "American Behavioral Scientist"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        8
+      ]
+    ]
+  },
+  "abstract": "<jats:p>Recent advances in information and communication technology (ICT) have significantly impacted some critical sectors of societies (such as transport, health, business, and communication) across many developed and developing countries. Nevertheless, the Internet has proliferated unequally across the world, resulting in global digital inequalities. The onset of the COVID-19 pandemic led to the deployment of online education to prevent the interruption of academic progress in schools and universities worldwide. The global pandemic further worsened the situation for Pakistan, which is neither economically strong nor has a well-established ICT infrastructure capable of facilitating the successful implementations of virtual courses and classes. Thus, this study aimed to analyze the level of Internet access among Pakistani universities’ teachers and students, and their ICT skills as they applied to online education during the COVID-19 pandemic. The study used the qualitative method of email interviews and thematic analysis to present the study’s results. This study revealed that most Pakistani students, especially those from rural and remote areas, experienced challenges because they neither had proper Internet access, nor could they use laptops and virtual learning systems. Students who belonged to the upper and middle classes of urban areas and enrolled in private-sector universities, were not as directly affected by Pakistan’s pervasive digital divide to carry out their education during the COVID-19 pandemic.</jats:p>",
+  "DOI": "10.1177/00027642231156779",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        3,
+        17
+      ]
+    ],
+    "date-time": "2023-03-17T08:10:55Z",
+    "timestamp": 1679040655000
+  },
+  "page": "1161-1179",
+  "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 27,
+  "title": [
+    "The COVID-19 Pandemic and E-Learning: The Digital Divide and Educational Crises in Pakistan’s Universities"
+  ],
+  "prefix": "10.1177",
+  "volume": "68",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0003-0524-7355",
+      "authenticated-orcid": false,
+      "given": "Sadia",
+      "family": "Jamil",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "School of International Communications, The University of Nottingham, Ningbo, China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Glenn",
+      "family": "Muschert",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Humanities and Social Sciences, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "179",
+  "published-online": {
+    "date-parts": [
+      [
+        2023,
+        3,
+        17
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "bibr1-00027642231156779",
+      "volume-title": "ICT integration in education: A smart concept of teaching and learning",
+      "author": "Amin N.",
+      "year": "2018"
+    },
+    {
+      "key": "bibr2-00027642231156779",
+      "unstructured": "Bampton R., Cowton C. (2002, May), The e-interview. Forum Qualitative Sozialforschung/Forum: Qualitative Social Research [Online Journal], 3(2), Article 9. http://www.qualitative-research.net/fqs-texte/2-02/2-02bamptoncowton-e.htm"
+    },
+    {
+      "key": "bibr3-00027642231156779",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0266666914529294"
+    },
+    {
+      "key": "bibr4-00027642231156779",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5153/sro.73"
+    },
+    {
+      "key": "bibr5-00027642231156779",
+      "unstructured": "Daniels N. (2020, March 27). The digital divide: Researching the challenges of online learning for many students. New York Times. https://www.nytimes.com/2020/03/27/learning/the-digital-divide-researching-the-challenges-of-online-learning-for-many-students.html"
+    },
+    {
+      "key": "bibr6-00027642231156779",
+      "unstructured": "DiMaggio P., Hargittai E. (2001). From the ’digital divide’ to ’digital inequality’: Studying Internet use as penetration increases (Working Papers 47). Princeton University, Woodrow Wilson School of Public and International Affairs, Center for Arts and Cultural Policy Studies."
+    },
+    {
+      "key": "bibr7-00027642231156779",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.compedu.2012.02.001"
+    },
+    {
+      "key": "bibr8-00027642231156779",
+      "volume-title": "An introduction to qualitative research",
+      "author": "Flick U.",
+      "year": "2009",
+      "edition": "4"
+    },
+    {
+      "key": "bibr9-00027642231156779",
+      "volume-title": "Qualitative research in social work",
+      "author": "Fortune A.",
+      "year": "2012"
+    },
+    {
+      "key": "bibr10-00027642231156779",
+      "unstructured": "Gandhara. (2020, April 14). Pakistani court orders Internet access for Pashtun students during coronavirus lockdown. Gandhara. https://gandhara.rferl.org/a/pakistani-court-orders-internet-access-for-pashtun-students-during-coronavirus-lockdown/30554434.html"
+    },
+    {
+      "key": "bibr11-00027642231156779",
+      "unstructured": "Government of Pakistan. (2002). Higher education commission ordinance 2002. http://hec.gov.pk/PublishingImages/455_HECOrdinance/455_HECOrdinance."
+    },
+    {
+      "key": "bibr12-00027642231156779",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/146144480354003"
+    },
+    {
+      "key": "bibr13-00027642231156779",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4018/ijea.2013070103"
+    },
+    {
+      "key": "bibr14-00027642231156779",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5210/fm.v7i4.942"
+    },
+    {
+      "key": "bibr15-00027642231156779",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10209-018-0617-5"
+    },
+    {
+      "key": "bibr16-00027642231156779",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.compedu.2008.04.002"
+    },
+    {
+      "key": "bibr17-00027642231156779",
+      "unstructured": "Hussain O. (2017). Pakistan is one of Asia’s fast growing internet-markets. https://www.techinasia.com/pakistan-digital-landscape-2016"
+    },
+    {
+      "key": "bibr18-00027642231156779",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4018/978-1-5225-7885-7.ch007"
+    },
+    {
+      "key": "bibr19-00027642231156779",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-030-32706-4_4"
+    },
+    {
+      "key": "bibr20-00027642231156779",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/17447143.2020.1756305"
+    },
+    {
+      "key": "bibr21-00027642231156779",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/17512786.2020.1788412"
+    },
+    {
+      "key": "bibr22-00027642231156779",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.30547/worldofmedia.3.2019.2"
+    },
+    {
+      "key": "bibr23-00027642231156779",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-658-36276-8_21"
+    },
+    {
+      "key": "bibr24-00027642231156779",
+      "unstructured": "Kemp S. (2020). Digital 2020: Pakistan. https://datareportal.com/reports/digital-2020-pakistan"
+    },
+    {
+      "key": "bibr25-00027642231156779",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.tele.2020.101380"
+    },
+    {
+      "key": "bibr26-00027642231156779",
+      "unstructured": "Khattak K. (2020, March 27). Campuses to remain closed till May 31. The News. https://www.thenews.com.pk/print/635162-campuses-to-remain-closed-till-may-31"
+    },
+    {
+      "key": "bibr27-00027642231156779",
+      "volume-title": "ICT embedded education and research: A hand guide for teachers and researchers",
+      "author": "Lakshmi D.",
+      "year": "2018"
+    },
+    {
+      "key": "bibr28-00027642231156779",
+      "unstructured": "Lau J. (2020, April 12). Will online education widen Asia’s digital divide? Times Higher Education. https://www.timeshighereducation.com/news/will-online-education-widen-asias-digital-divide"
+    },
+    {
+      "key": "bibr29-00027642231156779",
+      "volume-title": "National education policy 2009",
+      "author": "Ministry of Education",
+      "year": "2009"
+    },
+    {
+      "key": "bibr30-00027642231156779",
+      "volume-title": "Crossing the bridge of the digital divide: A walk with global leaders",
+      "author": "Normore A.",
+      "year": "2019"
+    },
+    {
+      "key": "bibr31-00027642231156779",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4324/9780203069769"
+    },
+    {
+      "key": "bibr32-00027642231156779",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4324/9781315606002"
+    },
+    {
+      "key": "bibr33-00027642231156779",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/15391523.2013.10782607"
+    },
+    {
+      "key": "bibr34-00027642231156779",
+      "unstructured": "Safdar M., Hussain I., Malik M. A., Masood K., Yaqoob M. (2011). Challenges of Information Era: Teachers’ attitude towards the use of Internet technology. http://212.138.128.45/handle/123456789/55510"
+    },
+    {
+      "key": "bibr35-00027642231156779",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/1461444804042519"
+    },
+    {
+      "key": "bibr36-00027642231156779",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4324/9780203117422"
+    },
+    {
+      "key": "bibr37-00027642231156779",
+      "first-page": "199",
+      "volume-title": "Advocacy, activism and the Internet",
+      "author": "Steyaert J.",
+      "year": "2002"
+    },
+    {
+      "key": "bibr38-00027642231156779",
+      "unstructured": "The Economist\n                      . (2020). Inclusive internet access. https://theinclusiveinternet.eiu.com/"
+    },
+    {
+      "key": "bibr39-00027642231156779",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.30935/cedtech/6100"
+    },
+    {
+      "key": "bibr40-00027642231156779",
+      "unstructured": "van Deursen A., van Dijk J. (2008). Measuring digital skills: Performance tests of operational, formal, information and strategic Internet skills among the Dutch population [Paper presentation]. ICA Conference Annual Conference, Montreal. https://www.utwente.nl/en/bms/vandijk/news/measuring_digital_skills/MDS.pdf"
+    },
+    {
+      "key": "bibr41-00027642231156779",
+      "volume-title": "Digital skills: The key to the information society",
+      "author": "van Deursen A.",
+      "year": "2013"
+    },
+    {
+      "key": "bibr42-00027642231156779",
+      "first-page": "29",
+      "volume-title": "The digital divide: The Internet and social inequality in international perspective",
+      "author": "van Dijk J",
+      "year": "2013"
+    },
+    {
+      "key": "bibr43-00027642231156779",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.poetic.2006.05.004"
+    },
+    {
+      "key": "bibr44-00027642231156779",
+      "first-page": "57",
+      "volume-title": "Digital enlightenment yearbook",
+      "author": "van Dijk J. A. G. M",
+      "year": "2012"
+    },
+    {
+      "key": "bibr45-00027642231156779",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4135/9781473909571"
+    },
+    {
+      "key": "bibr46-00027642231156779",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10639-013-9272-x"
+    },
+    {
+      "key": "bibr47-00027642231156779",
+      "unstructured": "Yusufzai A. (2018, June 23). Pakistan now has 55.4 million mobile phone users with high-speed Internet. ProPakistani. https://propakistani.pk/2018/06/23/pakistan-now-has-55-4million-mobilephone-users-with-high-speed-Internet/"
+    }
+  ],
+  "container-title": [
+    "American Behavioral Scientist"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://journals.sagepub.com/doi/pdf/10.1177/00027642231156779",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/00027642231156779",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://journals.sagepub.com/doi/pdf/10.1177/00027642231156779",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        28
+      ]
+    ],
+    "date-time": "2026-04-28T10:48:19Z",
+    "timestamp": 1777373299000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://journals.sagepub.com/doi/10.1177/00027642231156779"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        3,
+        17
+      ]
+    ]
+  },
+  "references-count": 47,
+  "journal-issue": {
+    "issue": "9",
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          8
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1177/00027642231156779"
+  ],
+  "URL": "https://doi.org/10.1177/00027642231156779",
+  "relation": {},
+  "ISSN": [
+    "0002-7642",
+    "1552-3381"
+  ],
+  "issn-type": [
+    {
+      "value": "0002-7642",
+      "type": "print"
+    },
+    {
+      "value": "1552-3381",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2023,
+        3,
+        17
+      ]
+    ]
+  }
+}

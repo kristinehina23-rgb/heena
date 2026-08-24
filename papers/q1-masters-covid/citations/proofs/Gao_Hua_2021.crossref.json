@@ -1,0 +1,407 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        9
+      ]
+    ],
+    "date-time": "2026-08-09T12:44:36Z",
+    "timestamp": 1786279476783,
+    "version": "3.56.0"
+  },
+  "reference-count": 29,
+  "publisher": "Informa UK Limited",
+  "issue": "4",
+  "funder": [
+    {
+      "DOI": "10.13039/501100007931",
+      "name": "Shanghai University of Finance and Economics",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "RG203724"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "RG203724"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100007931",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "www.tandfonline.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Language, Culture and Curriculum"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2021,
+        10,
+        2
+      ]
+    ]
+  },
+  "DOI": "10.1080/07908318.2020.1871002",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2021,
+        1,
+        14
+      ]
+    ],
+    "date-time": "2021-01-14T16:31:53Z",
+    "timestamp": 1610641913000
+  },
+  "page": "353-359",
+  "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+  "source": "Crossref",
+  "is-referenced-by-count": 43,
+  "title": [
+    "Experiencing Chinese education: learning of language and culture by international students in Chinese universities"
+  ],
+  "prefix": "10.1080",
+  "volume": "34",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-3426-8721",
+      "authenticated-orcid": false,
+      "given": "Xuesong (Andy)",
+      "family": "Gao",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "School of Education, University of New South Wales, Kensington, Australia"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Zhu",
+      "family": "Hua",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "School of Education, University of Birmingham, Birmingham, UK"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "301",
+  "published-online": {
+    "date-parts": [
+      [
+        2021,
+        1,
+        11
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "CIT0003",
+      "first-page": "6",
+      "volume": "27",
+      "author": "Altbach P. G.",
+      "year": "2002",
+      "journal-title": "International Higher Education"
+    },
+    {
+      "key": "CIT0004",
+      "first-page": "241",
+      "volume-title": "Handbook of theory and research for the sociology of education",
+      "author": "Bourdieu P.",
+      "year": "1986"
+    },
+    {
+      "key": "CIT0005",
+      "unstructured": "CSC (Chinese Scholarship Council). (2015). Introduction to Chinese Government Scholarships. http://www.csc.edu.cn/Laihua/scholarshipdetailen.aspx?cid=97&id=2070"
+    },
+    {
+      "key": "CIT0006",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/17447143.2010.532218"
+    },
+    {
+      "key": "CIT0007",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11159-007-9075-7"
+    },
+    {
+      "issue": "1",
+      "key": "CIT0008",
+      "first-page": "35",
+      "volume": "10",
+      "author": "Fallon T.",
+      "year": "2014",
+      "journal-title": "China Media Research"
+    },
+    {
+      "key": "CIT0009",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/14708470802303025"
+    },
+    {
+      "key": "CIT0010",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3390/su12166419"
+    },
+    {
+      "key": "CIT0011",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/14767724.2012.750492"
+    },
+    {
+      "key": "CIT0012",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0266078416000390"
+    },
+    {
+      "key": "CIT0013",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0266078409990472"
+    },
+    {
+      "key": "CIT0014",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10734-016-0066-0"
+    },
+    {
+      "key": "CIT0015",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/01292980902826880"
+    },
+    {
+      "key": "CIT0016",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/1028315313519824"
+    },
+    {
+      "key": "CIT0017",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3390/su12187570"
+    },
+    {
+      "key": "CIT0018",
+      "unstructured": "MOE. (2010a). Guojia Zhongchangqi Jiaoyu Gaige He Fazhan Guihua Gangyao (2010–2020). [The Outline of Medium and Long-Term Education Reform and Development Planning (2010–2020)]. Beijing: MOE (Ministry of Education, PRC)."
+    },
+    {
+      "key": "CIT0001",
+      "unstructured": "MOE. (2010b). Liuxue Zhongguo Jihua. [The Study in China Program]. Beijing: MOE (Ministry of Education, PRC). Accessed November 21st, 2020. Online at http://www.gov.cn/zwgk/2010-09/28/content_1711971.htm"
+    },
+    {
+      "key": "CIT0002",
+      "unstructured": "MOE. (2016). Statistics of international students in China in 2016. Beijing: MOE (Ministry of Education, PRC). Accessed November 21st, 2020. http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/201604/t20160414_238263.html"
+    },
+    {
+      "key": "CIT0019",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/07908318.2016.1132652"
+    },
+    {
+      "key": "CIT0020",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/1475240915592107"
+    },
+    {
+      "key": "CIT0021",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/07908310608668750"
+    },
+    {
+      "key": "CIT0022",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/07908310608668753"
+    },
+    {
+      "key": "CIT0023",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11516-018-0003-3"
+    },
+    {
+      "key": "CIT0024",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.system.2020.102245"
+    },
+    {
+      "key": "CIT0025",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S026607841900004X"
+    },
+    {
+      "key": "CIT0026",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s40299-016-0316-z"
+    },
+    {
+      "key": "CIT0027",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/13670050.2018.1526254"
+    },
+    {
+      "key": "CIT0028",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10734-015-9865-y"
+    },
+    {
+      "key": "CIT0029",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.system.2020.102410"
+    }
+  ],
+  "container-title": [
+    "Language, Culture and Curriculum"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.tandfonline.com/doi/pdf/10.1080/07908318.2020.1871002",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        11,
+        11
+      ]
+    ],
+    "date-time": "2021-11-11T14:41:01Z",
+    "timestamp": 1636641661000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.tandfonline.com/doi/full/10.1080/07908318.2020.1871002"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        1,
+        11
+      ]
+    ]
+  },
+  "references-count": 29,
+  "journal-issue": {
+    "issue": "4",
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          2
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1080/07908318.2020.1871002"
+  ],
+  "URL": "https://doi.org/10.1080/07908318.2020.1871002",
+  "relation": {},
+  "ISSN": [
+    "0790-8318",
+    "1747-7573"
+  ],
+  "issn-type": [
+    {
+      "value": "0790-8318",
+      "type": "print"
+    },
+    {
+      "value": "1747-7573",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2021,
+        1,
+        11
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+      "order": 1,
+      "name": "peerreview_statement",
+      "label": "Peer Review Statement"
+    },
+    {
+      "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rlcc20",
+      "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rlcc20",
+      "order": 2,
+      "name": "aims_and_scope_url",
+      "label": "Aim & Scope"
+    },
+    {
+      "value": "2020-11-22",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2020-12-29",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2021-01-11",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

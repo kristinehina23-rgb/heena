@@ -1,0 +1,445 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          3
+        ]
+      ],
+      "date-time": "2025-12-03T02:26:11Z",
+      "timestamp": 1764728771204,
+      "version": "3.46.0"
+    },
+    "reference-count": 44,
+    "publisher": "SAGE Publications",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              29
+            ]
+          ],
+          "date-time": "2025-11-29T00:00:00Z",
+          "timestamp": 1764374400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Language Teaching Research"
+    ],
+    "abstract": "<jats:p>This qualitative study explores learners’ perceptions of the sources of language anxiety in Chinese as a second language (L2) learning in online environments, and how they cope with it. Nine participants, all of whom experienced high levels of L2 anxiety, were selected from a group enrolled in synchronous online Chinese classes during the Covid-19 pandemic. Data were collected through semi-structured interviews and analysed using thematic analysis. The findings reveal that learning languages online presents a unique anxiety-provoking situation, resulting in several distinctive sources of L2 anxiety, such as a lack of self-discipline, difficulty adjusting to the transition, fear of online exposure, unnatural online environment for interaction, etc. In response, learners employed a variety of strategies, such as snacking, reviewing course recordings after class, seeking support from technology, and using other problem-solving techniques. Although online learning introduces new sources of L2 anxiety, learners actively engage in strategies to overcome these challenges, rather than passively accepting or avoiding them. The implications of these findings suggest that both learners and teachers should be aware of the prevalence of L2 anxiety in online environments, reflect on its causes and effects, and work to identify and address L2 anxiety early. Teachers can also modify teaching practices to foster an interactive and collaborative online community and offer asynchronous learning materials for support. Moreover, the universities and relevant institutions should support learners and teachers by offering training, distributing electronic devices, enhancing online teaching platforms, and restructuring course content and structures.</jats:p>",
+    "DOI": "10.1177/13621688251387320",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          29
+        ]
+      ],
+      "date-time": "2025-11-29T14:40:02Z",
+      "timestamp": 1764427202000
+    },
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "‘My speech becomes just a voice, a picture’: Exploring language anxiety in Chinese as a second language learning in online environments"
+    ],
+    "prefix": "10.1177",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0009-5529-2438",
+        "authenticated-orcid": false,
+        "given": "Xin",
+        "family": "Qi",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Yangzhou University, China"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          29
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10494820.2024.2409990"
+      },
+      {
+        "key": "e_1_3_3_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1540-4781.1994.tb02026.x"
+      },
+      {
+        "key": "e_1_3_3_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s40468-024-00322-z"
+      },
+      {
+        "key": "e_1_3_3_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/13620-004"
+      },
+      {
+        "key": "e_1_3_3_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-1770.1975.tb00115.x"
+      },
+      {
+        "key": "e_1_3_3_7_1",
+        "volume-title": "Research methods in applied linguistics",
+        "author": "Dörnyei Z.",
+        "year": "2007",
+        "unstructured": "Dörnyei Z. (2007). Research methods in applied linguistics. Oxford University Press."
+      },
+      {
+        "key": "e_1_3_3_8_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gkonou C. Daubney M. Dewaele J.-M. (2017). New insights into language anxiety: Theory research and educational implications. Multilingual Matters.",
+        "DOI": "10.21832/9781783097722"
+      },
+      {
+        "key": "e_1_3_3_9_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Glaser B. Strauss A. (1967). The discovery of grounded theory: Strategies for qualitative research. Sociology Press.",
+        "DOI": "10.1097/00006199-196807000-00014"
+      },
+      {
+        "key": "e_1_3_3_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.system.2018.05.001"
+      },
+      {
+        "key": "e_1_3_3_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/01596306.2012.745733"
+      },
+      {
+        "key": "e_1_3_3_12_1",
+        "volume-title": "Understanding cultural differences",
+        "author": "Hall E.T.",
+        "year": "1990",
+        "unstructured": "Hall E.T., Hall M.R. (1990). Understanding cultural differences. Intercultural Press."
+      },
+      {
+        "key": "e_1_3_3_13_1",
+        "article-title": "Addressing the challenges of interaction in online language courses",
+        "volume": "103",
+        "author": "Harsch C.",
+        "year": "2021",
+        "unstructured": "Harsch C., Müller-Karabil A., Buchminskaia E. (2021). Addressing the challenges of interaction in online language courses. System (Linköping), 103, Article 102673.",
+        "journal-title": "System (Linköping)"
+      },
+      {
+        "key": "e_1_3_3_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/3586302"
+      },
+      {
+        "key": "e_1_3_3_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S026144480999036X"
+      },
+      {
+        "key": "e_1_3_3_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1540-4781.1986.tb05256.x"
+      },
+      {
+        "key": "e_1_3_3_17_1",
+        "first-page": "487",
+        "article-title": "Anxiety and non-anxiety in a distance language learning environment: The distance factor as a modifying influence",
+        "volume": "35",
+        "author": "Hurd S.",
+        "year": "2007",
+        "unstructured": "Hurd S. (2007). Anxiety and non-anxiety in a distance language learning environment: The distance factor as a modifying influence. System (Linköping), 35, 487–508.",
+        "journal-title": "System (Linköping)"
+      },
+      {
+        "key": "e_1_3_3_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.system.2019.02.017"
+      },
+      {
+        "key": "e_1_3_3_19_1",
+        "first-page": "443",
+        "article-title": "Effects of blended learning by gamification on Chinese college students’ college English learning engagement and foreign language anxiety",
+        "author": "Jing Z.",
+        "year": "2024",
+        "unstructured": "Jing Z., Yongjie L., Shuhua L., et al. (2024). Effects of blended learning by gamification on Chinese college students’ college English learning engagement and foreign language anxiety. In International Symposium on Educational Technology (ISET), pp. 443–447. IEEE.",
+        "journal-title": "International Symposium on Educational Technology (ISET)"
+      },
+      {
+        "key": "e_1_3_3_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5539/elt.v13n11p130"
+      },
+      {
+        "key": "e_1_3_3_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1540-4781.1995.tb05445.x"
+      },
+      {
+        "key": "e_1_3_3_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/elt/58.3.258"
+      },
+      {
+        "key": "e_1_3_3_23_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Krashen S. (1982). Principles and practice in second language acquisition. Pergamon Press.",
+        "DOI": "10.1111/j.1467-971X.1982.tb00476.x"
+      },
+      {
+        "key": "e_1_3_3_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.actpsy.2023.104114"
+      },
+      {
+        "key": "e_1_3_3_25_1",
+        "first-page": "41",
+        "article-title": "Foreign language anxiety of English-major students in online classes during the epidemic",
+        "volume": "23",
+        "author": "Liu Z.Y.",
+        "year": "2021",
+        "unstructured": "Liu Z.Y., Tan Z., Tang H.T., Di C.J. (2021). Foreign language anxiety of English-major students in online classes during the epidemic. Oversea English, 23, 41–43.",
+        "journal-title": "Oversea English"
+      },
+      {
+        "key": "e_1_3_3_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1362168820941288"
+      },
+      {
+        "key": "e_1_3_3_27_1",
+        "volume-title": "Language learning strategies: What every teacher should know",
+        "author": "Oxford R.L.",
+        "year": "1990",
+        "unstructured": "Oxford R.L. (1990). Language learning strategies: What every teacher should know. Heinle & Heinle."
+      },
+      {
+        "key": "e_1_3_3_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1944-9720.2009.01009.x"
+      },
+      {
+        "key": "e_1_3_3_29_1",
+        "first-page": "101",
+        "volume-title": "Language anxiety: From theory and research to classroom implications",
+        "author": "Price M.L.",
+        "year": "1991",
+        "unstructured": "Price M.L. (1991). The subjective experience of foreign language anxiety: Interviews with highly anxious students. In Horwitz E.K., Young D.J. (Eds.), Language anxiety: From theory and research to classroom implications (pp. 101–108). Prentice Hall."
+      },
+      {
+        "key": "e_1_3_3_30_1",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Renzhong P. Wang S. Liu N. (2024). ‘Factors influencing Chinese EFL students’ online learning anxiety in the post-COVID-19 era’. Heliyon 10 e26112. DOI: 10.1016/j.heliyon.2024.e26112",
+        "DOI": "10.1016/j.heliyon.2024.e26112"
+      },
+      {
+        "key": "e_1_3_3_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3138/9781781797020-004"
+      },
+      {
+        "key": "e_1_3_3_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/flan.12461"
+      },
+      {
+        "key": "e_1_3_3_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-5812.2007.00347.x"
+      },
+      {
+        "key": "e_1_3_3_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-1770.1978.tb00309.x"
+      },
+      {
+        "key": "e_1_3_3_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.17718/tojde.1245534"
+      },
+      {
+        "key": "e_1_3_3_36_1",
+        "volume-title": "Anxiety: Current trends in theory and research",
+        "author": "Spielberger C.D.",
+        "year": "1972",
+        "unstructured": "Spielberger C.D. (1972). Anxiety: Current trends in theory and research. Academic Press."
+      },
+      {
+        "key": "e_1_3_3_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0346-251X(96)00044-9"
+      },
+      {
+        "key": "e_1_3_3_38_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tutton M. Cohen D.L. (2024). Foreign language anxiety and self-disclosure in online university French classes. Language Teaching Research. Advance online publication. https://doi.org/10.1177/13621688231221392",
+        "DOI": "10.1177/13621688231221392"
+      },
+      {
+        "key": "e_1_3_3_39_1",
+        "first-page": "54",
+        "article-title": "Foreign language anxiety in virtual classrooms during the Covid-19 pandemic in Turkey",
+        "volume": "7",
+        "author": "Valizadeh M.",
+        "year": "2021",
+        "unstructured": "Valizadeh M. (2021). Foreign language anxiety in virtual classrooms during the Covid-19 pandemic in Turkey. St. Theresa Journal of Humanities and Social Sciences, 7, 54–80.",
+        "journal-title": "St. Theresa Journal of Humanities and Social Sciences"
+      },
+      {
+        "key": "e_1_3_3_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4304/tpls.3.4.660-668"
+      },
+      {
+        "key": "e_1_3_3_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/07908310308666654"
+      },
+      {
+        "key": "e_1_3_3_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9922.2007.00437.x"
+      },
+      {
+        "key": "e_1_3_3_43_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Young D.J. (1991). Creating a low-anxiety classroom environment: What does language anxiety research suggest? The Modern Language Journal 75 426–439.",
+        "DOI": "10.2307/329492"
+      },
+      {
+        "key": "e_1_3_3_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02188791.2023.2165036"
+      },
+      {
+        "key": "e_1_3_3_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.actpsy.2023.104114"
+      }
+    ],
+    "container-title": [
+      "Language Teaching Research"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/13621688251387320",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/13621688251387320",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/13621688251387320",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          3
+        ]
+      ],
+      "date-time": "2025-12-03T02:24:43Z",
+      "timestamp": 1764728683000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/13621688251387320"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          29
+        ]
+      ]
+    },
+    "references-count": 44,
+    "alternative-id": [
+      "10.1177/13621688251387320"
+    ],
+    "URL": "https://doi.org/10.1177/13621688251387320",
+    "relation": {},
+    "ISSN": [
+      "1362-1688",
+      "1477-0954"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1362-1688"
+      },
+      {
+        "type": "electronic",
+        "value": "1477-0954"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          29
+        ]
+      ]
+    },
+    "article-number": "13621688251387320"
+  }
+}

@@ -1,0 +1,496 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          6
+        ]
+      ],
+      "date-time": "2026-07-06T06:16:42Z",
+      "timestamp": 1783318602482,
+      "version": "3.54.6"
+    },
+    "reference-count": 50,
+    "publisher": "Walter de Gruyter GmbH",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2026-05-01T00:00:00Z",
+          "timestamp": 1777593600000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          26
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The digital transformation of education has accelerated since all aspects of teaching and learning activities were transposed into the online environment during Covid-19. In the context of Chinese as a foreign language (CFL), it may be more demanding to integrate digital technologies into teaching and learning due to the language’s unique linguistic features. Using a semi-systematic review methodology, this review examines key studies conducted and published from 2020 to 2025 to reveal the current trends of digital technology use in Chinese language teaching and learning, against the backdrop of digital transformation. After searching six databases (ERIC, JSTOR, Sage Journals, Oxford Academic Journals, Web of Science and Scopus), 94 empirical studies were selected for data extraction and semi-systematic analysis. Results show that even though journal articles are usually seen as reporting on cutting-edge research, in fact established digital technologies that rely on the internet and computers are most frequently examined. Despite relatively sparse use, researchers have started to embrace emerging digital technologies and to incorporate them in CFL teaching and learning. This review also suggests a need for research focusing on the external environment for digital transformation, such as digital equity and the ethical implications of AI. The research regions, the research methods adopted in the reviewed studies, and the profiles of their participants are also reported. Overall, our review identifies gaps in the existing literature by mapping the digital transformation of CFL education and calling for the development of a coherent ecosystem to support Education 4.0.</jats:p>",
+    "DOI": "10.1515/caslar-2026-2002",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          5
+        ]
+      ],
+      "date-time": "2026-05-05T18:02:20Z",
+      "timestamp": 1778004140000
+    },
+    "page": "11-43",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Readiness for digital transformation in Chinese as a foreign language education: a semi-systematic review"
+    ],
+    "prefix": "10.1515",
+    "volume": "15",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1061-4036",
+        "authenticated-orcid": false,
+        "given": "Qi",
+        "family": "Zhang",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "School of Applied Language and Intercultural Studies , Dublin City University, Glasnevin , Dublin , D09 V209 , Ireland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7989-4128",
+        "authenticated-orcid": false,
+        "given": "Caitríona",
+        "family": "Osborne",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Irish Institute for Chinese Studies , University College Dublin, Belfield , Dublin , D04 E4X0 , Ireland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "374",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          5
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_001",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Andringa, Sible & Aline Godfroid. 2019. Call for participation. Language Learning 69(1). 5–10. https://doi.org/10.1111/lang.12338.",
+        "DOI": "10.1111/lang.12338"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_002",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bandyopadhyay, Somprakash, Arina Bardhan, Priyadarshini Dey & Sneha Bhattacharyya. 2021. Education ecosystem. In Somprakash Bandyopadhyay, Arina Bardhan, Priyadarshini Dey & Sneha Bhattacharyya (eds.), Bridging the education divide using social technologies: Explorations in rural India, 43–75. Singapore: Springer.",
+        "DOI": "10.1007/978-981-33-6738-8_3"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_003",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bećirović, Senad. 2023. Digital pedagogy: The use of digital technologies in contemporary education. Bosnia & Herzegovina: Springer Nature.",
+        "DOI": "10.1007/978-981-99-0444-0"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_004",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chan, Jessica, Robert Woore, Laura Molway & Trevor Mutton. 2022. Learning and teaching Chinese as a foreign language: A scoping review. Review of Education 10(3). e3370. https://doi.org/10.1002/rev3.3370.",
+        "DOI": "10.1002/rev3.3370"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_005",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chu, Chengzhi, Matthew D. Coss & Phyllis N. Zhang (eds.). 2024. Transforming Hanzi pedagogy in the digital age: Theory, research, and practice [电写时代的汉字教学—理论与实践]. Oxon & New York: Routledge.",
+        "DOI": "10.4324/9781003285779"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_006",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Clark-Wilson, Alison, Ornella Robutti & Mike Thomas. 2020. Teaching with digital technology. ZDM 52(7). 1223–1242. https://doi.org/10.1007/s11858-020-01196-0.",
+        "DOI": "10.1007/s11858-020-01196-0"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_007",
+        "unstructured": "Claro, Magdalena & Carolina Castro-Grau. 2023. The role of digital technologies in 21st century learning. Regional Forum on Education Policy 7. 1–11."
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_008",
+        "unstructured": "European Commission. 2025a. What is Erasmus+? – Erasmus+. https://erasmus-plus.ec.europa.eu/about-erasmus/what-is-erasmus (accessed 15 September 2025)."
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_009",
+        "unstructured": "European Commission. 2025b. Digital education action plan (2021–2027) – European education area. https://education.ec.europa.eu/focus-topics/digital-education/action-plan (accessed 1 July 2024)."
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_010",
+        "unstructured": "Fellows, Ian. 2018. Wordcloud: Word clouds. https://cran.r-project.org/web/packages/wordcloud/index.html?utm_source=chatgpt.com (accessed 6 June 2025)."
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_011",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gass, Susan, Shawn Loewen & Luke Plonsky. 2021. Coming of age: The past, present, and future of quantitative SLA research. Language Teaching 54(2). 245–258. https://doi.org/10.1017/S0261444819000430.",
+        "DOI": "10.1017/S0261444819000430"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_012",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gong, Yang (Frank), Xuesong (Andy) Gao & Boning Lyu. 2020. Teaching Chinese as a second or foreign language to non-Chinese learners in mainland China (2014–2018). Language Teaching 53(1). 44–62. https://doi.org/10.1017/S0261444819000387.",
+        "DOI": "10.1017/S0261444819000387"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_013",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gong, Yang, Boning Lyu & Xuesong Gao. 2018. Research on teaching Chinese as a second or foreign language in and outside mainland China: A bibliometric analysis. The Asia-Pacific Education Researcher 27(4). 277–289. https://doi.org/10.1007/s40299-018-0385-2.",
+        "DOI": "10.1007/s40299-018-0385-2"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_014",
+        "unstructured": "Gough, David, Sandy Oliver & James Thomas (eds.). 2017. An introduction to systematic reviews, 2nd edn. Los Angeles, London, New Delhi, Singapore, Washington DC, Melbourne: SAGE."
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_015",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Haleem, Abid, Mohd Javaid, Mohd Asim Qadri & Rajiv Suman. 2022. Understanding the role of digital technologies in education: A review. Sustainable Operations and Computers 3. 275–285. https://doi.org/10.1016/j.susoc.2022.05.004.",
+        "DOI": "10.1016/j.susoc.2022.05.004"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_016",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Harper, Luke, Nicolas Kalfa, Goedele M. A. Beckers, Martin Kaefer, Anka J. Nieuwhof-Leppink, Magdalena Fossum, Katherina W. Herbst & Darius Bagli. 2020. The impact of COVID-19 on research. Journal of Pediatric Urology 16(5). 715–716. https://doi.org/10.1016/j.jpurol.2020.07.002.",
+        "DOI": "10.1016/j.jpurol.2020.07.002"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_017",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Henrich, Joseph, Steven J. Heine & Ara Norenzayan. 2010. The weirdest people in the world? Behavioral and Brain Sciences 33(2–3). 61–83. https://doi.org/10.1017/S0140525X0999152X.",
+        "DOI": "10.1017/S0140525X0999152X"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_018",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Huang, Jack Kai-tung. 1985. The input and output of Chinese and Japanese characters. Computer 18(1). 18–24. https://doi.org/10.1109/MC.1985.1662678.",
+        "DOI": "10.1109/MC.1985.1662678"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_019",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ke, Sihui Echo. 2020. Review of research on learning and instruction with specific reference to reading Chinese as an additional language (1976–2018). Frontiers of Education in China 15(1). 14–38. https://doi.org/10.1007/s11516-020-0002-z.",
+        "DOI": "10.1007/s11516-020-0002-z"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_020",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Khany, Reza & Khalil Tazik. 2019. Levels of statistical use in applied linguistics research articles: From 1986 to 2015. Journal of Quantitative Linguistics 26(1). 48–65. https://doi.org/10.1080/09296174.2017.1421498.",
+        "DOI": "10.1080/09296174.2017.1421498"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_021",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Koul, Surabhi & Burna Nayar. 2021. The holistic learning educational ecosystem: A classroom 4.0 perspective. Higher Education Quarterly 75(1). 98–112. https://doi.org/10.1111/hequ.12271.",
+        "DOI": "10.1111/hequ.12271"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_022",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kraus, Sascha, Paul Jones, Norbert Kailer, Alexandra Weinmann, Nuria Chaparro-Banegas & Norat Roig-Tierno. 2021. Digital transformation: An overview of the current state of the art of research. Sage Open 11(3). 1–15. https://doi.org/10.1177/21582440211047576.",
+        "DOI": "10.1177/21582440211047576"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_023",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kubler, Cornelius C. 2018. Developing course materials for technology-mediated Chinese language learning. Innovation in Language Learning and Teaching 12(1). 47–55. https://doi.org/10.1080/17501229.2018.1418626.",
+        "DOI": "10.1080/17501229.2018.1418626"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_024",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Li, Michael. 2023. A review of technology-enhanced Chinese character teaching and learning in a digital context. Language Learning & Technology 27(3). 65–82. https://doi.org/10.64152/10125/73532.",
+        "DOI": "10.64152/10125/73532"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_025",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lyu, Boning, Chun Lai, Chin-Hsi Lin & Gong Yang. 2021. Comparison studies of typing and handwriting in Chinese language learning: A synthetic review. International Journal of Educational Research 106. 1–15. https://doi.org/10.1016/j.ijer.2021.101740.",
+        "DOI": "10.1016/j.ijer.2021.101740"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_026",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lyu, Boning & Xuedan Qi. 2020. A review of research on technology-assisted teaching and learning of Chinese as a second or foreign language from 2008 to 2018. Frontiers of Education in China 15(1). 142–163. https://doi.org/10.1007/s11516-020-0006-8.",
+        "DOI": "10.1007/s11516-020-0006-8"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_027",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Macaro, Ernesto, Handley Zöe & Walter Catherine. 2012. A systematic review of CALL in English as a second language: Focus on primary and secondary education. Language Teaching 45(1). 1–43. https://doi.org/10.1017/S0261444811000395.",
+        "DOI": "10.1017/S0261444811000395"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_028",
+        "unstructured": "Miao, Fengchun & Wayne Holmes. 2023. Guidance for generative AI in education and research. UNESCO. https://www.unesco.org/en/articles/unesco-governments-must-quickly-regulate-generative-ai-schools (accessed 13 August 2025)."
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_029",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Moloney, Robyn Anne. 2013. Providing a bridge to intercultural pedagogy for native speaker teachers of Chinese in Australia. Language, Culture and Curriculum 26(3). 213–228. https://doi.org/10.1080/07908318.2013.829081.",
+        "DOI": "10.1080/07908318.2013.829081"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_030",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Montag, Christian, Benjamin Becker & Chunmei Gan. 2018. The multipurpose application WeChat: A review on recent research. Frontiers in Psychology 9. 1–8. https://doi.org/10.3389/fpsyg.2018.02247.",
+        "DOI": "10.3389/fpsyg.2018.02247"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_031",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mukul, Esin & Gülçin Büyüközkan. 2023. Digital transformation in education: A systematic review of education 4.0. Technological Forecasting and Social Change 194. 122664. https://doi.org/10.1016/j.techfore.2023.122664.",
+        "DOI": "10.1016/j.techfore.2023.122664"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_032",
+        "unstructured": "Neubauer, Diane. 2021. Read-along videos for L2 Chinese learners. Journal of Technology and Chinese Language Teaching 12(1). 138–151. http://www.tclt.us/journal/2021v12n1/neubauer.pdf."
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_033",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pinto, Marta & Carlinda Leite. 2020. Digital technologies in support of students learning in Higher Education: Literature review. Digital Education Review 37. 343–360. https://doi.org/10.1344/der.2020.37.343-360.",
+        "DOI": "10.1344/der.2020.37.343-360"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_034",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Plekhanov, Dmitry, Henrik Franke & Torbjørn H. Netland. 2023. Digital transformation: A review and research agenda. European Management Journal 41(6). 821–844. https://doi.org/10.1016/j.emj.2022.09.007.",
+        "DOI": "10.1016/j.emj.2022.09.007"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_035",
+        "unstructured": "R Core Team. 2024. R: The R project for statistical computing. https://www.r-project.org/ (accessed 6 June 2025)."
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_036",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rose, Heath, Jessica G. Briggs, Jill A. Boggs, Lia Sergio & Natalia Ivanova-Slavianskaia. 2018. A systematic review of language learner strategy research in the face of self-regulation. System 72. 151–163. https://doi.org/10.1016/j.system.2017.12.002.",
+        "DOI": "10.1016/j.system.2017.12.002"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_037",
+        "unstructured": "Sabzalieva, Emma & Arianna Valentini. 2023. ChatGPT and artificial intelligence in higher education: Quick start guide. UNESCO. https://unesdoc.unesco.org/ark:/48223/pf0000385146 (accessed 15 January 2026)."
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_038",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sullivan, Miriam, Andrew Kelly & Paul McLaughlan. 2023. ChatGPT in higher education: Considerations for academic integrity and student learning. Journal of Applied Learning and Teaching 6(1). 31–40. https://doi.org/10.37074/jalt.2023.6.1.17.",
+        "DOI": "10.37074/jalt.2023.6.1.17"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_039",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Trotta, Angelo, Marta Ziosi & Vincenzo Lomonaco. 2023. The future of ethics in AI: Challenges and opportunities. AI & Society 38(2). 439–441. https://doi.org/10.1007/s00146-023-01644-x.",
+        "DOI": "10.1007/s00146-023-01644-x"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_040",
+        "unstructured": "UNESCO. 2009. Guide to measuring information and communication technologies (ICT) in education. Montreal, Quebec, Canada: UNESCO Institute for Statistics. https://uis.unesco.org/en/glossary-term/information-and-communication-technologies-ict (accessed 17 July 2024)."
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_041",
+        "unstructured": "UNESCO. 2020. Startling digital divides in distance learning emerge. https://www.unesco.org/en/articles/startling-digital-divides-distance-learning-emerge (accessed 27 August 2025)."
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_042",
+        "unstructured": "US Department of State. 2025. Foreign language training. United States Department of State. https://www.state.gov/foreign-language-training/ (accessed 7 October 2024)."
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_043",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Vial, Gregory. 2019. Understanding digital transformation: A review and a research agenda. The Journal of Strategic Information Systems 28(2). 118–144. https://doi.org/10.1016/j.jsis.2019.01.003.",
+        "DOI": "10.1016/j.jsis.2019.01.003"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_044",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang, Danping & Danni Li. 2023. Integrating digital multimodal composition (DMC) into Chinese language teaching. In Jia-Fei Hong & Chung-Mou Si (eds.), Teaching Chinese language in the international school context, 101–117. Singapore: Springe.",
+        "DOI": "10.1007/978-981-99-6376-8_7"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_045",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wong, Wilson, Angela Aristidou & Konstantin Scheuermann. 2025. The future of learning or the future of dividing? Exploring the impact of generative artificial intelligence on higher education. Data & Policy 7. e44. https://doi.org/10.1017/dap.2025.10011.",
+        "DOI": "10.1017/dap.2025.10011"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_046",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Xu, Binze. 2024. Technology integration into Chinese as a foreign language learning in higher education: An integrated bibliometric analysis and systematic review (2000–2024). Language Teaching Research. https://doi.org/10.1177/13621688241277911.",
+        "DOI": "10.1177/13621688241277911"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_047",
+        "unstructured": "Zhang, Phyllis Ni. 2021. Typing to replace handwriting: Effectiveness of the typing-primary approach for L2 Chinese beginners. Journal of Technology and Chinese Language Teaching 12(2). 1–28."
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_048",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhang, Meixiu & Qi Liu. 2023. Synchronous and asynchronous online collaborative writing: A study on Chinese language learners. Foreign Language Annals 56(3). 740–763. https://doi.org/10.1111/flan.12704.",
+        "DOI": "10.1111/flan.12704"
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_049",
+        "unstructured": "Zhang, Qi & Caitríona Osborne. 2025. Digital turn in Hanzi teaching from the perspective of overseas research [Cong haiwai yanjiu chengguo kan hanzi jiaoxue de shuzihua zhuanxing]. Journal of Global Chinese Language Development [Quanqiu Zhongwen Fazhan Yanjiu] 5. 146–167."
+      },
+      {
+        "key": "2026070605572561189_j_caslar-2026-2002_ref_050",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhao, Xian, Peijian Paul Sun & Man Gong. 2024. The merit of grit and emotions in L2 Chinese online language achievement: A case of Arabian students. International Journal of Multilingualism 21(3). 1653–1679. https://doi.org/10.1080/14790718.2023.2202403.",
+        "DOI": "10.1080/14790718.2023.2202403"
+      }
+    ],
+    "container-title": [
+      "Chinese as a Second Language Research"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.degruyterbrill.com/document/doi/10.1515/caslar-2026-2002/xml",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.degruyterbrill.com/document/doi/10.1515/caslar-2026-2002/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          6
+        ]
+      ],
+      "date-time": "2026-07-06T06:00:28Z",
+      "timestamp": 1783317628000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.degruyterbrill.com/document/doi/10.1515/caslar-2026-2002/html"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          1
+        ]
+      ]
+    },
+    "references-count": 50,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            5
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            26
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1515/caslar-2026-2002"
+    ],
+    "URL": "https://doi.org/10.1515/caslar-2026-2002",
+    "relation": {},
+    "ISSN": [
+      "2193-2263",
+      "2193-2271"
+    ],
+    "issn-type": [
+      {
+        "value": "2193-2263",
+        "type": "print"
+      },
+      {
+        "value": "2193-2271",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          1
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,473 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          3
+        ]
+      ],
+      "date-time": "2026-08-03T05:01:02Z",
+      "timestamp": 1785733262708,
+      "version": "3.56.0"
+    },
+    "reference-count": 41,
+    "publisher": "Wiley",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              6,
+              12
+            ]
+          ],
+          "date-time": "2020-06-12T00:00:00Z",
+          "timestamp": 1591920000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 11,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Foreign Language Annals"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          6
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Foreign language classroom anxiety is a construct that has been investigated since the 1980s, yet few studies have examined language anxiety in the context of the online learning environment. In this literature review, the following guiding questions were examined: (a) What is foreign language classroom anxiety? (b) What are the research findings on language anxiety among online learners? (c) What can instructors do to help alleviate their online students' perceived levels of language anxiety? In addition to an exploration of the guiding questions, the Foreign Language Classroom Anxiety Scale, which was developed by Horwitz, Horwitz, and Cope (1986), is described in detail as well as how language educators can use it as a tool in their own classrooms to measure their students' perceived language anxiety levels. The pedagogical implications include recommended techniques and interventions for helping online language learners feel less isolated, less anxious, and more connected to their teacher and to their peers. Given the large number of students who are currently engaged in online or remote language learning due to COVID\u201019, it is important to consider how affective factors, such as anxiety, can impede learning outcomes. Furthermore, language educators and their students were required to transition rapidly to the online environment without sufficient time or preparation for it, which is an additional cause of stress for both students and instructors alike. The article concludes with suggestions for future research on online language anxiety.</jats:p>",
+    "DOI": "10.1111/flan.12461",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          12
+        ]
+      ],
+      "date-time": "2020-06-12T08:46:51Z",
+      "timestamp": 1591951611000
+    },
+    "page": "338-352",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 147,
+    "title": [
+      "Language anxiety and the online learner"
+    ],
+    "prefix": "10.1111",
+    "volume": "53",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-5498-9454",
+        "authenticated-orcid": false,
+        "given": "Victoria",
+        "family": "Russell",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Modern and Classical Languages Valdosta State University  Valdosta Georgia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          12
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_8_2_1",
+        "first-page": "175",
+        "volume-title": "Opening doors through distance language education: Principles, perspectives, and practices. CALICO Monograph Series",
+        "author": "Abras C. N.",
+        "year": "2008"
+      },
+      {
+        "key": "e_1_2_8_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1540-4781.1994.tb02026.x"
+      },
+      {
+        "key": "e_1_2_8_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1944-9720.2004.tb02200.x"
+      },
+      {
+        "key": "e_1_2_8_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00223980.1975.9915748"
+      },
+      {
+        "key": "e_1_2_8_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1540-4781.2005.00275.x"
+      },
+      {
+        "key": "e_1_2_8_7_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gacs A. Goertler S. Spasova S. (2020).Planned online language education versus crisis\u2010prompted online language teaching: Lessons for the future.Foreign Language Annals.https://doi.org/10.1111/flan.12460",
+        "DOI": "10.1111/flan.12460"
+      },
+      {
+        "key": "e_1_2_8_8_1",
+        "first-page": "471",
+        "volume-title": "Present and future promises of CALL: From theory and research to new directions in language teaching",
+        "author": "Goertler S.",
+        "year": "2011"
+      },
+      {
+        "key": "e_1_2_8_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/modl.12084"
+      },
+      {
+        "key": "e_1_2_8_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.21832/9781783091218"
+      },
+      {
+        "key": "e_1_2_8_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/3586302"
+      },
+      {
+        "key": "e_1_2_8_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1540-4781.1988.tb04190.x"
+      },
+      {
+        "key": "e_1_2_8_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1944-9720.1996.tb01248.x"
+      },
+      {
+        "key": "e_1_2_8_14_1",
+        "volume-title": "Becoming a language teacher: A practical guide to second language learning and teaching",
+        "author": "Horwitz E. K.",
+        "year": "2008"
+      },
+      {
+        "key": "e_1_2_8_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1540-4781.1986.tb05256.x"
+      },
+      {
+        "key": "e_1_2_8_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1075/lllt.14.22jon"
+      },
+      {
+        "key": "e_1_2_8_17_1",
+        "volume-title": "Second language acquisition and second language learning",
+        "author": "Krashen S.",
+        "year": "1981"
+      },
+      {
+        "key": "e_1_2_8_18_1",
+        "volume-title": "Principles and practice in second language acquisition",
+        "author": "Krashen S.",
+        "year": "1982"
+      },
+      {
+        "key": "e_1_2_8_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0272263100012560"
+      },
+      {
+        "key": "e_1_2_8_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-1770.1994.tb01103.x"
+      },
+      {
+        "key": "e_1_2_8_21_1",
+        "first-page": "13",
+        "volume-title": "Avoiding communication: Shyness, reticence, and communication apprehension",
+        "author": "McCroskey J.",
+        "year": "1984"
+      },
+      {
+        "key": "e_1_2_8_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/03637757009375677"
+      },
+      {
+        "key": "e_1_2_8_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/0023-8333.00112"
+      },
+      {
+        "key": "e_1_2_8_24_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Payne J. S. (2020).Developing L2 productive language skills online and the strategic use of instructional tools.Foreign Language Annals.https://doi.org/10.1111/flan.12457",
+        "DOI": "10.1111/flan.12457"
+      },
+      {
+        "key": "e_1_2_8_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1540-4781.1992.tb02573.x"
+      },
+      {
+        "key": "e_1_2_8_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1944-9720.2009.01009.x"
+      },
+      {
+        "key": "e_1_2_8_27_1",
+        "first-page": "101",
+        "volume-title": "Language anxiety: From theory and research to classroom implications",
+        "author": "Price M.",
+        "year": "1991"
+      },
+      {
+        "key": "e_1_2_8_28_1",
+        "unstructured": "Russell V.(2016 May).Promoting online language learners' perceptions of connectedness through pedagogical innovations. Paper presented at the Computer Assisted Language Instruction Consortium (CALICO) Conference Michigan State University East Lansing MI."
+      },
+      {
+        "key": "e_1_2_8_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.iheduc.2012.07.002"
+      },
+      {
+        "key": "e_1_2_8_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9780429426483"
+      },
+      {
+        "key": "e_1_2_8_31_1",
+        "first-page": "49",
+        "volume-title": "Assessment across online language education",
+        "author": "Russell V.",
+        "year": "2018"
+      },
+      {
+        "key": "e_1_2_8_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/0026-7902.00016"
+      },
+      {
+        "key": "e_1_2_8_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.46.4.929"
+      },
+      {
+        "key": "e_1_2_8_34_1",
+        "first-page": "193",
+        "volume-title": "Stress and anxiety",
+        "author": "Sarason I. G.",
+        "year": "1978"
+      },
+      {
+        "key": "e_1_2_8_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1944-9720.2000.tb01995.x"
+      },
+      {
+        "key": "e_1_2_8_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1944-9720.2007.tb03201.x"
+      },
+      {
+        "key": "e_1_2_8_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1558/cj.v23i1.49-78"
+      },
+      {
+        "key": "e_1_2_8_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0027806"
+      },
+      {
+        "key": "e_1_2_8_39_1",
+        "volume-title": "Language learning in distance education",
+        "author": "White C.",
+        "year": "2010"
+      },
+      {
+        "issue": "03",
+        "key": "e_1_2_8_40_1",
+        "first-page": "717",
+        "article-title": "An investigation of students' perspectives on foreign language anxiety",
+        "volume": "59",
+        "author": "Worde R.",
+        "year": "1998",
+        "journal-title": "Dissertation Abstracts International"
+      },
+      {
+        "key": "e_1_2_8_41_1",
+        "volume-title": "Affect in foreign and second language learning",
+        "author": "Young D. J.",
+        "year": "1999"
+      },
+      {
+        "key": "e_1_2_8_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1540-4781.2013.12032.x"
+      }
+    ],
+    "container-title": [
+      "Foreign Language Annals"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fflan.12461",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/flan.12461",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/flan.12461",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/flan.12461",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          6
+        ]
+      ],
+      "date-time": "2023-09-06T04:22:44Z",
+      "timestamp": 1693974164000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1111/flan.12461"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          6
+        ]
+      ]
+    },
+    "references-count": 41,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/flan.12461"
+    ],
+    "URL": "https://doi.org/10.1111/flan.12461",
+    "archive": [
+      "Portico"
+    ],
+    "relation": {},
+    "ISSN": [
+      "0015-718X",
+      "1944-9720"
+    ],
+    "issn-type": [
+      {
+        "value": "0015-718X",
+        "type": "print"
+      },
+      {
+        "value": "1944-9720",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          6
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2020-05-13",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2020-05-14",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2020-06-12",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

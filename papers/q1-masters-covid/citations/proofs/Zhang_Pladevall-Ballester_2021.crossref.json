@@ -1,0 +1,459 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          17
+        ]
+      ],
+      "date-time": "2026-08-17T22:41:32Z",
+      "timestamp": 1787006492232,
+      "version": "3.56.0"
+    },
+    "reference-count": 38,
+    "publisher": "Informa UK Limited",
+    "issue": "2",
+    "content-domain": {
+      "domain": [
+        "www.tandfonline.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Language, Culture and Curriculum"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1080/07908318.2021.1979576",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          20
+        ]
+      ],
+      "date-time": "2021-09-20T08:33:33Z",
+      "timestamp": 1632126813000
+    },
+    "page": "200-216",
+    "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 43,
+    "title": [
+      "Students\u2019 attitudes and perceptions towards three EMI courses in mainland China"
+    ],
+    "prefix": "10.1080",
+    "volume": "35",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-9823-0768",
+        "authenticated-orcid": false,
+        "given": "Mengjia",
+        "family": "Zhang",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "School of English Education, Xi\u2019an International Studies University, Xi\u2019an, People\u2019s Republic of China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2793-9179",
+        "authenticated-orcid": false,
+        "given": "Elisabet",
+        "family": "Pladevall-Ballester",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Departament de Filologia Anglesa i de German\u00edstica, Universitat Aut\u00f2noma de Barcelona, Bellaterra, Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          20
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "CIT0001",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13670050.2011.615906"
+      },
+      {
+        "key": "CIT0002",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1362168820965510"
+      },
+      {
+        "key": "CIT0003",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/01434632.2012.670241"
+      },
+      {
+        "key": "CIT0004",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1028315316647165"
+      },
+      {
+        "key": "CIT0005",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10734-010-9397-4"
+      },
+      {
+        "key": "CIT0006",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5539/ies.v8n3p1"
+      },
+      {
+        "key": "CIT0007",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1075/aila.25.03cos"
+      },
+      {
+        "issue": "2",
+        "key": "CIT0008",
+        "first-page": "269",
+        "volume": "25",
+        "author": "Costa F.",
+        "year": "2017",
+        "journal-title": "L\u2019Analisi Linguistica e Letteraria"
+      },
+      {
+        "key": "CIT0009",
+        "first-page": "69",
+        "volume": "33",
+        "author": "Doiz A.",
+        "year": "2019",
+        "journal-title": "Lingue e Linguaggi"
+      },
+      {
+        "key": "CIT0010",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781315618623-9"
+      },
+      {
+        "key": "CIT0011",
+        "first-page": "1",
+        "volume": "4",
+        "author": "Fortune T.",
+        "year": "2000",
+        "journal-title": "ACIE Newsletter"
+      },
+      {
+        "key": "CIT0012",
+        "volume-title": "Internationalisation, higher education and the growing demand for English: An investigation into the English medium of instruction (EMI) movement in China and Japan",
+        "author": "Galloway N.",
+        "year": "2017"
+      },
+      {
+        "key": "CIT0013",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10734-019-00486-1"
+      },
+      {
+        "key": "CIT0014",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/su10114230"
+      },
+      {
+        "key": "CIT0015",
+        "first-page": "11",
+        "volume": "45",
+        "author": "Hellekj\u00e6r G. O.",
+        "year": "2010",
+        "journal-title": "Hermes-Journal of Language and Communication Studies"
+      },
+      {
+        "key": "CIT0016",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13670050.2015.1125847"
+      },
+      {
+        "issue": "1",
+        "key": "CIT0017",
+        "first-page": "1",
+        "volume": "16",
+        "author": "Hu G.",
+        "year": "2019",
+        "journal-title": "The Journal of Asia TEFL"
+      },
+      {
+        "key": "CIT0018",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13670050.2018.1493084"
+      },
+      {
+        "key": "CIT0019",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13670050.2016.1231166"
+      },
+      {
+        "issue": "2",
+        "key": "CIT0020",
+        "first-page": "35",
+        "volume": "11",
+        "author": "Kym I.",
+        "year": "2014",
+        "journal-title": "The Journal of Asia TEFL"
+      },
+      {
+        "key": "CIT0021",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1515/iral-2014-0005"
+      },
+      {
+        "key": "CIT0022",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0261444817000350"
+      },
+      {
+        "key": "CIT0023",
+        "unstructured": "Ministry of Education. (2005). Guanyu jinyibu jiaqiang gaodeng xuexiao benke jiaoxue gongzuo de ruogan yijian [Guidelines for further improving undergraduate education]. Retrieved from http://www.moe.gov.cn/jyb_sjzl/moe_364/moe_1588/moe_1615/tnull_25595.html"
+      },
+      {
+        "key": "CIT0024",
+        "unstructured": "Ministry of Education. (2007). Guanyu jinyibu shenhua benke jiaoxue gaige quanmian tigao jiaoxue zhiliang de ruogan yijian [Guidelines for deepening the reform of undergraduate education and raising educational quality]. Retrieved from http://www.moe.gov.cn/srcsite/A08/s7056/200702/t20070217_79865.html"
+      },
+      {
+        "key": "CIT0025",
+        "unstructured": "Ministry of Education. (2015). Tongchou tuijin shijie yiliu daxue he yiliu xueke jianshe zongti fangan [Guidelines for planning and promoting the construction of world-class universities and disciplines]. Retrieved from http://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201511/t20151105_217823.html"
+      },
+      {
+        "key": "CIT0026",
+        "unstructured": "Ministry of Education of the People\u2019s Republic of China. (2001). Guanyu jiaqiang gaodeng xuexiao benke jiaoxue gongzuo tigao jiaoxue zhiliang de ruogan yijian [Guidelines for strengthening college undergraduate programs and enhancing the quality of instruction]. Retrieved from http://www.moe.gov.cn/publicfiles/business/ htmlfiles/moe/moe_1623/201006/88633.html"
+      },
+      {
+        "key": "CIT0027",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1075/aila.25.01smi"
+      },
+      {
+        "key": "CIT0028",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/ijal.12062"
+      },
+      {
+        "key": "CIT0029",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jeap.2011.08.003"
+      },
+      {
+        "key": "CIT0030",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781315618623-7"
+      },
+      {
+        "key": "CIT0031",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13670050.2011.607921"
+      },
+      {
+        "key": "CIT0032",
+        "volume-title": "English-Taught programmes in European higher education: The state of play in 2014",
+        "author": "W\u00e4chter B.",
+        "year": "2014"
+      },
+      {
+        "key": "CIT0033",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781315618623-3"
+      },
+      {
+        "key": "CIT0034",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.14483/22487085.11576"
+      },
+      {
+        "key": "CIT0035",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781315618623-4"
+      },
+      {
+        "key": "CIT0036",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13670050.2014.904840"
+      },
+      {
+        "key": "CIT0037",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781315618623-2"
+      },
+      {
+        "key": "CIT0038",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0033688214555358"
+      }
+    ],
+    "container-title": [
+      "Language, Culture and Curriculum"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/07908318.2021.1979576",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          6
+        ]
+      ],
+      "date-time": "2022-05-06T05:59:34Z",
+      "timestamp": 1651816774000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/07908318.2021.1979576"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          20
+        ]
+      ]
+    },
+    "references-count": 38,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            4,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1080/07908318.2021.1979576"
+    ],
+    "URL": "https://doi.org/10.1080/07908318.2021.1979576",
+    "relation": {},
+    "ISSN": [
+      "0790-8318",
+      "1747-7573"
+    ],
+    "issn-type": [
+      {
+        "value": "0790-8318",
+        "type": "print"
+      },
+      {
+        "value": "1747-7573",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          20
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+        "order": 1,
+        "name": "peerreview_statement",
+        "label": "Peer Review Statement"
+      },
+      {
+        "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rlcc20",
+        "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rlcc20",
+        "order": 2,
+        "name": "aims_and_scope_url",
+        "label": "Aim & Scope"
+      },
+      {
+        "value": "2020-11-24",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2021-08-31",
+        "order": 1,
+        "name": "revised",
+        "label": "Revised",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2021-09-07",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2021-09-20",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

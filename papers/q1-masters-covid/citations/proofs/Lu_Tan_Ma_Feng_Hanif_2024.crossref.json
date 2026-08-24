@@ -1,0 +1,207 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        17
+      ]
+    ],
+    "date-time": "2025-01-17T14:12:46Z",
+    "timestamp": 1737123166495,
+    "version": "3.33.0"
+  },
+  "reference-count": 0,
+  "publisher": "International Research Alliance for Sustainable Development",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            12,
+            6
+          ]
+        ],
+        "date-time": "2024-12-06T00:00:00Z",
+        "timestamp": 1733443200000
+      },
+      "content-version": "unspecified",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by-nc/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Pak. J. Humanit. Soc. Sci"
+  ],
+  "abstract": "<jats:p>This study explores the challenges and opportunities in localizing and adapting Chinese language teaching materials for Pakistani learners, focusing on the HSK Standard Course. Amidst the growing demand for Chinese language education under initiatives like the China-Pakistan Economic Corridor, this research examines the cultural, linguistic, and pedagogical gaps in current materials. It highlights the need for integrating Urdu annotations, introducing cultural comparisons, and updating vocabulary and teaching modules to enhance engagement and learning outcomes. Drawing on surveys, interviews, and literature reviews, the study proposes strategies for creating localized materials that are more effective in fostering cultural exchange and language proficiency.</jats:p>",
+  "DOI": "10.52131/pjhss.2024.v12i4.2553",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        17
+      ]
+    ],
+    "date-time": "2025-01-17T13:38:15Z",
+    "timestamp": 1737121095000
+  },
+  "page": "3257-3281",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Scenario Analysis of Localization and Adaptation of Chinese Language Teaching"
+  ],
+  "prefix": "10.52131",
+  "author": [
+    {
+      "given": "LU",
+      "family": "Xiaohui",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "TAN",
+      "family": "Anqi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "MA",
+      "family": "Yiping",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "FENG",
+      "family": "Huilin",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Bushra",
+      "family": "Hanif",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "29685",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        6
+      ]
+    ]
+  },
+  "container-title": [
+    "Pakistan Journal of Humanities and Social Sciences"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "https://internationalrasd.org/journals/index.php/pjhss/article/download/2553/1738",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://internationalrasd.org/journals/index.php/pjhss/article/download/2553/1738",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        17
+      ]
+    ],
+    "date-time": "2025-01-17T13:38:15Z",
+    "timestamp": 1737121095000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://internationalrasd.org/journals/index.php/pjhss/article/view/2553"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        6
+      ]
+    ]
+  },
+  "references-count": 0,
+  "URL": "https://doi.org/10.52131/pjhss.2024.v12i4.2553",
+  "relation": {},
+  "ISSN": [
+    "2415-007X",
+    "2709-801X"
+  ],
+  "issn-type": [
+    {
+      "value": "2415-007X",
+      "type": "electronic"
+    },
+    {
+      "value": "2709-801X",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        6
+      ]
+    ]
+  }
+}

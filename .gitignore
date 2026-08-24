@@ -1,0 +1,3 @@
+# Local raw exports (contain names and IP addresses — never commit)
+papers/q1-masters-covid/data/raw/
+*.sav

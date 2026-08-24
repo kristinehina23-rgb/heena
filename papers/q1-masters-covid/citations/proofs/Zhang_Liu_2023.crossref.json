@@ -1,0 +1,592 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          20
+        ]
+      ],
+      "date-time": "2026-06-20T00:20:58Z",
+      "timestamp": 1781914858970,
+      "version": "3.54.5"
+    },
+    "reference-count": 60,
+    "publisher": "Wiley",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              5,
+              29
+            ]
+          ],
+          "date-time": "2023-05-29T00:00:00Z",
+          "timestamp": 1685318400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Foreign Language Annals"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          9
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Despite the solid evidence that online collaborative writing (CW) tasks benefit language learning, little is known about whether the computer\u2010mediated communication (CMC) modality may impact the potential of online CW tasks in foreign language classrooms. This study examined the effect of task modality on the utility of CW tasks in language classrooms. Fourteen Chinese as a foreign language (CFL) learners completed Google Docs\u2010based CW tasks in two modalities: A synchronous CMC modality entailing video\u2010chatting in Zoom and an asynchronous CMC modality where learners interacted in Google Docs with delayed time. Through analyzing multiple data sources (i.e., peer interaction, written products, editing logs, interviews), we found that, while CMC modality did not impact writing performance, CFL learners had more language learning opportunities and more positive learning experiences in the synchronous mode than in the asynchronous one. The findings revealed multiple challenges that require attention when implementing asynchronous CW tasks in teaching.</jats:p>",
+    "DOI": "10.1111/flan.12704",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          29
+        ]
+      ],
+      "date-time": "2023-05-29T10:15:28Z",
+      "timestamp": 1685355328000
+    },
+    "page": "740-763",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 12,
+    "title": [
+      "Synchronous and asynchronous online collaborative writing: A study on Chinese language learners"
+    ],
+    "prefix": "10.1111",
+    "volume": "56",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-4308-1088",
+        "authenticated-orcid": false,
+        "given": "Meixiu",
+        "family": "Zhang",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Texas Tech University Lubbock Texas USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Qi",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Texas Tech University Health Sciences Center Lubbock Texas USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          29
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_12_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09588221.2016.1270968"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_2_12_3_1",
+        "first-page": "22",
+        "article-title": "Collaborative writing and text quality in Google Docs",
+        "volume": "23",
+        "author": "Abrams Z.",
+        "year": "2019",
+        "journal-title": "Language Learning & Technology"
+      },
+      {
+        "key": "e_1_2_12_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1540-4781.00184"
+      },
+      {
+        "key": "e_1_2_12_5_1",
+        "first-page": "59",
+        "volume-title": "Task sequencing and instructed second language learning",
+        "author": "Baralt M.",
+        "year": "2014"
+      },
+      {
+        "key": "e_1_2_12_6_1",
+        "first-page": "79",
+        "article-title": "Effects of web\u2010based collaborative writing on individual L2 writing development",
+        "volume": "20",
+        "author": "Bikowski D.",
+        "year": "2016",
+        "journal-title": "Language Learning & Technology"
+      },
+      {
+        "key": "e_1_2_12_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jslw.2017.05.013"
+      },
+      {
+        "key": "e_1_2_12_8_1",
+        "first-page": "57",
+        "volume-title": "Language learning online: Theory and practice in the ESL and L2 computer classroom",
+        "author": "Chun D.",
+        "year": "1998"
+      },
+      {
+        "key": "e_1_2_12_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0346-251X(94)90037-X"
+      },
+      {
+        "key": "e_1_2_12_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1944-9720.2011.01144.x"
+      },
+      {
+        "key": "e_1_2_12_11_1",
+        "volume-title": "Singular texts/plural authors",
+        "author": "Ede L.",
+        "year": "1990"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_2_12_12_1",
+        "first-page": "51",
+        "article-title": "Collaborative writing: Fostering L2 development and mastery of writing conventions",
+        "volume": "14",
+        "author": "Elola I.",
+        "year": "2010",
+        "journal-title": "Language Learning & Technology"
+      },
+      {
+        "key": "e_1_2_12_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jslw.2018.05.005"
+      },
+      {
+        "key": "e_1_2_12_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jslw.2011.12.002"
+      },
+      {
+        "key": "e_1_2_12_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1362168813519730"
+      },
+      {
+        "key": "e_1_2_12_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9780203826102"
+      },
+      {
+        "key": "e_1_2_12_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/flan.12466"
+      },
+      {
+        "key": "e_1_2_12_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1075/lllt.32"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_2_12_19_1",
+        "first-page": "103",
+        "article-title": "Using wiki\u2010mediated collaboration to foster L2 writing performance",
+        "volume": "22",
+        "author": "Hsu H.\u2010C.",
+        "year": "2018",
+        "journal-title": "Language Learning & Technology"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_2_12_20_1",
+        "first-page": "1",
+        "article-title": "Effects of computer\u2010mediated collaborative writing on individual EFL writing performance",
+        "volume": "35",
+        "author": "Jiang W.",
+        "year": "2021",
+        "journal-title": "Computer Assisted Language Learning"
+      },
+      {
+        "key": "e_1_2_12_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11528-006-0046-9"
+      },
+      {
+        "key": "e_1_2_12_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jslw.2017.06.001"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_12_23_1",
+        "first-page": "79",
+        "article-title": "Student\u2010initiated attention to form in wiki\u2010based collaborative writing",
+        "volume": "13",
+        "author": "Kessler G.",
+        "year": "2009",
+        "journal-title": "Language Learning & Technology"
+      },
+      {
+        "key": "e_1_2_12_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09588220903467335"
+      },
+      {
+        "key": "e_1_2_12_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/flan.12491"
+      },
+      {
+        "key": "e_1_2_12_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1362168810388711"
+      },
+      {
+        "key": "e_1_2_12_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.11139/cj.28.3.606-620"
+      },
+      {
+        "key": "e_1_2_12_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09588221.2018.1465981"
+      },
+      {
+        "key": "e_1_2_12_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jslw.2016.01.002"
+      },
+      {
+        "key": "e_1_2_12_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0261444821000318"
+      },
+      {
+        "key": "e_1_2_12_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09588221.2011.631142"
+      },
+      {
+        "key": "e_1_2_12_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jslw.2018.06.005"
+      },
+      {
+        "key": "e_1_2_12_33_1",
+        "volume-title": "Input, interaction, and corrective feedback in L2 learning",
+        "author": "Mackey A.",
+        "year": "2012"
+      },
+      {
+        "key": "e_1_2_12_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/applin/amp044"
+      },
+      {
+        "key": "e_1_2_12_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/lang.12079"
+      },
+      {
+        "key": "e_1_2_12_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jslw.2014.09.003"
+      },
+      {
+        "key": "e_1_2_12_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09588221.2021.1888753"
+      },
+      {
+        "key": "e_1_2_12_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1075/lllt.45.11rou"
+      },
+      {
+        "key": "e_1_2_12_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1362168815584455"
+      },
+      {
+        "key": "e_1_2_12_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.11139/cj.28.2.369-391"
+      },
+      {
+        "key": "e_1_2_12_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1076/call.16.5.427.29484"
+      },
+      {
+        "key": "e_1_2_12_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09588221.2014.993400"
+      },
+      {
+        "key": "e_1_2_12_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-8624.00519"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_12_44_1",
+        "first-page": "77",
+        "article-title": "Discourse functions and syntactic complexity in synchronous and asyncronous communication",
+        "volume": "4",
+        "author": "Sotillo S. M.",
+        "year": "2000",
+        "journal-title": "Language Learning & Technology"
+      },
+      {
+        "key": "e_1_2_12_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.21832/9781847699954"
+      },
+      {
+        "key": "e_1_2_12_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0261444818000320"
+      },
+      {
+        "key": "e_1_2_12_47_1",
+        "volume-title": "Basics of qualitative research",
+        "author": "Strauss A.",
+        "year": "1998"
+      },
+      {
+        "key": "e_1_2_12_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.11139/cj.31.1.1-18"
+      },
+      {
+        "key": "e_1_2_12_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1540-4781.1998.tb01209.x"
+      },
+      {
+        "key": "e_1_2_12_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2104/aral1027"
+      },
+      {
+        "key": "e_1_2_12_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/modl.12594"
+      },
+      {
+        "key": "e_1_2_12_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09588221.2014.881386"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_2_12_53_1",
+        "first-page": "7",
+        "article-title": "Comparing face\u2010to\u2010face and electronic discussion in the second language classroom",
+        "volume": "13",
+        "author": "Warschauer M.",
+        "year": "1996",
+        "journal-title": "CALICO Journal"
+      },
+      {
+        "key": "e_1_2_12_54_1",
+        "volume-title": "Second language development in writing: Measures of fluency, accuracy, and complexity",
+        "author": "Wolfe\u2010Quintero K.",
+        "year": "1998"
+      },
+      {
+        "key": "e_1_2_12_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/applin/amz064"
+      },
+      {
+        "key": "e_1_2_12_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jslw.2021.100836"
+      },
+      {
+        "key": "e_1_2_12_57_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.system.2018.04.009"
+      },
+      {
+        "key": "e_1_2_12_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jslw.2022.100868"
+      },
+      {
+        "key": "e_1_2_12_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jslw.2021.100854"
+      },
+      {
+        "key": "e_1_2_12_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jslw.2020.100753"
+      },
+      {
+        "key": "e_1_2_12_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S027226311500025X"
+      }
+    ],
+    "container-title": [
+      "Foreign Language Annals"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/flan.12704",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          12
+        ]
+      ],
+      "date-time": "2023-09-12T10:58:00Z",
+      "timestamp": 1694516280000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1111/flan.12704"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          29
+        ]
+      ]
+    },
+    "references-count": 60,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/flan.12704"
+    ],
+    "URL": "https://doi.org/10.1111/flan.12704",
+    "archive": [
+      "Portico"
+    ],
+    "relation": {},
+    "ISSN": [
+      "0015-718X",
+      "1944-9720"
+    ],
+    "issn-type": [
+      {
+        "value": "0015-718X",
+        "type": "print"
+      },
+      {
+        "value": "1944-9720",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          29
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2021-09-15",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2023-02-24",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2023-05-29",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

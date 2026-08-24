@@ -1,0 +1,444 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        23
+      ]
+    ],
+    "date-time": "2026-07-23T12:37:15Z",
+    "timestamp": 1784810235502,
+    "version": "3.55.0"
+  },
+  "reference-count": 41,
+  "publisher": "SAGE Publications",
+  "issue": "2",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            8,
+            1
+          ]
+        ],
+        "date-time": "2023-08-01T00:00:00Z",
+        "timestamp": 1690848000000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "journals.sagepub.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "RELC Journal"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2023,
+        8
+      ]
+    ]
+  },
+  "DOI": "10.1177/00336882231176929",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        1
+      ]
+    ],
+    "date-time": "2023-09-01T10:16:35Z",
+    "timestamp": 1693563395000
+  },
+  "page": "311-320",
+  "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 29,
+  "title": [
+    "Teaching with Technology in the Post-Pandemic Digital Age: Technological Normalisation and AI-Induced Disruptions"
+  ],
+  "prefix": "10.1177",
+  "volume": "54",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-3913-5194",
+      "authenticated-orcid": false,
+      "given": "Benjamin Luke",
+      "family": "Moorhouse",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Education Studies, Hong Kong Baptist University, Baptist University Road Campus, Hong Kong"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-6237-0427",
+      "authenticated-orcid": false,
+      "given": "Kevin M.",
+      "family": "Wong",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Graduate School of Education and Psychology, Pepperdine University, Los Angeles, CA, USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Li",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Faculty of Humanities, Arts and Social Sciences, University of Exeter, UK"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "179",
+  "published-online": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        1
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "bibr1-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.24815/siele.v7i2.16929"
+    },
+    {
+      "key": "bibr2-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/09588221.2015.1047456"
+    },
+    {
+      "key": "bibr3-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0346-251X(02)00071-4"
+    },
+    {
+      "key": "bibr4-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/00336882231153669"
+    },
+    {
+      "key": "bibr5-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/00336882231175510"
+    },
+    {
+      "key": "bibr6-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0033688220981784"
+    },
+    {
+      "key": "bibr7-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/00336882231175762"
+    },
+    {
+      "key": "bibr8-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/00336882231167610"
+    },
+    {
+      "key": "bibr9-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0033688220981778"
+    },
+    {
+      "issue": "2",
+      "key": "bibr10-00336882231176929",
+      "first-page": "6",
+      "volume": "27",
+      "author": "Godwin-Jones R",
+      "year": "2023",
+      "journal-title": "Language Learning & Technology"
+    },
+    {
+      "key": "bibr11-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/00336882231158162"
+    },
+    {
+      "key": "bibr12-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4324/9780203181522"
+    },
+    {
+      "key": "bibr13-00336882231176929",
+      "volume-title": "TESOL technology standards",
+      "author": "Healey D",
+      "year": "2011"
+    },
+    {
+      "key": "bibr14-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/00336882231168504"
+    },
+    {
+      "key": "bibr15-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.tate.2017.05.016"
+    },
+    {
+      "key": "bibr16-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/00336882231186431"
+    },
+    {
+      "key": "bibr17-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/00336882211040270"
+    },
+    {
+      "key": "bibr18-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/00336882231162868"
+    },
+    {
+      "key": "bibr19-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/00336882231175239"
+    },
+    {
+      "key": "bibr20-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/00336882231165060"
+    },
+    {
+      "key": "bibr21-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1057/978-1-137-51768-5"
+    },
+    {
+      "key": "bibr22-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/00336882231161153"
+    },
+    {
+      "key": "bibr23-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ijme.2023.100790"
+    },
+    {
+      "key": "bibr24-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/00336882231175236"
+    },
+    {
+      "key": "bibr25-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/00336882231160610"
+    },
+    {
+      "key": "bibr26-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1467-9620.2006.00684.x"
+    },
+    {
+      "key": "bibr27-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/elt/ccac050"
+    },
+    {
+      "key": "bibr28-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/00336882211053052"
+    },
+    {
+      "key": "bibr29-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/00336882221150810"
+    },
+    {
+      "key": "bibr30-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/tesq.3144"
+    },
+    {
+      "key": "bibr31-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/02188791.2021.1988511"
+    },
+    {
+      "key": "bibr32-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.system.2020.102431"
+    },
+    {
+      "key": "bibr33-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/00336882231157785"
+    },
+    {
+      "key": "bibr34-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/00336882231152944"
+    },
+    {
+      "key": "bibr35-00336882231176929",
+      "volume": "95",
+      "author": "Redecker C",
+      "year": "2017",
+      "journal-title": "Joint Research Centre-JRC: Luxembourg"
+    },
+    {
+      "key": "bibr36-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/00336882231168438"
+    },
+    {
+      "key": "bibr37-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/00336882231185230"
+    },
+    {
+      "key": "bibr38-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.system.2021.102653"
+    },
+    {
+      "key": "bibr39-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/00336882211044860"
+    },
+    {
+      "key": "bibr40-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/00336882231165532"
+    },
+    {
+      "key": "bibr41-00336882231176929",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/tesj.716"
+    }
+  ],
+  "container-title": [
+    "RELC Journal"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://journals.sagepub.com/doi/pdf/10.1177/00336882231176929",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/00336882231176929",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://journals.sagepub.com/doi/pdf/10.1177/00336882231176929",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        1
+      ]
+    ],
+    "date-time": "2026-05-01T09:47:30Z",
+    "timestamp": 1777628850000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://journals.sagepub.com/doi/10.1177/00336882231176929"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        8
+      ]
+    ]
+  },
+  "references-count": 41,
+  "journal-issue": {
+    "issue": "2",
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          8
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1177/00336882231176929"
+  ],
+  "URL": "https://doi.org/10.1177/00336882231176929",
+  "relation": {},
+  "ISSN": [
+    "0033-6882",
+    "1745-526X"
+  ],
+  "issn-type": [
+    {
+      "value": "0033-6882",
+      "type": "print"
+    },
+    {
+      "value": "1745-526X",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2023,
+        8
+      ]
+    ]
+  }
+}

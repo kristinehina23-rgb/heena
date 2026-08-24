@@ -1,0 +1,868 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          14
+        ]
+      ],
+      "date-time": "2026-08-14T13:07:31Z",
+      "timestamp": 1786712851661,
+      "version": "3.56.0"
+    },
+    "reference-count": 61,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2020-10-01T00:00:00Z",
+          "timestamp": 1601510400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2020-10-01T00:00:00Z",
+          "timestamp": 1601510400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "funder": [
+      {
+        "name": "Vanier Canada Graduate"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Computers in Human Behavior"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.chb.2020.106424",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          11
+        ]
+      ],
+      "date-time": "2020-05-11T17:47:43Z",
+      "timestamp": 1589219263000
+    },
+    "page": "106424",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 853,
+    "special_numbering": "C",
+    "title": [
+      "COVID-19 and digital inequalities: Reciprocal impacts and mitigation strategies"
+    ],
+    "prefix": "10.1016",
+    "volume": "111",
+    "author": [
+      {
+        "given": "Elisabeth",
+        "family": "Beaunoyer",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sophie",
+        "family": "Dup\u00e9r\u00e9",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Matthieu J.",
+        "family": "Guitton",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.chb.2020.106424_bib1",
+        "series-title": "Death and digital media",
+        "author": "Arnold",
+        "year": "2018"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.chb.2020.106424_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "3079",
+        "DOI": "10.1111/hex.12294",
+        "article-title": "Literacy disparities in patient access and health-related use of Internet and mobile technologies",
+        "volume": "18",
+        "author": "Bailey",
+        "year": "2015",
+        "journal-title": "Health Expectations"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.chb.2020.106424_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "349",
+        "DOI": "10.1093/heapro/das062",
+        "article-title": "Vicious cycles: Digital technologies and determinants of health in Australia",
+        "volume": "29",
+        "author": "Baum",
+        "year": "2014",
+        "journal-title": "Health Promotion International"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.chb.2020.106424_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "183",
+        "DOI": "10.1016/j.pec.2016.08.028",
+        "article-title": "Understanding online health information: Evaluation, tools, and strategies",
+        "volume": "100",
+        "author": "Beaunoyer",
+        "year": "2017",
+        "journal-title": "Patient Education and Counseling"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib5",
+        "series-title": "Novel applications of virtual communities in healthcare",
+        "first-page": "127",
+        "article-title": "Effective use of virtual communities for health-purposes in the elderly",
+        "author": "Beaunoyer",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib6",
+        "series-title": "April 8). How COVID-19 is affecting internet performance",
+        "author": "Bergman",
+        "year": "2020"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.chb.2020.106424_bib7",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/s10916-013-9995-7",
+        "article-title": "Smartphones and health promotion: A review of the evidence",
+        "volume": "38",
+        "author": "Bert",
+        "year": "2014",
+        "journal-title": "Journal of Medical Systems"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.chb.2020.106424_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "673",
+        "DOI": "10.1016/j.chb.2012.12.004",
+        "article-title": "Obstacles to social networking website use among older adults",
+        "volume": "29",
+        "author": "Braun",
+        "year": "2013",
+        "journal-title": "Computers in Human Behavior"
+      },
+      {
+        "issue": "10227",
+        "key": "10.1016/j.chb.2020.106424_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "912",
+        "DOI": "10.1016/S0140-6736(20)30460-8",
+        "article-title": "The psychological impact of quarantine and how to reduce it: Rapid review of the evidence",
+        "volume": "395",
+        "author": "Brooks",
+        "year": "2020",
+        "journal-title": "The Lancet"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib10",
+        "first-page": "3686",
+        "article-title": "How social well-being is affected by digital inequalities",
+        "volume": "12",
+        "author": "B\u00fcchi",
+        "year": "2018",
+        "journal-title": "International Journal of Communication"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "106380",
+        "DOI": "10.1016/j.chb.2020.106380",
+        "article-title": "Unpacking the black box: How to promote citizen engagement through government social media during the COVID-19 crisis",
+        "volume": "110",
+        "author": "Chen",
+        "year": "2020",
+        "journal-title": "Computers in Human Behavior"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.chb.2020.106424_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "350",
+        "DOI": "10.1089/cyber.2014.0657",
+        "article-title": "Roles of smartphone app use in improving social capital and reducing social isolation",
+        "volume": "18",
+        "author": "Cho",
+        "year": "2015",
+        "journal-title": "Cyberpsychology, Behavior, and Social Networking"
+      },
+      {
+        "issue": "20",
+        "key": "10.1016/j.chb.2020.106424_bib13",
+        "first-page": "30736",
+        "article-title": "Parenting in a time of COVID-19",
+        "volume": "2019",
+        "author": "Cluver",
+        "year": "2020",
+        "journal-title": "The Lancet"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.chb.2020.106424_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "1508",
+        "DOI": "10.1177/1461444814562162",
+        "article-title": "With a little help from my friends: An analysis of the role of social support in digital inequalities",
+        "volume": "18",
+        "author": "Courtois",
+        "year": "2016",
+        "journal-title": "New Media & Society"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "72",
+        "DOI": "10.1016/j.chb.2015.11.027",
+        "article-title": "The education-related digital divide: An analysis for the EU-28",
+        "volume": "56",
+        "author": "Cruz-Jesus",
+        "year": "2016",
+        "journal-title": "Computers in Human Behavior"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib16",
+        "first-page": "1",
+        "article-title": "From the \u201cdigital divide\u201d to \u201cdigital inequality\u201d: Studying internet use as penetration increases",
+        "volume": "15",
+        "author": "DiMaggio",
+        "year": "2001",
+        "journal-title": "Center for Arts and Cultural Policy Studies, Princeton University"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.chb.2020.106424_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.2196/jmir.6838",
+        "article-title": "Using smartphones and health apps to change and manage health behaviors: A population-based survey",
+        "volume": "19",
+        "author": "Ernsting",
+        "year": "2017",
+        "journal-title": "Journal of Medical Internet Research"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1136/bmj.328.7449.1166",
+        "article-title": "Health related virtual communities and electronic support groups: Systematic review of the effects of online peer to peer interactions",
+        "volume": "328",
+        "author": "Eysenbach",
+        "year": "2004",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib19",
+        "series-title": "Economic effects of coronavirus outbreak (COVID-19) on the world economy",
+        "author": "Fernandes",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib20",
+        "series-title": "Implementing health in all policies adelaide: Adelaide 2010",
+        "first-page": "133",
+        "article-title": "Digital technology access and use as 21st century determinants of health: Impact of social and economic disadvantage",
+        "author": "Golder",
+        "year": "2010"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "m1211",
+        "DOI": "10.1136/bmj.m1211",
+        "article-title": "Managing mental health challenges faced by healthcare workers during covid-19 pandemic",
+        "volume": "368",
+        "author": "Greenberg",
+        "year": "2020",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib22",
+        "first-page": "1",
+        "article-title": "Covid-19\u00a0: A remote assessment in primary care",
+        "volume": "1182",
+        "author": "Greenhalgh",
+        "year": "2020",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "226",
+        "DOI": "10.1016/j.chb.2015.02.004",
+        "article-title": "Swimming with mermaids: Communication and social density in the Second Life merfolk community",
+        "volume": "48",
+        "author": "Guitton",
+        "year": "2015",
+        "journal-title": "Computers in Human Behavior"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "175",
+        "DOI": "10.1016/j.chb.2019.01.017",
+        "article-title": "Facing cyberthreats: Answering the new security challenges of the Digital Age",
+        "volume": "95",
+        "author": "Guitton",
+        "year": "2019",
+        "journal-title": "Computers in Human Behavior"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "106357",
+        "DOI": "10.1016/j.chb.2020.106357",
+        "article-title": "Cyberpsychology research and COVID-19",
+        "author": "Guitton",
+        "year": "2020",
+        "journal-title": "Computers in Human Behavior"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.chb.2020.106424_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "503",
+        "DOI": "10.1080/1369118X.2014.891633",
+        "article-title": "Revisiting the digital divide in Canada: The impact of demographic factors on access to the internet, level of online activity, and social networking site usage",
+        "volume": "17",
+        "author": "Haight",
+        "year": "2014",
+        "journal-title": "Information, Communication & Society"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.chb.2020.106424_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "202",
+        "DOI": "10.1177/1090198114547815",
+        "article-title": "The digital health divide: Evaluating online health information access and use among older adults",
+        "volume": "42",
+        "author": "Hall",
+        "year": "2015",
+        "journal-title": "Health Education & Behavior"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.chb.2020.106424_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1177/0269094217753090",
+        "article-title": "E-government: Accessing public services online: Implications for citizenship",
+        "volume": "33",
+        "author": "Hardill",
+        "year": "2018",
+        "journal-title": "Local Economy"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib31",
+        "series-title": "New economy handbook",
+        "first-page": "822",
+        "article-title": "Digital divide and what to do about it",
+        "author": "Hargittai",
+        "year": "2003"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.chb.2020.106424_bib32",
+        "doi-asserted-by": "crossref",
+        "first-page": "92",
+        "DOI": "10.1111/j.1475-682X.2009.00317.x",
+        "article-title": "Digital Na(t)ives? Variation in internet skills and uses among members of the \u201cnet generation",
+        "volume": "80",
+        "author": "Hargittai",
+        "year": "2010",
+        "journal-title": "Sociological Inquiry"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib33",
+        "series-title": "Epidemics and pandemics: Their impacts on human history",
+        "author": "Hays",
+        "year": "2005"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.chb.2020.106424_bib34",
+        "doi-asserted-by": "crossref",
+        "first-page": "700",
+        "DOI": "10.1080/1369118X.2016.1203454",
+        "article-title": "Do the rich get digitally richer? Quantity and quality of support for digital engagement",
+        "volume": "20",
+        "author": "Helsper",
+        "year": "2017",
+        "journal-title": "Information, Communication & Society"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib35",
+        "doi-asserted-by": "crossref",
+        "first-page": "93",
+        "DOI": "10.1016/j.chb.2019.06.017",
+        "article-title": "Determinants of 21st-century digital skills: A large-scale survey among working professionals",
+        "volume": "100",
+        "author": "van Laar",
+        "year": "2019",
+        "journal-title": "Computers in Human Behavior"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.chb.2020.106424_bib63",
+        "doi-asserted-by": "crossref",
+        "first-page": "223",
+        "DOI": "10.1093/phe/phn031",
+        "article-title": "Social justice and pandemic influenza planning: The role of communication strategies",
+        "volume": "1",
+        "author": "Lee",
+        "year": "2008",
+        "journal-title": "Public Health Ethics"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib36",
+        "series-title": "Beyond the digital divide: Contectualizing the information society",
+        "author": "Lupac",
+        "year": "2018"
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.chb.2020.106424_bib37",
+        "doi-asserted-by": "crossref",
+        "first-page": "1118",
+        "DOI": "10.1016/j.puhe.2014.10.008",
+        "article-title": "Digital health interventions: Widening access or widening inequalities?",
+        "volume": "128",
+        "author": "McAuley",
+        "year": "2014",
+        "journal-title": "Public Health"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.chb.2020.106424_bib38",
+        "doi-asserted-by": "crossref",
+        "first-page": "22",
+        "DOI": "10.1093/eurpub/ckw222",
+        "article-title": "The socioeconomic distribution of non-communicable diseases in europe: Findings from the European social survey (2014) special module on the social determinants of health",
+        "volume": "27",
+        "author": "McNamara",
+        "year": "2017",
+        "journal-title": "The European Journal of Public Health"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib39",
+        "doi-asserted-by": "crossref",
+        "first-page": "111",
+        "DOI": "10.1016/j.chb.2018.07.039",
+        "article-title": "Diffusion size and structural virality: The effects of message and network features on spreading health information on twitter",
+        "volume": "89",
+        "author": "Meng",
+        "year": "2018",
+        "journal-title": "Computers in Human Behavior"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.chb.2020.106424_bib40",
+        "doi-asserted-by": "crossref",
+        "first-page": "854",
+        "DOI": "10.1016/j.socscimed.2012.03.024",
+        "article-title": "Minority status and health information search: A test of the social diversification hypothesis",
+        "volume": "75",
+        "author": "Mesch",
+        "year": "2012",
+        "journal-title": "Social Science & Medicine"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.chb.2020.106424_bib41",
+        "doi-asserted-by": "crossref",
+        "first-page": "e9",
+        "DOI": "10.2196/jmir.8.2.e9",
+        "article-title": "eHealth literacy: Essential skills for consumer health in a networked world",
+        "volume": "8",
+        "author": "Norman",
+        "year": "2006",
+        "journal-title": "Journal of Medical Internet Research"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.chb.2020.106424_bib42",
+        "doi-asserted-by": "crossref",
+        "first-page": "336",
+        "DOI": "10.1111/j.1083-6101.2010.01523.x",
+        "article-title": "The role of message-sequences in the sustainability of an online support community for older people",
+        "volume": "15",
+        "author": "Pfeil",
+        "year": "2010",
+        "journal-title": "Journal of Computer-Mediated Communication"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib43",
+        "series-title": "Smartphone ownership and internet usage continues to climb in emerging economies. But advanced economies still have higher rates of technology use",
+        "author": "Poushter",
+        "year": "2016"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib44",
+        "article-title": "A nationwide survey of psychological distress among Chinese people in the COVID-19 epidemic: Implications and policy recommendations",
+        "volume": "33",
+        "author": "Qiu",
+        "year": "2020",
+        "journal-title": "BMJ"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.chb.2020.106424_bib45",
+        "doi-asserted-by": "crossref",
+        "first-page": "569",
+        "DOI": "10.1080/1369118X.2015.1012532",
+        "article-title": "Digital inequalities and why they matter",
+        "volume": "18",
+        "author": "Robinson",
+        "year": "2015",
+        "journal-title": "Information, Communication & Society"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib46",
+        "doi-asserted-by": "crossref",
+        "first-page": "48",
+        "DOI": "10.1016/j.chb.2019.06.011",
+        "article-title": "Do online support groups for grief benefit the bereaved? Systematic review of the quantitative and qualitative literature",
+        "volume": "100",
+        "author": "Robinson",
+        "year": "2019",
+        "journal-title": "Computers in Human Behavior"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib47",
+        "series-title": "Coronavirus pandemic generates new fraud strains: COVID-19 scams on computers, smaprtphones",
+        "author": "Saltzman",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib48",
+        "series-title": "Cours de linguistique g\u00e9n\u00e9rale",
+        "author": "de Saussure",
+        "year": "1916"
+      },
+      {
+        "issue": "80",
+        "key": "10.1016/j.chb.2020.106424_bib49",
+        "first-page": "13",
+        "article-title": "Health literacy and public health: A systematic review and integration of definitions and models",
+        "volume": "12",
+        "author": "S\u00f8rensen",
+        "year": "2012",
+        "journal-title": "BMC Public Health"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.chb.2020.106424_bib50",
+        "doi-asserted-by": "crossref",
+        "first-page": "9",
+        "DOI": "10.1177/183335831304200202",
+        "article-title": "Moving health promotion communities online: A review of the literature",
+        "volume": "42",
+        "author": "Sunderland",
+        "year": "2013",
+        "journal-title": "Health Information Management Journal"
+      },
+      {
+        "issue": "502",
+        "key": "10.1016/j.chb.2020.106424_bib51",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1126/scitranslmed.aau5485",
+        "article-title": "The 1918 influenza pandemic: 100 years of questions answered and unanswered",
+        "volume": "11",
+        "author": "Taubenberger",
+        "year": "2019",
+        "journal-title": "Science Translational Medicine"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.chb.2020.106424_bib52",
+        "doi-asserted-by": "crossref",
+        "first-page": "e186",
+        "DOI": "10.1016/S2468-2667(20)30053-0",
+        "article-title": "COVID-19: A potential public health problem for homeless populations",
+        "volume": "5",
+        "author": "Tsai",
+        "year": "2020",
+        "journal-title": "The Lancet Public Health"
+      },
+      {
+        "issue": "20",
+        "key": "10.1016/j.chb.2020.106424_bib53",
+        "first-page": "2019",
+        "article-title": "COVID-19, school closures, and child poverty: A social crisis in the making",
+        "volume": "2019",
+        "author": "Van Lancker",
+        "year": "2020",
+        "journal-title": "The Lancet Public Health"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib54",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1038/s41591-020-0823-6",
+        "article-title": "Combating COVID-19: Health equity matters",
+        "author": "Wang",
+        "year": "2020",
+        "journal-title": "Nature Medicine"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.chb.2020.106424_bib55",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1007/s10708-010-9393-3",
+        "article-title": "Geographies of global Internet censorship",
+        "volume": "76",
+        "author": "Warf",
+        "year": "2011",
+        "journal-title": "Geojournal"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib56",
+        "doi-asserted-by": "crossref",
+        "first-page": "846",
+        "DOI": "10.1016/S0140-6736(20)30526-2",
+        "article-title": "COVID-19\u00a0: The gendered impacts of the outbreak",
+        "volume": "395",
+        "author": "Wenham",
+        "year": "2020",
+        "journal-title": "The Lancet"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib57",
+        "series-title": "Mental health action plan 2013-2020",
+        "author": "World Health Organization",
+        "year": "2013"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib58",
+        "series-title": "Beware of criminals pretending to be WHO",
+        "author": "World Health Organization",
+        "year": "2020"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.chb.2020.106424_bib59",
+        "doi-asserted-by": "crossref",
+        "first-page": "e21",
+        "DOI": "10.1016/S2215-0366(20)30090-0",
+        "article-title": "Patients with mental health disorders in the COVID-19 epidemic",
+        "volume": "7",
+        "author": "Yao",
+        "year": "2020",
+        "journal-title": "The Lancet Psychiatry"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.chb.2020.106424_bib60",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.5153/sro.3751",
+        "article-title": "Digital media Use\u00a0: Differences and inequalities in relation to class and age",
+        "volume": "20",
+        "author": "Yates",
+        "year": "2015",
+        "journal-title": "Sociological Research Online"
+      },
+      {
+        "key": "10.1016/j.chb.2020.106424_bib61",
+        "doi-asserted-by": "crossref",
+        "first-page": "212",
+        "DOI": "10.1016/j.compedu.2015.08.007",
+        "article-title": "Internet use that reproduces educational inequalities: Evidence from big data",
+        "volume": "86",
+        "author": "Zhang",
+        "year": "2015",
+        "journal-title": "Computers & Education"
+      },
+      {
+        "issue": "10229",
+        "key": "10.1016/j.chb.2020.106424_bib62",
+        "doi-asserted-by": "crossref",
+        "first-page": "1054",
+        "DOI": "10.1016/S0140-6736(20)30566-3",
+        "article-title": "Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study",
+        "volume": "395",
+        "author": "Zhou",
+        "year": "2020",
+        "journal-title": "The Lancet"
+      }
+    ],
+    "container-title": [
+      "Computers in Human Behavior"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0747563220301771?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0747563220301771?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          10
+        ]
+      ],
+      "date-time": "2025-10-10T00:40:15Z",
+      "timestamp": 1760056815000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0747563220301771"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          10
+        ]
+      ]
+    },
+    "references-count": 61,
+    "alternative-id": [
+      "S0747563220301771"
+    ],
+    "URL": "https://doi.org/10.1016/j.chb.2020.106424",
+    "relation": {},
+    "ISSN": [
+      "0747-5632"
+    ],
+    "issn-type": [
+      {
+        "value": "0747-5632",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          10
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "COVID-19 and digital inequalities: Reciprocal impacts and mitigation strategies",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Computers in Human Behavior",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.chb.2020.106424",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "\u00a9 2020 Elsevier Ltd. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "106424"
+  }
+}

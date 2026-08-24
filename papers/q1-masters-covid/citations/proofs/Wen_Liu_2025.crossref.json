@@ -1,0 +1,580 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        17
+      ]
+    ],
+    "date-time": "2026-08-17T22:41:24Z",
+    "timestamp": 1787006484579,
+    "version": "3.56.0"
+  },
+  "reference-count": 61,
+  "publisher": "Informa UK Limited",
+  "issue": "3",
+  "content-domain": {
+    "domain": [
+      "www.tandfonline.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Language, Culture and Curriculum"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        3
+      ]
+    ]
+  },
+  "DOI": "10.1080/07908318.2025.2486449",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        4
+      ]
+    ],
+    "date-time": "2025-04-04T05:03:59Z",
+    "timestamp": 1743743039000
+  },
+  "page": "380-400",
+  "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+  "source": "Crossref",
+  "is-referenced-by-count": 3,
+  "title": [
+    "Emotional dynamics of advanced Chinese as a second language learners: a Q methodology study"
+  ],
+  "prefix": "10.1080",
+  "volume": "38",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0009-0003-1964-8552",
+      "authenticated-orcid": false,
+      "given": "Xin",
+      "family": "Wen",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Beijing Foreign Studies University",
+          "place": [
+            "Beijing, People’s Republic of China"
+          ]
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0000-6327-7574",
+      "authenticated-orcid": false,
+      "given": "Fangfang",
+      "family": "Liu",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Beijing Foreign Studies University",
+          "place": [
+            "Beijing, People’s Republic of China"
+          ]
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "301",
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        2
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_3_2_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.14746/ssllt.2018.8.1.7"
+    },
+    {
+      "key": "e_1_3_2_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/01434632.2022.2093887"
+    },
+    {
+      "key": "e_1_3_2_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/01434632.2021.1890754"
+    },
+    {
+      "key": "e_1_3_2_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/13670069070110040301"
+    },
+    {
+      "key": "e_1_3_2_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0272263122000328"
+    },
+    {
+      "key": "e_1_3_2_7_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.22599/jesla.6"
+    },
+    {
+      "issue": "1",
+      "key": "e_1_3_2_8_1",
+      "first-page": "34",
+      "article-title": "Emotions in second language acquisition: A critical review and research agenda",
+      "volume": "196",
+      "author": "Dewaele J.-M.",
+      "year": "2020",
+      "unstructured": "Dewaele, J.-M., & Li, C. (2020). Emotions in second language acquisition: A critical review and research agenda. Foreign Language World, 196(1), 34–49.",
+      "journal-title": "Foreign Language World"
+    },
+    {
+      "key": "e_1_3_2_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.14746/ssllt.2014.4.2.5"
+    },
+    {
+      "key": "e_1_3_2_10_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/17501229.2019.1675667"
+    },
+    {
+      "key": "e_1_3_2_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.14746/ssllt.42376"
+    },
+    {
+      "key": "e_1_3_2_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/13621688221089601"
+    },
+    {
+      "key": "e_1_3_2_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.learninstruc.2011.10.001"
+    },
+    {
+      "key": "e_1_3_2_14_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.lindif.2013.12.006"
+    },
+    {
+      "key": "e_1_3_2_15_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/07908318.2022.2133137"
+    },
+    {
+      "key": "e_1_3_2_16_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.21832/9781783097722"
+    },
+    {
+      "key": "e_1_3_2_17_1",
+      "volume-title": "Multivariate data analysis",
+      "author": "Hair J. F.",
+      "year": "1998",
+      "unstructured": "Hair, J. F., Anderson, R. E., Tatham, R. L., & Black, W. C. (1998). Multivariate data analysis (5th ed.). Prentice Hall.",
+      "edition": "5"
+    },
+    {
+      "key": "e_1_3_2_18_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.system.2024.103507"
+    },
+    {
+      "key": "e_1_3_2_19_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.14746/ssllt.2014.4.1.2"
+    },
+    {
+      "key": "e_1_3_2_20_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/1754073910374661"
+    },
+    {
+      "key": "e_1_3_2_21_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.system.2019.02.017"
+    },
+    {
+      "key": "e_1_3_2_22_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S027226312400072X"
+    },
+    {
+      "key": "e_1_3_2_23_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.14746/ssllt.2022.12.1.3"
+    },
+    {
+      "issue": "4",
+      "key": "e_1_3_2_24_1",
+      "first-page": "57",
+      "article-title": "Looking back, looking forward: SLA research from a positive psychology perspective over the past decade (2012-2021)",
+      "volume": "42",
+      "author": "Li C.",
+      "year": "2021",
+      "unstructured": "Li, C. (2021). Looking back, looking forward: SLA research from a positive psychology perspective over the past decade (2012-2021). Foreign Language Education, 42(4), 57–63.",
+      "journal-title": "Foreign Language Education"
+    },
+    {
+      "key": "e_1_3_2_25_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1515/applirev-2020-0124"
+    },
+    {
+      "key": "e_1_3_2_26_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.system.2018.06.004"
+    },
+    {
+      "key": "e_1_3_2_27_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.system.2023.103074"
+    },
+    {
+      "key": "e_1_3_2_28_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/01434632.2021.1931246"
+    },
+    {
+      "key": "e_1_3_2_29_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ijedudev.2022.102557"
+    },
+    {
+      "key": "e_1_3_2_30_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11135-022-01565-9"
+    },
+    {
+      "key": "e_1_3_2_31_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.14746/ssllt.2012.2.2.4"
+    },
+    {
+      "key": "e_1_3_2_32_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/modl.12544"
+    },
+    {
+      "key": "e_1_3_2_33_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.14746/ssllt.2017.7.1.4"
+    },
+    {
+      "key": "e_1_3_2_34_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.system.2024.103500"
+    },
+    {
+      "key": "e_1_3_2_35_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.system.2020.102259"
+    },
+    {
+      "key": "e_1_3_2_36_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10648-006-9029-9"
+    },
+    {
+      "key": "e_1_3_2_37_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10648-024-09909-7"
+    },
+    {
+      "key": "e_1_3_2_38_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4324/9780203148211"
+    },
+    {
+      "key": "e_1_3_2_39_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4324/9780203148211"
+    },
+    {
+      "key": "e_1_3_2_40_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.14746/ssllt.2018.8.1.6"
+    },
+    {
+      "key": "e_1_3_2_41_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/17501229.2024.2412773"
+    },
+    {
+      "key": "e_1_3_2_42_1",
+      "volume-title": "Understanding motivation and emotions",
+      "author": "Reeve J.",
+      "year": "2018",
+      "unstructured": "Reeve, J. (2018). Understanding motivation and emotions (7th ed.). Wiley Custom.",
+      "edition": "7"
+    },
+    {
+      "key": "e_1_3_2_43_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.system.2019.102121"
+    },
+    {
+      "key": "e_1_3_2_44_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/01434632.2024.2349802"
+    },
+    {
+      "key": "e_1_3_2_45_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/1097-4679(195207)8:3<219::AID-JCLP2270080302>3.0.CO;2-J"
+    },
+    {
+      "key": "e_1_3_2_46_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/BF03394839"
+    },
+    {
+      "key": "e_1_3_2_47_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/modl.12511"
+    },
+    {
+      "key": "e_1_3_2_48_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/01434632.2022.2050917"
+    },
+    {
+      "key": "e_1_3_2_49_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1515/applirev-2021-0205"
+    },
+    {
+      "issue": "3",
+      "key": "e_1_3_2_50_1",
+      "first-page": "385",
+      "article-title": "Speaking anxiety among EFL student teachers [İngilizce Öğretmen adaylarının konuşma kaygısı]",
+      "volume": "28",
+      "author": "Tüm D. O.",
+      "year": "2013",
+      "unstructured": "Tüm, D. O., & Kunt, N. (2013). Speaking anxiety among EFL student teachers [İngilizce Öğretmen adaylarının konuşma kaygısı]. Hacettepe Üniversitesi Eğitim Fakültesi Dergisi, 28(3), 385–399.",
+      "journal-title": "Hacettepe Üniversitesi Eğitim Fakültesi Dergisi"
+    },
+    {
+      "key": "e_1_3_2_51_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.17323/jle.2022.13590"
+    },
+    {
+      "key": "e_1_3_2_52_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.system.2024.103337"
+    },
+    {
+      "key": "e_1_3_2_53_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.system.2024.103361"
+    },
+    {
+      "key": "e_1_3_2_54_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4135/9781446251911"
+    },
+    {
+      "key": "e_1_3_2_55_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/15348458.2022.2134138"
+    },
+    {
+      "key": "e_1_3_2_56_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1467-9922.2007.00437.x"
+    },
+    {
+      "key": "e_1_3_2_57_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.system.2020.102410"
+    },
+    {
+      "key": "e_1_3_2_58_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/1360080X.2023.2232538"
+    },
+    {
+      "key": "e_1_3_2_59_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/14790718.2023.2202403"
+    },
+    {
+      "key": "e_1_3_2_60_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s40299-023-00777-3"
+    },
+    {
+      "key": "e_1_3_2_61_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/ijal.12680"
+    },
+    {
+      "key": "e_1_3_2_62_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/modl.12672"
+    }
+  ],
+  "container-title": [
+    "Language, Culture and Curriculum"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.tandfonline.com/doi/pdf/10.1080/07908318.2025.2486449",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        19
+      ]
+    ],
+    "date-time": "2025-08-19T17:33:49Z",
+    "timestamp": 1755624829000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.tandfonline.com/doi/full/10.1080/07908318.2025.2486449"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        2
+      ]
+    ]
+  },
+  "references-count": 61,
+  "journal-issue": {
+    "issue": "3",
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          3
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1080/07908318.2025.2486449"
+  ],
+  "URL": "https://doi.org/10.1080/07908318.2025.2486449",
+  "relation": {},
+  "ISSN": [
+    "0790-8318",
+    "1747-7573"
+  ],
+  "issn-type": [
+    {
+      "value": "0790-8318",
+      "type": "print"
+    },
+    {
+      "value": "1747-7573",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        2
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+      "order": 1,
+      "name": "peerreview_statement",
+      "label": "Peer Review Statement"
+    },
+    {
+      "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rlcc20",
+      "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rlcc20",
+      "order": 2,
+      "name": "aims_and_scope_url",
+      "label": "Aim & Scope"
+    },
+    {
+      "value": "2024-10-15",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2025-03-23",
+      "order": 1,
+      "name": "revised",
+      "label": "Revised",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2025-03-26",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2025-04-02",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

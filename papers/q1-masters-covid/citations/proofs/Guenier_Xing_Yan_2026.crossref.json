@@ -1,0 +1,429 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        7
+      ]
+    ],
+    "date-time": "2026-06-07T06:24:13Z",
+    "timestamp": 1780813453717,
+    "version": "3.54.1"
+  },
+  "reference-count": 25,
+  "publisher": "Informa UK Limited",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            2,
+            9
+          ]
+        ],
+        "date-time": "2026-02-09T00:00:00Z",
+        "timestamp": 1770595200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "www.tandfonline.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Language, Culture and Curriculum"
+  ],
+  "DOI": "10.1080/07908318.2026.2626775",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        9
+      ]
+    ],
+    "date-time": "2026-02-09T12:42:36Z",
+    "timestamp": 1770640956000
+  },
+  "page": "1-16",
+  "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "From barriers to breakthroughs: communicating Chinese culture to Irish learners with a multimodality online course"
+  ],
+  "prefix": "10.1080",
+  "author": [
+    {
+      "given": "Amily Wang",
+      "family": "Guenier",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "University of Manchester",
+          "place": [
+            "Manchester, UK"
+          ]
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-8600-5405",
+      "authenticated-orcid": false,
+      "given": "Minjie",
+      "family": "Xing",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of Manchester",
+          "place": [
+            "Manchester, UK"
+          ]
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0007-8125-6540",
+      "authenticated-orcid": false,
+      "given": "Jun",
+      "family": "Yan",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University College Dublin",
+          "place": [
+            "Dublin, Ireland"
+          ]
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "301",
+  "published-online": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        9
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_3_3_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4324/9781032725307-13"
+    },
+    {
+      "key": "e_1_3_3_3_1",
+      "volume-title": "Teaching and assessing intercultural communicative competence",
+      "author": "Byram M.",
+      "year": "1997",
+      "unstructured": "Byram, M. (1997). Teaching and assessing intercultural communicative competence. Multilingual Matters."
+    },
+    {
+      "key": "e_1_3_3_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1944-9720.2011.01117.x"
+    },
+    {
+      "key": "e_1_3_3_5_1",
+      "volume-title": "The framework of reference for Chinese culture and society in international Chinese language education",
+      "author": "Centre for Language Education and Cooperation",
+      "year": "2021",
+      "unstructured": "Centre for Language Education and Cooperation. (2021). The framework of reference for Chinese culture and society in international Chinese language education. Sinolingua."
+    },
+    {
+      "key": "e_1_3_3_6_1",
+      "unstructured": "Department of Education. (2021). Memorandum of understanding between the Ministry of Education of the People’s Republic of China and the Department of Education of Ireland. https://www.gov.ie."
+    },
+    {
+      "key": "e_1_3_3_7_1",
+      "volume-title": "Languages connect – Ireland’s strategy for foreign languages in education 2017–2026",
+      "author": "Department of Education and Skills",
+      "year": "2017",
+      "unstructured": "Department of Education and Skills. (2017). Languages connect – Ireland’s strategy for foreign languages in education 2017–2026. Department of Education and Skills. https://www.gov.ie/en/publication/3c3fa-languages-connect-irelands-strategy-for-foreign-languages-in-education-2017-2026."
+    },
+    {
+      "key": "e_1_3_3_8_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/pits.23374"
+    },
+    {
+      "key": "e_1_3_3_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4018/IJCALLT.304066"
+    },
+    {
+      "key": "e_1_3_3_10_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/08975930.2020.1831422"
+    },
+    {
+      "key": "e_1_3_3_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/13488678.2019.1627636"
+    },
+    {
+      "key": "e_1_3_3_12_1",
+      "first-page": "82",
+      "volume-title": "Ethnicity, class and gender in Australia",
+      "author": "Kalantzis M.",
+      "year": "1989",
+      "unstructured": "Kalantzis, M., & Cope, B. (1989). Multiculturalism and education policy. In G. Bottomley, & M. de Lepervanche (Eds.), Ethnicity, class and gender in Australia (pp. 82–97). Routledge."
+    },
+    {
+      "key": "e_1_3_3_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/14681366.2024.2361455"
+    },
+    {
+      "key": "e_1_3_3_14_1",
+      "volume-title": "Multimodal discourse: The modes and media of contemporary communication",
+      "author": "Kress G. R.",
+      "year": "2001",
+      "unstructured": "Kress, G. R., & van Leeuwen, T. (2001). Multimodal discourse: The modes and media of contemporary communication. Arnold."
+    },
+    {
+      "key": "e_1_3_3_15_1",
+      "volume-title": "对外汉语综合课教学研究\n                  .",
+      "author": "Li X.",
+      "year": "2006",
+      "unstructured": "Li, X. (2006). 对外汉语综合课教学研究 [DuiwaWeHanyu zonghe ke jiaoxue yanjiu; A study of comprehensive course teaching in teaching Chinese as a foreign language]. 商务印书馆 [The Commercial Press]."
+    },
+    {
+      "issue": "1",
+      "key": "e_1_3_3_16_1",
+      "first-page": "1",
+      "article-title": "Reflection on translation talent training in local higher education upon Chinese culture “going global”",
+      "volume": "2",
+      "author": "Liu Z.",
+      "year": "2025",
+      "unstructured": "Liu, Z. (2025). Reflection on translation talent training in local higher education upon Chinese culture “going global”. Journal of Theory and Practice in Linguistics, 2(1), 1–8.",
+      "journal-title": "Journal of Theory and Practice in Linguistics"
+    },
+    {
+      "key": "e_1_3_3_17_1",
+      "volume-title": "Teaching culture: Perspectives in practice",
+      "author": "Moran P. R.",
+      "year": "2001",
+      "unstructured": "Moran, P. R. (2001). Teaching culture: Perspectives in practice. Heinle & Heinle."
+    },
+    {
+      "issue": "1",
+      "key": "e_1_3_3_18_1",
+      "first-page": "32",
+      "article-title": "The past and present of Chinese language teaching in Ireland",
+      "volume": "2",
+      "author": "Osborne C.",
+      "year": "2019",
+      "unstructured": "Osborne, C., Zhang, Q., & Xia, Y. (2019). The past and present of Chinese language teaching in Ireland. Chinese Language Teaching Methodology and Technology, 2(1), 32–53. https://engagedscholarship.csuohio.edu/cltmt/vol2/iss1/4/.",
+      "journal-title": "Chinese Language Teaching Methodology and Technology"
+    },
+    {
+      "key": "e_1_3_3_19_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1108/QRJ-08-2024-0173"
+    },
+    {
+      "key": "e_1_3_3_20_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/01434632.2024.2442525"
+    },
+    {
+      "key": "e_1_3_3_21_1",
+      "volume-title": "AP Chinese language and culture teachers’ guide",
+      "author": "Tseng M.",
+      "year": "2007",
+      "unstructured": "Tseng, M. (2007). AP Chinese language and culture teachers’ guide. The College Board."
+    },
+    {
+      "key": "e_1_3_3_22_1",
+      "first-page": "233",
+      "volume-title": "Language policy and pedagogy: Essays in honor of A. Ronald Walton",
+      "author": "Walker G.",
+      "year": "2000",
+      "unstructured": "Walker, G. (2000). Performed culture: Learning to participate in another culture. In R. D. Lambert & E. Shohamy (Eds.), Language policy and pedagogy: Essays in honor of A. Ronald Walton (pp. 233–252). John Benjamins."
+    },
+    {
+      "issue": "3",
+      "key": "e_1_3_3_23_1",
+      "first-page": "1",
+      "article-title": "4P’s of cultural pedagogy: A new paradigm for the cultural dimension in Chinese language instruction",
+      "volume": "43",
+      "author": "Wong K.",
+      "year": "2008",
+      "unstructured": "Wong, K. (2008). 4P’s of cultural pedagogy: A new paradigm for the cultural dimension in Chinese language instruction. Journal of the Chinese Language Teachers Association, 43(3), 1–24.",
+      "journal-title": "Journal of the Chinese Language Teachers Association"
+    },
+    {
+      "key": "e_1_3_3_24_1",
+      "volume-title": "Insights into Chinese culture",
+      "author": "Ye L.",
+      "year": "2025",
+      "unstructured": "Ye, L., & Zhu, L. (2025). Insights into Chinese culture. Springer Nature Singapore."
+    },
+    {
+      "key": "e_1_3_3_25_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/elt/ccab072"
+    },
+    {
+      "key": "e_1_3_3_26_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.35903/teanga.v25i0.48"
+    }
+  ],
+  "container-title": [
+    "Language, Culture and Curriculum"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.tandfonline.com/doi/pdf/10.1080/07908318.2026.2626775",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        9
+      ]
+    ],
+    "date-time": "2026-02-09T12:42:41Z",
+    "timestamp": 1770640961000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.tandfonline.com/doi/full/10.1080/07908318.2026.2626775"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        9
+      ]
+    ]
+  },
+  "references-count": 25,
+  "alternative-id": [
+    "10.1080/07908318.2026.2626775"
+  ],
+  "URL": "https://doi.org/10.1080/07908318.2026.2626775",
+  "relation": {},
+  "ISSN": [
+    "0790-8318",
+    "1747-7573"
+  ],
+  "issn-type": [
+    {
+      "value": "0790-8318",
+      "type": "print"
+    },
+    {
+      "value": "1747-7573",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        9
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+      "order": 1,
+      "name": "peerreview_statement",
+      "label": "Peer Review Statement"
+    },
+    {
+      "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rlcc20",
+      "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rlcc20",
+      "order": 2,
+      "name": "aims_and_scope_url",
+      "label": "Aim & Scope"
+    },
+    {
+      "value": "2025-09-12",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2026-01-27",
+      "order": 1,
+      "name": "revised",
+      "label": "Revised",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2026-01-30",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2026-02-09",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

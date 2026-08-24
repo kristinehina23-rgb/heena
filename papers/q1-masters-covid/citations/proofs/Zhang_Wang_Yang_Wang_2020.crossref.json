@@ -1,0 +1,343 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        5
+      ]
+    ],
+    "date-time": "2026-08-05T20:50:13Z",
+    "timestamp": 1785963013533,
+    "version": "3.56.0"
+  },
+  "reference-count": 20,
+  "publisher": "MDPI AG",
+  "issue": "3",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            3,
+            13
+          ]
+        ],
+        "date-time": "2020-03-13T00:00:00Z",
+        "timestamp": 1584057600000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "JRFM"
+  ],
+  "abstract": "<jats:p>Against the backdrop of the COVID-19 outbreak, an emergency policy initiative called “Suspending Classes Without Stopping Learning” was launched by the Chinese government to continue teaching activities as schools across the country were closed to contain the virus. However, there is ambiguity and disagreement about what to teach, how to teach, the workload of teachers and students, the teaching environment, and the implications for education equity. Possible difficulties that the policy faces include: the weakness of the online teaching infrastructure, the inexperience of teachers (including unequal learning outcomes caused by teachers’ varied experience), the information gap, the complex environment at home, and so forth. To tackle the problems, we suggest that the government needs to further promote the construction of the educational information superhighway, consider equipping teachers and students with standardized home-based teaching/learning equipment, conduct online teacher training, include the development of massive online education in the national strategic plan, and support academic research into online education, especially education to help students with online learning difficulties.</jats:p>",
+  "DOI": "10.3390/jrfm13030055",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        3,
+        17
+      ]
+    ],
+    "date-time": "2020-03-17T09:27:41Z",
+    "timestamp": 1584437261000
+  },
+  "page": "55",
+  "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 556,
+  "title": [
+    "Suspending Classes Without Stopping Learning: China’s Education Emergency Management Policy in the COVID-19 Outbreak"
+  ],
+  "prefix": "10.3390",
+  "volume": "13",
+  "author": [
+    {
+      "given": "Wunong",
+      "family": "Zhang",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Institute of Education, Tsinghua University, Beijing 100091, China"
+        },
+        {
+          "name": "School of Education, Henan University, Kaifeng 475001, China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Yuxin",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institute of Education, Tsinghua University, Beijing 100091, China"
+        },
+        {
+          "name": "School of Education, University of Wisconsin, Madison, WI 53706, USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-1277-3791",
+      "authenticated-orcid": false,
+      "given": "Lili",
+      "family": "Yang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Centre for Global Higher Education, Department of Education, University of Oxford, Oxford OX2 6PY, UK"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-3331-4845",
+      "authenticated-orcid": false,
+      "given": "Chuanyi",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institute of Education, Tsinghua University, Beijing 100091, China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "1968",
+  "published-online": {
+    "date-parts": [
+      [
+        2020,
+        3,
+        13
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "ref_1",
+      "unstructured": "CCTV News (2020, March 03). Ministry of Education: Guarantees University’s Online Teaching During Epidemic Prevention and Control Period. Available online: http://news.cctv.com/2020/02/05/ARTI0WhqsINuV5dCRBUnbXod200205.shtml."
+    },
+    {
+      "key": "ref_2",
+      "unstructured": "CCTV News (2020, March 04). How to Help the Poor Students Get the Online Courses. Available online: https://toutiao.china.com/shsy/gundong4/13000238/20200304/37868320_2.html."
+    },
+    {
+      "key": "ref_3",
+      "first-page": "94",
+      "article-title": "Empirical Analysis of Affirmation of National Boutique Online Open Courses",
+      "volume": "7",
+      "author": "Fang",
+      "year": "2018",
+      "journal-title": "China Higher Education Research"
+    },
+    {
+      "key": "ref_4",
+      "first-page": "34",
+      "article-title": "A Literature Review of the Emergency Management Policy Overseas",
+      "volume": "22",
+      "author": "Guo",
+      "year": "2008",
+      "journal-title": "Soft Science"
+    },
+    {
+      "key": "ref_5",
+      "doi-asserted-by": "crossref",
+      "first-page": "385",
+      "DOI": "10.1177/009365099026004002",
+      "article-title": "Revisiting the knowledge gap hypothesis: Education, motivation, and media use",
+      "volume": "26",
+      "author": "Kwak",
+      "year": "1999",
+      "journal-title": "Communication Research"
+    },
+    {
+      "key": "ref_6",
+      "doi-asserted-by": "crossref",
+      "unstructured": "McAleer, Michael (2020). Prevention Is Better Than the Cure: Risk Management of COVID-19. Journal of Risk and Financial Management, 13.",
+      "DOI": "10.3390/jrfm13030046"
+    },
+    {
+      "key": "ref_7",
+      "unstructured": "Ministry of Education of the People’s Republic of China (2020, March 06). Guidance on the Organization and Management of Online Teaching in Colleges and Universities during the Epidemic Prevention and Control Period, Available online: http://www.moe.gov.cn/srcsite/A08/s7056/202002/t20200205_418138.html."
+    },
+    {
+      "key": "ref_8",
+      "unstructured": "Ministry of Education of the People’s Republic of China (2020, March 06). Notice on Using Information to Support Education and Teaching during Epidemic Prevention and Control Period, Available online: http://www.moe.gov.cn/srcsite/A16/s3342/202002/t20200214_421005.html."
+    },
+    {
+      "key": "ref_9",
+      "unstructured": "Ministry of Education of the People’s Republic of China (2020, March 03). Notice on Work Arrangements for “Suspending Classes Without Stopping Learning” during the Delayed Start of Primary and Middle Schools, Available online: http://www.moe.gov.cn/srcsite/A06/s3321/202002/t20200212_420435.html."
+    },
+    {
+      "key": "ref_10",
+      "unstructured": "Ministry of Education of the People’s Republic of China (2020, March 03). Notice on the Overall Planning of the Prevention and Control of the COVID-19 Outbreak in the Education System and the Reform and Development of Education, Available online: http://www.moe.gov.cn/srcsite/A17/s7059/202002/t20200228_425499.html."
+    },
+    {
+      "key": "ref_11",
+      "unstructured": "Ministry of Education of the People’s Republic of China (2020, March 03). Relevant Person in Charge of the Ministry of Education Answered Reporters’ Questions on the Postponement of the “Suspending Classes Without Stopping Learning” in Primary and Secondary Schools, Available online: http://www.moe.gov.cn/jyb_xwfb/s271/202002/t20200211_420109.html."
+    },
+    {
+      "key": "ref_12",
+      "unstructured": "Ministry of Education of the People’s Republic of China (2020, March 03). Using the Internet Platform, “Suspending Classes Without Stopping Learning”, Available online: http://www.moe.gov.cn/jyb_xwfb/s5147/202002/t20200203_417488.html."
+    },
+    {
+      "key": "ref_13",
+      "unstructured": "Sohu News (2020, March 03). Hey, You Look So Nice When Study Hard. Available online: https://www.sohu.com/a/376997735_166723."
+    },
+    {
+      "key": "ref_14",
+      "unstructured": "Southcn News (2020, March 03). Don’t Leave One behind! 9262 Poor Students in Guangdong Receive Tablets for Online Lessons. Available online: http://news.southcn.com/nfplus/gdjytt/content/2020-03/02/content_190475992.htm."
+    },
+    {
+      "key": "ref_15",
+      "unstructured": "The People’s Government of Zhejiang Province (2020, March 06). Zhejiang’s Guidance Issued for the Implementation of Online Education during the Delayed Start of Primary and Middle Schools, Available online: http://www.zj.gov.cn/art/2020/2/6/art_1654331_41948673.html."
+    },
+    {
+      "key": "ref_16",
+      "first-page": "218",
+      "article-title": "Review of Domestic Researches on Emergency Management Decision-making",
+      "volume": "18",
+      "author": "Wang",
+      "year": "2015",
+      "journal-title": "China Management Informationization"
+    },
+    {
+      "key": "ref_17",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Wang, Chuanyi, Cheng, Zhe, Yue, Xiao-Guang, and McAleer, Michael (2020). Risk Management of COVID-19 by Universities in China. Journal of Risk and Financial Management, 13.",
+      "DOI": "10.3390/jrfm13020036"
+    },
+    {
+      "key": "ref_18",
+      "unstructured": "Xinhua Net (2020, March 06). Teachers’ Online Teaching Ability Improvement Training Resource Packages Are Being Released. Available online: http://education.news.cn/2020-02/22/c_1210485797.htm."
+    },
+    {
+      "key": "ref_19",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Yue, Xiao-Guang, Shao, Xue-Feng, Li, Rita Y. M., Crabbe, M. James C., Mi, Lili, Hu, Siyan, Baker, Julien S., and Liang, Gang (2020). Risk Management Analysis for Novel Coronavirus in Wuhan, China. Journal of Risk and Financial Management, 13.",
+      "DOI": "10.3390/jrfm13020022"
+    },
+    {
+      "key": "ref_20",
+      "first-page": "44",
+      "article-title": "Factors Influencing on Teachers’ ICT Application Level of Primary and Secondary Schools: An Empirical Analysis Based on the 14 cities of X Province",
+      "volume": "25",
+      "author": "Zhang",
+      "year": "2015",
+      "journal-title": "Modern Educational Technology"
+    }
+  ],
+  "container-title": [
+    "Journal of Risk and Financial Management"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.mdpi.com/1911-8074/13/3/55/pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        11
+      ]
+    ],
+    "date-time": "2025-10-11T09:06:41Z",
+    "timestamp": 1760173601000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.mdpi.com/1911-8074/13/3/55"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        3,
+        13
+      ]
+    ]
+  },
+  "references-count": 20,
+  "journal-issue": {
+    "issue": "3",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          3
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "jrfm13030055"
+  ],
+  "URL": "https://doi.org/10.3390/jrfm13030055",
+  "relation": {},
+  "ISSN": [
+    "1911-8074"
+  ],
+  "issn-type": [
+    {
+      "value": "1911-8074",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        3,
+        13
+      ]
+    ]
+  }
+}

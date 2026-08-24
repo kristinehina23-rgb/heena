@@ -1,0 +1,549 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          22
+        ]
+      ],
+      "date-time": "2026-08-22T00:52:44Z",
+      "timestamp": 1787359964798,
+      "version": "3.56.0"
+    },
+    "reference-count": 57,
+    "publisher": "Informa UK Limited",
+    "issue": "2",
+    "content-domain": {
+      "domain": [
+        "www.tandfonline.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Interactive Learning Environments"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          17
+        ]
+      ]
+    },
+    "DOI": "10.1080/10494820.2020.1813180",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          2
+        ]
+      ],
+      "date-time": "2020-09-02T19:17:12Z",
+      "timestamp": 1599074232000
+    },
+    "page": "863-875",
+    "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 1591,
+    "title": [
+      "Covid-19 pandemic and online learning: the challenges and opportunities"
+    ],
+    "prefix": "10.1080",
+    "volume": "31",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-0166-2383",
+        "authenticated-orcid": false,
+        "given": "Olasile Babatunde",
+        "family": "Adedoyin",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Computer Education & Instructional Technology, Near East University, Nicosia, Cyprus"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0385-1404",
+        "authenticated-orcid": false,
+        "given": "Emrah",
+        "family": "Soykan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Computer Education & Instructional Technology, Near East University, Nicosia, Cyprus"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          2
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "CIT0001",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/su12052107"
+      },
+      {
+        "issue": "3",
+        "key": "CIT0002",
+        "first-page": "43",
+        "volume": "7",
+        "author": "Akkoyunlu B.",
+        "year": "2006",
+        "journal-title": "Turkish Online Journal of Distance Education"
+      },
+      {
+        "key": "CIT0003",
+        "volume-title": "Digital competence for lifelong learning (policy brief)",
+        "author": "Ala-Mutka K.",
+        "year": "2008"
+      },
+      {
+        "key": "CIT0004",
+        "unstructured": "AlkaPwnige. (2020, March 25). Zoom Funny Moments and Fails \u2013 Online School Trolling \u2013 Funny Clips Compilation [Video file]. https://www.youtube.com/watch?v=Wt1ER8Q7YaQ"
+      },
+      {
+        "key": "CIT0005",
+        "volume-title": "E-learning and education",
+        "author": "Amer T.",
+        "year": "2007"
+      },
+      {
+        "issue": "1",
+        "key": "CIT0006",
+        "first-page": "29",
+        "volume": "12",
+        "author": "Arkorful V.",
+        "year": "2015",
+        "journal-title": "International Journal of Instructional Technology and Distance Learning"
+      },
+      {
+        "key": "CIT0007",
+        "unstructured": "Beech, P. (2020, April 5). World Economic Forum: These new gadgets were designed to fight COVID-19. https://www.weforum.org/agenda/2020/04/coronavirus-covid19-pandemic-gadgets-innovation-technology/"
+      },
+      {
+        "key": "CIT0008",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-8535.2007.00793.x"
+      },
+      {
+        "key": "CIT0009",
+        "unstructured": "Boczkowska, K., Bakalarski, P., Sviatoslav, M. & Leszczy\u0144ski, P. (2018). The importance of e-learning in professional improvement of emergency nurses."
+      },
+      {
+        "key": "CIT0010",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s41239-018-0130-1"
+      },
+      {
+        "issue": "1",
+        "key": "CIT0011",
+        "first-page": "i",
+        "volume": "15",
+        "author": "Bozkurt A.",
+        "year": "2020",
+        "journal-title": "Asian Journal of Distance Education"
+      },
+      {
+        "key": "CIT0012",
+        "volume-title": "Survey of instructional development models",
+        "author": "Branch R. M.",
+        "year": "2015",
+        "edition": "5"
+      },
+      {
+        "key": "CIT0013",
+        "volume-title": "Making sense of change management: A complete guide to the models, tools and techniques of organizational change",
+        "author": "Cameron E.",
+        "year": "2019"
+      },
+      {
+        "key": "CIT0014",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.12973/eurasia.2014.1021a"
+      },
+      {
+        "key": "CIT0015",
+        "unstructured": "Eastern Mediterranean University. (2020). Visual Arts and Communication Design Department: EMU Visual Arts and Communication Design Department\u2019s Contribution to Health Workers. Retrieved April 21, 2020, from https://www.emu.edu.tr/en/news/news/emu-visual-arts-and-communication-design-departments-contribution-to-health-workers/1206/pid/3393"
+      },
+      {
+        "key": "CIT0016",
+        "unstructured": "Feldman, J. (n.d.). To Grade or Not to Grade?. https://filecabinetdublin.eschoolview.com/6D88CF03-93EE-4E59-B267-B73AA2456ED7/ToGradeorNottoGradearticle.pdf"
+      },
+      {
+        "key": "CIT0017",
+        "unstructured": "Ferrari, A. (2012). Digital competence in practice: An analysis of frameworks."
+      },
+      {
+        "key": "CIT0018",
+        "volume-title": "As classes move online during COVID-19, what are disconnected students to do?",
+        "author": "Fishbane L.",
+        "year": "2020"
+      },
+      {
+        "key": "CIT0019",
+        "unstructured": "Flaherty, C. (2020, April 23). Grading for a Pandemic. Inside Higher Ed. https://www.insidehighered.com/news/2020/04/23/how-lenient-or-not-should-professors-be-students-right-now"
+      },
+      {
+        "key": "CIT0020",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1108/EUM0000000005484"
+      },
+      {
+        "key": "CIT0021",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.iheduc.2018.09.002"
+      },
+      {
+        "key": "CIT0022",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1089107.1089139"
+      },
+      {
+        "issue": "27",
+        "key": "CIT0023",
+        "author": "Hodges C.",
+        "year": "2020",
+        "journal-title": "Educause Review"
+      },
+      {
+        "issue": "4",
+        "key": "CIT0024",
+        "first-page": "51",
+        "volume": "31",
+        "author": "Hrastinski S.",
+        "year": "2008",
+        "journal-title": "Educause Quarterly"
+      },
+      {
+        "key": "CIT0025",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "CIT0026",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Iqbal, S., Zang, X., Zhu, Y., Hussain, D., Zhao, J., Gulzar, M. M. & Rasheed, S. (2015, November 13\u201315). Towards moocs and their role in engineering education. 2015 7th International conference on information technology in medicine and education (ITME) (pp. 705\u2013709). IEEE. https://doi.org/10.1109/ITME.2015.89",
+        "DOI": "10.1109/ITME.2015.89"
+      },
+      {
+        "key": "CIT0027",
+        "unstructured": "Joosub, S. (2020, April 23). Vodacom helps to flatten the COVID-19 curve through technological innovation. https://www.vodafone.com/covid19/news/vodacom-helps-to-flatten-covid-19-curve-through-technological-innovation"
+      },
+      {
+        "key": "CIT0028",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10494820.2020.1725896"
+      },
+      {
+        "key": "CIT0029",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kopp, M., Gr\u00f6blinger, O. & Adams, S. (2019, March 11\u201313). Five common assumptions that prevent digital transformation at higher education institutions. INTED2019 Proceedings (pp. 1448\u20131457). https://doi.org/10.21125/inted.2019",
+        "DOI": "10.21125/inted.2019.0445"
+      },
+      {
+        "key": "CIT0030",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10494820.2017.1337035"
+      },
+      {
+        "key": "CIT0031",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "CIT0032",
+        "unstructured": "Manfuso, L. G. (2020, April 15). How the remote learning pivot could shape Higher Ed IT. EdTech Magazine. https://edtechmagazine.com/higher/article/2020/04/how-remote-learning-pivot-could-shape-higher-ed-it"
+      },
+      {
+        "key": "CIT0033",
+        "unstructured": "Means, B., Toyama, Y., Murphy, R., Bakia, M. & Jones, K. (2009). Evaluation of evidence-based practices in online learning: A meta-analysis and review of online learning studies."
+      },
+      {
+        "key": "CIT0034",
+        "unstructured": "Merriam-Webster Online Dictionary. (2020, April 21). Definition of pandemic. https://www.merriam-webster.com/dictionary/pandemic"
+      },
+      {
+        "key": "CIT0035",
+        "unstructured": "Murphy, B. (2020, April 23). Medical school assessment during COVID-19: Shelf exams go remote. American Medical Association. https://www.ama-assn.org/residents-students/medical-school-life/medical-school-assessment-during-covid-19-shelf-exams-go"
+      },
+      {
+        "key": "CIT0036",
+        "unstructured": "Near East University. (2020, April 21). Near East University medical engineer: Near East University engineers produced alternative support breathing apparatus. https://neu.edu.tr/near-east-university-engineers-produced-alternative-support-breathing-apparatus/?lang=en"
+      },
+      {
+        "key": "CIT0037",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tmp.2019.100590"
+      },
+      {
+        "key": "CIT0038",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ogunmokun, O. A. & Timur, S. (2019, September 2\u20134). Effects of the awareness of University\u2019s CSR on students\u2019 Word-of-Mouth Intentions. Global joint conference on industrial engineering and its application areas (pp. 133\u2013147). Cham: Springer.",
+        "DOI": "10.1007/978-3-030-42416-9_13"
+      },
+      {
+        "key": "CIT0039",
+        "first-page": "1",
+        "author": "Ogunmokun O. A.",
+        "year": "2020",
+        "journal-title": "Journal of Public Affairs"
+      },
+      {
+        "key": "CIT0040",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.acalib.2019.102097"
+      },
+      {
+        "key": "CIT0041",
+        "volume-title": "Constructing test items: Multiple-choice, constructed-response, performance, and other formats",
+        "author": "Osterlind S. J.",
+        "year": "2002",
+        "edition": "2"
+      },
+      {
+        "key": "CIT0042",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2020.0757"
+      },
+      {
+        "key": "CIT0043",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41591-020-0796-5"
+      },
+      {
+        "key": "CIT0044",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1108/10748120110424816"
+      },
+      {
+        "key": "CIT0045",
+        "unstructured": "Red Cross. (2020, April 21). What social distancing means. https://www.redcross.org/about-us/news-and-events/news/2020/coronavirus-what-social-distancing-means.html"
+      },
+      {
+        "key": "CIT0046",
+        "unstructured": "Ribeiro, R. (2020, April 14). How university faculty embraced the remote learning shift. EdTech Magazine. https://edtechmagazine.com/higher/article/2020/04/how-university-faculty-embraced-remote-learning-shift"
+      },
+      {
+        "key": "CIT0047",
+        "unstructured": "Sandkuhl, K. & Lehmann, H. (2017). Digital transformation in higher education \u2013 the role of enterprise architectures and portals. Digital Enterprise Computing (DEC 2017)."
+      },
+      {
+        "key": "CIT0048",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.sbspro.2012.12.090"
+      },
+      {
+        "key": "CIT0049",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1057/ori.2010.11"
+      },
+      {
+        "key": "CIT0050",
+        "unstructured": "St John's D.S.G. Pietermaritzburg. (2020, April 15). When online teaching goes wrong\u2009\u2026\u2009lockdown 2020 [Video file]. https://www.youtube.com/watch?v=3w1sejUgI50"
+      },
+      {
+        "key": "CIT0051",
+        "first-page": "2020040290",
+        "author": "Strielkowski W.",
+        "year": "2020",
+        "journal-title": "Preprints"
+      },
+      {
+        "key": "CIT0052",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3102/00346543076001093"
+      },
+      {
+        "issue": "1",
+        "key": "CIT0053",
+        "first-page": "2",
+        "volume": "10",
+        "author": "Vlachopoulos D.",
+        "year": "2020",
+        "journal-title": "Higher Learning Research Communications"
+      },
+      {
+        "issue": "3",
+        "key": "CIT0054",
+        "first-page": "26",
+        "volume": "11",
+        "author": "Wagner N.",
+        "year": "2008",
+        "journal-title": "Journal of Educational Technology & Society"
+      },
+      {
+        "key": "CIT0055",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang, C., Cheng, Z., Yue, X. G. & McAleer, M. (2020). Risk management of COVID-19 by universities in China.",
+        "DOI": "10.3390/jrfm13020036"
+      },
+      {
+        "key": "CIT0056",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11135-017-0524-5"
+      },
+      {
+        "key": "CIT0057",
+        "unstructured": "WHO. (2020). Coronavirus disease (COVID-19) pandemic. World Health Organization. https://www.who.int/emergencies/diseases/novel-coronavirus-2019"
+      }
+    ],
+    "container-title": [
+      "Interactive Learning Environments"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/10494820.2020.1813180",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          24
+        ]
+      ],
+      "date-time": "2023-03-24T03:49:21Z",
+      "timestamp": 1679629761000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/10494820.2020.1813180"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          2
+        ]
+      ]
+    },
+    "references-count": 57,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            2,
+            17
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1080/10494820.2020.1813180"
+    ],
+    "URL": "https://doi.org/10.1080/10494820.2020.1813180",
+    "relation": {},
+    "ISSN": [
+      "1049-4820",
+      "1744-5191"
+    ],
+    "issn-type": [
+      {
+        "value": "1049-4820",
+        "type": "print"
+      },
+      {
+        "value": "1744-5191",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          2
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+        "order": 1,
+        "name": "peerreview_statement",
+        "label": "Peer Review Statement"
+      },
+      {
+        "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=nile20",
+        "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=nile20",
+        "order": 2,
+        "name": "aims_and_scope_url",
+        "label": "Aim & Scope"
+      },
+      {
+        "value": "2020-05-05",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2020-08-18",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2020-09-02",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

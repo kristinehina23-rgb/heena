@@ -1,0 +1,510 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        1
+      ]
+    ],
+    "date-time": "2026-07-01T21:48:14Z",
+    "timestamp": 1782942494158,
+    "version": "3.54.5"
+  },
+  "reference-count": 54,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "2",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2010,
+            1,
+            21
+          ]
+        ],
+        "date-time": "2010-01-21T00:00:00Z",
+        "timestamp": 1264032000000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "http://www.springer.com/tdm"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Educ Res Policy Prac"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2010,
+        6
+      ]
+    ]
+  },
+  "DOI": "10.1007/s10671-009-9078-1",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2010,
+        1,
+        20
+      ]
+    ],
+    "date-time": "2010-01-20T10:03:05Z",
+    "timestamp": 1263981785000
+  },
+  "page": "127-142",
+  "source": "Crossref",
+  "is-referenced-by-count": 75,
+  "title": [
+    "China’s policy of Chinese as a foreign language and the use of overseas Confucius Institutes"
+  ],
+  "prefix": "10.1007",
+  "volume": "9",
+  "author": [
+    {
+      "given": "Hongqin",
+      "family": "Zhao",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jianbin",
+      "family": "Huang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2010,
+        1,
+        21
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "9078_CR1",
+      "unstructured": "Asia Society (2008). Chinese: an expanding field. Retrieved July 20, 2009, from http://www.asiasociety.org/education-learning/world-languages/chinese-language-initiatives/chinese-an-expanding-field ."
+    },
+    {
+      "key": "9078_CR2",
+      "unstructured": "BBC (2007). UK private schools’ Beijing link. Retrieved November 21, 2009, from http://www.news.bbc.co.uk/2/hi/uk_news/education/7025760.stm ."
+    },
+    {
+      "key": "9078_CR3",
+      "volume-title": "The history of PR China’s the development of Chinese as a foreign language",
+      "author": "Y. Z. Cheng",
+      "year": "2005",
+      "unstructured": "Cheng Y. Z. (2005) The history of PR China’s the development of Chinese as a foreign language. Beijing University Press, Beijing"
+    },
+    {
+      "key": "9078_CR4",
+      "unstructured": "Confucius Institute, The Hague (2007). Introduction. Retrieved August 12, 2009, from http://www.confuciusinstituut.nl/index.php?option=com_content&task=view&id=37&Itemid=68 ."
+    },
+    {
+      "key": "9078_CR5",
+      "unstructured": "Confucius Institute Online (2008). Confucian philosophy. Retrieved November 12, 2009, from http://www.culture.chinese.cn/en/article/2009-10/16/content_44099.htm ."
+    },
+    {
+      "key": "9078_CR6",
+      "unstructured": "Confucius Institute Online (2009). Confucius Institute at Kathmandu University, He Yi. Retrieved July 21, 2009, from http://www.confuciusinstitute.net/colleges/colPersonDetail.htm?colPerson.id=1 ."
+    },
+    {
+      "key": "9078_CR7",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1017/CBO9780511486999",
+      "volume-title": "English as a global language",
+      "author": "D. Crystal",
+      "year": "2003",
+      "unstructured": "Crystal D. (2003) English as a global language. Cambridge University Press, Cambridge"
+    },
+    {
+      "key": "9078_CR8",
+      "volume-title": "Teaching Chinese as a foreign language: theories and applications",
+      "year": "2009",
+      "unstructured": "Everson, M., Xiao, Y. (eds) (2009) Teaching Chinese as a foreign language: theories and applications. Cheng & Tsui, Boston"
+    },
+    {
+      "key": "9078_CR9",
+      "volume-title": "An introduction to discourse analysis: theory and method",
+      "author": "J. Gee",
+      "year": "2005",
+      "unstructured": "Gee J. (2005) An introduction to discourse analysis: theory and method, 2nd edn. Routledge, New York",
+      "edition": "2"
+    },
+    {
+      "key": "9078_CR10",
+      "first-page": "116",
+      "volume": "4/10",
+      "author": "J. Gil",
+      "year": "2008",
+      "unstructured": "Gil J. (2008) The promotion of Chinese language learning and China’s soft power. Asian Social Science 4/10: 116–122",
+      "journal-title": "Asian Social Science"
+    },
+    {
+      "key": "9078_CR11",
+      "unstructured": "Guardian (2005). Chinese whispers as lingua franca. Retrieved August 17, 2009, from http://www.guardian.co.uk/education/2005/sep/23/tefl ."
+    },
+    {
+      "key": "9078_CR12",
+      "unstructured": "Hanban (2005). Confucius Institute mission statement. Retrieved July 20, 2009, from http://www.hanban.org/kzxy_list.php?ithd=xyzc ."
+    },
+    {
+      "key": "9078_CR13",
+      "unstructured": "Hanban (2009a). Confucius institutes in the world. Retrieved July 20, 2009, from http://www.confuciusinstitute.net/college/globalColleges.htm . (Last Retrieved July 16, 2009)."
+    },
+    {
+      "key": "9078_CR14",
+      "unstructured": "Hanban (2009b). Playback of “China Week” at Miami University Confucius Institute. Retrieved July 23, 2009, from http://www.english.hanban.org/content.php?id=4172 ."
+    },
+    {
+      "key": "9078_CR15",
+      "unstructured": "Hanban (2009c). Confucius Institutes Conference 2008. Retrieved July 20, 2009, from http://www.hanban.org/e21sqlimg//file/200906/fff20090604112229_1240927571.pdf ."
+    },
+    {
+      "key": "9078_CR16",
+      "unstructured": "Harding, K. (2006). Bold strokes on language, [Edmond Globe and Mail]. Retrieved July 10, 2009, from http://www.theglobeandmail.com/servlet/story/RTGAM.20060519.wxm ."
+    },
+    {
+      "key": "9078_CR17",
+      "volume-title": "The politics of Chinese language and culture, the art of reading dragons",
+      "author": "B. Hodge",
+      "year": "1998",
+      "unstructured": "Hodge B., Louie K. (1998) The politics of Chinese language and culture, the art of reading dragons. Routledge, London"
+    },
+    {
+      "key": "9078_CR18",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1007/978-94-009-1608-1",
+      "volume-title": "New horizons in Chinese linguistic",
+      "author": "C. Huang",
+      "year": "1996",
+      "unstructured": "Huang C., Li Y. (1996) New horizons in Chinese linguistic. Kluwer Academic, MA"
+    },
+    {
+      "key": "9078_CR19",
+      "volume-title": "The Chinese language",
+      "author": "D. Kane",
+      "year": "2006",
+      "unstructured": "Kane D. (2006) The Chinese language. Tuttle, Singapore"
+    },
+    {
+      "key": "9078_CR20",
+      "volume-title": "Charm offensive: how China’s soft power is transforming the world",
+      "author": "J. Kurlantzick",
+      "year": "2007",
+      "unstructured": "Kurlantzick J. (2007) Charm offensive: how China’s soft power is transforming the world. Yale University Press, New Heaven, CT"
+    },
+    {
+      "key": "9078_CR21",
+      "volume-title": "Discourse and technology: multimodal discourse analysis",
+      "author": "P. Levine",
+      "year": "2004",
+      "unstructured": "Levine P., Scollon R. (2004) Discourse and technology: multimodal discourse analysis. Georgetown University Press, Washington, DC"
+    },
+    {
+      "key": "9078_CR22",
+      "first-page": "149",
+      "volume": "26",
+      "author": "D.C.S. Li",
+      "year": "2006",
+      "unstructured": "Li D.C.S. (2006) Chinese as a lingua franca in Greater China. Annual Review of Applied Linguistics 26: 149–176",
+      "journal-title": "Annual Review of Applied Linguistics"
+    },
+    {
+      "key": "9078_CR23",
+      "doi-asserted-by": "crossref",
+      "first-page": "3",
+      "DOI": "10.1007/s10993-006-9042-3",
+      "volume": "6/1",
+      "author": "J. Lo Bianco",
+      "year": "2007",
+      "unstructured": "Lo Bianco J. (2007) Emergent China and Chinese: language planning categories. Language Policy 6/1: 3–26",
+      "journal-title": "Language Policy"
+    },
+    {
+      "key": "9078_CR24",
+      "unstructured": "London Confucius Institute (2004). Our aims. Retrieved July 15, 2009, from http://www.londonconfuciusinstitute.org.uk/aims.html ."
+    },
+    {
+      "key": "9078_CR25",
+      "unstructured": "London Confucius Institute (2009). Activities & courses. Retrieved July 15, 2009, from http://www.londonconfuciusinstitute.org.uk/activities.html ."
+    },
+    {
+      "key": "9078_CR26",
+      "unstructured": "Macartney, J. (2009). China now world’s third-largest economy, [Times Online]. Retrieved November 13, 2009, from http://www.timesonline.co.uk/tol/news/world/asia/article5514156.ece ."
+    },
+    {
+      "key": "9078_CR27",
+      "unstructured": "Mahoney, J. (2008). Beijing chooses Edmonton for Key Confucius Institute, [Edmondton Globe and Mail]. Retrieved July 13, 2009, from http://www.ecbea.org/media/globeandmail-2may08.pdf ."
+    },
+    {
+      "key": "9078_CR28",
+      "unstructured": "Miami University (2009). China week events: reception, skits and concert, April 6–10. Retrieved July 15, 2009, from http://www.miami.muohio.edu/news/article/view/11384 ."
+    },
+    {
+      "key": "9078_CR29",
+      "unstructured": "Ministry of Education (2005). A brief introduction to Chinese as a foreign language curriculum development. Retrieved July 28, 2009, from http://www.moe.edu.cn/edoas/website18/38/info14338.htm ."
+    },
+    {
+      "key": "9078_CR30",
+      "doi-asserted-by": "crossref",
+      "first-page": "9",
+      "DOI": "10.2307/3587973",
+      "volume": "31/1",
+      "author": "B. Nayer",
+      "year": "1997",
+      "unstructured": "Nayer B. (1997) ESL/EFL dichotomy today: language politics or pragmatics?. TESOL Quarterly 31/1: 9–18",
+      "journal-title": "TESOL Quarterly"
+    },
+    {
+      "key": "9078_CR31",
+      "volume-title": "Soft power: the means to success in world politics",
+      "author": "J. S. Nye Jr.",
+      "year": "2004",
+      "unstructured": "Nye J. S. Jr. (2004) Soft power: the means to success in world politics. Public Affairs, New York"
+    },
+    {
+      "key": "9078_CR32",
+      "unstructured": "Nye, J. S., Jr. (2005). The rise of China’s soft power, Wall Street Journal Asia. Retrieved July 15, 2009, from http://www.belfercenter.ksg.harvard.edu/publication/1499/rise_of_chinas_soft_power.html ."
+    },
+    {
+      "key": "9078_CR33",
+      "unstructured": "People’s Daily Online, (2004). Chinese teachers in high demand abroad. Retrieved June 20, 2009, from http://www.english.peopledaily.com.cn/200410/08/eng20041008_159346.html ."
+    },
+    {
+      "key": "9078_CR34",
+      "unstructured": "People’s Daily Online (2009a). Chicago is America’s leader in teaching Chinese language. Retrieved July 10, 2009, from http://english.peopledaily.com.cn/90001/90781/90879/6641024.html ."
+    },
+    {
+      "key": "9078_CR35",
+      "unstructured": "People’s Daily Online (2009b). Confucius to teach Houstonians ancient Chinese philosophy. Retrieved November 20, 2009, from http://www.english.peopledaily.com.cn/90001/90782/6746962.html ."
+    },
+    {
+      "key": "9078_CR36",
+      "unstructured": "Petersen, B. (2009). China emerges as economic powerhouse [CBS Evening News]. Retrieved November 30, 2009, from http://www.cbsnews.com/stories/2009/04/02/eveningnews/main4915013.shtml ."
+    },
+    {
+      "key": "9078_CR37",
+      "unstructured": "Piboontanasawat, N. & Hamlin, K. (2009). China passes Germany to become third-biggest economy [Bloomberg Online]. Retrieved November 28, 2009, from http://www.bloomberg.com/apps/news?pid=20601089&refer=china&sid=aShY0wM1pD_Y ."
+    },
+    {
+      "key": "9078_CR38",
+      "unstructured": "Spence, J. (2008). Chinese Vistas [BBC Reith Lectures]. Retrieved July 4, 2009, From http://www.bbc.co.uk/radio4/reith2008/transcript1.shtml ."
+    },
+    {
+      "key": "9078_CR39",
+      "unstructured": "The Confucius Institute at the University of Western Australia (2005 onward). Language and cultural programs. Retrieved October 20, 2009, from http://www.confuciusinstitute.uwa.edu.au/index.php?id=326 ."
+    },
+    {
+      "key": "9078_CR40",
+      "unstructured": "The Confucius Institute for Scotland (2007). The Chinese cultural courses. Retrieved October 20, 2009, from http://www.confuciusinstitute.ac.uk/chinese-courses/ ."
+    },
+    {
+      "key": "9078_CR41",
+      "unstructured": "The National Centre for Languages, UK (2007). Mandarin language learning research study: final report. Retrieved November 15, 2009, from http://www.cilt.org.uk/research/mandarin.htm ."
+    },
+    {
+      "key": "9078_CR42",
+      "unstructured": "USA Today (2009). A culture clash over Confucius Institutes. Retrieved November 15, 2009, from http://www.usatoday.com/news/education/2009-12-08-1Achinesestudents_VA_N.htm ."
+    },
+    {
+      "key": "9078_CR43",
+      "doi-asserted-by": "crossref",
+      "first-page": "27",
+      "DOI": "10.1007/s10993-006-9043-2",
+      "volume": "6/1",
+      "author": "S. C. Wang",
+      "year": "2007",
+      "unstructured": "Wang S. C. (2007) Building societal capital, Chinese in the US. Language Policy 6/1: 27–52",
+      "journal-title": "Language Policy"
+    },
+    {
+      "key": "9078_CR44",
+      "doi-asserted-by": "crossref",
+      "first-page": "91",
+      "DOI": "10.1080/09571730801988504",
+      "volume": "36/1",
+      "author": "L. Wang",
+      "year": "2008",
+      "unstructured": "Wang L., Higgins L. T. (2008) Mandarin teaching in the UK in 2007: a brief report of teachers’ and learners’ views. Language Learning Journal 36/1: 91–96",
+      "journal-title": "Language Learning Journal"
+    },
+    {
+      "key": "9078_CR45",
+      "unstructured": "Wikipedia (2009). Confucius Institute. Retrieved November 30, 2009, from http://www.en.wikipedia.org/wiki/Confucius_Institute ."
+    },
+    {
+      "key": "9078_CR46",
+      "volume-title": "Teaching and learning Chinese as a foreign language: a pedagogical grammar",
+      "author": "Z. Xing",
+      "year": "2006",
+      "unstructured": "Xing Z. (2006) Teaching and learning Chinese as a foreign language: a pedagogical grammar. Hong Kong University Press, Hong Kong"
+    },
+    {
+      "key": "9078_CR47",
+      "unstructured": "Xinhua (2007). China moves to meet surging demand for Chinese language teachers. Retrieved May 11, 2009, from http://www.chinagate.cn/english/education/50488.htm ."
+    },
+    {
+      "key": "9078_CR48",
+      "unstructured": "Xinhua (2008). Confucius Institutes help spread Chinese language, culture globally. Retrieved May 11, 2009 http://www.news.xinhuanet.com/english/2008-12/10/content_10484585.htm ."
+    },
+    {
+      "key": "9078_CR49",
+      "unstructured": "Xinhua (2009). Learning Chinese to grab Chinese market: foreign youngsters. Retrieved November 30, 2009, from http://www.news.xinhuanet.com/english/2009-08/03/content_11819969.htm ."
+    },
+    {
+      "key": "9078_CR50",
+      "first-page": "91",
+      "volume": "30/1",
+      "author": "X. H. Yang",
+      "year": "2007",
+      "unstructured": "Yang X. H. (2007) On national policy and curriculum provision in pioneer stage. Journal of Yangtze University 30/1: 91–94",
+      "journal-title": "Journal of Yangtze University"
+    },
+    {
+      "key": "9078_CR51",
+      "unstructured": "Zhang, H. (2004). Confucius School, a national strategy for Chinese language teaching [China Today online]. Retrieved March 10, 2009, from http://www.chinatoday.com.cn/English/e2005/e200505/p64.htm ."
+    },
+    {
+      "key": "9078_CR52",
+      "volume-title": "Ways forward with ICT-assisted pedagogy in China: theories into practice",
+      "author": "H. Q. Zhao",
+      "year": "2008",
+      "unstructured": "Zhao H. Q. (2008a) Ways forward with ICT-assisted pedagogy in China: theories into practice. National Defense Industry, Beijing, China"
+    },
+    {
+      "issue": "3",
+      "key": "9078_CR53",
+      "doi-asserted-by": "crossref",
+      "first-page": "183",
+      "DOI": "10.1007/s10671-008-9051-4",
+      "volume": "7",
+      "author": "H. Q. Zhao",
+      "year": "2008",
+      "unstructured": "Zhao H. Q. (2008b) Why did people become a secondary-school English as a foreign language teacher in China? An examination of the pathways, motivations and policy through a life-history narrative approach. Educational Research for Policy and Practice 7(3): 183–195",
+      "journal-title": "Educational Research for Policy and Practice"
+    },
+    {
+      "key": "9078_CR54",
+      "unstructured": "Zhao, H. Q. (2009). The role Confucius Institutes play in creating an understanding of China. Paper presented at China Association for Intercultural Communication & Association for Chinese Communication Studies International Conference, Beijing."
+    }
+  ],
+  "container-title": [
+    "Educational Research for Policy and Practice"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/s10671-009-9078-1.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://link.springer.com/article/10.1007/s10671-009-9078-1/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/s10671-009-9078-1",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2019,
+        5,
+        30
+      ]
+    ],
+    "date-time": "2019-05-30T21:30:13Z",
+    "timestamp": 1559251813000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://link.springer.com/10.1007/s10671-009-9078-1"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2010,
+        1,
+        21
+      ]
+    ]
+  },
+  "references-count": 54,
+  "journal-issue": {
+    "issue": "2",
+    "published-print": {
+      "date-parts": [
+        [
+          2010,
+          6
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "9078"
+  ],
+  "URL": "https://doi.org/10.1007/s10671-009-9078-1",
+  "relation": {},
+  "ISSN": [
+    "1570-2081",
+    "1573-1723"
+  ],
+  "issn-type": [
+    {
+      "value": "1570-2081",
+      "type": "print"
+    },
+    {
+      "value": "1573-1723",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2010,
+        1,
+        21
+      ]
+    ]
+  }
+}
