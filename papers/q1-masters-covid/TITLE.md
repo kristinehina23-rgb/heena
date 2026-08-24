@@ -2,8 +2,8 @@
 
 **Use this:**
 
-> **Household infrastructure and platform access in online Chinese teaching: Localization of delivery in a travelling course**
+> **Home conditions and platform access for online Chinese learners**
 
-**Short title:** Online Chinese teaching: household and platform access
+**Short title:** Home and platform access
 
-The main clause still names the evidence. The subtitle names the reading used in Section 2.3.
+No colon. No subtitle. The title names the evidence: learner-side home conditions and platform access, not sending-side teaching methods.

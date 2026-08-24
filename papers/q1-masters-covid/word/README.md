@@ -4,7 +4,7 @@ Open these in Microsoft Word. They are `.docx` (Office Open XML). Double-spaced,
 
 | File | Use this for |
 |------|----------------|
-| `manuscript.docx` | **Normal reading copy.** Same paper, with names. Open this first. |
+| `manuscript.docx` | **Normal reading copy.** Same paper as `manuscript.md`. No author names or emails in the body. Open this first. |
 | `Rathore-Cao-Xu-When-Chinese-class-moved-home.docx` | Same file under the longer name. Send to **Xu Yiru**. Paste this body into **Turnitin / iThenticate** (exclude the reference list if the checker allows). |
 | `Rathore-manuscript-anonymized-for-review.docx` | ScholarOne **anonymous manuscript**. No author names or emails. Starts at the abstract and includes The Challenge. |
 | `Rathore-title-page.docx` | ScholarOne **title page / names file**. |

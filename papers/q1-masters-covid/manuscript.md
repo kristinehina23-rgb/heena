@@ -1,53 +1,34 @@
-# Household infrastructure and platform access in online Chinese teaching: Localization of delivery in a travelling course
+# Home conditions and platform access for online Chinese learners
 
-**Short title:** Online Chinese teaching: household and platform access
-
-*Working copy with names. For *Foreign Language Annals* ScholarOne, put names, acknowledgments, conflict of interest, funding, data availability, and notes on contributors on `title-page.md`. The review file should start at the abstract and include The Challenge.*
-
-Heena Rathore (corresponding author)  
-PhD student, School of Foreign Languages, Sun Yat-sen University, Guangzhou, China  
-Email: kristine_2020@qq.com  
-
-Cao Huimin  
-Institute for International Communication of Chinese Culture, Beijing Foreign Studies University, Beijing, China  
-
-Xu Yiru (徐翌茹)  
-School of Foreign Languages, Sun Yat-sen University, Guangzhou, China  
-Email: xuyiru@mail.sysu.edu.cn  
-
-**Acknowledgments.** Data were collected while the first author was an M.Phil. scholar at the School of International Cultural Exchange, Central China Normal University. We thank the students who took part.
-
-**Conflict of interest.** The authors declare no conflict of interest.
-
-**Funding.** None.
-
-**Data availability.** A de-identified analytical dataset, codebook, and analysis syntax are available in a public repository. Variables that could increase re-identification risk in this small convenience sample have been removed or coarsened. Files containing names, IP addresses, timestamps, or device identifiers will not be shared.
+**Short title:** Home and platform access
 
 ## Abstract
 
-Online Chinese teaching can fail as delivery: content may remain appropriate while the class is closed if household power, network speed, or platform access does not support the required timetable, platforms, oral tasks, and assessment. The study proposes localization of delivery—the fit of time, platform, task, participation mode, and assessment to the receiving context—as a distinct layer of localization work for a travelling online Chinese course. A Chinese-language questionnaire asked 38 self-selected respondents (37 selected Pakistani nationality) about those learner-side conditions. Unstable networks and power interruptions were common. Home affecting study “very much” co-occurred with “very high stress,” and worse reported internet speed was associated with a more negative appraisal of online learning. QQ and Chaoxing were often marked unusable; Zoom and WhatsApp were more often marked available. Findings are exploratory and specific to a small convenience sample during emergency remote teaching; they are not evidence about current hybrid practice.
+An online Chinese course can keep its hours, platforms, oral tasks, and tests, and still be a course learners cannot take. If home power, network speed, or a required application does not support those arrangements, the content may still be sound while the class is closed. Thirty-eight people who said they were taking online Chinese courses completed a questionnaire written in Chinese. Thirty-seven selected Pakistani nationality. Unstable networks and power interruptions were common. Respondents who said home conditions affected study very much also more often selected very high stress. Worse reported internet speed went with a more negative view of online learning. QQ and Chaoxing were often marked unusable. Zoom and WhatsApp were more often marked available. The sample is small. The questionnaires were collected in February 2022, during emergency remote teaching, so the results do not describe current hybrid practice.
 
 **Keywords:** Chinese; online language teaching; household infrastructure; platform access; emergency remote teaching
 
 ## The Challenge
 
-When a Chinese course moves online, programs still have to decide the hour, the application, the oral task, and the form of assessment. If household power, network speed, or a required platform does not support those decisions, how should the program treat the failure: as a technical inconvenience, or as a teaching problem?
+If the hour, the application, the oral task, and the test all assume a quiet home and a stable connection, what should a program do when those conditions are not there?
 
 ## 1. Introduction
 
-An online Chinese course can keep its hours, platforms, oral tasks, and assessment, and still be a course learners cannot take. Online language programs commonly retain the timetable and classroom tasks of the sending class. Task guides still assume that learners can join a live or collaborative session (Gacs et al., 2020; González-Lloret, 2020; Hodges et al., 2020; Payne, 2020; Stockwell & Wang, 2023). That assumption is already known to fail. Research on online language teaching, and on online international Chinese teaching, has documented unstable networks, platforms that are hard to open, thinner interaction, and learner strain (Li & Li, 2024; Moser et al., 2021; Qi, 2025; Russell, 2020; Tao & Gao, 2022). Owning a device is not participation when power, speed, or a usable application is missing (Ali, 2020; Beaunoyer et al., 2020; Guo & Wan, 2022; Vishnu et al., 2024; Warschauer, 2003). Distance language learning had already asked whether a remote class was feasible (White, 2006). If those conditions do not support the required class, the content may remain appropriate while the class is closed. That is a delivery problem, not a content problem.
+When Chinese teaching moved online, many programs kept the sending class’s timetable and classroom tasks. Task guides still assume that students can join a live session (Gacs et al., 2020; González-Lloret, 2020; Hodges et al., 2020; Payne, 2020; Stockwell & Wang, 2023). That assumption often fails. Studies of online language teaching, including online Chinese, have already noted unstable networks, platforms that are hard to open, thinner talk, and strain (Li & Li, 2024; Moser et al., 2021; Qi, 2025; Russell, 2020; Tao & Gao, 2022). A device in the house is not enough if there is no power, little speed, or no usable application (Ali, 2020; Beaunoyer et al., 2020; Guo & Wan, 2022; Vishnu et al., 2024; Warschauer, 2003). Distance language learning had already asked whether a remote class was even feasible (White, 2006). When those conditions do not hold, the content may still be sound, but the class is closed.
 
-What existing work has not done is to make those learner-side delivery conditions the primary object of study for online international Chinese teaching. Emergency writing used the failure as a setting for teacher workload, sending-side adaptation, or a videoconference copy of the campus hour (MacIntyre et al., 2020; Moser et al., 2021; Xu et al., 2022). Later work asked what should remain of emergency practice (Moorhouse, 2023; Stockwell & Wang, 2023). Reviews still list technical trouble and still leave household access and digital equity under-examined (Li & Li, 2024; Xu, 2024; Zhang & Osborne, 2026). Designed online courses and studies of learner emotion show what planned online Chinese teaching can look like (Guenier et al., 2026; Qi, 2025; Wen & Liu, 2025). They do not show whether a *travelling course*—this article’s term, from Gacs et al. (2020), for a course designed in one institutional setting and taught in another—could still be taken where learners sat. International Chinese language education has said more about what a course *says* than about whether it can still be *taken* (Gong et al., 2020b; Lu et al., 2024; Zhao, 2020). Listing the difficulty is not the same as measuring the conditions that produce it.
+Those difficulties are often named. They are less often measured from the learner’s side. Emergency papers used them as a backdrop for teacher workload, sending-side adaptation, or a video copy of the campus hour (MacIntyre et al., 2020; Moser et al., 2021; Xu et al., 2022). Later papers asked what should remain of that emergency practice (Moorhouse, 2023; Stockwell & Wang, 2023). Reviews still list technical trouble and still say little about household access (Li & Li, 2024; Xu, 2024; Zhang & Osborne, 2026). Planned online courses and studies of learner emotion show what designed online Chinese teaching can look like (Guenier et al., 2026; Qi, 2025; Wen & Liu, 2025). They do not show whether a travelling course could still be taken where learners sat. That term is used here, following Gacs et al. (2020), for a course designed in one institutional setting and taught in another. Work on international Chinese teaching has said more about what a course says than about whether learners can enter it (Gong et al., 2020b; Lu et al., 2024; Zhao, 2020).
 
-This study treats that gap as a research problem. Empirical work in this journal has already treated online world-language teaching as a problem of access, task design, interaction, anxiety, and emergency adaptation (Gacs et al., 2020; González-Lloret, 2020; Jin et al., 2023; Lomicka, 2020; Payne, 2020; Russell, 2020; Xu et al., 2022; Zhang & Liu, 2023). The same move is required here for the conditions of a travelling Chinese course. A Chinese-language questionnaire asked a self-selected group of respondents reporting participation in online Chinese-language courses what household, connectivity, and platform-access conditions they faced, and how those conditions sat alongside stress and appraisals of online learning. The instrument cannot show how institutions adapted. It can show the conditions against which those arrangements have to be judged. Time-zone difference and the absence of a Chinese-speaking environment were not measured, so they are left aside. Respondents are not treated as students who had returned home or who were unable to re-enter campus. Those were common emergency-period situations; they are not established facts in this dataset.
+Access, tasks, interaction, anxiety, and emergency adaptation are already familiar topics in this journal (Gacs et al., 2020; González-Lloret, 2020; Jin et al., 2023; Lomicka, 2020; Payne, 2020; Russell, 2020; Xu et al., 2022; Zhang & Liu, 2023). This study asked a related question from the learner side. Thirty-eight people who reported taking online Chinese courses completed a questionnaire written in Chinese. They were asked about home conditions, connectivity, and platform access, and about stress and their view of online learning. The form cannot show how institutions adapted. It can show the conditions those arrangements had to meet. Time-zone difference and the lack of a Chinese-speaking environment were not measured. Respondents are not treated here as people who had gone home or who could not re-enter campus. Those were common situations in that period. The questionnaire does not record them.
 
-Thirty-eight complete responses were collected during emergency remote teaching. Thirty-seven respondents selected Pakistani nationality. Nationality is the only Pakistan connection in the dataset. Residence, recruitment pathway, institutional affiliation, program status, and physical location were not verified. Literature on Pakistani educational mobility and university e-learning is used only as background for that reported nationality (Butt & Sadaf, 2026; Jamil & Muschert, 2023; Raza & Hennessy, 2025; Tu, 2026). The group is not a verified campus population (Gao & Hua, 2021; Gong et al., 2020a). The article does not ask whether later hybrid practice has closed the gap. It asks whether the delivery problem is visible as learner-side conditions in this sample:
+Thirty-seven of the 38 selected Pakistani nationality. That item is the only Pakistan link in the data. Residence, recruitment, university, program, and physical location were not checked. Writing on Pakistani educational mobility and university e-learning is used only as background for that reported nationality (Butt & Sadaf, 2026; Jamil & Muschert, 2023; Raza & Hennessy, 2025; Tu, 2026). The group is not a verified campus population (Gao & Hua, 2021; Gong et al., 2020a). The paper does not ask whether later hybrid practice has closed the gap. It asks what these 38 people reported:
 
-- **RQ1.** What household, connectivity, and platform-access conditions did respondents report?
-- **RQ2.** In this sample, how were reported household and connectivity conditions associated with selecting “very high stress” and with respondents’ appraisals of online learning?
-- **RQ3.** How did respondents judge whether online Chinese-language courses could replace campus-based classes?
+**RQ1.** What household, connectivity, and platform-access conditions did they report?
 
-Counts are used descriptively. Associations are exploratory and are not read as confirmatory tests of population-level relationships. Section 2 locates the study and sets out the four-layer reading of localization. Section 3 reports the methods. Section 4 addresses RQ1–RQ3 in turn. Sections 5–8 discuss the findings, set out pedagogical implications, and state the limits of the answer.
+**RQ2.** How did those conditions sit alongside “very high stress” and their appraisals of online learning?
+
+**RQ3.** Did they judge that online Chinese courses could replace campus classes?
+
+The counts are descriptive. The associations are exploratory.
 
 ## 2. Literature review and conceptual framework
 
@@ -78,7 +59,7 @@ The following four layers are the proposed framework for reading the present dat
 
 This analysis is concerned with the fourth. Localization of delivery does not replace accessibility or digital inclusion. It names the institutional decisions through which access is made possible or closed off when a course moves. The questionnaire did not observe those institutional decisions. It recorded the learner-side conditions against which such decisions would have to be judged. The claim is therefore conceptual rather than institutional: a course may be locally relevant in content but inaccessible in delivery. It is localized in delivery only when its required time, platform, participation mode, task design, and assessment are feasible where learners actually take part.
 
-Gong et al. (2020b) map ICLE in mainland China for 2014–2018 and are used here as a pre-pandemic field sketch. Gao and Hua (2021) and Gong et al. (2020a) write about international students of Chinese *in* Chinese universities. Guenier, Xing, and Yan (2026) describe a designed online Chinese-culture course. The present respondents completed a Chinese-language questionnaire about online Chinese classes. They are not treated as a Confucius Institute classroom sample, and enrollment in a named Chinese university was not independently verified.
+Gong et al. (2020b) map ICLE in mainland China for 2014–2018 and are used here as a pre-pandemic field sketch. Gao and Hua (2021) and Gong et al. (2020a) write about international students of Chinese *in* Chinese universities. Guenier, Xing, and Yan (2026) describe a designed online Chinese-culture course. The present respondents completed a questionnaire written in Chinese about online Chinese classes. They are not treated as a Confucius Institute classroom sample, and enrollment in a named Chinese university was not independently verified.
 
 ### 2.4 Conceptual model
 
@@ -92,7 +73,7 @@ The study is an exploratory, cross-sectional questionnaire. It does not test a p
 
 ### 3.1 Design and context
 
-The instrument title on the Wenjuan export is 新冠肺炎期间留学生在线中文学习的影响因素 (Influencing factors in international students’ online Chinese learning during COVID-19). The items are those on that retained form. No separate validation study or recorded pilot of the instrument is available. This article is a secondary analysis of the completed file. Complete cases were submitted between 5 and 8 February 2022 (N = 38), during emergency remote teaching. That collection window is a methodological fact; the article does not treat the sample as a picture of current hybrid practice. The form did not record how the link was circulated, so the recruitment channel cannot be named. Respondents were adults who completed the Chinese-language questionnaire about online Chinese learning. Completing that questionnaire is not treated as proof of enrollment in a Chinese university. The instrument did not ask host university, city of residence that week, degree versus non-degree status, or scholarship type. Two items asked whether required courses and electives were being taken online: 27 respondents (71.1%) reported required courses online, and 23 (60.5%) reported electives online. Those answers do not identify a named program. The study therefore concerns a self-selected group of respondents reporting participation in online Chinese-language courses, not a verified enrollment record.
+The instrument title on the Wenjuan export is Influencing factors in international students’ online Chinese learning during COVID-19. The items are those on that retained form. No separate validation study or recorded pilot of the instrument is available. This article is a secondary analysis of the completed responses. Complete cases were submitted between 5 and 8 February 2022 (N = 38), during emergency remote teaching. That collection window is a methodological fact; the article does not treat the sample as a picture of current hybrid practice. The form did not record how the link was circulated, so the recruitment channel cannot be named. Respondents were adults who completed a questionnaire written in Chinese about online Chinese learning. Completing that questionnaire is not treated as proof of enrollment in a Chinese university. The instrument did not ask host university, city of residence that week, degree versus non-degree status, or scholarship type. Two items asked whether required courses and electives were being taken online: 27 respondents (71.1%) reported required courses online, and 23 (60.5%) reported electives online. Those answers do not identify a named program. The study therefore concerns a self-selected group of respondents reporting participation in online Chinese-language courses, not a verified enrollment record.
 
 ### 3.2 Participants
 
@@ -102,17 +83,17 @@ Wenjuan automatically recorded an IP-province field. A dummy was coded when that
 
 ### 3.3 Instrument and coding
 
-The questionnaire comprised about 30 items: demographics, single-choice ordinals, and multiple-response lists. Stems are in Chinese, with some non-native wording (for example 您尝尝用什么平台). English glosses are used for reporting. Self-rated Chinese level was intermediate or advanced for 37 of 38 respondents. The instrument did not include a comprehension check, so completion of the Chinese-language questionnaire is treated only as evidence that respondents were willing to answer in Chinese. Item wording for the appraisal index is given in Appendix A.
+The questionnaire comprised about 30 items: demographics, single-choice ordinals, and multiple-response lists. The items were written in Chinese. Some wording was non-native. Reporting uses English glosses. Self-rated Chinese level was intermediate or advanced for 37 of 38 respondents. The instrument did not include a comprehension check, so completion of a questionnaire written in Chinese is treated only as evidence that respondents were willing to answer in Chinese. Item wording for the appraisal index is given in Appendix A.
 
 A three-item *perceived online-learning appraisal index* was formed from learned much (Q8), improves Chinese (Q9), and sparks interest (Q10). The items ask related but not identical questions and are treated as a descriptive index, not as a validated unidimensional scale. Internal consistency was acceptable in this sample (Cronbach’s α = .84); Spearman inter-item correlations ranged from .55 to .75 (Appendix B). Exploratory factor analysis was not used (N = 38). Individual items are also reported. One double-tick on “like online classes” was excluded for that item only (n = 37 valid).
 
-Coding follows the Wenjuan export. Higher values on speed, learned, improve, interest, and teacher interaction indicate a more negative report (worse speed; less learning, improvement, or interest; thinner interaction). Stress (Q24) is a four-category questionnaire item coded 1 = very high to 4 = none. *Very high stress* is that first category (非常高), not an analyst-created threshold or a cut on a multi-item scale. The focal stress analysis uses a dummy for this category and does not reverse the ordinal. Full coding directions are in Table A1.
+Coding follows the Wenjuan export. Higher values on speed, learned, improve, interest, and teacher interaction indicate a more negative report (worse speed; less learning, improvement, or interest; thinner interaction). Stress (Q24) is a four-category questionnaire item coded 1 = very high to 4 = none. *Very high stress* is that first category on the form (glossed as very high), not an analyst-created threshold or a cut on a multi-item scale. The focal stress analysis uses a dummy for this category and does not reverse the ordinal. Full coding directions are in Table A1.
 
-The export labeled one multiple-response problem as “no electricity.” References to load-shedding elsewhere in the article are contextual. In the results the item is reported as *power interruptions* (export label: no electricity). “中国慕课” is reported as printed on the form; the option did not name a single provider such as 中国大学MOOC.
+The export labeled one multiple-response problem as “no electricity.” References to load-shedding elsewhere in the article are contextual. In the results the item is reported as *power interruptions* (export label: no electricity). Chinese MOOC is reported as printed on the form; the option did not name a single provider.
 
 ### 3.4 Analysis
 
-The analyses are mapped to the research questions. RQ1 is addressed with descriptive frequencies (Tables 1–3). RQ2 is addressed with two focal associations: home affects study very much × very high stress (two-sided Fisher’s exact *p*; SciPy `fisher_exact`) and internet speed × the appraisal index (Spearman’s ρ with a percentile bootstrap 95% confidence interval from 5,000 resamples). RQ3 is addressed with frequencies of the replacement judgment. Odds ratios and Wald confidence intervals are not reported: at N = 38 they are unstable. Other associations, including gender, are secondary and are placed in Appendix B. Frequencies are n/38 unless noted. Multiple-response items are the percentage who selected the option. *p* values are not adjusted for multiplicity and are not interpreted as confirmatory.
+Household and platform reports are given as frequencies (Tables 1 to 3). Two associations are treated as focal: home affects study very much with very high stress (two-sided Fisher’s exact test), and internet speed with the appraisal index (Spearman’s ρ, with a percentile bootstrap 95% confidence interval from 5,000 resamples). Replacement judgments are reported as frequencies. Odds ratios and Wald confidence intervals are not reported: at N = 38 they are unstable. Other associations, including gender, are secondary and are placed in Appendix B. Frequencies are n/38 unless noted. Multiple-response items are the percentage who selected the option. *p* values are not adjusted for multiplicity and are not interpreted as confirmatory.
 
 A Pakistani-nationality check (n = 37) is reported only to show that dropping the one non-Pakistani case does not reverse the two focal associations. It is not a location analysis.
 
@@ -120,11 +101,11 @@ A Pakistani-nationality check (n = 37) is reported only to show that dropping th
 
 Adult respondents completed an online form presented as research on online Chinese learning. The form stated that answers would be used for research, and completion and submission were treated as consent.
 
-No institutional ethics approval number is available for the original 2022 data collection. The first author was then an M.Phil. student, and numbered approval was not obtained. This article reports an anonymized secondary analysis of that file. No new data were collected. Names, IP addresses, exact timestamps, and device identifiers were removed before the public file was prepared.
+No institutional ethics approval number is available for the original 2022 data collection. The first author was then a master’s student, and numbered approval was not obtained. This article reports an anonymized secondary analysis of those completed responses. No new data were collected. Names, IP addresses, exact timestamps, and device identifiers were removed before the public dataset was prepared.
 
 ## 4. Results
 
-### 4.1 Addressing RQ1: respondents and household conditions
+### 4.1 Respondents and household conditions
 
 Table 1 locates the sample. Most respondents said all of their Chinese classes were online, and more than half reported working alongside study.
 
@@ -165,7 +146,7 @@ Table 2 reports the household and connectivity conditions. The key figures are u
 | Online cannot replace face-to-face | 19 | 50.0 |
 | Learned little or nothing online | 11 | 28.9 |
 
-### 4.2 Addressing RQ1: platform access
+### 4.2 Platform access
 
 Table 3 shows uneven access to institutionally familiar and consumer-facing platforms. The questionnaire cannot isolate country restrictions, routing, account rules, skills, or virtual private networks. The pattern used for later discussion is that QQ and Chaoxing were frequently marked unusable, while Zoom and WhatsApp were more often marked available. WhatsApp appears only as available; the retained form did not code whether it was used for class. Tencent Meeting was the most used class tool but was marked available by fewer respondents, a discrepancy left as an item-level inconsistency.
 
@@ -182,11 +163,11 @@ Table 3 shows uneven access to institutionally familiar and consumer-facing plat
 | QQ | n.a. | 50.0 | n.a. |
 | Chaoxing | n.a. | 42.1 | n.a. |
 | DingTalk | n.a. | 28.9 | n.a. |
-| 中国慕课 (Chinese MOOC, as printed) | n.a. | 28.9 | n.a. |
+| Chinese MOOC (as printed) | n.a. | 28.9 | n.a. |
 
-*Note.* n.a. = the item was not asked in that column. “My country” is the stem wording. QQ, Chaoxing, DingTalk, and 中国慕课 are platforms often used in Chinese-university teaching; they are not exclusively campus systems. “Marked unusable” follows the item wording and is not a technical claim that the platform was blocked.
+*Note.* n.a. = the item was not asked in that column. “My country” is the stem wording. QQ, Chaoxing, DingTalk, and Chinese MOOC are platforms often used in Chinese-university teaching; they are not exclusively campus systems. “Marked unusable” follows the item wording and is not a technical claim that the platform was blocked.
 
-### 4.3 Addressing RQ2: stress and appraisals
+### 4.3 Stress and appraisals
 
 Among those who said the home affected study very much, 11 of 14 also selected “very high” psychological stress; among the others, 3 of 24 did (two-sided Fisher’s exact *p* = .00008). That is a co-occurrence in this dataset, not evidence that the household caused stress.
 
@@ -206,9 +187,9 @@ Active interaction with the teacher “very much” was uncommon (6 of 38). Pref
 
 *Note.* Analyses are exploratory. Odds ratios are omitted. The infrastructure-problem count is an unvalidated post hoc indicator and is not treated as a parallel scale.
 
-Among Pakistani-nationality respondents only (n = 37), the home–stress table remained 11/14 versus 3/23 (two-sided Fisher’s exact *p* = .00011) and speed × appraisal was ρ = .67 (percentile bootstrap 95% CI [.39, .85]).
+Among Pakistani-nationality respondents only (n = 37), the home and stress table remained 11/14 versus 3/23 (two-sided Fisher’s exact *p* = .00011) and speed × appraisal was ρ = .67 (percentile bootstrap 95% CI [.39, .85]).
 
-### 4.4 Addressing RQ3: replacement judgment
+### 4.4 Replacement judgments
 
 Nineteen of 38 said online study could replace campus classes, and 19 said it could not. Among women, 9 of 11 said it could not; among men, 10 of 27 said so. With only 11 women, this is a cautious observation of perceived legitimacy in this sample. It is not a gender finding about Pakistani households and is not treated as a focal test (Appendix B).
 
@@ -216,11 +197,11 @@ Nineteen of 38 said online study could replace campus classes, and 19 said it co
 
 The contribution of this article is threefold. Empirically, it documents learner-side household and platform-access conditions for a travelling online Chinese course in a small emergency-period sample. Conceptually, it treats localization of delivery, or delivery-context fit, as a distinct layer of localization work. In relation to existing online ICLE research, it complements sending-side accounts of emergency adaptation (Xu et al., 2022) and designed online Chinese work (Zhang & Liu, 2023) with the conditions against which those arrangements have to be judged.
 
-The study set out to establish whether the difficulties the field has named—networks, platforms, interaction, and affect—were present as learner-side conditions in this sample. The answer is yes. Those who said the home affected study “very much” more often selected “very high stress,” and worse reported internet speed was associated with a more negative appraisal of online learning. The questionnaire does not show how institutions adapted. Localization of content and materials would still have been necessary (Lu et al., 2024; Zhao, 2020). It would not, by itself, have answered a synchronous session on an unstable connection, or a required application that respondents marked unusable in their country.
+The study set out to establish whether the difficulties the field has named, networks, platforms, interaction, and affect, were present as learner-side conditions in this sample. The answer is yes. Those who said the home affected study “very much” more often selected “very high stress,” and worse reported internet speed was associated with a more negative appraisal of online learning. The questionnaire does not show how institutions adapted. Localization of content and materials would still have been necessary (Lu et al., 2024; Zhao, 2020). It would not, by itself, have answered a synchronous session on an unstable connection, or a required application that respondents marked unusable in their country.
 
 Those conditions belong to the culture of the class in a narrow, ecological sense: the immediate setting in which language work was asked to happen (van Lier, 2004). They are not a claim about Pakistani culture, nor about a national educational system. Most respondents selected Pakistani nationality, and that is the only Pakistan connection the dataset can support.
 
-The platform pattern is best read as a possible geography of delivery. Applications often used in Chinese-university teaching (QQ, Chaoxing, DingTalk, 中国慕课) were frequently marked unusable, while Zoom and WhatsApp were more often marked available. The questionnaire cannot say whether that pattern reflects country restrictions, routing, account rules, skills, or virtual private networks. It can say that a travelling course which assumes a single institutional toolkit may ask learners to enter a class they cannot reliably open.
+The platform pattern is best read as a possible geography of delivery. Applications often used in Chinese-university teaching (QQ, Chaoxing, DingTalk, Chinese MOOC) were frequently marked unusable, while Zoom and WhatsApp were more often marked available. The questionnaire cannot say whether that pattern reflects country restrictions, routing, account rules, skills, or virtual private networks. It can say that a travelling course which assumes a single institutional toolkit may ask learners to enter a class they cannot reliably open.
 
 Participation in this dataset co-occurred with reported platform access, power and connectivity problems, and a home that many described as not quiet. That is a description of domestic participation conditions, not a claim that inequality is “cultural.”
 
@@ -256,7 +237,7 @@ In this sample, respondents reporting online Chinese-language courses also repor
 
 ## Appendix A. Appraisal items and coding
 
-English glosses of the Chinese stems.
+English glosses of the item stems.
 
 | Item | Stem (gloss) | 1 | Higher |
 |---|---|---|---|
@@ -271,7 +252,7 @@ Index = mean of Q8, Q9, and Q10 (n = 38; no missing on these three).
 
 ## Appendix B. Secondary statistics
 
-See `analysis/supplementary_stats.md` for full tables. Summary: female × cannot-replace and learned-little × cannot-replace have identical cell counts (9/11 vs 10/27; Fisher’s exact *p* = .029). Poor internet × cannot-replace: 8/10 vs 11/28, Fisher’s exact *p* = .062. Mann–Whitney tests by gender on ordinals all had *p* ≥ .36.
+Female × cannot-replace and learned-little × cannot-replace have identical cell counts (9/11 vs 10/27; Fisher’s exact *p* = .029). Poor internet × cannot-replace: 8/10 vs 11/28, Fisher’s exact *p* = .062. Mann–Whitney tests by gender on ordinals all had *p* ≥ .36.
 
 ## References
 
