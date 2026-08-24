@@ -2,8 +2,10 @@
 
 **Use this:**
 
-> **Home and platform reports from an online Chinese questionnaire**
+> **Home conditions and named platforms in a 2022 online Chinese questionnaire**
 
-**Short title:** Home and platform reports
+**Short title:** Home conditions and named platforms
 
-The title names the evidence: questionnaire reports, not a verified class of online Chinese learners.
+**Piece:** short contribution, not a full research article.
+
+**Venue I am assigning:** *Chinese as a Second Language* (CLTA / John Benjamins). They take short contributions. They are not *Foreign Language Annals*.
