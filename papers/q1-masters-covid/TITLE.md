@@ -2,8 +2,8 @@
 
 **Use this:**
 
-> **Home conditions and platform access for online Chinese learners**
+> **Home and platform reports from an online Chinese questionnaire**
 
-**Short title:** Home and platform access
+**Short title:** Home and platform reports
 
-No colon. No subtitle. The title names the evidence: learner-side home conditions and platform access, not sending-side teaching methods.
+The title names the evidence: questionnaire reports, not a verified class of online Chinese learners.
