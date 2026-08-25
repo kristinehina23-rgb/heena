@@ -1,33 +1,35 @@
-# 中山大学报到海报（两张）
+# 中山大学报到海报
 
-**Want to edit in Canva?** Download the files in [`poster/canva/`](poster/canva/) — Canva cannot open HTML.
+**GitHub cannot run the poster webpage.** Look at the two pictures below.
 
-要用 **Canva** 打开：请下载 [`poster/canva/`](poster/canva/) 里的 PNG 或 PDF，不要上传 HTML。
+GitHub **不能打开** HTML 海报。请直接看下面的图。
 
-![Two SYSU official posters](poster/preview/both.png)
+---
 
-## Open in Canva · 用 Canva 打开
+## 海报 1 · 2026 Registration Day
 
-| File | Use |
-| --- | --- |
-| [`poster/canva/poster-1-registration-day.png`](poster/canva/poster-1-registration-day.png) | Poster 1 — upload in **free Canva** as the page background |
-| [`poster/canva/poster-2-required-documents.png`](poster/canva/poster-2-required-documents.png) | Poster 2 — same |
-| [`poster/canva/poster-1-registration-day.pdf`](poster/canva/poster-1-registration-day.pdf) | Poster 1 — **Canva Pro** File → Import PDF (text often editable) |
-| [`poster/canva/poster-2-required-documents.pdf`](poster/canva/poster-2-required-documents.pdf) | Poster 2 — same |
-| [`poster/canva/logos/`](poster/canva/logos/) | Official emblem / wordmark SVGs to upload as elements |
+报到时间、两个地点、7 步流程。
 
-Steps (free Canva):
+![Poster 1 — 2026 Registration Day](poster-1.png)
 
-1. Open [canva.com](https://www.canva.com) → **Create a design** → **Custom size** → **297 × 420 mm** (A3).
-2. **Uploads** → upload the PNG → drag it to fill the page.
-3. Add new text on top if you need to change wording.
-4. Repeat for the second poster.
+## 海报 2 · Required Documents
 
-Full steps: [`poster/canva/HOW-TO-CANVA.md`](poster/canva/HOW-TO-CANVA.md)
+报到检查材料清单。
 
-## Preview without Canva
+![Poster 2 — Required Documents](poster-2.png)
 
-1. Open **`poster/view.html`** in a browser — both posters, scroll for poster 2.
-2. Or open **`poster/index.html`** — click text to edit, then print to PDF.
+---
 
-School green `#00561F` (CMYK 100,0,100,60). Emblem copyright: Sun Yat-sen University.
+## Open these picture files · 点开这些图片
+
+If the pictures above do not show, click these files:
+
+- [poster-1.png](poster-1.png)
+- [poster-2.png](poster-2.png)
+
+## Canva
+
+Upload `poster-1.png` and `poster-2.png` into Canva (custom size **297 × 420 mm**).  
+Do not upload HTML. More files: [`poster/canva/`](poster/canva/).
+
+School green `#00561F`. Emblem © Sun Yat-sen University.
