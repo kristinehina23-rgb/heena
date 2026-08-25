@@ -7,7 +7,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="styles.css?v=2">
 </head>
 <body class="app">
   <aside class="panel">
@@ -29,7 +29,7 @@
 
     <h2>Poster 海报</h2>
     <label class="field"><span>选择海报</span>
-      <select id="layout">
+      <select id="layout" onchange="applyChrome()">
         <option value="reg-day">海报 1 · Registration Day 报到</option>
         <option value="reg-docs">海报 2 · Required Documents 材料</option>
         <option value="classic">空白官方模板</option>
@@ -44,13 +44,13 @@
     </div>
     <div class="row" style="margin-top:10px">
       <label class="field"><span>主题 Theme</span>
-        <select id="theme">
+        <select id="theme" onchange="applyChrome()">
           <option value="green">标准绿 Standard</option>
           <option value="red">辅助红 Ceremony</option>
         </select>
       </label>
       <label class="field"><span>纸面 Paper</span>
-        <select id="paper">
+        <select id="paper" onchange="applyChrome()">
           <option value="cream">牙白 Cream</option>
           <option value="white">纯白 White</option>
           <option value="dark">深色 Dark</option>
@@ -58,7 +58,7 @@
       </label>
     </div>
     <label class="field"><span>尺寸 Size</span>
-      <select id="size">
+      <select id="size" onchange="applyChrome()">
         <option value="a3">A3 海报 297×420mm</option>
         <option value="a4">A4 210×297mm</option>
         <option value="story">竖屏 1080×1920</option>
@@ -273,6 +273,6 @@ Please follow the instructions of your school/department.</div>
       </article>
     </div>
   </main>
-  <script src="app.js"></script>
+  <script src="app.js?v=2"></script>
 </body>
 </html>
