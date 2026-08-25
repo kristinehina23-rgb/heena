@@ -1,0 +1,375 @@
+/* Fashion / editorial overlay for the two registration posters.
+   Photos come from the 2026 International Student Life Tips booklet. */
+
+.poster-day,
+.poster-docs {
+  --en: "Fraunces", "Cormorant Garamond", "Times New Roman", serif;
+  --sans: "Outfit", "Noto Sans SC", "Noto Sans CJK SC", "PingFang SC", sans-serif;
+  font-family: var(--sans);
+}
+
+.poster-day {
+  display: flex;
+  flex-direction: column;
+  background: #f4eee4;
+}
+
+.poster-day .frame,
+.poster-day .watermark {
+  display: none;
+}
+
+.shot {
+  position: relative;
+  height: 168mm;
+  flex: 0 0 168mm;
+  overflow: visible;
+  color: #f7f3ea;
+}
+
+.shot-img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 38%;
+  filter: saturate(1.12) contrast(1.06);
+}
+
+.shot-veil {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(180deg, rgba(8, 22, 12, 0.18) 0%, rgba(8, 22, 12, 0.08) 38%, rgba(0, 40, 16, 0.82) 100%),
+    linear-gradient(90deg, rgba(0, 40, 16, 0.28), transparent 42%);
+}
+
+.poster[data-theme="red"] .shot-veil {
+  background:
+    linear-gradient(180deg, rgba(40, 8, 8, 0.2) 0%, rgba(40, 8, 8, 0.08) 38%, rgba(70, 0, 4, 0.84) 100%),
+    linear-gradient(90deg, rgba(70, 0, 4, 0.3), transparent 42%);
+}
+
+.shot-top {
+  position: relative;
+  z-index: 2;
+  display: grid;
+  grid-template-columns: 40px 1fr 40px;
+  align-items: center;
+  gap: 14px;
+  padding: 12mm 16mm 0;
+}
+
+.shot-top .ornament {
+  width: 40px;
+  height: 40px;
+  opacity: 0.92;
+  filter: brightness(10);
+}
+
+.shot-top .emblem-white {
+  width: 64px;
+  height: 64px;
+  margin: 0 auto;
+  display: block;
+}
+
+.uni-line {
+  text-align: center;
+  font-size: 10px;
+  letter-spacing: 0.42em;
+  text-transform: uppercase;
+  opacity: 0.88;
+  margin-top: 6px;
+}
+
+.shot-copy {
+  position: absolute;
+  left: 16mm;
+  right: 78mm;
+  bottom: 14mm;
+  z-index: 2;
+}
+
+.kicker-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+
+.pill {
+  display: inline-block;
+  border: 1px solid var(--sysu-gold);
+  color: var(--sysu-gold);
+  letter-spacing: 0.28em;
+  font-size: 10px;
+  text-transform: uppercase;
+  padding: 5px 10px;
+  border-radius: 999px;
+}
+
+.kicker-en {
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: none;
+  opacity: 0.92;
+}
+
+.year {
+  font-family: "Noto Serif SC", "Noto Serif CJK SC", "Times New Roman", serif;
+  font-optical-sizing: none;
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 0.95;
+  letter-spacing: 0.12em;
+  margin: 0;
+  font-variant-numeric: lining-nums;
+}
+
+.display {
+  margin: 6px 0 0;
+  font-family: "Noto Serif SC", "Noto Serif CJK SC", serif;
+  font-size: 32px;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: 0.18em;
+  line-height: 1.25;
+}
+
+.display-zh {
+  margin-top: 8px;
+  font-family: var(--en);
+  font-style: normal;
+  letter-spacing: 0.06em;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.motto-line {
+  margin: 10px 0 0;
+  letter-spacing: 0.42em;
+  font-size: 12px;
+  font-family: "Noto Serif SC", "Noto Serif CJK SC", serif;
+  opacity: 0.92;
+}
+
+.poster-day .who-en { font-style: normal; }
+.poster-day .step-zh { display: block; margin-top: 2px; }
+
+.welcome {
+  margin: 10px 0 0;
+  font-size: 13px;
+  letter-spacing: 0.12em;
+  opacity: 0.92;
+}
+
+.orb {
+  position: absolute;
+  right: 14mm;
+  bottom: -24mm;
+  width: 58mm;
+  height: 58mm;
+  margin: 0;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 5px solid #f4eee4;
+  box-shadow: 0 16px 36px rgba(0, 30, 12, 0.28);
+  z-index: 4;
+}
+
+.orb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 30% 40%;
+}
+
+.body-pad {
+  position: relative;
+  z-index: 3;
+  flex: 1;
+  padding: 28mm 16mm 12mm;
+  display: flex;
+  flex-direction: column;
+}
+
+.poster-day .section-label {
+  margin-top: 0;
+}
+
+.poster-day .time-grid {
+  gap: 12px;
+}
+
+.poster-day .time-card,
+.poster-day .place {
+  border: 0;
+  background: #fff;
+  border-radius: 18px;
+  padding: 12px 14px 13px;
+  box-shadow: 0 8px 24px rgba(0, 40, 16, 0.07);
+  position: relative;
+  overflow: hidden;
+}
+
+.poster-day .time-card::before,
+.poster-day .place::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 4px;
+  background: var(--brand);
+}
+
+.poster-day .when {
+  font-size: 20px;
+}
+
+.poster-day .steps {
+  gap: 8px 12px;
+}
+
+.poster-day .steps li {
+  background: #fff;
+  border-radius: 14px;
+  padding: 8px 10px 8px 8px;
+  box-shadow: 0 6px 16px rgba(0, 40, 16, 0.06);
+}
+
+.poster-day .step-no {
+  border-radius: 10px;
+  width: 26px;
+  height: 26px;
+}
+
+.poster-day .footer {
+  grid-template-columns: 1fr auto;
+  align-items: end;
+}
+
+/* —— Poster 2: filmstrip editorial —— */
+
+.poster-docs {
+  display: grid;
+  grid-template-columns: 96mm 1fr;
+  padding: 0;
+  background: #f7f1e6;
+}
+
+.filmstrip {
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  height: 420mm;
+}
+
+.filmstrip figure {
+  margin: 0;
+  flex: 1;
+  min-height: 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.filmstrip img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: saturate(1.1) contrast(1.04);
+}
+
+.filmstrip figcaption { display: none; }
+
+.docs-main {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  min-height: 0;
+  height: 420mm;
+  background: #f7f1e6;
+}
+
+.docs-head {
+  background: var(--brand);
+  color: #f6f1e4;
+  padding: 10mm 11mm 9mm;
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  flex: 0 0 auto;
+}
+
+.docs-head .emblem-white {
+  width: 68px;
+  height: 68px;
+  flex-shrink: 0;
+}
+
+.docs-head .band-title {
+  font-size: 28px;
+  font-family: "Noto Serif SC", "Noto Serif CJK SC", serif;
+  letter-spacing: 0.22em;
+}
+
+.docs-main .docs-body {
+  padding: 7mm 10mm 4mm;
+  flex: 1;
+  min-height: 0;
+}
+
+.docs-main .check-list li {
+  background: #fff;
+  border: 0;
+  border-radius: 12px;
+  padding: 6px 9px;
+  margin-bottom: 5px;
+  box-shadow: 0 6px 16px rgba(0, 40, 16, 0.05);
+  align-items: center;
+}
+
+.docs-main .extras section {
+  background: #fff;
+  border-radius: 14px;
+  padding: 7px 9px 8px;
+  box-shadow: 0 6px 16px rgba(0, 40, 16, 0.05);
+}
+
+.docs-main .note-box {
+  border-radius: 12px;
+  border-left-width: 5px;
+  margin-top: 8px;
+}
+
+.peek {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  padding: 0 10mm 6mm;
+  flex: 0 0 auto;
+}
+
+.peek img {
+  width: 100%;
+  height: 24mm;
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+.docs-main .docs-foot {
+  padding: 7mm 11mm;
+  flex: 0 0 auto;
+}
+
+@media print {
+  .shot-img,
+  .orb img,
+  .filmstrip img,
+  .peek img {
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
+}

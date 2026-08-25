@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>中山大学官方海报 · 两张报到海报</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,700;1,9..144,600&family=Outfit:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css?v=4">
+  <link rel="stylesheet" href="fashion.css?v=1">
+</head>
+<body class="app">
+  <aside class="panel">
+    <div class="brand-lockup">
+      <img src="assets/校徽_绿.svg" alt="中山大学校徽">
+      <div>
+        <h1>两张官方海报</h1>
+        <p>Sun Yat-sen University</p>
+      </div>
+    </div>
+    <p class="hint">要用 <b>Canva</b> 打开：请下载 <a href="canva/HOW-TO-CANVA.md" style="color:#d29865">canva</a> 文件夹里的 PNG 或 PDF。Canva 打不开 HTML。<br>看不到海报时，请打开 <a href="view.html" style="color:#d29865">view.html</a>。</p>
+
+    <div class="colors">
+      <b>标准色</b> #00561F · CMYK 100,0,100,60<br>
+      <b>辅助色</b> #740003 · CMYK 30,100,100,50
+    </div>
+
+    <h2>View 显示</h2>
+    <label class="field"><span>查看</span>
+      <select id="view" onchange="applyChrome()">
+        <option value="both">两张并排 Both posters</option>
+        <option value="day">只看海报 1 Registration Day</option>
+        <option value="docs">只看海报 2 Required Documents</option>
+      </select>
+    </label>
+
+    <h2>Theme 色彩</h2>
+    <div class="swatches">
+      <button class="swatch green active" type="button" data-theme="green">绿色</button>
+      <button class="swatch red" type="button" data-theme="red">红色</button>
+    </div>
+    <div class="row" style="margin-top:10px">
+      <label class="field"><span>主题</span>
+        <select id="theme" onchange="applyChrome()">
+          <option value="green">标准绿</option>
+          <option value="red">辅助红</option>
+        </select>
+      </label>
+      <label class="field"><span>纸面</span>
+        <select id="paper" onchange="applyChrome()">
+          <option value="cream">牙白</option>
+          <option value="white">纯白</option>
+        </select>
+      </label>
+    </div>
+    <label class="field"><span>尺寸</span>
+      <select id="size" onchange="applyChrome()">
+        <option value="a3">A3 297×420mm</option>
+        <option value="a4">A4 210×297mm</option>
+      </select>
+    </label>
+
+    <div class="actions">
+      <button class="btn primary" id="printBtn" type="button">打印两张 / PDF</button>
+    </div>
+    <p class="hint" style="margin-top:14px">校徽版权归中山大学所有。正式印发请以视觉形象识别系统手册为准。</p>
+  </aside>
+
+  <main class="stage" id="stage" data-view="both">
+    <div class="sheet wrap-day">
+      <div class="sheet-label">海报 1 · Registration Day 报到日程</div>
+      <div class="canvas-wrap" id="wrapDay">
+        <article class="poster poster-day" id="posterDay" data-theme="green" data-paper="cream" data-size="a3">
+          <section class="shot">
+            <img class="shot-img" src="photos/gate.jpg" alt="中山大学南门">
+            <div class="shot-veil"></div>
+            <header class="shot-top">
+              <img class="ornament" src="assets/海棠装饰_实心_反白.svg" alt="">
+              <div>
+                <img class="emblem-white" src="assets/校徽_反白.svg" alt="中山大学校徽">
+                <div class="uni-line">Sun Yat-sen University</div>
+              </div>
+              <img class="ornament" src="assets/海棠装饰_实心_反白.svg" alt="">
+            </header>
+            <div class="shot-copy">
+              <div class="kicker-row">
+                <span class="kicker-en" contenteditable="true">Office of International Students’ Affairs　外国留学生办公室</span>
+              </div>
+              <div class="year" contenteditable="true">2026</div>
+              <h2 class="display" contenteditable="true">国际学生报到注册</h2>
+              <div class="display-zh" contenteditable="true">International Student Registration</div>
+              <p class="welcome" contenteditable="true">欢迎来到中山大学　Welcome to Sun Yat-sen University</p>
+              <p class="motto-line" contenteditable="true">博学　审问　慎思　明辨　笃行</p>
+            </div>
+            <figure class="orb"><img src="photos/blossoms.jpg" alt="校园春花"></figure>
+          </section>
+          <div class="body-pad">
+            <div class="section-label" contenteditable="true">Registration Time　报到时间</div>
+            <div class="time-grid">
+              <article class="time-card">
+                <div class="who-en" contenteditable="true">Undergraduate Students</div>
+                <div class="who-zh" contenteditable="true">本科生</div>
+                <div class="when" contenteditable="true">August 27, 2026</div>
+                <div class="clock" contenteditable="true">08:30 – 17:30</div>
+              </article>
+              <article class="time-card">
+                <div class="who-en" contenteditable="true">Graduate Students</div>
+                <div class="who-zh" contenteditable="true">研究生</div>
+                <div class="when" contenteditable="true">September 3, 2026</div>
+                <div class="clock" contenteditable="true">08:30 – 17:30</div>
+              </article>
+            </div>
+            <div class="section-label" contenteditable="true">Registration Places　报到地点</div>
+            <div class="split">
+              <article class="place">
+                <div class="stop" contenteditable="true">First Stop　第一站</div>
+                <div class="place-title" contenteditable="true">入学资格及签证审查</div>
+                <div class="place-en" contenteditable="true">Admission Qualification &amp; Visa Verification</div>
+                <div class="place-addr" contenteditable="true">中山大学广州校区南校园东南区 258 栋外国语学院一楼校友之家
+Alumni Home, 1st Floor, Building 258, School of Foreign Languages, South Campus</div>
+              </article>
+              <article class="place">
+                <div class="stop" contenteditable="true">Second Stop　第二站</div>
+                <div class="place-title" contenteditable="true">所属院系报到注册</div>
+                <div class="place-en" contenteditable="true">Registration at Your School/Department</div>
+                <div class="place-addr" contenteditable="true">请根据所属院系安排前往指定地点办理报到。
+Please follow the instructions of your school/department.</div>
+              </article>
+            </div>
+            <div class="section-label" contenteditable="true">On-site Process　现场流程</div>
+            <ol class="steps">
+              <li><span class="step-no">1</span><span contenteditable="true">Document Collection<span class="step-zh">材料领取</span></span></li>
+              <li><span class="step-no">2</span><span contenteditable="true">Visa Verification<span class="step-zh">国际学生签证审查</span></span></li>
+              <li><span class="step-no">3</span><span contenteditable="true">Admission Eligibility Verification<span class="step-zh">国际学生入学资格审查</span></span></li>
+              <li><span class="step-no">4</span><span contenteditable="true">Admission Eligibility Review<span class="step-zh">国际学生入学资格复查</span></span></li>
+              <li><span class="step-no">5</span><span contenteditable="true">Result Confirmation<span class="step-zh">国际学生审查结果确认</span></span></li>
+              <li><span class="step-no">6</span><span contenteditable="true">Collect Original Admission Notice &amp; Visa Status Verification Form<span class="step-zh">领取录取通知书原件和《国际学生签证状态审核单》</span></span></li>
+              <li><span class="step-no">7</span><span contenteditable="true">Register at Your School/Department<span class="step-zh">前往院系</span></span></li>
+            </ol>
+            <footer class="footer">
+              <div class="org contact-line" contenteditable="true">Office of International Students’ Affairs　中山大学外国留学生办公室
++86-20-84110819　admissions@mail.sysu.edu.cn</div>
+              <img class="nameplate" data-asset="name" src="assets/校名_横式_绿.svg" alt="中山大学">
+            </footer>
+          </div>
+        </article>
+      </div>
+    </div>
+
+    <div class="sheet wrap-docs">
+      <div class="sheet-label">海报 2 · Required Documents 材料清单</div>
+      <div class="canvas-wrap" id="wrapDocs">
+        <article class="poster poster-docs" id="posterDocs" data-theme="green" data-paper="cream" data-size="a3">
+          <aside class="filmstrip">
+            <figure>
+              <img src="photos/library.jpg" alt="中山大学图书馆阅览室">
+              <figcaption>Library</figcaption>
+            </figure>
+            <figure>
+              <img src="photos/clocktower.jpg" alt="校园钟楼建筑">
+              <figcaption>Campus</figcaption>
+            </figure>
+            <figure>
+              <img src="photos/lamps.jpg" alt="校园台灯">
+              <figcaption>Study</figcaption>
+            </figure>
+          </aside>
+          <div class="docs-main">
+            <header class="docs-head">
+              <img class="emblem-white" data-asset="emblem-white" src="assets/校徽_反白.svg" alt="中山大学校徽">
+              <div>
+                <div class="band-kicker" contenteditable="true">中山大学外国留学生办公室　Office of International Students’ Affairs</div>
+                <h2 class="band-title" contenteditable="true">报到检查材料</h2>
+                <div class="band-zh" contenteditable="true">Required Documents for Registration</div>
+              </div>
+            </header>
+            <div class="docs-body">
+              <p class="doc-intro" contenteditable="true">Please prepare all of the following documents. 以下材料均须准备。</p>
+              <h3 class="list-head" contenteditable="true">For All Students　所有新生均需准备</h3>
+              <ol class="check-list">
+                <li contenteditable="true">Admission Notice<span class="doc-zh">录取通知书</span></li>
+                <li contenteditable="true">Confirmation Form for Study in China (JW201/JW202)<span class="doc-zh">《外国留学人员来华确认表》（JW201/JW202）</span></li>
+                <li contenteditable="true">Original Diploma/Degree Certificate<span class="doc-zh">最高学历毕业证书及学位证书原件</span></li>
+                <li contenteditable="true">Original Academic Transcripts<span class="doc-zh">最高学历成绩单原件</span></li>
+                <li contenteditable="true">Original HSK Certificate or Language Proficiency Certificate<span class="doc-zh">HSK证书或语言水平证明原件</span></li>
+                <li contenteditable="true">Original Passport; copies of passport page, visa page, and latest entry stamp page (1 each)<span class="doc-zh">护照原件及护照页、签证页、最后入境签章页复印件各 1 张</span></li>
+              </ol>
+              <div class="split extras">
+                <section>
+                  <h3 class="list-head" contenteditable="true">Undergraduate　本科生额外材料</h3>
+                  <ul class="plain-list">
+                    <li contenteditable="true">Visa &amp; Entry/Exit Records for the Past Four Years<span class="doc-zh">近四年的签证及出入境记录</span></li>
+                    <li contenteditable="true">Original Birth Certificate<span class="doc-zh">出生证明原件</span></li>
+                    <li contenteditable="true">Copies of Parents’ Passports &amp; Permanent Residence Documents<span class="doc-zh">父母护照及永久居留证明复印件</span></li>
+                  </ul>
+                </section>
+                <section>
+                  <h3 class="list-head" contenteditable="true">Graduate　研究生额外材料</h3>
+                  <ul class="plain-list">
+                    <li contenteditable="true">Certified Copies of Diploma/Degree Certificate<span class="doc-zh">学历学位证书认证件</span></li>
+                  </ul>
+                </section>
+              </div>
+              <div class="note-box" contenteditable="true">
+                <b>Important Reminder　温馨提醒</b><br>
+                Please make sure all documents are authentic and complete. Documents not in Chinese or English must be accompanied by a certified Chinese or English translation.<br>
+                请确保所有材料真实、完整。非中文或英文材料须提供经认证的中文或英文翻译件。
+              </div>
+            </div>
+            <div class="peek">
+              <img src="photos/campus.jpg" alt="校园全景">
+              <img src="photos/brick.jpg" alt="校园建筑细节">
+            </div>
+            <footer class="docs-foot">
+              <div contenteditable="true">中山大学外国留学生办公室　Office of International Students’ Affairs</div>
+              <div contenteditable="true">+86-20-84110819　admissions@mail.sysu.edu.cn</div>
+            </footer>
+          </div>
+        </article>
+      </div>
+    </div>
+  </main>
+  <script src="app.js?v=4"></script>
+</body>
+</html>
