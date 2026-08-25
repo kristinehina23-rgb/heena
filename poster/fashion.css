@@ -112,9 +112,9 @@
 
 .kicker-en {
   font-size: 11px;
-  letter-spacing: 0.34em;
-  text-transform: uppercase;
-  opacity: 0.88;
+  letter-spacing: 0.08em;
+  text-transform: none;
+  opacity: 0.92;
 }
 
 .year {
@@ -129,20 +129,33 @@
 
 .display {
   margin: 6px 0 0;
-  font-family: var(--en);
-  font-size: 34px;
-  font-weight: 600;
-  font-style: italic;
-  letter-spacing: 0.01em;
-  line-height: 1.05;
+  font-family: "Noto Serif SC", "Noto Serif CJK SC", serif;
+  font-size: 32px;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: 0.18em;
+  line-height: 1.25;
 }
 
 .display-zh {
-  margin-top: 6px;
-  font-family: "Noto Serif SC", "Noto Serif CJK SC", serif;
-  letter-spacing: 0.36em;
-  font-size: 15px;
+  margin-top: 8px;
+  font-family: var(--en);
+  font-style: normal;
+  letter-spacing: 0.06em;
+  font-size: 18px;
+  font-weight: 500;
 }
+
+.motto-line {
+  margin: 10px 0 0;
+  letter-spacing: 0.42em;
+  font-size: 12px;
+  font-family: "Noto Serif SC", "Noto Serif CJK SC", serif;
+  opacity: 0.92;
+}
+
+.poster-day .who-en { font-style: normal; }
+.poster-day .step-zh { display: block; margin-top: 2px; }
 
 .welcome {
   margin: 10px 0 0;
@@ -268,16 +281,7 @@
   filter: saturate(1.1) contrast(1.04);
 }
 
-.filmstrip figcaption {
-  position: absolute;
-  left: 10px;
-  bottom: 10px;
-  color: #fff;
-  font-size: 9px;
-  letter-spacing: 0.28em;
-  text-transform: uppercase;
-  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.45);
-}
+.filmstrip figcaption { display: none; }
 
 .docs-main {
   display: flex;
@@ -306,6 +310,8 @@
 
 .docs-head .band-title {
   font-size: 28px;
+  font-family: "Noto Serif SC", "Noto Serif CJK SC", serif;
+  letter-spacing: 0.22em;
 }
 
 .docs-main .docs-body {
