@@ -23,6 +23,7 @@
 
 html, body {
   margin: 0;
+  min-height: 100%;
   height: 100%;
   background: #0c0f0c;
   color: #ece7dc;
@@ -31,8 +32,18 @@ html, body {
 
 body.app {
   display: grid;
-  grid-template-columns: 360px 1fr;
+  grid-template-columns: 300px 1fr;
   min-height: 100%;
+  height: 100%;
+}
+
+@media (max-width: 1100px) {
+  body.app {
+    grid-template-columns: 1fr;
+    height: auto;
+  }
+  .panel { max-height: none; }
+  .stage { min-height: 80vh; flex-direction: column; }
 }
 
 .panel {

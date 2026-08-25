@@ -1,40 +1,20 @@
-# 中山大学官方海报编辑器
+# 中山大学报到海报（两张）
 
-Editable official poster for **Sun Yat-sen University (中山大学)**, using the school visual identity:
+If you cannot see the HTML editor, **look at these pictures** or open `poster/view.html` in a browser (scroll down for poster 2).
 
-| Role | HEX | RGB | CMYK (print / screening) |
-| --- | --- | --- | --- |
-| Standard green 标准色 | `#00561F` | 0, 86, 31 | 100, 0, 100, 60 |
-| Auxiliary red 辅助色 | `#740003` | 116, 0, 3 | 30, 100, 100, 50 |
-| Gold 金色 | `#D29865` | 210, 152, 101 | 18, 50, 66, 0 |
+## Poster 1 · 2026 Registration Day
 
-Open `poster/index.html` in a browser (or serve the `poster` folder). Edit title, date, venue, and theme on the left. Click **打印 / PDF** and choose “Save as PDF”.
+Times, two stops, 7-step process.
 
-## How to use
+## Poster 2 · Required Documents
 
-1. Open `poster/index.html`.
-2. Pick **绿色** for regular academic posters, **红色** for ceremonies.
-3. Choose A3 (wall poster), A4, or vertical screen size.
-4. Replace the placeholder copy with your event.
-5. Optional: upload the official emblem SVG from [中山大学视觉形象识别系统](https://home3.sysu.edu.cn/sysuvi/).
-6. Print to PDF. Give the print shop the CMYK values above.
+Green-band checklist of materials.
 
-The editor shows **two different official posters** side by side:
+![Two SYSU official posters](poster/preview/both.png)
 
-1. **海报 1 · 2026 Registration Day** — times, two stops, seven-step process  
-2. **海报 2 · Required Documents** — green-band checklist of materials
+## How to open
 
-Open `poster/index.html`, click text to edit, then **打印两张 / PDF** for a two-page PDF.
+1. Open **`poster/view.html`** — both posters, no setup, scroll to see the second one.
+2. Or open **`poster/index.html`** — editor: click text to change, then print to PDF.
 
-## Files
-
-```
-poster/
-  index.html      editor
-  styles.css
-  app.js
-  NOTICE.txt      logo copyright
-  assets/         emblem, wordmark, motto, haitang ornaments
-```
-
-校徽版权归中山大学所有。正式印发请以学校视觉识别手册为准。
+School green `#00561F` (CMYK 100,0,100,60). Emblem copyright: Sun Yat-sen University.

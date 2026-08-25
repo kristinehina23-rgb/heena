@@ -51,16 +51,18 @@ function fitPosters() {
     day: document.querySelector(".wrap-day"),
     docs: document.querySelector(".wrap-docs"),
   };
-  const visible = view === "both" ? [sheets.day, sheets.docs] : [sheets[view]];
+  const visible = (view === "both" ? [sheets.day, sheets.docs] : [sheets[view]]).filter(Boolean);
   const gap = 36;
-  const extra = view === "both" ? 48 : 56;
+  const extra = 48;
   visible.forEach((sheet) => {
     const poster = sheet.querySelector(".poster");
     const wrap = sheet.querySelector(".canvas-wrap");
+    if (!poster || !wrap || poster.offsetWidth < 40 || poster.offsetHeight < 40) return;
     const count = visible.length;
-    const availW = (stage.clientWidth - extra - (count - 1) * gap) / count;
-    const availH = stage.clientHeight - 88;
-    const scale = Math.min(availW / poster.offsetWidth, availH / poster.offsetHeight, 1);
+    const availW = Math.max(260, (Math.max(stage.clientWidth, 320) - extra - (count - 1) * gap) / count);
+    const availH = Math.max(420, Math.max(stage.clientHeight, 500) - 72);
+    let scale = Math.min(availW / poster.offsetWidth, availH / poster.offsetHeight, 1);
+    if (!isFinite(scale) || scale < 0.18) scale = 0.22;
     wrap.style.transform = `scale(${scale})`;
     wrap.style.width = `${poster.offsetWidth * scale}px`;
     wrap.style.height = `${poster.offsetHeight * scale}px`;
@@ -94,5 +96,9 @@ window.addEventListener("DOMContentLoaded", () => {
   });
   el("printBtn").addEventListener("click", printPoster);
   window.addEventListener("resize", fitPosters);
+  const wanted = new URLSearchParams(location.search).get("view");
+  if (wanted && el("view").querySelector(`option[value="${wanted}"]`)) {
+    el("view").value = wanted;
+  }
   applyChrome();
 });
