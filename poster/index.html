@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>中山大学官方海报编辑器 · SYSU Official Poster</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="app">
+  <aside class="panel">
+    <div class="brand-lockup">
+      <img src="assets/校徽_绿.svg" alt="中山大学校徽">
+      <div>
+        <h1>官方海报编辑器</h1>
+        <p>Sun Yat-sen University</p>
+      </div>
+    </div>
+    <p class="hint">使用中山大学视觉识别系统标准色与校徽。左侧改文字与版式，右侧即海报。打印时选择「储存为 PDF」即可输出。</p>
+
+    <div class="colors">
+      <b>标准色 Standard green</b><br>
+      HEX #00561F · RGB 0,86,31 · CMYK 100,0,100,60<br>
+      <b>辅助色 Auxiliary red</b><br>
+      HEX #740003 · RGB 116,0,3 · CMYK 30,100,100,50<br>
+      <b>金色 Gold</b> #D29865
+    </div>
+
+    <h2>Theme 色彩</h2>
+    <div class="swatches">
+      <button class="swatch green active" type="button" data-theme="green">绿色</button>
+      <button class="swatch red" type="button" data-theme="red">红色</button>
+    </div>
+    <div class="row" style="margin-top:10px">
+      <label class="field"><span>主题 Theme</span>
+        <select id="theme">
+          <option value="green">标准绿 Standard</option>
+          <option value="red">辅助红 Ceremony</option>
+        </select>
+      </label>
+      <label class="field"><span>纸面 Paper</span>
+        <select id="paper">
+          <option value="cream">牙白 Cream</option>
+          <option value="white">纯白 White</option>
+          <option value="dark">深色 Dark</option>
+        </select>
+      </label>
+    </div>
+    <div class="row">
+      <label class="field"><span>尺寸 Size</span>
+        <select id="size">
+          <option value="a3">A3 海报 297×420mm</option>
+          <option value="a4">A4 210×297mm</option>
+          <option value="story">竖屏 1080×1920</option>
+        </select>
+      </label>
+      <label class="field"><span>版式 Layout</span>
+        <select id="layout">
+          <option value="classic">经典 Classic</option>
+          <option value="lecture">讲座 Lecture</option>
+        </select>
+      </label>
+    </div>
+    <label class="field"><span>预设 Preset</span>
+      <select id="preset">
+        <option value="lecture">学术讲座</option>
+        <option value="notice">开学 / 通知</option>
+        <option value="ceremony">典礼仪式</option>
+      </select>
+    </label>
+
+    <h2>Copy 文案</h2>
+    <label class="field"><span>眉题 Kicker</span><input id="kicker" type="text"></label>
+    <label class="field"><span>主标题 Title</span><input id="title" type="text"></label>
+    <label class="field"><span>副标题 Subtitle</span><input id="subtitle" type="text"></label>
+    <label class="field"><span>英文 English</span><input id="english" type="text"></label>
+    <div class="row">
+      <label class="field"><span>日期 Date</span><input id="date" type="text"></label>
+      <label class="field"><span>时间 Time</span><input id="time" type="text"></label>
+    </div>
+    <label class="field"><span>地点 Venue</span><textarea id="venue"></textarea></label>
+    <label class="field"><span>嘉宾 Speaker</span><input id="speaker" type="text"></label>
+    <label class="field"><span>身份 Role</span><input id="role" type="text"></label>
+    <label class="field"><span>正文 Body</span><textarea id="body"></textarea></label>
+    <label class="field"><span>主办 Organizer</span><textarea id="organizer"></textarea></label>
+    <label class="field"><span>页脚 Footer</span><input id="contact" type="text"></label>
+
+    <h2>Logo</h2>
+    <label class="field"><span>替换校徽（官方 AI/SVG 更佳）</span>
+      <input id="logoFile" type="file" accept="image/*,.svg">
+    </label>
+
+    <div class="actions">
+      <button class="btn primary" id="printBtn" type="button">打印 / PDF</button>
+      <button class="btn ghost" id="saveBtn" type="button">导出 JSON</button>
+      <button class="btn ghost" id="loadBtn" type="button">导入 JSON</button>
+      <input id="jsonFile" type="file" accept="application/json" hidden>
+    </div>
+    <p class="hint" style="margin-top:14px">校徽、校名版权归中山大学所有。正式印发请以学校视觉形象识别系统手册为准：home3.sysu.edu.cn/sysuvi/</p>
+  </aside>
+
+  <main class="stage" id="stage">
+    <div class="canvas-wrap" id="canvasWrap">
+      <article class="poster" id="poster" data-theme="green" data-paper="cream" data-size="a3" data-layout="lecture">
+        <img class="watermark" id="watermark" src="assets/海棠式洞窗_绿.svg" alt="">
+        <div class="frame"></div>
+        <div class="inner">
+          <header class="header">
+            <img class="ornament" src="assets/海棠装饰_空心_绿.svg" alt="">
+            <div class="wordmark">
+              <img class="emblem" id="emblem" src="assets/校徽_绿.svg" alt="中山大学校徽">
+            </div>
+            <img class="ornament" src="assets/海棠装饰_空心_绿.svg" alt="">
+          </header>
+          <p class="motto">博学　审问　慎思　明辨　笃行</p>
+          <hr class="rule">
+          <div class="kicker" contenteditable="true">学术活动</div>
+          <h2 class="title" contenteditable="true">逸仙学术讲座</h2>
+          <div class="subtitle" contenteditable="true">面向未来的大学与社会</div>
+          <div class="english" contenteditable="true">Sun Yat-sen Distinguished Lecture</div>
+          <div class="speaker">
+            <div class="who" contenteditable="true">特邀嘉宾</div>
+            <div class="role" contenteditable="true">中山大学教授</div>
+          </div>
+          <section class="meta">
+            <div class="meta-item">
+              <div class="label">日期 DATE</div>
+              <div class="value" id="dateValue" contenteditable="true">2026年9月18日</div>
+            </div>
+            <div class="meta-item">
+              <div class="label">时间 TIME</div>
+              <div class="value" id="timeValue" contenteditable="true">14:30–16:30</div>
+            </div>
+            <div class="meta-item">
+              <div class="label">地点 VENUE</div>
+              <div class="value" id="venueValue" contenteditable="true">广州校区南校园</div>
+            </div>
+          </section>
+          <div class="body-copy" contenteditable="true">本次讲座面向全校师生开放。请持校园卡提前十五分钟入场。</div>
+          <footer class="footer">
+            <div class="org">
+              <div id="organizerValue" contenteditable="true">主办：中山大学</div>
+              <div id="contactValue" contenteditable="true">广州市海珠区新港西路135号</div>
+            </div>
+            <img class="nameplate" id="nameplate" src="assets/校名_横式_绿.svg" alt="中山大学">
+            <img class="motto-mark" id="mottoMark" src="assets/校训.svg" alt="校训">
+          </footer>
+        </div>
+      </article>
+    </div>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
