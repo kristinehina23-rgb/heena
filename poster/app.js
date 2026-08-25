@@ -105,6 +105,7 @@ function applyChrome() {
   poster.dataset.size = $("#size").value;
   poster.dataset.layout = $("#layout").value;
   applyAssets();
+  toggleSimpleFields();
   fitPoster();
 }
 
@@ -138,12 +139,17 @@ function bindFields() {
 
 function loadPreset(name) {
   const data = PRESETS[name];
-  Object.entries(data).forEach(([key, value]) => {
-    const el = document.getElementById(key);
-    if (el) el.value = value;
-  });
-  document.querySelectorAll("input, textarea").forEach((el) => el.dispatchEvent(new Event("input")));
-  if (name === "registration") $("#layout").value = "classic";
+  if (data) {
+    Object.entries(data).forEach(([key, value]) => {
+      const el = document.getElementById(key);
+      if (el) el.value = value;
+    });
+    document.querySelectorAll("#simpleFields input, #simpleFields textarea").forEach((el) =>
+      el.dispatchEvent(new Event("input"))
+    );
+  }
+  if (name === "registration") $("#layout").value = "reg-day";
+  if (name === "documents") $("#layout").value = "reg-docs";
   if (name === "lecture") $("#layout").value = "lecture";
   if (name === "notice") $("#layout").value = "classic";
   if (name === "ceremony") {
@@ -151,6 +157,11 @@ function loadPreset(name) {
     $("#theme").value = "red";
   }
   applyChrome();
+}
+
+function toggleSimpleFields() {
+  const layout = $("#layout").value;
+  $("#simpleFields").hidden = layout === "reg-day" || layout === "reg-docs";
 }
 
 function fitPoster() {
@@ -216,8 +227,10 @@ function customLogo(file) {
 
 window.addEventListener("DOMContentLoaded", () => {
   bindFields();
-  loadPreset("registration");
-  ["theme", "paper", "size", "layout"].forEach((id) => {
+  $("#layout").value = "reg-day";
+  applyChrome();
+  $("#layout").addEventListener("change", applyChrome);
+  ["theme", "paper", "size"].forEach((id) => {
     document.getElementById(id).addEventListener("change", applyChrome);
   });
   document.querySelectorAll(".swatch").forEach((btn) => {
@@ -227,7 +240,6 @@ window.addEventListener("DOMContentLoaded", () => {
       applyChrome();
     });
   });
-  $("#preset").addEventListener("change", (e) => loadPreset(e.target.value));
   $("#printBtn").addEventListener("click", printPoster);
   $("#saveBtn").addEventListener("click", downloadJson);
   $("#loadBtn").addEventListener("click", () => $("#jsonFile").click());

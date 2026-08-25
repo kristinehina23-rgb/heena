@@ -19,7 +19,7 @@ Open `poster/index.html` in a browser (or serve the `poster` folder). Edit title
 5. Optional: upload the official emblem SVG from [中山大学视觉形象识别系统](https://home3.sysu.edu.cn/sysuvi/).
 6. Print to PDF. Give the print shop the CMYK values above.
 
-You can also click the poster text itself to edit in place.
+The editor currently defaults to **海报 1 国际学生报到** from `报到海报文案.doc`. Switch to **海报 2** for required documents. Click poster text to edit, then print to PDF.
 
 ## Files
 

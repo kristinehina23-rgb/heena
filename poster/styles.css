@@ -422,9 +422,303 @@ button.ghost {
   opacity: 0.9;
 }
 
+.layout {
+  display: none;
+  flex: 1;
+  min-height: 0;
+  flex-direction: column;
+}
+
+.poster[data-layout="reg-day"] .layout-reg-day,
+.poster[data-layout="reg-docs"] .layout-reg-docs,
+.poster[data-layout="classic"] .layout-classic,
+.poster[data-layout="lecture"] .layout-classic,
+.poster[data-layout="notice"] .layout-classic,
+.poster[data-layout="ceremony"] .layout-classic {
+  display: flex;
+}
+
+.poster[data-layout="reg-day"] .emblem,
+.poster[data-layout="reg-docs"] .emblem {
+  width: 76px;
+  height: 76px;
+}
+
+.poster[data-layout="reg-day"] .motto,
+.poster[data-layout="reg-docs"] .motto {
+  font-size: 11px;
+  letter-spacing: 0.5em;
+  margin-top: 4px;
+}
+
+.poster[data-layout="reg-day"] .rule,
+.poster[data-layout="reg-docs"] .rule {
+  margin: 8px 0 10px;
+}
+
+.poster[data-layout="reg-day"] .footer,
+.poster[data-layout="reg-docs"] .footer {
+  grid-template-columns: 1fr auto;
+  padding-top: 10px;
+}
+
+.hero {
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.hero-en {
+  font-family: var(--en);
+  font-size: 18px;
+  letter-spacing: 0.42em;
+  text-transform: uppercase;
+  color: var(--brand);
+}
+
+.hero-zh {
+  margin-top: 4px;
+  font-family: var(--serif);
+  font-size: 14px;
+  letter-spacing: 0.46em;
+  color: var(--muted);
+}
+
+.event-en {
+  margin: 10px 0 0;
+  font-family: var(--en);
+  font-size: 40px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  line-height: 1.1;
+}
+
+.event-zh {
+  margin-top: 4px;
+  font-family: var(--serif);
+  font-size: 18px;
+  letter-spacing: 0.28em;
+}
+
+.ready {
+  margin-top: 6px;
+  color: var(--sysu-gold);
+  letter-spacing: 0.56em;
+  font-size: 13px;
+  text-transform: uppercase;
+}
+
+.section-label {
+  font-size: 11px;
+  letter-spacing: 0.28em;
+  color: var(--brand);
+  font-weight: 700;
+  margin: 10px 0 8px;
+  text-transform: uppercase;
+}
+
+.time-grid,
+.split {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.time-card,
+.place,
+.doc-box {
+  border: 1px solid rgba(0, 86, 31, 0.28);
+  background: rgba(0, 86, 31, 0.045);
+  padding: 10px 12px;
+}
+
+.poster[data-theme="red"] .time-card,
+.poster[data-theme="red"] .place,
+.poster[data-theme="red"] .doc-box {
+  border-color: rgba(116, 0, 3, 0.28);
+  background: rgba(116, 0, 3, 0.05);
+}
+
+.time-card { text-align: center; }
+
+.who-en {
+  font-family: var(--en);
+  font-size: 16px;
+  font-style: italic;
+}
+
+.who-zh {
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+}
+
+.when {
+  margin-top: 6px;
+  font-family: var(--en);
+  font-size: 22px;
+  color: var(--brand);
+}
+
+.clock {
+  font-size: 14px;
+  letter-spacing: 0.12em;
+}
+
+.stop {
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  color: var(--brand);
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.place-title {
+  margin-top: 4px;
+  font-family: var(--serif);
+  font-size: 16px;
+}
+
+.place-en {
+  font-family: var(--en);
+  font-style: italic;
+  font-size: 14px;
+  color: var(--muted);
+}
+
+.place-addr {
+  margin-top: 6px;
+  font-size: 12px;
+  line-height: 1.55;
+}
+
+.steps {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 6px;
+}
+
+.steps li {
+  display: grid;
+  grid-template-columns: 42px 1fr;
+  gap: 8px;
+  align-items: start;
+  font-size: 12.5px;
+  line-height: 1.4;
+}
+
+.steps li.wide { grid-column: 1 / -1; }
+
+.steps li span[contenteditable],
+.place-addr,
+.contact-line {
+  white-space: pre-line;
+}
+
+.poster[data-layout="reg-day"] .motto-mark,
+.poster[data-layout="reg-docs"] .motto-mark {
+  display: none;
+}
+
+.step-no {
+  font-family: var(--en);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  color: #fff;
+  background: var(--brand);
+  text-align: center;
+  padding: 4px 0;
+}
+
+.step-zh { color: var(--muted); font-size: 12px; }
+
+.doc-head {
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.doc-kicker {
+  letter-spacing: 0.32em;
+  font-size: 12px;
+  color: var(--brand);
+  text-transform: uppercase;
+}
+
+.doc-title {
+  margin: 6px 0 0;
+  font-family: var(--en);
+  font-size: 34px;
+  font-weight: 600;
+}
+
+.doc-title-zh {
+  font-family: var(--serif);
+  letter-spacing: 0.28em;
+  margin-top: 4px;
+}
+
+.doc-intro {
+  font-size: 13px;
+  line-height: 1.55;
+  margin: 0 0 8px;
+}
+
+.doc-box h3 {
+  margin: 0 0 8px;
+  font-size: 13px;
+  letter-spacing: 0.08em;
+  color: var(--brand);
+}
+
+.doc-box ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.doc-box li {
+  position: relative;
+  padding: 5px 0 5px 22px;
+  font-size: 12.5px;
+  line-height: 1.45;
+  border-bottom: 1px solid rgba(0, 86, 31, 0.08);
+}
+
+.doc-box li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 9px;
+  width: 11px;
+  height: 11px;
+  border: 1.4px solid var(--brand);
+}
+
+.doc-zh { display: block; color: var(--muted); font-size: 12px; }
+
+.note-box {
+  margin-top: 10px;
+  border-left: 4px solid var(--sysu-gold);
+  padding: 10px 12px;
+  background: rgba(210, 152, 101, 0.1);
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+.note-box b { color: var(--brand); letter-spacing: 0.12em; }
+
+.contact-line {
+  font-size: 12px;
+  line-height: 1.65;
+}
+
 .poster[data-size="a4"] .title { font-size: 36px; }
 .poster[data-size="a4"] .subtitle { font-size: 18px; }
 .poster[data-size="a4"] .emblem { width: 72px; height: 72px; }
+.poster[data-size="a4"] .event-en { font-size: 28px; }
+.poster[data-size="a4"] .doc-title { font-size: 24px; }
 .poster[data-size="story"] .title { font-size: 64px; }
 .poster[data-size="story"] .emblem { width: 128px; height: 128px; }
 
