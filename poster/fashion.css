@@ -118,13 +118,14 @@
 }
 
 .year {
-  font-family: var(--en);
-  font-optical-sizing: auto;
-  font-size: 86px;
+  font-family: "Noto Serif SC", "Noto Serif CJK SC", "Times New Roman", serif;
+  font-optical-sizing: none;
+  font-size: 72px;
   font-weight: 700;
-  line-height: 0.82;
-  letter-spacing: -0.045em;
+  line-height: 0.95;
+  letter-spacing: 0.12em;
   margin: 0;
+  font-variant-numeric: lining-nums;
 }
 
 .display {
