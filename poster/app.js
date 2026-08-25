@@ -25,6 +25,20 @@ const ASSETS = {
 };
 
 const PRESETS = {
+  registration: {
+    kicker: "迎新入学",
+    title: "新生报到",
+    subtitle: "欢迎新中大人",
+    english: "New Student Registration",
+    date: "请以学校通知为准",
+    time: "08:00–18:00",
+    venue: "广州 / 珠海 / 深圳校区\n各报到点",
+    speaker: "",
+    role: "",
+    body: "请携带录取通知书、身份证及相关材料，按各校区指引完成报到注册。如有疑问请关注学校官方通知或咨询迎新服务点。",
+    organizer: "主办：中山大学",
+    contact: "广州市海珠区新港西路135号  邮编 510275",
+  },
   lecture: {
     kicker: "学术活动",
     title: "逸仙学术讲座",
@@ -129,6 +143,7 @@ function loadPreset(name) {
     if (el) el.value = value;
   });
   document.querySelectorAll("input, textarea").forEach((el) => el.dispatchEvent(new Event("input")));
+  if (name === "registration") $("#layout").value = "classic";
   if (name === "lecture") $("#layout").value = "lecture";
   if (name === "notice") $("#layout").value = "classic";
   if (name === "ceremony") {
@@ -201,7 +216,7 @@ function customLogo(file) {
 
 window.addEventListener("DOMContentLoaded", () => {
   bindFields();
-  loadPreset("lecture");
+  loadPreset("registration");
   ["theme", "paper", "size", "layout"].forEach((id) => {
     document.getElementById(id).addEventListener("change", applyChrome);
   });
