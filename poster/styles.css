@@ -14,8 +14,8 @@
   --on-paper: var(--sysu-ink);
   --muted: #5c564c;
   --inverse: #f7f3ea;
-  --sans: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
-  --serif: "Noto Serif SC", "Songti SC", "STSong", serif;
+  --sans: "Noto Sans SC", "Noto Sans CJK SC", "PingFang SC", "Microsoft YaHei", sans-serif;
+  --serif: "Noto Serif SC", "Noto Serif CJK SC", "Songti SC", "STSong", serif;
   --en: "Cormorant Garamond", "Times New Roman", serif;
 }
 

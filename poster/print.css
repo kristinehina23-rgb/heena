@@ -1,0 +1,18 @@
+html, body.print {
+  margin: 0;
+  padding: 0;
+  width: 297mm;
+  height: 420mm;
+  background: #fff;
+  overflow: hidden;
+}
+
+body.print .poster {
+  box-shadow: none;
+  margin: 0;
+}
+
+@page {
+  size: A3 portrait;
+  margin: 0;
+}
