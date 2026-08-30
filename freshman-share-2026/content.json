@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "university": "中山大学",
+    "universityEn": "Sun Yat-sen University",
+    "series": "本科新生分享",
+    "seriesEn": "Undergraduate Welcome Talk",
+    "year": "2026",
+    "speakerZh": "喜娜",
+    "speakerEn": "Heena Rathore",
+    "motto": "博学　审问　慎思　明辨　笃行"
+  },
+  "photos": {
+    "academic1": {
+      "slot": "photos/academic-1.jpg",
+      "fallback": "../poster/photos/library.jpg",
+      "label": "世界汉学大会 2025",
+      "caption": "第九届世界汉学大会 · 深圳",
+      "alt": "Heena Rathore profile at the World Conference on Sinology 2025",
+      "placeholderNote": "个人会议证件照 / 现场照"
+    },
+    "academic2": {
+      "slot": "photos/academic-2.jpg",
+      "fallback": "../poster/photos/clocktower.jpg",
+      "label": "博士生论坛",
+      "caption": "语言学及应用语言学国际博士生论坛",
+      "alt": "Heena Rathore at an international linguistics and applied linguistics doctoral forum",
+      "placeholderNote": "论坛现场照"
+    },
+    "service1": {
+      "slot": "photos/service-1.jpg",
+      "fallback": "../poster/photos/gate.jpg",
+      "label": "广州地铁志愿",
+      "caption": "广州地铁志愿服务",
+      "alt": "Heena Rathore serving as a Guangzhou Metro volunteer",
+      "placeholderNote": "地铁引导现场照"
+    },
+    "service2": {
+      "slot": "photos/service-2.jpg",
+      "fallback": "../poster/photos/lamps.jpg",
+      "label": "儿童英语活动",
+      "caption": "儿童英语学习活动",
+      "alt": "Heena Rathore leading an English learning activity with children",
+      "placeholderNote": "教学活动现场照"
+    },
+    "culture1": {
+      "slot": "photos/culture-1.jpg",
+      "fallback": "../poster/photos/blossoms.jpg",
+      "label": "中大国际文化节",
+      "caption": "2025 中大冬日音乐会 · 国际文化节",
+      "alt": "Heena Rathore at the 2025 SYSU Winter Concert and International Culture Festival",
+      "placeholderNote": "文化节 / 音乐会现场照"
+    },
+    "culture2": {
+      "slot": "photos/culture-2.jpg",
+      "fallback": "../poster/photos/campus.jpg",
+      "label": "巴基斯坦文化分享",
+      "caption": "介绍巴基斯坦文化",
+      "alt": "Heena Rathore presenting Pakistani culture with the national flag",
+      "placeholderNote": "国旗与文化展台照"
+    }
+  },
+  "slides": [
+    {
+      "id": "cover",
+      "kind": "cover",
+      "kicker": "中山大学 · 本科新生分享 · 2026",
+      "title": "先去现场，才知道自己能走多远",
+      "subtitle": "学术、志愿、文化：我走过的三条路",
+      "speaker": "喜娜 Heena Rathore",
+      "background": "../poster/photos/gate.jpg",
+      "notes": "开场：欢迎新生。今天不讲完美经历，只讲三次我真正走进现场的时刻。"
+    },
+    {
+      "id": "opening",
+      "kind": "quote",
+      "kicker": "开场",
+      "title": "第一次不必像专家",
+      "body": "参会、做志愿、介绍自己的文化，看起来是三件不同的事。对我来说，它们是同一件事：先走进现场，再慢慢找到自己的声音。",
+      "points": [
+        "先观察，再提问",
+        "先帮忙，再被看见",
+        "先介绍自己，也认真理解别人"
+      ],
+      "notes": "告诉同学：这份分享来自真实现场，不是简历清单。"
+    },
+    {
+      "id": "map",
+      "kind": "map",
+      "kicker": "今天的路线",
+      "title": "三条现场，一个习惯",
+      "cards": [
+        {
+          "num": "01",
+          "title": "学术现场",
+          "line": "会场、讲台和论文",
+          "photo": "../poster/photos/library.jpg"
+        },
+        {
+          "num": "02",
+          "title": "志愿现场",
+          "line": "在现场解决问题",
+          "photo": "../poster/photos/gate.jpg"
+        },
+        {
+          "num": "03",
+          "title": "文化现场",
+          "line": "展示自己，连接彼此",
+          "photo": "../poster/photos/blossoms.jpg"
+        }
+      ],
+      "notes": "预告三张经历页：学术、志愿、文化交流。"
+    },
+    {
+      "id": "academic",
+      "kind": "experience",
+      "title": "会场、讲台和论文：学术能力靠练习",
+      "greenTitle": "把兴趣变成学术行动",
+      "n1": "2",
+      "l1": "个学术现场",
+      "n2": "N",
+      "l2": "次表达练习",
+      "whiteTitle": "先去现场，才知道自己能走多远",
+      "body": "参会 → 观察 → 提问 → 表达。第一次不必像专家；先走进学术现场，再慢慢找到自己的研究声音。",
+      "image1": "academic1",
+      "image2": "academic2",
+      "notes": "世界汉学大会与博士生论坛让我看到，学术成长不是等准备完美才开始，而是在参会、交流和表达中逐渐形成。\n\n[Sources]\n- Personal conference photographs and official event-profile screenshot supplied by Heena Rathore."
+    },
+    {
+      "id": "service",
+      "kind": "experience",
+      "title": "志愿不是简历装饰：是在现场解决问题",
+      "greenTitle": "把“我愿意”变成行动",
+      "n1": "2",
+      "l1": "类志愿服务",
+      "n2": "1",
+      "l2": "个共同目标",
+      "whiteTitle": "帮助别人，也训练自己",
+      "body": "地铁引导、儿童英语活动，看起来是小事，却训练沟通、耐心和责任感。可靠，是最容易被低估的能力。",
+      "image1": "service1",
+      "image2": "service2",
+      "notes": "志愿服务让我学会，在真实现场里观察需要、清楚沟通并承担责任。\n\n[Sources]\n- Personal original volunteer and teaching photographs supplied by Heena Rathore."
+    },
+    {
+      "id": "culture",
+      "kind": "experience",
+      "title": "穿越文化，也连接彼此",
+      "greenTitle": "文化交流不是“拍照打卡”",
+      "n1": "3",
+      "l1": "种文化角色",
+      "n2": "1",
+      "l2": "座沟通桥梁",
+      "whiteTitle": "展示自己，也认真理解别人",
+      "body": "参加国际文化节、介绍巴基斯坦文化、体验中国文化。交流不是谁说服谁，而是彼此多理解一步。",
+      "image1": "culture1",
+      "image2": "culture2",
+      "notes": "文化交流让我既能自信介绍巴基斯坦，也能更深入理解中国。真正的交流来自好奇、尊重和共同参与。\n\n[Sources]\n- Personal original SYSU International Culture Festival photographs supplied by Heena Rathore."
+    },
+    {
+      "id": "advice",
+      "kind": "advice",
+      "kicker": "可以马上开始",
+      "title": "三件小事，比一份完美计划更有用",
+      "items": [
+        {
+          "n": "01",
+          "title": "走进一个学术现场",
+          "body": "讲座、论坛、读书会都可以。先坐在后排听，再试着问一个问题。"
+        },
+        {
+          "n": "02",
+          "title": "做一件对别人有用的小事",
+          "body": "志愿不是装饰简历。在真实现场里沟通、等待、负责，本身就是训练。"
+        },
+        {
+          "n": "03",
+          "title": "介绍一次自己的来处",
+          "body": "也认真听别人的来处。交流不是说服，是彼此多理解一步。"
+        }
+      ],
+      "notes": "收束到新生可以立刻做的三件事，避免空泛鸡汤。"
+    },
+    {
+      "id": "close",
+      "kind": "close",
+      "kicker": "谢谢",
+      "title": "可靠，是最容易被低估的能力",
+      "body": "先去现场。第一次不必像专家。",
+      "speaker": "喜娜 Heena Rathore",
+      "background": "../poster/photos/blossoms.jpg",
+      "notes": "结束：欢迎提问。强调可靠、在场和互相理解。"
+    }
+  ]
+}
