@@ -1,0 +1,32 @@
+{
+  "slide": 11,
+  "id": "close",
+  "kind": "close",
+  "frame": {
+    "left": 0,
+    "top": 0,
+    "width": 960.0,
+    "height": 540.0
+  },
+  "elements": [
+    {
+      "kind": "image",
+      "name": "slide-11",
+      "path": "/slide[11]/slide-11",
+      "frame": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 960.0,
+        "height": 540.0
+      },
+      "image": true
+    },
+    {
+      "kind": "notes",
+      "name": "speakerNotes",
+      "path": "/slide[11]/speakerNotes",
+      "text": "结束：欢迎提问。强调可靠、在场和互相理解。",
+      "visible": true
+    }
+  ]
+}

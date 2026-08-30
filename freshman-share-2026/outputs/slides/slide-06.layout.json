@@ -1,0 +1,32 @@
+{
+  "slide": 6,
+  "id": "culture",
+  "kind": "experience",
+  "frame": {
+    "left": 0,
+    "top": 0,
+    "width": 960.0,
+    "height": 540.0
+  },
+  "elements": [
+    {
+      "kind": "image",
+      "name": "slide-06",
+      "path": "/slide[6]/slide-06",
+      "frame": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 960.0,
+        "height": 540.0
+      },
+      "image": true
+    },
+    {
+      "kind": "notes",
+      "name": "speakerNotes",
+      "path": "/slide[6]/speakerNotes",
+      "text": "文化交流让我既能自信介绍巴基斯坦，也能更深入理解中国。真正的交流来自好奇、尊重和共同参与。\n\n[Sources]\n- Personal original SYSU International Culture Festival photographs supplied by Heena Rathore.",
+      "visible": true
+    }
+  ]
+}

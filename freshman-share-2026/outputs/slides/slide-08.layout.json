@@ -1,0 +1,32 @@
+{
+  "slide": 8,
+  "id": "grad-channels",
+  "kind": "advice",
+  "frame": {
+    "left": 0,
+    "top": 0,
+    "width": 960.0,
+    "height": 540.0
+  },
+  "elements": [
+    {
+      "kind": "image",
+      "name": "slide-08",
+      "path": "/slide[8]/slide-08",
+      "frame": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 960.0,
+        "height": 540.0
+      },
+      "image": true
+    },
+    {
+      "kind": "notes",
+      "name": "speakerNotes",
+      "path": "/slide[8]/speakerNotes",
+      "text": "升学渠道只讲官方入口，并提醒以当年简章为准。\n\n[Sources]\n- 中山大学外国留学生办公室 https://iso.sysu.edu.cn\n- 中山大学国际学生报名系统 https://apply.sysu.edu.cn\n- 中国政府奖学金来华留学管理信息系统 http://studyinchina.csc.edu.cn / https://www.campuschina.org\n- 中大机构代码 10558；咨询 admissions@mail.sysu.edu.cn，+86-20-84110819",
+      "visible": true
+    }
+  ]
+}

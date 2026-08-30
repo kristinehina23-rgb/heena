@@ -1,0 +1,32 @@
+{
+  "slide": 1,
+  "id": "cover",
+  "kind": "cover",
+  "frame": {
+    "left": 0,
+    "top": 0,
+    "width": 960.0,
+    "height": 540.0
+  },
+  "elements": [
+    {
+      "kind": "image",
+      "name": "slide-01",
+      "path": "/slide[1]/slide-01",
+      "frame": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 960.0,
+        "height": 540.0
+      },
+      "image": true
+    },
+    {
+      "kind": "notes",
+      "name": "speakerNotes",
+      "path": "/slide[1]/speakerNotes",
+      "text": "开场：欢迎新生。今天不讲完美经历，只讲三次我真正走进现场的时刻。",
+      "visible": true
+    }
+  ]
+}

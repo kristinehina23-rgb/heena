@@ -1,0 +1,32 @@
+{
+  "slide": 10,
+  "id": "advice",
+  "kind": "advice",
+  "frame": {
+    "left": 0,
+    "top": 0,
+    "width": 960.0,
+    "height": 540.0
+  },
+  "elements": [
+    {
+      "kind": "image",
+      "name": "slide-10",
+      "path": "/slide[10]/slide-10",
+      "frame": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 960.0,
+        "height": 540.0
+      },
+      "image": true
+    },
+    {
+      "kind": "notes",
+      "name": "speakerNotes",
+      "path": "/slide[10]/speakerNotes",
+      "text": "收束到新生可以立刻做的三件事，避免空泛鸡汤。",
+      "visible": true
+    }
+  ]
+}

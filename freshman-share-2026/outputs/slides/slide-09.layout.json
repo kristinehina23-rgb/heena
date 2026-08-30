@@ -1,0 +1,32 @@
+{
+  "slide": 9,
+  "id": "grad-prep",
+  "kind": "advice",
+  "frame": {
+    "left": 0,
+    "top": 0,
+    "width": 960.0,
+    "height": 540.0
+  },
+  "elements": [
+    {
+      "kind": "image",
+      "name": "slide-09",
+      "path": "/slide[9]/slide-09",
+      "frame": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 960.0,
+        "height": 540.0
+      },
+      "image": true
+    },
+    {
+      "kind": "notes",
+      "name": "speakerNotes",
+      "path": "/slide[9]/speakerNotes",
+      "text": "强调本科阶段就能开始的准备，不把某一年的报名批次说成固定时间。\n\n[Sources]\n- 中山大学国际学生硕士/博士招生简章（外国留学生办公室公布）\n- 学信网 https://www.chsi.com.cn 学历学位验证要求",
+      "visible": true
+    }
+  ]
+}

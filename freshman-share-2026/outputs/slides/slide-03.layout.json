@@ -1,0 +1,32 @@
+{
+  "slide": 3,
+  "id": "map",
+  "kind": "map",
+  "frame": {
+    "left": 0,
+    "top": 0,
+    "width": 960.0,
+    "height": 540.0
+  },
+  "elements": [
+    {
+      "kind": "image",
+      "name": "slide-03",
+      "path": "/slide[3]/slide-03",
+      "frame": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 960.0,
+        "height": 540.0
+      },
+      "image": true
+    },
+    {
+      "kind": "notes",
+      "name": "speakerNotes",
+      "path": "/slide[3]/speakerNotes",
+      "text": "预告三张经历页：学术、志愿、文化交流。",
+      "visible": true
+    }
+  ]
+}

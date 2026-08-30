@@ -1,0 +1,32 @@
+{
+  "slide": 2,
+  "id": "opening",
+  "kind": "quote",
+  "frame": {
+    "left": 0,
+    "top": 0,
+    "width": 960.0,
+    "height": 540.0
+  },
+  "elements": [
+    {
+      "kind": "image",
+      "name": "slide-02",
+      "path": "/slide[2]/slide-02",
+      "frame": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 960.0,
+        "height": 540.0
+      },
+      "image": true
+    },
+    {
+      "kind": "notes",
+      "name": "speakerNotes",
+      "path": "/slide[2]/speakerNotes",
+      "text": "告诉同学：这份分享来自真实现场，不是简历清单。",
+      "visible": true
+    }
+  ]
+}

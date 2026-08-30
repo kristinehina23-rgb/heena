@@ -1,0 +1,32 @@
+{
+  "slide": 5,
+  "id": "service",
+  "kind": "experience",
+  "frame": {
+    "left": 0,
+    "top": 0,
+    "width": 960.0,
+    "height": 540.0
+  },
+  "elements": [
+    {
+      "kind": "image",
+      "name": "slide-05",
+      "path": "/slide[5]/slide-05",
+      "frame": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 960.0,
+        "height": 540.0
+      },
+      "image": true
+    },
+    {
+      "kind": "notes",
+      "name": "speakerNotes",
+      "path": "/slide[5]/speakerNotes",
+      "text": "志愿服务让我学会，在真实现场里观察需要、清楚沟通并承担责任。\n\n[Sources]\n- Personal original volunteer and teaching photographs supplied by Heena Rathore.",
+      "visible": true
+    }
+  ]
+}

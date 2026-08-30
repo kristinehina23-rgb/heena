@@ -1,0 +1,32 @@
+{
+  "slide": 7,
+  "id": "gallery",
+  "kind": "gallery",
+  "frame": {
+    "left": 0,
+    "top": 0,
+    "width": 960.0,
+    "height": 540.0
+  },
+  "elements": [
+    {
+      "kind": "image",
+      "name": "slide-07",
+      "path": "/slide[7]/slide-07",
+      "frame": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 960.0,
+        "height": 540.0
+      },
+      "image": true
+    },
+    {
+      "kind": "notes",
+      "name": "speakerNotes",
+      "path": "/slide[7]/speakerNotes",
+      "text": "补充现场：地铁站台、护苗课堂、本原讲堂结业、课堂表达、文化交流手绘、中大春节装置、中国传统服饰体验。",
+      "visible": true
+    }
+  ]
+}

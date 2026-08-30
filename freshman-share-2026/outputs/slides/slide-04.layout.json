@@ -1,0 +1,32 @@
+{
+  "slide": 4,
+  "id": "academic",
+  "kind": "experience",
+  "frame": {
+    "left": 0,
+    "top": 0,
+    "width": 960.0,
+    "height": 540.0
+  },
+  "elements": [
+    {
+      "kind": "image",
+      "name": "slide-04",
+      "path": "/slide[4]/slide-04",
+      "frame": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 960.0,
+        "height": 540.0
+      },
+      "image": true
+    },
+    {
+      "kind": "notes",
+      "name": "speakerNotes",
+      "path": "/slide[4]/speakerNotes",
+      "text": "世界汉学大会与博士生论坛让我看到，学术成长不是等准备完美才开始，而是在参会、交流和表达中逐渐形成。\n\n[Sources]\n- Personal conference photographs and official event-profile screenshot supplied by Heena Rathore.",
+      "visible": true
+    }
+  ]
+}
