@@ -41,6 +41,17 @@ Those warnings are not overflow errors. The overflow tests still pass.
 
 This rebuild does **not** embed 等线. Slide text uses **Microsoft YaHei** (TrueType, same Latin and East-Asian family name) and **Noto Serif CJK SC** for titles. Preview PNGs are drawn with Noto CJK TrueType collections. Do not re-embed DengXian/等线 if you later inspect the file with artifact-tool.
 
+## Compose / inspect
+
+`artifact/build-deck.ts` is the artifact-tool compose script: named nodes, speaker notes, PNG + `format: "layout"` export, and a final `inspect`. Run it only where `@oai/artifact-tool` is available. Do not import the original 等线-embedded Office file.
+
+This repo’s local builder writes the same inspect artifacts:
+
+- `outputs/slides/slide-0N.layout.json` — frames, names, text
+- `outputs/喜娜_中大本科新生分享_丰富经历照片终版_2026.pptx.inspect.ndjson`
+
+Experience-slide anchors stay stable: `标题 1`, `文本框 25`, `文本框 7/10/12/13`, `文本框 22/21`, `图片 29`, `图片 23`.
+
 ## Visual identity
 
 School green `#00561F`, auxiliary red `#740003`, gold accent `#D29865`, and the official emblem. Emblem and campus photos follow the notices in `poster/NOTICE.txt` and `poster/photos/NOTICE.txt`.

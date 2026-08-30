@@ -11,11 +11,12 @@ from pathlib import Path
 from pptx import Presentation
 from pptx.dml.color import RGBColor
 from pptx.enum.shapes import MSO_SHAPE
-from pptx.enum.text import MSO_ANCHOR, PP_ALIGN
+from pptx.enum.text import PP_ALIGN
 from pptx.oxml import parse_xml
 from pptx.oxml.ns import qn
-from pptx.util import Emu, Inches, Pt
+from pptx.util import Inches, Pt
 
+from export_layout import export as export_layout
 from render_slides import render_all
 
 ROOT = Path(__file__).resolve().parent
@@ -169,10 +170,10 @@ def build_native(photos: dict) -> Path:
             add_text(slide, "导语", Inches(0.6), Inches(2.1), Inches(12.1), Inches(1.6), data["body"], size=16, color=INK)
             for n, point in enumerate(data["points"]):
                 left = Inches(0.6 + n * 4.2)
-                add_rect(slide, f"要点底{n+1}", left, Inches(4.2), Inches(4.0), Inches(2.2), WHITE)
-                add_rect(slide, f"要点金{n+1}", left, Inches(4.2), Inches(0.07), Inches(2.2), GOLD)
-                add_text(slide, f"要点号{n+1}", left + Inches(0.25), Inches(4.35), Inches(3.5), Inches(0.35), f"0{n+1}", size=14, color=GOLD, bold=True)
-                add_text(slide, f"要点{n+1}", left + Inches(0.25), Inches(4.8), Inches(3.5), Inches(1.3), point, size=16, color=INK)
+                add_rect(slide, f"要点底{n+1}", left, Inches(3.85), Inches(4.0), Inches(2.55), WHITE)
+                add_rect(slide, f"要点金{n+1}", left, Inches(3.85), Inches(0.07), Inches(2.55), GOLD)
+                add_text(slide, f"要点号{n+1}", left + Inches(0.25), Inches(4.05), Inches(3.5), Inches(0.35), f"0{n+1}", size=14, color=GOLD, bold=True)
+                add_text(slide, f"要点{n+1}", left + Inches(0.25), Inches(4.5), Inches(3.5), Inches(1.6), point, size=16, color=INK)
         elif kind == "map":
             add_rect(slide, "底", 0, 0, WIDE, HIGH, PAPER)
             brand(slide, True, data["kicker"], i, total, meta)
@@ -242,6 +243,7 @@ def main() -> int:
     pngs = render_all(photos, SLIDE_DIR)
     editable = build_native(photos)
     preview = build_preview_pptx(pngs)
+    export_layout(editable)
     print(editable)
     print(preview)
     print("fonts: Microsoft YaHei / Noto Serif CJK SC (not 等线/DengXian, not embedded OTTO)")

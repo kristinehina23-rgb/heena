@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import json
 import zipfile
 from pathlib import Path
 
@@ -34,6 +35,16 @@ def main() -> None:
     assert b"DengXian" not in xml
     assert "等线".encode("utf-8") not in xml
     assert b"Microsoft YaHei" in xml
+
+    layout_dir = ROOT / "outputs" / "slides"
+    for idx, names in REQUIRED.items():
+        layout = json.loads((layout_dir / f"slide-{idx:02d}.layout.json").read_text(encoding="utf-8"))
+        have = {el["name"] for el in layout["elements"]}
+        missing = [n for n in names if n not in have]
+        assert not missing, (idx, missing)
+        assert any(el["kind"] == "notes" and el["name"] == "speakerNotes" for el in layout["elements"])
+    inspect = ROOT / "outputs" / "喜娜_中大本科新生分享_丰富经历照片终版_2026.pptx.inspect.ndjson"
+    assert inspect.exists()
     print("ok")
 
 

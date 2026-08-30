@@ -1,0 +1,256 @@
+{
+  "slide": 7,
+  "id": "advice",
+  "kind": "advice",
+  "frame": {
+    "left": 0,
+    "top": 0,
+    "width": 960.0,
+    "height": 540.0
+  },
+  "elements": [
+    {
+      "kind": "shape",
+      "name": "底",
+      "path": "/slide[7]/底",
+      "frame": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 960.0,
+        "height": 540.0
+      }
+    },
+    {
+      "kind": "image",
+      "name": "校徽",
+      "path": "/slide[7]/校徽",
+      "frame": {
+        "left": 27.36,
+        "top": 15.84,
+        "width": 30.24,
+        "height": 30.24
+      },
+      "image": true
+    },
+    {
+      "kind": "textbox",
+      "name": "校名",
+      "path": "/slide[7]/校名",
+      "frame": {
+        "left": 64.8,
+        "top": 14.4,
+        "width": 288.0,
+        "height": 20.16
+      },
+      "text": "中山大学"
+    },
+    {
+      "kind": "textbox",
+      "name": "校名英文",
+      "path": "/slide[7]/校名英文",
+      "frame": {
+        "left": 64.8,
+        "top": 31.68,
+        "width": 360.0,
+        "height": 15.84
+      },
+      "text": "SUN YAT-SEN UNIVERSITY"
+    },
+    {
+      "kind": "textbox",
+      "name": "页眉",
+      "path": "/slide[7]/页眉",
+      "frame": {
+        "left": 590.4,
+        "top": 20.16,
+        "width": 338.4,
+        "height": 21.6
+      },
+      "text": "可以马上开始"
+    },
+    {
+      "kind": "textbox",
+      "name": "校训",
+      "path": "/slide[7]/校训",
+      "frame": {
+        "left": 27.36,
+        "top": 512.64,
+        "width": 576.0,
+        "height": 17.28
+      },
+      "text": "博学　审问　慎思　明辨　笃行"
+    },
+    {
+      "kind": "textbox",
+      "name": "页码",
+      "path": "/slide[7]/页码",
+      "frame": {
+        "left": 806.4,
+        "top": 512.64,
+        "width": 122.4,
+        "height": 17.28
+      },
+      "text": "07 / 08"
+    },
+    {
+      "kind": "textbox",
+      "name": "标题 1",
+      "path": "/slide[7]/标题 1",
+      "frame": {
+        "left": 39.6,
+        "top": 82.8,
+        "width": 878.4,
+        "height": 72.0
+      },
+      "text": "三件小事，比一份完美计划更有用"
+    },
+    {
+      "kind": "shape",
+      "name": "建议底1",
+      "path": "/slide[7]/建议底1",
+      "frame": {
+        "left": 39.6,
+        "top": 172.8,
+        "width": 291.6,
+        "height": 309.6
+      }
+    },
+    {
+      "kind": "textbox",
+      "name": "建议号1",
+      "path": "/slide[7]/建议号1",
+      "frame": {
+        "left": 57.6,
+        "top": 183.6,
+        "width": 252.0,
+        "height": 25.2
+      },
+      "text": "01"
+    },
+    {
+      "kind": "textbox",
+      "name": "建议标题1",
+      "path": "/slide[7]/建议标题1",
+      "frame": {
+        "left": 57.6,
+        "top": 216.0,
+        "width": 255.6,
+        "height": 79.2
+      },
+      "text": "走进一个学术现场"
+    },
+    {
+      "kind": "textbox",
+      "name": "建议正文1",
+      "path": "/slide[7]/建议正文1",
+      "frame": {
+        "left": 57.6,
+        "top": 302.4,
+        "width": 255.6,
+        "height": 158.4
+      },
+      "text": "讲座、论坛、读书会都可以。先坐在后排听，再试着问一个问题。"
+    },
+    {
+      "kind": "shape",
+      "name": "建议底2",
+      "path": "/slide[7]/建议底2",
+      "frame": {
+        "left": 345.6,
+        "top": 172.8,
+        "width": 291.6,
+        "height": 309.6
+      }
+    },
+    {
+      "kind": "textbox",
+      "name": "建议号2",
+      "path": "/slide[7]/建议号2",
+      "frame": {
+        "left": 363.6,
+        "top": 183.6,
+        "width": 252.0,
+        "height": 25.2
+      },
+      "text": "02"
+    },
+    {
+      "kind": "textbox",
+      "name": "建议标题2",
+      "path": "/slide[7]/建议标题2",
+      "frame": {
+        "left": 363.6,
+        "top": 216.0,
+        "width": 255.6,
+        "height": 79.2
+      },
+      "text": "做一件对别人有用的小事"
+    },
+    {
+      "kind": "textbox",
+      "name": "建议正文2",
+      "path": "/slide[7]/建议正文2",
+      "frame": {
+        "left": 363.6,
+        "top": 302.4,
+        "width": 255.6,
+        "height": 158.4
+      },
+      "text": "志愿不是装饰简历。在真实现场里沟通、等待、负责，本身就是训练。"
+    },
+    {
+      "kind": "shape",
+      "name": "建议底3",
+      "path": "/slide[7]/建议底3",
+      "frame": {
+        "left": 651.6,
+        "top": 172.8,
+        "width": 291.6,
+        "height": 309.6
+      }
+    },
+    {
+      "kind": "textbox",
+      "name": "建议号3",
+      "path": "/slide[7]/建议号3",
+      "frame": {
+        "left": 669.6,
+        "top": 183.6,
+        "width": 252.0,
+        "height": 25.2
+      },
+      "text": "03"
+    },
+    {
+      "kind": "textbox",
+      "name": "建议标题3",
+      "path": "/slide[7]/建议标题3",
+      "frame": {
+        "left": 669.6,
+        "top": 216.0,
+        "width": 255.6,
+        "height": 79.2
+      },
+      "text": "介绍一次自己的来处"
+    },
+    {
+      "kind": "textbox",
+      "name": "建议正文3",
+      "path": "/slide[7]/建议正文3",
+      "frame": {
+        "left": 669.6,
+        "top": 302.4,
+        "width": 255.6,
+        "height": 158.4
+      },
+      "text": "也认真听别人的来处。交流不是说服，是彼此多理解一步。"
+    },
+    {
+      "kind": "notes",
+      "name": "speakerNotes",
+      "path": "/slide[7]/speakerNotes",
+      "text": "收束到新生可以立刻做的三件事，避免空泛鸡汤。",
+      "visible": true
+    }
+  ]
+}

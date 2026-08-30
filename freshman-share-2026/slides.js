@@ -54,15 +54,15 @@ function footbar(meta, i, n, light) {
 
 function renderCover(slide, meta, i, n) {
   return `
-    <section class="slide slide-cover" data-id="${slide.id}">
+    <section class="slide slide-cover" data-id="${slide.id}" data-name="slide-${slide.id}">
       <div class="bg" style="background-image:url('${slide.background}')"></div>
       <div class="veil"></div>
       ${topbar(meta, false, slide.kicker)}
       <div class="cover-copy">
         <div class="gold-rule"></div>
-        <h1>${slide.title}</h1>
-        <p class="subtitle">${slide.subtitle}</p>
-        <p class="speaker">${slide.speaker}</p>
+        <h1 data-name="标题 1">${slide.title}</h1>
+        <p class="subtitle" data-name="副标题">${slide.subtitle}</p>
+        <p class="speaker" data-name="讲者">${slide.speaker}</p>
       </div>
       ${footbar(meta, i, n, false)}
     </section>`;
@@ -117,7 +117,7 @@ function photoCard(photo) {
     ? `<span class="using-fallback">校园氛围图 · 待换个人照片</span>`
     : "";
   return `
-    <figure class="photo-card">
+    <figure class="photo-card" data-name="${photo.name || "image"}">
       <img src="${photo.src}" alt="${photo.alt}">
       ${badge}
       <figcaption>
@@ -135,20 +135,20 @@ function renderExperience(slide, meta, photos, i, n) {
       ${topbar(meta, true, meta.series + " · " + meta.year)}
       <div class="exp-layout">
         <div class="exp-copy">
-          <h1>${slide.title}</h1>
-          <p class="green-title">${slide.greenTitle}</p>
+          <h1 data-name="标题 1">${slide.title}</h1>
+          <p class="green-title" data-name="文本框 25">${slide.greenTitle}</p>
           <div class="stats">
-            <div class="stat"><b>${slide.n1}</b><span>${slide.l1}</span></div>
-            <div class="stat"><b>${slide.n2}</b><span>${slide.l2}</span></div>
+            <div class="stat"><b data-name="文本框 7">${slide.n1}</b><span data-name="文本框 10">${slide.l1}</span></div>
+            <div class="stat"><b data-name="文本框 12">${slide.n2}</b><span data-name="文本框 13">${slide.l2}</span></div>
           </div>
           <div class="quote-card">
-            <h2>${slide.whiteTitle}</h2>
-            <p>${slide.body}</p>
+            <h2 data-name="文本框 22">${slide.whiteTitle}</h2>
+            <p data-name="文本框 21">${slide.body}</p>
           </div>
         </div>
         <div class="exp-photos">
-          ${photoCard(p1)}
-          ${photoCard(p2)}
+          ${photoCard({ ...p1, name: "图片 29" })}
+          ${photoCard({ ...p2, name: "图片 23" })}
         </div>
       </div>
       ${footbar(meta, i, n, true)}

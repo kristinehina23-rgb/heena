@@ -148,8 +148,8 @@ def render_quote(slide, meta, photos, page, total) -> Image.Image:
     cards = slide["points"]
     gap = 28
     card_w = (W - 176 - gap * 2) // 3
-    card_h = 220
-    top = 760
+    card_h = 260
+    top = 620
     for i, text in enumerate(cards):
         x = 88 + i * (card_w + gap)
         draw.rectangle((x, top, x + card_w, top + card_h), fill=WHITE)

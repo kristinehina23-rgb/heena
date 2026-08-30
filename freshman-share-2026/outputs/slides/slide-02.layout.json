@@ -1,0 +1,265 @@
+{
+  "slide": 2,
+  "id": "opening",
+  "kind": "quote",
+  "frame": {
+    "left": 0,
+    "top": 0,
+    "width": 960.0,
+    "height": 540.0
+  },
+  "elements": [
+    {
+      "kind": "shape",
+      "name": "底",
+      "path": "/slide[2]/底",
+      "frame": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 960.0,
+        "height": 540.0
+      }
+    },
+    {
+      "kind": "image",
+      "name": "校徽",
+      "path": "/slide[2]/校徽",
+      "frame": {
+        "left": 27.36,
+        "top": 15.84,
+        "width": 30.24,
+        "height": 30.24
+      },
+      "image": true
+    },
+    {
+      "kind": "textbox",
+      "name": "校名",
+      "path": "/slide[2]/校名",
+      "frame": {
+        "left": 64.8,
+        "top": 14.4,
+        "width": 288.0,
+        "height": 20.16
+      },
+      "text": "中山大学"
+    },
+    {
+      "kind": "textbox",
+      "name": "校名英文",
+      "path": "/slide[2]/校名英文",
+      "frame": {
+        "left": 64.8,
+        "top": 31.68,
+        "width": 360.0,
+        "height": 15.84
+      },
+      "text": "SUN YAT-SEN UNIVERSITY"
+    },
+    {
+      "kind": "textbox",
+      "name": "页眉",
+      "path": "/slide[2]/页眉",
+      "frame": {
+        "left": 590.4,
+        "top": 20.16,
+        "width": 338.4,
+        "height": 21.6
+      },
+      "text": "开场"
+    },
+    {
+      "kind": "textbox",
+      "name": "校训",
+      "path": "/slide[2]/校训",
+      "frame": {
+        "left": 27.36,
+        "top": 512.64,
+        "width": 576.0,
+        "height": 17.28
+      },
+      "text": "博学　审问　慎思　明辨　笃行"
+    },
+    {
+      "kind": "textbox",
+      "name": "页码",
+      "path": "/slide[2]/页码",
+      "frame": {
+        "left": 806.4,
+        "top": 512.64,
+        "width": 122.4,
+        "height": 17.28
+      },
+      "text": "02 / 08"
+    },
+    {
+      "kind": "textbox",
+      "name": "标题 1",
+      "path": "/slide[2]/标题 1",
+      "frame": {
+        "left": 43.2,
+        "top": 86.4,
+        "width": 864.0,
+        "height": 57.6
+      },
+      "text": "第一次不必像专家"
+    },
+    {
+      "kind": "textbox",
+      "name": "导语",
+      "path": "/slide[2]/导语",
+      "frame": {
+        "left": 43.2,
+        "top": 151.2,
+        "width": 871.2,
+        "height": 115.2
+      },
+      "text": "参会、做志愿、介绍自己的文化，看起来是三件不同的事。对我来说，它们是同一件事：先走进现场，再慢慢找到自己的声音。"
+    },
+    {
+      "kind": "shape",
+      "name": "要点底1",
+      "path": "/slide[2]/要点底1",
+      "frame": {
+        "left": 43.2,
+        "top": 277.2,
+        "width": 288.0,
+        "height": 183.6
+      }
+    },
+    {
+      "kind": "shape",
+      "name": "要点金1",
+      "path": "/slide[2]/要点金1",
+      "frame": {
+        "left": 43.2,
+        "top": 277.2,
+        "width": 5.04,
+        "height": 183.6
+      }
+    },
+    {
+      "kind": "textbox",
+      "name": "要点号1",
+      "path": "/slide[2]/要点号1",
+      "frame": {
+        "left": 61.2,
+        "top": 291.6,
+        "width": 252.0,
+        "height": 25.2
+      },
+      "text": "01"
+    },
+    {
+      "kind": "textbox",
+      "name": "要点1",
+      "path": "/slide[2]/要点1",
+      "frame": {
+        "left": 61.2,
+        "top": 324.0,
+        "width": 252.0,
+        "height": 115.2
+      },
+      "text": "先观察，再提问"
+    },
+    {
+      "kind": "shape",
+      "name": "要点底2",
+      "path": "/slide[2]/要点底2",
+      "frame": {
+        "left": 345.6,
+        "top": 277.2,
+        "width": 288.0,
+        "height": 183.6
+      }
+    },
+    {
+      "kind": "shape",
+      "name": "要点金2",
+      "path": "/slide[2]/要点金2",
+      "frame": {
+        "left": 345.6,
+        "top": 277.2,
+        "width": 5.04,
+        "height": 183.6
+      }
+    },
+    {
+      "kind": "textbox",
+      "name": "要点号2",
+      "path": "/slide[2]/要点号2",
+      "frame": {
+        "left": 363.6,
+        "top": 291.6,
+        "width": 252.0,
+        "height": 25.2
+      },
+      "text": "02"
+    },
+    {
+      "kind": "textbox",
+      "name": "要点2",
+      "path": "/slide[2]/要点2",
+      "frame": {
+        "left": 363.6,
+        "top": 324.0,
+        "width": 252.0,
+        "height": 115.2
+      },
+      "text": "先帮忙，再被看见"
+    },
+    {
+      "kind": "shape",
+      "name": "要点底3",
+      "path": "/slide[2]/要点底3",
+      "frame": {
+        "left": 648.0,
+        "top": 277.2,
+        "width": 288.0,
+        "height": 183.6
+      }
+    },
+    {
+      "kind": "shape",
+      "name": "要点金3",
+      "path": "/slide[2]/要点金3",
+      "frame": {
+        "left": 648.0,
+        "top": 277.2,
+        "width": 5.04,
+        "height": 183.6
+      }
+    },
+    {
+      "kind": "textbox",
+      "name": "要点号3",
+      "path": "/slide[2]/要点号3",
+      "frame": {
+        "left": 666.0,
+        "top": 291.6,
+        "width": 252.0,
+        "height": 25.2
+      },
+      "text": "03"
+    },
+    {
+      "kind": "textbox",
+      "name": "要点3",
+      "path": "/slide[2]/要点3",
+      "frame": {
+        "left": 666.0,
+        "top": 324.0,
+        "width": 252.0,
+        "height": 115.2
+      },
+      "text": "先介绍自己，也认真理解别人"
+    },
+    {
+      "kind": "notes",
+      "name": "speakerNotes",
+      "path": "/slide[2]/speakerNotes",
+      "text": "告诉同学：这份分享来自真实现场，不是简历清单。",
+      "visible": true
+    }
+  ]
+}

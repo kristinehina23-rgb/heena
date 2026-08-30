@@ -1,0 +1,256 @@
+{
+  "slide": 4,
+  "id": "academic",
+  "kind": "experience",
+  "frame": {
+    "left": 0,
+    "top": 0,
+    "width": 960.0,
+    "height": 540.0
+  },
+  "elements": [
+    {
+      "kind": "shape",
+      "name": "底",
+      "path": "/slide[4]/底",
+      "frame": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 960.0,
+        "height": 540.0
+      }
+    },
+    {
+      "kind": "image",
+      "name": "校徽",
+      "path": "/slide[4]/校徽",
+      "frame": {
+        "left": 27.36,
+        "top": 15.84,
+        "width": 30.24,
+        "height": 30.24
+      },
+      "image": true
+    },
+    {
+      "kind": "textbox",
+      "name": "校名",
+      "path": "/slide[4]/校名",
+      "frame": {
+        "left": 64.8,
+        "top": 14.4,
+        "width": 288.0,
+        "height": 20.16
+      },
+      "text": "中山大学"
+    },
+    {
+      "kind": "textbox",
+      "name": "校名英文",
+      "path": "/slide[4]/校名英文",
+      "frame": {
+        "left": 64.8,
+        "top": 31.68,
+        "width": 360.0,
+        "height": 15.84
+      },
+      "text": "SUN YAT-SEN UNIVERSITY"
+    },
+    {
+      "kind": "textbox",
+      "name": "页眉",
+      "path": "/slide[4]/页眉",
+      "frame": {
+        "left": 590.4,
+        "top": 20.16,
+        "width": 338.4,
+        "height": 21.6
+      },
+      "text": "本科新生分享 · 2026"
+    },
+    {
+      "kind": "textbox",
+      "name": "校训",
+      "path": "/slide[4]/校训",
+      "frame": {
+        "left": 27.36,
+        "top": 512.64,
+        "width": 576.0,
+        "height": 17.28
+      },
+      "text": "博学　审问　慎思　明辨　笃行"
+    },
+    {
+      "kind": "textbox",
+      "name": "页码",
+      "path": "/slide[4]/页码",
+      "frame": {
+        "left": 806.4,
+        "top": 512.64,
+        "width": 122.4,
+        "height": 17.28
+      },
+      "text": "04 / 08"
+    },
+    {
+      "kind": "textbox",
+      "name": "标题 1",
+      "path": "/slide[4]/标题 1",
+      "frame": {
+        "left": 28.8,
+        "top": 64.8,
+        "width": 417.6,
+        "height": 82.8
+      },
+      "text": "会场、讲台和论文：学术能力靠练习"
+    },
+    {
+      "kind": "textbox",
+      "name": "文本框 25",
+      "path": "/slide[4]/文本框 25",
+      "frame": {
+        "left": 28.8,
+        "top": 151.2,
+        "width": 403.2,
+        "height": 25.2
+      },
+      "text": "把兴趣变成学术行动"
+    },
+    {
+      "kind": "shape",
+      "name": "统计1底",
+      "path": "/slide[4]/统计1底",
+      "frame": {
+        "left": 28.8,
+        "top": 183.6,
+        "width": 194.4,
+        "height": 75.6
+      }
+    },
+    {
+      "kind": "shape",
+      "name": "统计2底",
+      "path": "/slide[4]/统计2底",
+      "frame": {
+        "left": 234.0,
+        "top": 183.6,
+        "width": 194.4,
+        "height": 75.6
+      }
+    },
+    {
+      "kind": "textbox",
+      "name": "文本框 7",
+      "path": "/slide[4]/文本框 7",
+      "frame": {
+        "left": 39.6,
+        "top": 185.76,
+        "width": 172.8,
+        "height": 39.6
+      },
+      "text": "2"
+    },
+    {
+      "kind": "textbox",
+      "name": "文本框 10",
+      "path": "/slide[4]/文本框 10",
+      "frame": {
+        "left": 39.6,
+        "top": 226.8,
+        "width": 172.8,
+        "height": 25.2
+      },
+      "text": "个学术现场"
+    },
+    {
+      "kind": "textbox",
+      "name": "文本框 12",
+      "path": "/slide[4]/文本框 12",
+      "frame": {
+        "left": 244.8,
+        "top": 185.76,
+        "width": 172.8,
+        "height": 39.6
+      },
+      "text": "N"
+    },
+    {
+      "kind": "textbox",
+      "name": "文本框 13",
+      "path": "/slide[4]/文本框 13",
+      "frame": {
+        "left": 244.8,
+        "top": 226.8,
+        "width": 172.8,
+        "height": 25.2
+      },
+      "text": "次表达练习"
+    },
+    {
+      "kind": "shape",
+      "name": "引言底",
+      "path": "/slide[4]/引言底",
+      "frame": {
+        "left": 28.8,
+        "top": 273.6,
+        "width": 399.6,
+        "height": 205.2
+      }
+    },
+    {
+      "kind": "textbox",
+      "name": "文本框 22",
+      "path": "/slide[4]/文本框 22",
+      "frame": {
+        "left": 43.2,
+        "top": 288.0,
+        "width": 374.4,
+        "height": 61.2
+      },
+      "text": "先去现场，才知道自己能走多远"
+    },
+    {
+      "kind": "textbox",
+      "name": "文本框 21",
+      "path": "/slide[4]/文本框 21",
+      "frame": {
+        "left": 43.2,
+        "top": 352.8,
+        "width": 374.4,
+        "height": 111.6
+      },
+      "text": "参会 → 观察 → 提问 → 表达。第一次不必像专家；先走进学术现场，再慢慢找到自己的研究声音。"
+    },
+    {
+      "kind": "image",
+      "name": "图片 29",
+      "path": "/slide[4]/图片 29",
+      "frame": {
+        "left": 446.4,
+        "top": 61.2,
+        "width": 241.2,
+        "height": 428.4
+      },
+      "image": true
+    },
+    {
+      "kind": "image",
+      "name": "图片 23",
+      "path": "/slide[4]/图片 23",
+      "frame": {
+        "left": 698.4,
+        "top": 61.2,
+        "width": 234.0,
+        "height": 428.4
+      },
+      "image": true
+    },
+    {
+      "kind": "notes",
+      "name": "speakerNotes",
+      "path": "/slide[4]/speakerNotes",
+      "text": "世界汉学大会与博士生论坛让我看到，学术成长不是等准备完美才开始，而是在参会、交流和表达中逐渐形成。\n\n[Sources]\n- Personal conference photographs and official event-profile screenshot supplied by Heena Rathore.",
+      "visible": true
+    }
+  ]
+}

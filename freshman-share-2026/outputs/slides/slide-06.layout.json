@@ -1,0 +1,256 @@
+{
+  "slide": 6,
+  "id": "culture",
+  "kind": "experience",
+  "frame": {
+    "left": 0,
+    "top": 0,
+    "width": 960.0,
+    "height": 540.0
+  },
+  "elements": [
+    {
+      "kind": "shape",
+      "name": "底",
+      "path": "/slide[6]/底",
+      "frame": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 960.0,
+        "height": 540.0
+      }
+    },
+    {
+      "kind": "image",
+      "name": "校徽",
+      "path": "/slide[6]/校徽",
+      "frame": {
+        "left": 27.36,
+        "top": 15.84,
+        "width": 30.24,
+        "height": 30.24
+      },
+      "image": true
+    },
+    {
+      "kind": "textbox",
+      "name": "校名",
+      "path": "/slide[6]/校名",
+      "frame": {
+        "left": 64.8,
+        "top": 14.4,
+        "width": 288.0,
+        "height": 20.16
+      },
+      "text": "中山大学"
+    },
+    {
+      "kind": "textbox",
+      "name": "校名英文",
+      "path": "/slide[6]/校名英文",
+      "frame": {
+        "left": 64.8,
+        "top": 31.68,
+        "width": 360.0,
+        "height": 15.84
+      },
+      "text": "SUN YAT-SEN UNIVERSITY"
+    },
+    {
+      "kind": "textbox",
+      "name": "页眉",
+      "path": "/slide[6]/页眉",
+      "frame": {
+        "left": 590.4,
+        "top": 20.16,
+        "width": 338.4,
+        "height": 21.6
+      },
+      "text": "本科新生分享 · 2026"
+    },
+    {
+      "kind": "textbox",
+      "name": "校训",
+      "path": "/slide[6]/校训",
+      "frame": {
+        "left": 27.36,
+        "top": 512.64,
+        "width": 576.0,
+        "height": 17.28
+      },
+      "text": "博学　审问　慎思　明辨　笃行"
+    },
+    {
+      "kind": "textbox",
+      "name": "页码",
+      "path": "/slide[6]/页码",
+      "frame": {
+        "left": 806.4,
+        "top": 512.64,
+        "width": 122.4,
+        "height": 17.28
+      },
+      "text": "06 / 08"
+    },
+    {
+      "kind": "textbox",
+      "name": "标题 1",
+      "path": "/slide[6]/标题 1",
+      "frame": {
+        "left": 28.8,
+        "top": 64.8,
+        "width": 417.6,
+        "height": 82.8
+      },
+      "text": "穿越文化，也连接彼此"
+    },
+    {
+      "kind": "textbox",
+      "name": "文本框 25",
+      "path": "/slide[6]/文本框 25",
+      "frame": {
+        "left": 28.8,
+        "top": 151.2,
+        "width": 403.2,
+        "height": 25.2
+      },
+      "text": "文化交流不是“拍照打卡”"
+    },
+    {
+      "kind": "shape",
+      "name": "统计1底",
+      "path": "/slide[6]/统计1底",
+      "frame": {
+        "left": 28.8,
+        "top": 183.6,
+        "width": 194.4,
+        "height": 75.6
+      }
+    },
+    {
+      "kind": "shape",
+      "name": "统计2底",
+      "path": "/slide[6]/统计2底",
+      "frame": {
+        "left": 234.0,
+        "top": 183.6,
+        "width": 194.4,
+        "height": 75.6
+      }
+    },
+    {
+      "kind": "textbox",
+      "name": "文本框 7",
+      "path": "/slide[6]/文本框 7",
+      "frame": {
+        "left": 39.6,
+        "top": 185.76,
+        "width": 172.8,
+        "height": 39.6
+      },
+      "text": "3"
+    },
+    {
+      "kind": "textbox",
+      "name": "文本框 10",
+      "path": "/slide[6]/文本框 10",
+      "frame": {
+        "left": 39.6,
+        "top": 226.8,
+        "width": 172.8,
+        "height": 25.2
+      },
+      "text": "种文化角色"
+    },
+    {
+      "kind": "textbox",
+      "name": "文本框 12",
+      "path": "/slide[6]/文本框 12",
+      "frame": {
+        "left": 244.8,
+        "top": 185.76,
+        "width": 172.8,
+        "height": 39.6
+      },
+      "text": "1"
+    },
+    {
+      "kind": "textbox",
+      "name": "文本框 13",
+      "path": "/slide[6]/文本框 13",
+      "frame": {
+        "left": 244.8,
+        "top": 226.8,
+        "width": 172.8,
+        "height": 25.2
+      },
+      "text": "座沟通桥梁"
+    },
+    {
+      "kind": "shape",
+      "name": "引言底",
+      "path": "/slide[6]/引言底",
+      "frame": {
+        "left": 28.8,
+        "top": 273.6,
+        "width": 399.6,
+        "height": 205.2
+      }
+    },
+    {
+      "kind": "textbox",
+      "name": "文本框 22",
+      "path": "/slide[6]/文本框 22",
+      "frame": {
+        "left": 43.2,
+        "top": 288.0,
+        "width": 374.4,
+        "height": 61.2
+      },
+      "text": "展示自己，也认真理解别人"
+    },
+    {
+      "kind": "textbox",
+      "name": "文本框 21",
+      "path": "/slide[6]/文本框 21",
+      "frame": {
+        "left": 43.2,
+        "top": 352.8,
+        "width": 374.4,
+        "height": 111.6
+      },
+      "text": "参加国际文化节、介绍巴基斯坦文化、体验中国文化。交流不是谁说服谁，而是彼此多理解一步。"
+    },
+    {
+      "kind": "image",
+      "name": "图片 29",
+      "path": "/slide[6]/图片 29",
+      "frame": {
+        "left": 446.4,
+        "top": 61.2,
+        "width": 241.2,
+        "height": 428.4
+      },
+      "image": true
+    },
+    {
+      "kind": "image",
+      "name": "图片 23",
+      "path": "/slide[6]/图片 23",
+      "frame": {
+        "left": 698.4,
+        "top": 61.2,
+        "width": 234.0,
+        "height": 428.4
+      },
+      "image": true
+    },
+    {
+      "kind": "notes",
+      "name": "speakerNotes",
+      "path": "/slide[6]/speakerNotes",
+      "text": "文化交流让我既能自信介绍巴基斯坦，也能更深入理解中国。真正的交流来自好奇、尊重和共同参与。\n\n[Sources]\n- Personal original SYSU International Culture Festival photographs supplied by Heena Rathore.",
+      "visible": true
+    }
+  ]
+}
