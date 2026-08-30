@@ -423,6 +423,39 @@ body {
   padding: 6px 10px;
 }
 
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 18px;
+  height: 640px;
+  margin-top: 20px;
+}
+
+.gallery-card {
+  position: relative;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+
+.gallery-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.gallery-card figcaption {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 14px 16px;
+  background: linear-gradient(180deg, transparent, rgba(0, 20, 10, 0.86));
+  color: var(--cream);
+  font-size: 18px;
+}
+
 /* Advice */
 .advice-grid {
   display: grid;

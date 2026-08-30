@@ -13,8 +13,8 @@
     "academic1": {
       "slot": "photos/academic-1.jpg",
       "fallback": "../poster/photos/library.jpg",
-      "label": "世界汉学大会 2025",
-      "caption": "第九届世界汉学大会 · 深圳",
+      "label": "世界汉学大会",
+      "caption": "世界汉学大会活动档案 · 喜娜",
       "alt": "Heena Rathore profile at the World Conference on Sinology 2025",
       "placeholderNote": "个人会议证件照 / 现场照"
     },
@@ -22,7 +22,7 @@
       "slot": "photos/academic-2.jpg",
       "fallback": "../poster/photos/clocktower.jpg",
       "label": "博士生论坛",
-      "caption": "语言学及应用语言学国际博士生论坛",
+      "caption": "第21届语言学及应用语言学博士生论坛 · 闭幕式",
       "alt": "Heena Rathore at an international linguistics and applied linguistics doctoral forum",
       "placeholderNote": "论坛现场照"
     },
@@ -45,16 +45,16 @@
     "culture1": {
       "slot": "photos/culture-1.jpg",
       "fallback": "../poster/photos/blossoms.jpg",
-      "label": "中大国际文化节",
-      "caption": "2025 中大冬日音乐会 · 国际文化节",
+      "label": "国际文化节",
+      "caption": "介绍巴基斯坦文化",
       "alt": "Heena Rathore at the 2025 SYSU Winter Concert and International Culture Festival",
       "placeholderNote": "文化节 / 音乐会现场照"
     },
     "culture2": {
       "slot": "photos/culture-2.jpg",
       "fallback": "../poster/photos/campus.jpg",
-      "label": "巴基斯坦文化分享",
-      "caption": "介绍巴基斯坦文化",
+      "label": "传统服饰",
+      "caption": "春日校园 · 巴基斯坦传统服饰",
       "alt": "Heena Rathore presenting Pakistani culture with the national flag",
       "placeholderNote": "国旗与文化展台照"
     }
@@ -67,7 +67,7 @@
       "title": "先去现场，才知道自己能走多远",
       "subtitle": "学术、志愿、文化：我走过的三条路",
       "speaker": "喜娜 Heena Rathore",
-      "background": "../poster/photos/gate.jpg",
+      "background": "photos/cover.jpg",
       "notes": "开场：欢迎新生。今天不讲完美经历，只讲三次我真正走进现场的时刻。"
     },
     {
@@ -156,6 +156,23 @@
       "notes": "文化交流让我既能自信介绍巴基斯坦，也能更深入理解中国。真正的交流来自好奇、尊重和共同参与。\n\n[Sources]\n- Personal original SYSU International Culture Festival photographs supplied by Heena Rathore."
     },
     {
+      "id": "gallery",
+      "kind": "gallery",
+      "kicker": "更多现场",
+      "title": "这些照片，都是走进现场以后留下的",
+      "notes": "补充现场：地铁站台、护苗课堂、本原讲堂结业、课堂表达、文化交流手绘、中大春节装置、中国传统服饰体验。",
+      "items": [
+        {"photo": "photos/more-metro.jpg", "label": "地铁站台志愿"},
+        {"photo": "photos/more-esl.jpg", "label": "护苗英语课堂"},
+        {"photo": "photos/more-certificate.jpg", "label": "本原讲堂结业"},
+        {"photo": "photos/more-speaking.jpg", "label": "现场表达"},
+        {"photo": "photos/more-henna.jpg", "label": "文化交流 · 手绘"},
+        {"photo": "photos/more-newyear.jpg", "label": "中大春节 2025"},
+        {"photo": "photos/more-miao.jpg", "label": "体验中国服饰"},
+        {"photo": "photos/more-friend.jpg", "label": "和同学在一起"}
+      ]
+    },
+    {
       "id": "advice",
       "kind": "advice",
       "kicker": "可以马上开始",
@@ -186,7 +203,7 @@
       "title": "可靠，是最容易被低估的能力",
       "body": "先去现场。第一次不必像专家。",
       "speaker": "喜娜 Heena Rathore",
-      "background": "../poster/photos/blossoms.jpg",
+      "background": "photos/close.jpg",
       "notes": "结束：欢迎提问。强调可靠、在场和互相理解。"
     }
   ]

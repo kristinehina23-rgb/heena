@@ -22,14 +22,14 @@ REQUIRED = {
 def main() -> None:
     assert PPTX.exists(), PPTX
     show = Presentation(PPTX)
-    assert len(show.slides) == 8
+    assert len(show.slides) == 9
     for slide in show.slides:
         assert slide.notes_slide.notes_text_frame.text.strip()
         assert any(s.shape_type is not None for s in slide.shapes)
 
     assert EDITABLE.exists(), EDITABLE
     prs = Presentation(EDITABLE)
-    assert len(prs.slides) == 8
+    assert len(prs.slides) == 9
     for idx, names in REQUIRED.items():
         have = {s.name for s in prs.slides[idx - 1].shapes}
         missing = [n for n in names if n not in have]

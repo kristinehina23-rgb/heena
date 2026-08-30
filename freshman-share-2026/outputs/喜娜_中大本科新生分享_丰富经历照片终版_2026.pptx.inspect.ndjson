@@ -5,7 +5,7 @@
 {"slide": 1, "id": "cover", "kind": "textbox", "name": "校名英文", "text": "SUN YAT-SEN UNIVERSITY", "frame": {"left": 64.8, "top": 31.68, "width": 360.0, "height": 15.84}}
 {"slide": 1, "id": "cover", "kind": "textbox", "name": "页眉", "text": "中山大学 · 本科新生分享 · 2026", "frame": {"left": 590.4, "top": 20.16, "width": 338.4, "height": 21.6}}
 {"slide": 1, "id": "cover", "kind": "textbox", "name": "校训", "text": "博学　审问　慎思　明辨　笃行", "frame": {"left": 27.36, "top": 512.64, "width": 576.0, "height": 17.28}}
-{"slide": 1, "id": "cover", "kind": "textbox", "name": "页码", "text": "01 / 08", "frame": {"left": 806.4, "top": 512.64, "width": 122.4, "height": 17.28}}
+{"slide": 1, "id": "cover", "kind": "textbox", "name": "页码", "text": "01 / 09", "frame": {"left": 806.4, "top": 512.64, "width": 122.4, "height": 17.28}}
 {"slide": 1, "id": "cover", "kind": "shape", "name": "金线", "text": "", "frame": {"left": 43.2, "top": 342.0, "width": 61.2, "height": 2.52}}
 {"slide": 1, "id": "cover", "kind": "textbox", "name": "标题 1", "text": "先去现场，才知道自己能走多远", "frame": {"left": 39.6, "top": 352.8, "width": 864.0, "height": 93.6}}
 {"slide": 1, "id": "cover", "kind": "textbox", "name": "副标题", "text": "学术、志愿、文化：我走过的三条路", "frame": {"left": 39.6, "top": 450.0, "width": 864.0, "height": 28.8}}
@@ -17,7 +17,7 @@
 {"slide": 2, "id": "opening", "kind": "textbox", "name": "校名英文", "text": "SUN YAT-SEN UNIVERSITY", "frame": {"left": 64.8, "top": 31.68, "width": 360.0, "height": 15.84}}
 {"slide": 2, "id": "opening", "kind": "textbox", "name": "页眉", "text": "开场", "frame": {"left": 590.4, "top": 20.16, "width": 338.4, "height": 21.6}}
 {"slide": 2, "id": "opening", "kind": "textbox", "name": "校训", "text": "博学　审问　慎思　明辨　笃行", "frame": {"left": 27.36, "top": 512.64, "width": 576.0, "height": 17.28}}
-{"slide": 2, "id": "opening", "kind": "textbox", "name": "页码", "text": "02 / 08", "frame": {"left": 806.4, "top": 512.64, "width": 122.4, "height": 17.28}}
+{"slide": 2, "id": "opening", "kind": "textbox", "name": "页码", "text": "02 / 09", "frame": {"left": 806.4, "top": 512.64, "width": 122.4, "height": 17.28}}
 {"slide": 2, "id": "opening", "kind": "textbox", "name": "标题 1", "text": "第一次不必像专家", "frame": {"left": 43.2, "top": 86.4, "width": 864.0, "height": 57.6}}
 {"slide": 2, "id": "opening", "kind": "textbox", "name": "导语", "text": "参会、做志愿、介绍自己的文化，看起来是三件不同的事。对我来说，它们是同一件事：先走进现场，再慢慢找到自己的声音。", "frame": {"left": 43.2, "top": 151.2, "width": 871.2, "height": 115.2}}
 {"slide": 2, "id": "opening", "kind": "shape", "name": "要点底1", "text": "", "frame": {"left": 43.2, "top": 277.2, "width": 288.0, "height": 183.6}}
@@ -39,7 +39,7 @@
 {"slide": 3, "id": "map", "kind": "textbox", "name": "校名英文", "text": "SUN YAT-SEN UNIVERSITY", "frame": {"left": 64.8, "top": 31.68, "width": 360.0, "height": 15.84}}
 {"slide": 3, "id": "map", "kind": "textbox", "name": "页眉", "text": "今天的路线", "frame": {"left": 590.4, "top": 20.16, "width": 338.4, "height": 21.6}}
 {"slide": 3, "id": "map", "kind": "textbox", "name": "校训", "text": "博学　审问　慎思　明辨　笃行", "frame": {"left": 27.36, "top": 512.64, "width": 576.0, "height": 17.28}}
-{"slide": 3, "id": "map", "kind": "textbox", "name": "页码", "text": "03 / 08", "frame": {"left": 806.4, "top": 512.64, "width": 122.4, "height": 17.28}}
+{"slide": 3, "id": "map", "kind": "textbox", "name": "页码", "text": "03 / 09", "frame": {"left": 806.4, "top": 512.64, "width": 122.4, "height": 17.28}}
 {"slide": 3, "id": "map", "kind": "textbox", "name": "标题 1", "text": "三条现场，一个习惯", "frame": {"left": 43.2, "top": 82.8, "width": 864.0, "height": 50.4}}
 {"slide": 3, "id": "map", "kind": "image", "name": "路线图1", "text": "", "frame": {"left": 39.6, "top": 151.2, "width": 291.6, "height": 338.4}}
 {"slide": 3, "id": "map", "kind": "shape", "name": "路线遮罩1", "text": "", "frame": {"left": 39.6, "top": 388.8, "width": 291.6, "height": 100.8}}
@@ -63,7 +63,7 @@
 {"slide": 4, "id": "academic", "kind": "textbox", "name": "校名英文", "text": "SUN YAT-SEN UNIVERSITY", "frame": {"left": 64.8, "top": 31.68, "width": 360.0, "height": 15.84}}
 {"slide": 4, "id": "academic", "kind": "textbox", "name": "页眉", "text": "本科新生分享 · 2026", "frame": {"left": 590.4, "top": 20.16, "width": 338.4, "height": 21.6}}
 {"slide": 4, "id": "academic", "kind": "textbox", "name": "校训", "text": "博学　审问　慎思　明辨　笃行", "frame": {"left": 27.36, "top": 512.64, "width": 576.0, "height": 17.28}}
-{"slide": 4, "id": "academic", "kind": "textbox", "name": "页码", "text": "04 / 08", "frame": {"left": 806.4, "top": 512.64, "width": 122.4, "height": 17.28}}
+{"slide": 4, "id": "academic", "kind": "textbox", "name": "页码", "text": "04 / 09", "frame": {"left": 806.4, "top": 512.64, "width": 122.4, "height": 17.28}}
 {"slide": 4, "id": "academic", "kind": "textbox", "name": "标题 1", "text": "会场、讲台和论文：学术能力靠练习", "frame": {"left": 28.8, "top": 64.8, "width": 417.6, "height": 82.8}}
 {"slide": 4, "id": "academic", "kind": "textbox", "name": "文本框 25", "text": "把兴趣变成学术行动", "frame": {"left": 28.8, "top": 151.2, "width": 403.2, "height": 25.2}}
 {"slide": 4, "id": "academic", "kind": "shape", "name": "统计1底", "text": "", "frame": {"left": 28.8, "top": 183.6, "width": 194.4, "height": 75.6}}
@@ -84,7 +84,7 @@
 {"slide": 5, "id": "service", "kind": "textbox", "name": "校名英文", "text": "SUN YAT-SEN UNIVERSITY", "frame": {"left": 64.8, "top": 31.68, "width": 360.0, "height": 15.84}}
 {"slide": 5, "id": "service", "kind": "textbox", "name": "页眉", "text": "本科新生分享 · 2026", "frame": {"left": 590.4, "top": 20.16, "width": 338.4, "height": 21.6}}
 {"slide": 5, "id": "service", "kind": "textbox", "name": "校训", "text": "博学　审问　慎思　明辨　笃行", "frame": {"left": 27.36, "top": 512.64, "width": 576.0, "height": 17.28}}
-{"slide": 5, "id": "service", "kind": "textbox", "name": "页码", "text": "05 / 08", "frame": {"left": 806.4, "top": 512.64, "width": 122.4, "height": 17.28}}
+{"slide": 5, "id": "service", "kind": "textbox", "name": "页码", "text": "05 / 09", "frame": {"left": 806.4, "top": 512.64, "width": 122.4, "height": 17.28}}
 {"slide": 5, "id": "service", "kind": "textbox", "name": "标题 1", "text": "志愿不是简历装饰：是在现场解决问题", "frame": {"left": 28.8, "top": 64.8, "width": 417.6, "height": 82.8}}
 {"slide": 5, "id": "service", "kind": "textbox", "name": "文本框 25", "text": "把“我愿意”变成行动", "frame": {"left": 28.8, "top": 151.2, "width": 403.2, "height": 25.2}}
 {"slide": 5, "id": "service", "kind": "shape", "name": "统计1底", "text": "", "frame": {"left": 28.8, "top": 183.6, "width": 194.4, "height": 75.6}}
@@ -105,7 +105,7 @@
 {"slide": 6, "id": "culture", "kind": "textbox", "name": "校名英文", "text": "SUN YAT-SEN UNIVERSITY", "frame": {"left": 64.8, "top": 31.68, "width": 360.0, "height": 15.84}}
 {"slide": 6, "id": "culture", "kind": "textbox", "name": "页眉", "text": "本科新生分享 · 2026", "frame": {"left": 590.4, "top": 20.16, "width": 338.4, "height": 21.6}}
 {"slide": 6, "id": "culture", "kind": "textbox", "name": "校训", "text": "博学　审问　慎思　明辨　笃行", "frame": {"left": 27.36, "top": 512.64, "width": 576.0, "height": 17.28}}
-{"slide": 6, "id": "culture", "kind": "textbox", "name": "页码", "text": "06 / 08", "frame": {"left": 806.4, "top": 512.64, "width": 122.4, "height": 17.28}}
+{"slide": 6, "id": "culture", "kind": "textbox", "name": "页码", "text": "06 / 09", "frame": {"left": 806.4, "top": 512.64, "width": 122.4, "height": 17.28}}
 {"slide": 6, "id": "culture", "kind": "textbox", "name": "标题 1", "text": "穿越文化，也连接彼此", "frame": {"left": 28.8, "top": 64.8, "width": 417.6, "height": 82.8}}
 {"slide": 6, "id": "culture", "kind": "textbox", "name": "文本框 25", "text": "文化交流不是“拍照打卡”", "frame": {"left": 28.8, "top": 151.2, "width": 403.2, "height": 25.2}}
 {"slide": 6, "id": "culture", "kind": "shape", "name": "统计1底", "text": "", "frame": {"left": 28.8, "top": 183.6, "width": 194.4, "height": 75.6}}
@@ -120,37 +120,54 @@
 {"slide": 6, "id": "culture", "kind": "image", "name": "图片 29", "text": "", "frame": {"left": 446.4, "top": 61.2, "width": 241.2, "height": 428.4}}
 {"slide": 6, "id": "culture", "kind": "image", "name": "图片 23", "text": "", "frame": {"left": 698.4, "top": 61.2, "width": 234.0, "height": 428.4}}
 {"slide": 6, "id": "culture", "kind": "notes", "name": "speakerNotes", "text": "文化交流让我既能自信介绍巴基斯坦，也能更深入理解中国。真正的交流来自好奇、尊重和共同参与。\n\n[Sources]\n- Personal original SYSU International Culture Festival photographs supplied by Heena Rathore."}
-{"slide": 7, "id": "advice", "kind": "shape", "name": "底", "text": "", "frame": {"left": 0.0, "top": 0.0, "width": 960.0, "height": 540.0}}
-{"slide": 7, "id": "advice", "kind": "image", "name": "校徽", "text": "", "frame": {"left": 27.36, "top": 15.84, "width": 30.24, "height": 30.24}}
-{"slide": 7, "id": "advice", "kind": "textbox", "name": "校名", "text": "中山大学", "frame": {"left": 64.8, "top": 14.4, "width": 288.0, "height": 20.16}}
-{"slide": 7, "id": "advice", "kind": "textbox", "name": "校名英文", "text": "SUN YAT-SEN UNIVERSITY", "frame": {"left": 64.8, "top": 31.68, "width": 360.0, "height": 15.84}}
-{"slide": 7, "id": "advice", "kind": "textbox", "name": "页眉", "text": "可以马上开始", "frame": {"left": 590.4, "top": 20.16, "width": 338.4, "height": 21.6}}
-{"slide": 7, "id": "advice", "kind": "textbox", "name": "校训", "text": "博学　审问　慎思　明辨　笃行", "frame": {"left": 27.36, "top": 512.64, "width": 576.0, "height": 17.28}}
-{"slide": 7, "id": "advice", "kind": "textbox", "name": "页码", "text": "07 / 08", "frame": {"left": 806.4, "top": 512.64, "width": 122.4, "height": 17.28}}
-{"slide": 7, "id": "advice", "kind": "textbox", "name": "标题 1", "text": "三件小事，比一份完美计划更有用", "frame": {"left": 39.6, "top": 82.8, "width": 878.4, "height": 72.0}}
-{"slide": 7, "id": "advice", "kind": "shape", "name": "建议底1", "text": "", "frame": {"left": 39.6, "top": 172.8, "width": 291.6, "height": 309.6}}
-{"slide": 7, "id": "advice", "kind": "textbox", "name": "建议号1", "text": "01", "frame": {"left": 57.6, "top": 183.6, "width": 252.0, "height": 25.2}}
-{"slide": 7, "id": "advice", "kind": "textbox", "name": "建议标题1", "text": "走进一个学术现场", "frame": {"left": 57.6, "top": 216.0, "width": 255.6, "height": 79.2}}
-{"slide": 7, "id": "advice", "kind": "textbox", "name": "建议正文1", "text": "讲座、论坛、读书会都可以。先坐在后排听，再试着问一个问题。", "frame": {"left": 57.6, "top": 302.4, "width": 255.6, "height": 158.4}}
-{"slide": 7, "id": "advice", "kind": "shape", "name": "建议底2", "text": "", "frame": {"left": 345.6, "top": 172.8, "width": 291.6, "height": 309.6}}
-{"slide": 7, "id": "advice", "kind": "textbox", "name": "建议号2", "text": "02", "frame": {"left": 363.6, "top": 183.6, "width": 252.0, "height": 25.2}}
-{"slide": 7, "id": "advice", "kind": "textbox", "name": "建议标题2", "text": "做一件对别人有用的小事", "frame": {"left": 363.6, "top": 216.0, "width": 255.6, "height": 79.2}}
-{"slide": 7, "id": "advice", "kind": "textbox", "name": "建议正文2", "text": "志愿不是装饰简历。在真实现场里沟通、等待、负责，本身就是训练。", "frame": {"left": 363.6, "top": 302.4, "width": 255.6, "height": 158.4}}
-{"slide": 7, "id": "advice", "kind": "shape", "name": "建议底3", "text": "", "frame": {"left": 651.6, "top": 172.8, "width": 291.6, "height": 309.6}}
-{"slide": 7, "id": "advice", "kind": "textbox", "name": "建议号3", "text": "03", "frame": {"left": 669.6, "top": 183.6, "width": 252.0, "height": 25.2}}
-{"slide": 7, "id": "advice", "kind": "textbox", "name": "建议标题3", "text": "介绍一次自己的来处", "frame": {"left": 669.6, "top": 216.0, "width": 255.6, "height": 79.2}}
-{"slide": 7, "id": "advice", "kind": "textbox", "name": "建议正文3", "text": "也认真听别人的来处。交流不是说服，是彼此多理解一步。", "frame": {"left": 669.6, "top": 302.4, "width": 255.6, "height": 158.4}}
-{"slide": 7, "id": "advice", "kind": "notes", "name": "speakerNotes", "text": "收束到新生可以立刻做的三件事，避免空泛鸡汤。"}
-{"slide": 8, "id": "close", "kind": "image", "name": "背景", "text": "", "frame": {"left": 0.0, "top": 0.0, "width": 960.0, "height": 540.0}}
-{"slide": 8, "id": "close", "kind": "shape", "name": "遮罩", "text": "", "frame": {"left": 0.0, "top": 0.0, "width": 960.0, "height": 540.0}}
-{"slide": 8, "id": "close", "kind": "image", "name": "校徽", "text": "", "frame": {"left": 27.36, "top": 15.84, "width": 30.24, "height": 30.24}}
-{"slide": 8, "id": "close", "kind": "textbox", "name": "校名", "text": "中山大学", "frame": {"left": 64.8, "top": 14.4, "width": 288.0, "height": 20.16}}
-{"slide": 8, "id": "close", "kind": "textbox", "name": "校名英文", "text": "SUN YAT-SEN UNIVERSITY", "frame": {"left": 64.8, "top": 31.68, "width": 360.0, "height": 15.84}}
-{"slide": 8, "id": "close", "kind": "textbox", "name": "页眉", "text": "谢谢", "frame": {"left": 590.4, "top": 20.16, "width": 338.4, "height": 21.6}}
-{"slide": 8, "id": "close", "kind": "textbox", "name": "校训", "text": "博学　审问　慎思　明辨　笃行", "frame": {"left": 27.36, "top": 512.64, "width": 576.0, "height": 17.28}}
-{"slide": 8, "id": "close", "kind": "textbox", "name": "页码", "text": "08 / 08", "frame": {"left": 806.4, "top": 512.64, "width": 122.4, "height": 17.28}}
-{"slide": 8, "id": "close", "kind": "shape", "name": "金线", "text": "", "frame": {"left": 43.2, "top": 342.0, "width": 61.2, "height": 2.52}}
-{"slide": 8, "id": "close", "kind": "textbox", "name": "标题 1", "text": "可靠，是最容易被低估的能力", "frame": {"left": 39.6, "top": 352.8, "width": 864.0, "height": 93.6}}
-{"slide": 8, "id": "close", "kind": "textbox", "name": "副标题", "text": "先去现场。第一次不必像专家。", "frame": {"left": 39.6, "top": 450.0, "width": 864.0, "height": 28.8}}
-{"slide": 8, "id": "close", "kind": "textbox", "name": "讲者", "text": "喜娜 Heena Rathore", "frame": {"left": 39.6, "top": 478.8, "width": 864.0, "height": 25.2}}
-{"slide": 8, "id": "close", "kind": "notes", "name": "speakerNotes", "text": "结束：欢迎提问。强调可靠、在场和互相理解。"}
+{"slide": 7, "id": "gallery", "kind": "shape", "name": "底", "text": "", "frame": {"left": 0.0, "top": 0.0, "width": 960.0, "height": 540.0}}
+{"slide": 7, "id": "gallery", "kind": "image", "name": "校徽", "text": "", "frame": {"left": 27.36, "top": 15.84, "width": 30.24, "height": 30.24}}
+{"slide": 7, "id": "gallery", "kind": "textbox", "name": "校名", "text": "中山大学", "frame": {"left": 64.8, "top": 14.4, "width": 288.0, "height": 20.16}}
+{"slide": 7, "id": "gallery", "kind": "textbox", "name": "校名英文", "text": "SUN YAT-SEN UNIVERSITY", "frame": {"left": 64.8, "top": 31.68, "width": 360.0, "height": 15.84}}
+{"slide": 7, "id": "gallery", "kind": "textbox", "name": "页眉", "text": "更多现场", "frame": {"left": 590.4, "top": 20.16, "width": 338.4, "height": 21.6}}
+{"slide": 7, "id": "gallery", "kind": "textbox", "name": "校训", "text": "博学　审问　慎思　明辨　笃行", "frame": {"left": 27.36, "top": 512.64, "width": 576.0, "height": 17.28}}
+{"slide": 7, "id": "gallery", "kind": "textbox", "name": "页码", "text": "07 / 09", "frame": {"left": 806.4, "top": 512.64, "width": 122.4, "height": 17.28}}
+{"slide": 7, "id": "gallery", "kind": "textbox", "name": "标题 1", "text": "这些照片，都是走进现场以后留下的", "frame": {"left": 39.6, "top": 75.6, "width": 878.4, "height": 57.6}}
+{"slide": 7, "id": "gallery", "kind": "image", "name": "相册1", "text": "", "frame": {"left": 32.4, "top": 147.6, "width": 219.6, "height": 162.0}}
+{"slide": 7, "id": "gallery", "kind": "image", "name": "相册2", "text": "", "frame": {"left": 264.24, "top": 147.6, "width": 219.6, "height": 162.0}}
+{"slide": 7, "id": "gallery", "kind": "image", "name": "相册3", "text": "", "frame": {"left": 496.08, "top": 147.6, "width": 219.6, "height": 162.0}}
+{"slide": 7, "id": "gallery", "kind": "image", "name": "相册4", "text": "", "frame": {"left": 727.92, "top": 147.6, "width": 219.6, "height": 162.0}}
+{"slide": 7, "id": "gallery", "kind": "image", "name": "相册5", "text": "", "frame": {"left": 32.4, "top": 324.0, "width": 219.6, "height": 162.0}}
+{"slide": 7, "id": "gallery", "kind": "image", "name": "相册6", "text": "", "frame": {"left": 264.24, "top": 324.0, "width": 219.6, "height": 162.0}}
+{"slide": 7, "id": "gallery", "kind": "image", "name": "相册7", "text": "", "frame": {"left": 496.08, "top": 324.0, "width": 219.6, "height": 162.0}}
+{"slide": 7, "id": "gallery", "kind": "image", "name": "相册8", "text": "", "frame": {"left": 727.92, "top": 324.0, "width": 219.6, "height": 162.0}}
+{"slide": 7, "id": "gallery", "kind": "notes", "name": "speakerNotes", "text": "补充现场：地铁站台、护苗课堂、本原讲堂结业、课堂表达、文化交流手绘、中大春节装置、中国传统服饰体验。"}
+{"slide": 8, "id": "advice", "kind": "shape", "name": "底", "text": "", "frame": {"left": 0.0, "top": 0.0, "width": 960.0, "height": 540.0}}
+{"slide": 8, "id": "advice", "kind": "image", "name": "校徽", "text": "", "frame": {"left": 27.36, "top": 15.84, "width": 30.24, "height": 30.24}}
+{"slide": 8, "id": "advice", "kind": "textbox", "name": "校名", "text": "中山大学", "frame": {"left": 64.8, "top": 14.4, "width": 288.0, "height": 20.16}}
+{"slide": 8, "id": "advice", "kind": "textbox", "name": "校名英文", "text": "SUN YAT-SEN UNIVERSITY", "frame": {"left": 64.8, "top": 31.68, "width": 360.0, "height": 15.84}}
+{"slide": 8, "id": "advice", "kind": "textbox", "name": "页眉", "text": "可以马上开始", "frame": {"left": 590.4, "top": 20.16, "width": 338.4, "height": 21.6}}
+{"slide": 8, "id": "advice", "kind": "textbox", "name": "校训", "text": "博学　审问　慎思　明辨　笃行", "frame": {"left": 27.36, "top": 512.64, "width": 576.0, "height": 17.28}}
+{"slide": 8, "id": "advice", "kind": "textbox", "name": "页码", "text": "08 / 09", "frame": {"left": 806.4, "top": 512.64, "width": 122.4, "height": 17.28}}
+{"slide": 8, "id": "advice", "kind": "textbox", "name": "标题 1", "text": "三件小事，比一份完美计划更有用", "frame": {"left": 39.6, "top": 82.8, "width": 878.4, "height": 72.0}}
+{"slide": 8, "id": "advice", "kind": "shape", "name": "建议底1", "text": "", "frame": {"left": 39.6, "top": 172.8, "width": 291.6, "height": 309.6}}
+{"slide": 8, "id": "advice", "kind": "textbox", "name": "建议号1", "text": "01", "frame": {"left": 57.6, "top": 183.6, "width": 252.0, "height": 25.2}}
+{"slide": 8, "id": "advice", "kind": "textbox", "name": "建议标题1", "text": "走进一个学术现场", "frame": {"left": 57.6, "top": 216.0, "width": 255.6, "height": 79.2}}
+{"slide": 8, "id": "advice", "kind": "textbox", "name": "建议正文1", "text": "讲座、论坛、读书会都可以。先坐在后排听，再试着问一个问题。", "frame": {"left": 57.6, "top": 302.4, "width": 255.6, "height": 158.4}}
+{"slide": 8, "id": "advice", "kind": "shape", "name": "建议底2", "text": "", "frame": {"left": 345.6, "top": 172.8, "width": 291.6, "height": 309.6}}
+{"slide": 8, "id": "advice", "kind": "textbox", "name": "建议号2", "text": "02", "frame": {"left": 363.6, "top": 183.6, "width": 252.0, "height": 25.2}}
+{"slide": 8, "id": "advice", "kind": "textbox", "name": "建议标题2", "text": "做一件对别人有用的小事", "frame": {"left": 363.6, "top": 216.0, "width": 255.6, "height": 79.2}}
+{"slide": 8, "id": "advice", "kind": "textbox", "name": "建议正文2", "text": "志愿不是装饰简历。在真实现场里沟通、等待、负责，本身就是训练。", "frame": {"left": 363.6, "top": 302.4, "width": 255.6, "height": 158.4}}
+{"slide": 8, "id": "advice", "kind": "shape", "name": "建议底3", "text": "", "frame": {"left": 651.6, "top": 172.8, "width": 291.6, "height": 309.6}}
+{"slide": 8, "id": "advice", "kind": "textbox", "name": "建议号3", "text": "03", "frame": {"left": 669.6, "top": 183.6, "width": 252.0, "height": 25.2}}
+{"slide": 8, "id": "advice", "kind": "textbox", "name": "建议标题3", "text": "介绍一次自己的来处", "frame": {"left": 669.6, "top": 216.0, "width": 255.6, "height": 79.2}}
+{"slide": 8, "id": "advice", "kind": "textbox", "name": "建议正文3", "text": "也认真听别人的来处。交流不是说服，是彼此多理解一步。", "frame": {"left": 669.6, "top": 302.4, "width": 255.6, "height": 158.4}}
+{"slide": 8, "id": "advice", "kind": "notes", "name": "speakerNotes", "text": "收束到新生可以立刻做的三件事，避免空泛鸡汤。"}
+{"slide": 9, "id": "close", "kind": "image", "name": "背景", "text": "", "frame": {"left": 0.0, "top": 0.0, "width": 960.0, "height": 540.0}}
+{"slide": 9, "id": "close", "kind": "shape", "name": "遮罩", "text": "", "frame": {"left": 0.0, "top": 0.0, "width": 960.0, "height": 540.0}}
+{"slide": 9, "id": "close", "kind": "image", "name": "校徽", "text": "", "frame": {"left": 27.36, "top": 15.84, "width": 30.24, "height": 30.24}}
+{"slide": 9, "id": "close", "kind": "textbox", "name": "校名", "text": "中山大学", "frame": {"left": 64.8, "top": 14.4, "width": 288.0, "height": 20.16}}
+{"slide": 9, "id": "close", "kind": "textbox", "name": "校名英文", "text": "SUN YAT-SEN UNIVERSITY", "frame": {"left": 64.8, "top": 31.68, "width": 360.0, "height": 15.84}}
+{"slide": 9, "id": "close", "kind": "textbox", "name": "页眉", "text": "谢谢", "frame": {"left": 590.4, "top": 20.16, "width": 338.4, "height": 21.6}}
+{"slide": 9, "id": "close", "kind": "textbox", "name": "校训", "text": "博学　审问　慎思　明辨　笃行", "frame": {"left": 27.36, "top": 512.64, "width": 576.0, "height": 17.28}}
+{"slide": 9, "id": "close", "kind": "textbox", "name": "页码", "text": "09 / 09", "frame": {"left": 806.4, "top": 512.64, "width": 122.4, "height": 17.28}}
+{"slide": 9, "id": "close", "kind": "shape", "name": "金线", "text": "", "frame": {"left": 43.2, "top": 342.0, "width": 61.2, "height": 2.52}}
+{"slide": 9, "id": "close", "kind": "textbox", "name": "标题 1", "text": "可靠，是最容易被低估的能力", "frame": {"left": 39.6, "top": 352.8, "width": 864.0, "height": 93.6}}
+{"slide": 9, "id": "close", "kind": "textbox", "name": "副标题", "text": "先去现场。第一次不必像专家。", "frame": {"left": 39.6, "top": 450.0, "width": 864.0, "height": 28.8}}
+{"slide": 9, "id": "close", "kind": "textbox", "name": "讲者", "text": "喜娜 Heena Rathore", "frame": {"left": 39.6, "top": 478.8, "width": 864.0, "height": 25.2}}
+{"slide": 9, "id": "close", "kind": "notes", "name": "speakerNotes", "text": "结束：欢迎提问。强调可靠、在场和互相理解。"}

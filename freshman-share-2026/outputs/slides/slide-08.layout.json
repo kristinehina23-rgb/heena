@@ -1,7 +1,7 @@
 {
   "slide": 8,
-  "id": "close",
-  "kind": "close",
+  "id": "advice",
+  "kind": "advice",
   "frame": {
     "left": 0,
     "top": 0,
@@ -10,21 +10,9 @@
   },
   "elements": [
     {
-      "kind": "image",
-      "name": "背景",
-      "path": "/slide[8]/背景",
-      "frame": {
-        "left": 0.0,
-        "top": 0.0,
-        "width": 960.0,
-        "height": 540.0
-      },
-      "image": true
-    },
-    {
       "kind": "shape",
-      "name": "遮罩",
-      "path": "/slide[8]/遮罩",
+      "name": "底",
+      "path": "/slide[8]/底",
       "frame": {
         "left": 0.0,
         "top": 0.0,
@@ -78,7 +66,7 @@
         "width": 338.4,
         "height": 21.6
       },
-      "text": "谢谢"
+      "text": "可以马上开始"
     },
     {
       "kind": "textbox",
@@ -102,18 +90,7 @@
         "width": 122.4,
         "height": 17.28
       },
-      "text": "08 / 08"
-    },
-    {
-      "kind": "shape",
-      "name": "金线",
-      "path": "/slide[8]/金线",
-      "frame": {
-        "left": 43.2,
-        "top": 342.0,
-        "width": 61.2,
-        "height": 2.52
-      }
+      "text": "08 / 09"
     },
     {
       "kind": "textbox",
@@ -121,41 +98,158 @@
       "path": "/slide[8]/标题 1",
       "frame": {
         "left": 39.6,
-        "top": 352.8,
-        "width": 864.0,
-        "height": 93.6
+        "top": 82.8,
+        "width": 878.4,
+        "height": 72.0
       },
-      "text": "可靠，是最容易被低估的能力"
+      "text": "三件小事，比一份完美计划更有用"
+    },
+    {
+      "kind": "shape",
+      "name": "建议底1",
+      "path": "/slide[8]/建议底1",
+      "frame": {
+        "left": 39.6,
+        "top": 172.8,
+        "width": 291.6,
+        "height": 309.6
+      }
     },
     {
       "kind": "textbox",
-      "name": "副标题",
-      "path": "/slide[8]/副标题",
+      "name": "建议号1",
+      "path": "/slide[8]/建议号1",
       "frame": {
-        "left": 39.6,
-        "top": 450.0,
-        "width": 864.0,
-        "height": 28.8
-      },
-      "text": "先去现场。第一次不必像专家。"
-    },
-    {
-      "kind": "textbox",
-      "name": "讲者",
-      "path": "/slide[8]/讲者",
-      "frame": {
-        "left": 39.6,
-        "top": 478.8,
-        "width": 864.0,
+        "left": 57.6,
+        "top": 183.6,
+        "width": 252.0,
         "height": 25.2
       },
-      "text": "喜娜 Heena Rathore"
+      "text": "01"
+    },
+    {
+      "kind": "textbox",
+      "name": "建议标题1",
+      "path": "/slide[8]/建议标题1",
+      "frame": {
+        "left": 57.6,
+        "top": 216.0,
+        "width": 255.6,
+        "height": 79.2
+      },
+      "text": "走进一个学术现场"
+    },
+    {
+      "kind": "textbox",
+      "name": "建议正文1",
+      "path": "/slide[8]/建议正文1",
+      "frame": {
+        "left": 57.6,
+        "top": 302.4,
+        "width": 255.6,
+        "height": 158.4
+      },
+      "text": "讲座、论坛、读书会都可以。先坐在后排听，再试着问一个问题。"
+    },
+    {
+      "kind": "shape",
+      "name": "建议底2",
+      "path": "/slide[8]/建议底2",
+      "frame": {
+        "left": 345.6,
+        "top": 172.8,
+        "width": 291.6,
+        "height": 309.6
+      }
+    },
+    {
+      "kind": "textbox",
+      "name": "建议号2",
+      "path": "/slide[8]/建议号2",
+      "frame": {
+        "left": 363.6,
+        "top": 183.6,
+        "width": 252.0,
+        "height": 25.2
+      },
+      "text": "02"
+    },
+    {
+      "kind": "textbox",
+      "name": "建议标题2",
+      "path": "/slide[8]/建议标题2",
+      "frame": {
+        "left": 363.6,
+        "top": 216.0,
+        "width": 255.6,
+        "height": 79.2
+      },
+      "text": "做一件对别人有用的小事"
+    },
+    {
+      "kind": "textbox",
+      "name": "建议正文2",
+      "path": "/slide[8]/建议正文2",
+      "frame": {
+        "left": 363.6,
+        "top": 302.4,
+        "width": 255.6,
+        "height": 158.4
+      },
+      "text": "志愿不是装饰简历。在真实现场里沟通、等待、负责，本身就是训练。"
+    },
+    {
+      "kind": "shape",
+      "name": "建议底3",
+      "path": "/slide[8]/建议底3",
+      "frame": {
+        "left": 651.6,
+        "top": 172.8,
+        "width": 291.6,
+        "height": 309.6
+      }
+    },
+    {
+      "kind": "textbox",
+      "name": "建议号3",
+      "path": "/slide[8]/建议号3",
+      "frame": {
+        "left": 669.6,
+        "top": 183.6,
+        "width": 252.0,
+        "height": 25.2
+      },
+      "text": "03"
+    },
+    {
+      "kind": "textbox",
+      "name": "建议标题3",
+      "path": "/slide[8]/建议标题3",
+      "frame": {
+        "left": 669.6,
+        "top": 216.0,
+        "width": 255.6,
+        "height": 79.2
+      },
+      "text": "介绍一次自己的来处"
+    },
+    {
+      "kind": "textbox",
+      "name": "建议正文3",
+      "path": "/slide[8]/建议正文3",
+      "frame": {
+        "left": 669.6,
+        "top": 302.4,
+        "width": 255.6,
+        "height": 158.4
+      },
+      "text": "也认真听别人的来处。交流不是说服，是彼此多理解一步。"
     },
     {
       "kind": "notes",
       "name": "speakerNotes",
       "path": "/slide[8]/speakerNotes",
-      "text": "结束：欢迎提问。强调可靠、在场和互相理解。",
+      "text": "收束到新生可以立刻做的三件事，避免空泛鸡汤。",
       "visible": true
     }
   ]

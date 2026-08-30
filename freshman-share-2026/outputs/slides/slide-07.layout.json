@@ -1,7 +1,7 @@
 {
   "slide": 7,
-  "id": "advice",
-  "kind": "advice",
+  "id": "gallery",
+  "kind": "gallery",
   "frame": {
     "left": 0,
     "top": 0,
@@ -66,7 +66,7 @@
         "width": 338.4,
         "height": 21.6
       },
-      "text": "可以马上开始"
+      "text": "更多现场"
     },
     {
       "kind": "textbox",
@@ -90,7 +90,7 @@
         "width": 122.4,
         "height": 17.28
       },
-      "text": "07 / 08"
+      "text": "07 / 09"
     },
     {
       "kind": "textbox",
@@ -98,158 +98,113 @@
       "path": "/slide[7]/标题 1",
       "frame": {
         "left": 39.6,
-        "top": 82.8,
+        "top": 75.6,
         "width": 878.4,
-        "height": 72.0
+        "height": 57.6
       },
-      "text": "三件小事，比一份完美计划更有用"
+      "text": "这些照片，都是走进现场以后留下的"
     },
     {
-      "kind": "shape",
-      "name": "建议底1",
-      "path": "/slide[7]/建议底1",
+      "kind": "image",
+      "name": "相册1",
+      "path": "/slide[7]/相册1",
       "frame": {
-        "left": 39.6,
-        "top": 172.8,
-        "width": 291.6,
-        "height": 309.6
-      }
-    },
-    {
-      "kind": "textbox",
-      "name": "建议号1",
-      "path": "/slide[7]/建议号1",
-      "frame": {
-        "left": 57.6,
-        "top": 183.6,
-        "width": 252.0,
-        "height": 25.2
+        "left": 32.4,
+        "top": 147.6,
+        "width": 219.6,
+        "height": 162.0
       },
-      "text": "01"
+      "image": true
     },
     {
-      "kind": "textbox",
-      "name": "建议标题1",
-      "path": "/slide[7]/建议标题1",
+      "kind": "image",
+      "name": "相册2",
+      "path": "/slide[7]/相册2",
       "frame": {
-        "left": 57.6,
-        "top": 216.0,
-        "width": 255.6,
-        "height": 79.2
+        "left": 264.24,
+        "top": 147.6,
+        "width": 219.6,
+        "height": 162.0
       },
-      "text": "走进一个学术现场"
+      "image": true
     },
     {
-      "kind": "textbox",
-      "name": "建议正文1",
-      "path": "/slide[7]/建议正文1",
+      "kind": "image",
+      "name": "相册3",
+      "path": "/slide[7]/相册3",
       "frame": {
-        "left": 57.6,
-        "top": 302.4,
-        "width": 255.6,
-        "height": 158.4
+        "left": 496.08,
+        "top": 147.6,
+        "width": 219.6,
+        "height": 162.0
       },
-      "text": "讲座、论坛、读书会都可以。先坐在后排听，再试着问一个问题。"
+      "image": true
     },
     {
-      "kind": "shape",
-      "name": "建议底2",
-      "path": "/slide[7]/建议底2",
+      "kind": "image",
+      "name": "相册4",
+      "path": "/slide[7]/相册4",
       "frame": {
-        "left": 345.6,
-        "top": 172.8,
-        "width": 291.6,
-        "height": 309.6
-      }
-    },
-    {
-      "kind": "textbox",
-      "name": "建议号2",
-      "path": "/slide[7]/建议号2",
-      "frame": {
-        "left": 363.6,
-        "top": 183.6,
-        "width": 252.0,
-        "height": 25.2
+        "left": 727.92,
+        "top": 147.6,
+        "width": 219.6,
+        "height": 162.0
       },
-      "text": "02"
+      "image": true
     },
     {
-      "kind": "textbox",
-      "name": "建议标题2",
-      "path": "/slide[7]/建议标题2",
+      "kind": "image",
+      "name": "相册5",
+      "path": "/slide[7]/相册5",
       "frame": {
-        "left": 363.6,
-        "top": 216.0,
-        "width": 255.6,
-        "height": 79.2
+        "left": 32.4,
+        "top": 324.0,
+        "width": 219.6,
+        "height": 162.0
       },
-      "text": "做一件对别人有用的小事"
+      "image": true
     },
     {
-      "kind": "textbox",
-      "name": "建议正文2",
-      "path": "/slide[7]/建议正文2",
+      "kind": "image",
+      "name": "相册6",
+      "path": "/slide[7]/相册6",
       "frame": {
-        "left": 363.6,
-        "top": 302.4,
-        "width": 255.6,
-        "height": 158.4
+        "left": 264.24,
+        "top": 324.0,
+        "width": 219.6,
+        "height": 162.0
       },
-      "text": "志愿不是装饰简历。在真实现场里沟通、等待、负责，本身就是训练。"
+      "image": true
     },
     {
-      "kind": "shape",
-      "name": "建议底3",
-      "path": "/slide[7]/建议底3",
+      "kind": "image",
+      "name": "相册7",
+      "path": "/slide[7]/相册7",
       "frame": {
-        "left": 651.6,
-        "top": 172.8,
-        "width": 291.6,
-        "height": 309.6
-      }
-    },
-    {
-      "kind": "textbox",
-      "name": "建议号3",
-      "path": "/slide[7]/建议号3",
-      "frame": {
-        "left": 669.6,
-        "top": 183.6,
-        "width": 252.0,
-        "height": 25.2
+        "left": 496.08,
+        "top": 324.0,
+        "width": 219.6,
+        "height": 162.0
       },
-      "text": "03"
+      "image": true
     },
     {
-      "kind": "textbox",
-      "name": "建议标题3",
-      "path": "/slide[7]/建议标题3",
+      "kind": "image",
+      "name": "相册8",
+      "path": "/slide[7]/相册8",
       "frame": {
-        "left": 669.6,
-        "top": 216.0,
-        "width": 255.6,
-        "height": 79.2
+        "left": 727.92,
+        "top": 324.0,
+        "width": 219.6,
+        "height": 162.0
       },
-      "text": "介绍一次自己的来处"
-    },
-    {
-      "kind": "textbox",
-      "name": "建议正文3",
-      "path": "/slide[7]/建议正文3",
-      "frame": {
-        "left": 669.6,
-        "top": 302.4,
-        "width": 255.6,
-        "height": 158.4
-      },
-      "text": "也认真听别人的来处。交流不是说服，是彼此多理解一步。"
+      "image": true
     },
     {
       "kind": "notes",
       "name": "speakerNotes",
       "path": "/slide[7]/speakerNotes",
-      "text": "收束到新生可以立刻做的三件事，避免空泛鸡汤。",
+      "text": "补充现场：地铁站台、护苗课堂、本原讲堂结业、课堂表达、文化交流手绘、中大春节装置、中国传统服饰体验。",
       "visible": true
     }
   ]

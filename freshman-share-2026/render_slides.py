@@ -107,7 +107,7 @@ def brand_bar(base: Image.Image, meta: dict, light: bool, right: str, page: int,
 
 
 def render_cover(slide, meta, photos, page, total) -> Image.Image:
-    base = cover_image(ROOT / slide["background"], darken=0.55)
+    base = cover_image(ROOT / slide["background"], darken=0.68)
     veil = Image.new("RGBA", (W, H), (0, 24, 12, 0))
     vd = ImageDraw.Draw(veil)
     for x in range(W):
@@ -292,9 +292,35 @@ def render_advice(slide, meta, photos, page, total) -> Image.Image:
     return base
 
 
+def render_gallery(slide, meta, photos, page, total) -> Image.Image:
+    base = cream_bg()
+    draw = ImageDraw.Draw(base)
+    brand_bar(base, meta, True, slide["kicker"], page, total)
+    draw_text(draw, (88, 140), slide["kicker"], font(SANS_MED, 22), GOLD)
+    title_font = font(SERIF_BOLD, 44)
+    y = 184
+    for line in wrap(draw, slide["title"], title_font, 1740):
+        draw_text(draw, (88, y), line, title_font, GREEN)
+        y += 56
+    items = slide["items"]
+    cols, rows = 4, 2
+    gap = 18
+    grid_top = 320
+    grid_h = 680
+    cell_w = (W - 176 - gap * (cols - 1)) // cols
+    cell_h = (grid_h - gap) // rows
+    for i, item in enumerate(items):
+        r, c = divmod(i, cols)
+        x = 88 + c * (cell_w + gap)
+        top = grid_top + r * (cell_h + gap)
+        spec = {"label": "", "caption": item["label"], "usingFallback": False}
+        base.paste(photo_panel(ROOT / item["photo"], spec, (cell_w, cell_h)), (x, top))
+    return base
+
+
 def render_close(slide, meta, photos, page, total) -> Image.Image:
-    base = cover_image(ROOT / slide["background"], darken=0.5)
-    veil = Image.new("RGBA", (W, H), (0, 28, 14, 150))
+    base = cover_image(ROOT / slide["background"], darken=0.62)
+    veil = Image.new("RGBA", (W, H), (0, 28, 14, 120))
     base = Image.alpha_composite(base.convert("RGBA"), veil).convert("RGB")
     draw = ImageDraw.Draw(base)
     brand_bar(base, meta, False, slide["kicker"], page, total)
@@ -314,6 +340,7 @@ RENDERERS = {
     "quote": render_quote,
     "map": render_map,
     "experience": render_experience,
+    "gallery": render_gallery,
     "advice": render_advice,
     "close": render_close,
 }

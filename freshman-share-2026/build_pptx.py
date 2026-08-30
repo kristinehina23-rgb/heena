@@ -202,6 +202,15 @@ def build_native(photos: dict) -> Path:
             add_text(slide, "文本框 21", Inches(0.6), Inches(4.9), Inches(5.2), Inches(1.55), data["body"], size=13, color=CREAM)
             add_picture(slide, "图片 29", photo_of(photos, data["image1"]), Inches(6.2), Inches(0.85), Inches(3.35), Inches(5.95))
             add_picture(slide, "图片 23", photo_of(photos, data["image2"]), Inches(9.7), Inches(0.85), Inches(3.25), Inches(5.95))
+        elif kind == "gallery":
+            add_rect(slide, "底", 0, 0, WIDE, HIGH, PAPER)
+            brand(slide, True, data["kicker"], i, total, meta)
+            add_text(slide, "标题 1", Inches(0.55), Inches(1.05), Inches(12.2), Inches(0.8), data["title"], size=24, bold=True, color=GREEN, font=FONT_SERIF)
+            for n, item in enumerate(data["items"]):
+                col, row = n % 4, n // 4
+                left = Inches(0.45 + col * 3.22)
+                top = Inches(2.05 + row * 2.45)
+                add_picture(slide, f"相册{n+1}", ROOT / item["photo"], left, top, Inches(3.05), Inches(2.25))
         elif kind == "advice":
             add_rect(slide, "底", 0, 0, WIDE, HIGH, PAPER)
             brand(slide, True, data["kicker"], i, total, meta)

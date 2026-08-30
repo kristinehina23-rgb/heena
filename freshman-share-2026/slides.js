@@ -155,6 +155,28 @@ function renderExperience(slide, meta, photos, i, n) {
     </section>`;
 }
 
+function renderGallery(slide, meta, i, n) {
+  const cells = slide.items
+    .map(
+      (it) => `
+      <figure class="gallery-card">
+        <img src="${it.photo}" alt="${it.label}">
+        <figcaption>${it.label}</figcaption>
+      </figure>`
+    )
+    .join("");
+  return `
+    <section class="slide slide-gallery" data-id="${slide.id}">
+      ${topbar(meta, true, slide.kicker)}
+      <div class="inner">
+        <div class="kicker" style="color:var(--gold)">${slide.kicker}</div>
+        <h1>${slide.title}</h1>
+        <div class="gallery-grid">${cells}</div>
+      </div>
+      ${footbar(meta, i, n, true)}
+    </section>`;
+}
+
 function renderAdvice(slide, meta, i, n) {
   const cards = slide.items
     .map(
@@ -204,6 +226,8 @@ function renderSlide(slide, meta, photos, i, n) {
       return renderMap(slide, meta, i, n);
     case "experience":
       return renderExperience(slide, meta, photos, i, n);
+    case "gallery":
+      return renderGallery(slide, meta, i, n);
     case "advice":
       return renderAdvice(slide, meta, i, n);
     case "close":
