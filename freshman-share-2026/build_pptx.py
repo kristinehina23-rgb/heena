@@ -17,13 +17,14 @@ from pptx.oxml.ns import qn
 from pptx.util import Inches, Pt
 
 from export_layout import export as export_layout
+from make_ppt import build as build_show_pptx
 from render_slides import render_all
 
 ROOT = Path(__file__).resolve().parent
 CONTENT = json.loads((ROOT / "content.json").read_text(encoding="utf-8"))
 OUTPUTS = ROOT / "outputs"
 SLIDE_DIR = OUTPUTS / "slides"
-PPTX_NAME = "喜娜_中大本科新生分享_丰富经历照片终版_2026.pptx"
+PPTX_NAME = "喜娜_中大本科新生分享_丰富经历照片终版_2026_editable.pptx"
 
 # Office-safe TrueType family. Do not use 等线 / DengXian:
 # artifact-tool cannot decode its embedded OTTO/CFF scaler (0x4F54544F),
@@ -220,32 +221,18 @@ def build_native(photos: dict) -> Path:
     return out
 
 
-def build_preview_pptx(pngs: list[Path]) -> Path:
-    prs = Presentation()
-    prs.slide_width = WIDE
-    prs.slide_height = HIGH
-    blank = prs.slide_layouts[6]
-    for data, png in zip(CONTENT["slides"], pngs):
-        slide = prs.slides.add_slide(blank)
-        add_picture(slide, "slide-preview", png, 0, 0, WIDE, HIGH)
-        add_notes(slide, data.get("notes", ""))
-    out = OUTPUTS / "喜娜_中大本科新生分享_丰富经历照片终版_2026_preview.pptx"
-    prs.save(out)
-    return out
-
-
 def main() -> int:
     convert_emblems()
     photos = resolve_photos()
     missing = [k for k, v in photos.items() if v["usingFallback"]]
     if missing:
         print("using campus atmosphere photos for:", ", ".join(missing), flush=True)
-    pngs = render_all(photos, SLIDE_DIR)
+    render_all(photos, SLIDE_DIR)
     editable = build_native(photos)
-    preview = build_preview_pptx(pngs)
+    show = build_show_pptx()
     export_layout(editable)
+    print(show)
     print(editable)
-    print(preview)
     print("fonts: Microsoft YaHei / Noto Serif CJK SC (not 等线/DengXian, not embedded OTTO)")
     return 0
 

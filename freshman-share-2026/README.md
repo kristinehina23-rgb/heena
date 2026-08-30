@@ -20,9 +20,16 @@ Then open [http://127.0.0.1:8765/freshman-share-2026/](http://127.0.0.1:8765/fre
 python3 freshman-share-2026/build_pptx.py
 ```
 
-Output:
+Presentable PowerPoint (open this one):
 
-`freshman-share-2026/outputs/喜娜_中大本科新生分享_丰富经历照片终版_2026.pptx`
+`freshman-share-2026/喜娜_中大本科新生分享_丰富经历照片终版_2026.pptx`
+
+Same file also at:
+
+- `freshman-share-2026/Heena-SYSU-Freshman-Share-2026.pptx`
+- `freshman-share-2026/outputs/喜娜_中大本科新生分享_丰富经历照片终版_2026.pptx`
+
+Rebuild with `python3 freshman-share-2026/make_ppt.py` after the slide PNGs exist, or `python3 freshman-share-2026/build_pptx.py` for a full rebuild.
 
 ## Personal photos
 

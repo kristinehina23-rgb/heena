@@ -11,6 +11,7 @@ from pptx import Presentation
 
 ROOT = Path(__file__).resolve().parent
 PPTX = ROOT / "outputs" / "喜娜_中大本科新生分享_丰富经历照片终版_2026.pptx"
+EDITABLE = ROOT / "outputs" / "喜娜_中大本科新生分享_丰富经历照片终版_2026_editable.pptx"
 REQUIRED = {
     4: ["标题 1", "文本框 25", "文本框 7", "文本框 10", "文本框 12", "文本框 13", "文本框 22", "文本框 21", "图片 29", "图片 23"],
     5: ["标题 1", "文本框 25", "文本框 7", "文本框 10", "文本框 12", "文本框 13", "文本框 22", "文本框 21", "图片 29", "图片 23"],
@@ -20,7 +21,14 @@ REQUIRED = {
 
 def main() -> None:
     assert PPTX.exists(), PPTX
-    prs = Presentation(PPTX)
+    show = Presentation(PPTX)
+    assert len(show.slides) == 8
+    for slide in show.slides:
+        assert slide.notes_slide.notes_text_frame.text.strip()
+        assert any(s.shape_type is not None for s in slide.shapes)
+
+    assert EDITABLE.exists(), EDITABLE
+    prs = Presentation(EDITABLE)
     assert len(prs.slides) == 8
     for idx, names in REQUIRED.items():
         have = {s.name for s in prs.slides[idx - 1].shapes}
@@ -29,7 +37,7 @@ def main() -> None:
         notes = prs.slides[idx - 1].notes_slide.notes_text_frame.text
         assert notes.strip(), idx
 
-    with zipfile.ZipFile(PPTX) as z:
+    with zipfile.ZipFile(EDITABLE) as z:
         assert not any("font" in n.lower() and n.endswith((".fntdata", ".odttf", ".eot")) for n in z.namelist())
         xml = b"".join(z.read(n) for n in z.namelist() if n.endswith(".xml"))
     assert b"DengXian" not in xml
