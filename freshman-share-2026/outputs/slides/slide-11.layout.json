@@ -1,7 +1,7 @@
 {
-  "slide": 2,
-  "id": "opening",
-  "kind": "quote",
+  "slide": 11,
+  "id": "close",
+  "kind": "close",
   "frame": {
     "left": 0,
     "top": 0,
@@ -11,8 +11,8 @@
   "elements": [
     {
       "kind": "image",
-      "name": "slide-02",
-      "path": "/slide[2]/slide-02",
+      "name": "slide-11",
+      "path": "/slide[11]/slide-11",
       "frame": {
         "left": 0.0,
         "top": 0.0,
@@ -24,8 +24,8 @@
     {
       "kind": "notes",
       "name": "speakerNotes",
-      "path": "/slide[2]/speakerNotes",
-      "text": "告诉同学：这份分享来自真实现场，不是简历清单。",
+      "path": "/slide[11]/speakerNotes",
+      "text": "结束：欢迎提问。强调可靠、在场和互相理解。",
       "visible": true
     }
   ]

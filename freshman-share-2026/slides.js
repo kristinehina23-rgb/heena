@@ -194,7 +194,7 @@ function renderAdvice(slide, meta, i, n) {
       <div class="inner">
         <div class="kicker" style="color:var(--gold)">${slide.kicker}</div>
         <h1>${slide.title}</h1>
-        <div class="advice-grid">${cards}</div>
+        <div class="advice-grid cols-${slide.items.length}">${cards}</div>
       </div>
       ${footbar(meta, i, n, true)}
     </section>`;

@@ -464,9 +464,20 @@ body {
   margin-top: 28px;
 }
 
+.advice-grid.cols-4 {
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  height: 640px;
+}
+
 .advice-card {
   padding: 36px 34px 40px;
   min-height: 520px;
+}
+
+.advice-grid.cols-4 .advice-card {
+  min-height: 0;
+  padding: 28px 30px 30px;
 }
 
 .advice-card h2 {

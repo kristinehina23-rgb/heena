@@ -214,13 +214,24 @@ def build_native(photos: dict) -> Path:
         elif kind == "advice":
             add_rect(slide, "底", 0, 0, WIDE, HIGH, PAPER)
             brand(slide, True, data["kicker"], i, total, meta)
-            add_text(slide, "标题 1", Inches(0.55), Inches(1.15), Inches(12.2), Inches(1.0), data["title"], size=28, bold=True, color=GREEN, font=FONT_SERIF)
-            for n, item in enumerate(data["items"]):
-                left = Inches(0.55 + n * 4.25)
-                add_rect(slide, f"建议底{n+1}", left, Inches(2.4), Inches(4.05), Inches(4.3), WHITE)
-                add_text(slide, f"建议号{n+1}", left + Inches(0.25), Inches(2.55), Inches(3.5), Inches(0.35), item["n"], size=14, color=GOLD, bold=True)
-                add_text(slide, f"建议标题{n+1}", left + Inches(0.25), Inches(3.0), Inches(3.55), Inches(1.1), item["title"], size=18, bold=True, color=GREEN, font=FONT_SERIF)
-                add_text(slide, f"建议正文{n+1}", left + Inches(0.25), Inches(4.2), Inches(3.55), Inches(2.2), item["body"], size=14, color=INK)
+            add_text(slide, "标题 1", Inches(0.55), Inches(1.1), Inches(12.2), Inches(0.85), data["title"], size=26, bold=True, color=GREEN, font=FONT_SERIF)
+            items = data["items"]
+            if len(items) == 4:
+                for n, item in enumerate(items):
+                    col, row = n % 2, n // 2
+                    left = Inches(0.5 + col * 6.4)
+                    top = Inches(2.1 + row * 2.45)
+                    add_rect(slide, f"建议底{n+1}", left, top, Inches(6.15), Inches(2.3), WHITE)
+                    add_text(slide, f"建议号{n+1}", left + Inches(0.2), top + Inches(0.12), Inches(5.7), Inches(0.3), item["n"], size=13, color=GOLD, bold=True)
+                    add_text(slide, f"建议标题{n+1}", left + Inches(0.2), top + Inches(0.45), Inches(5.7), Inches(0.4), item["title"], size=16, bold=True, color=GREEN, font=FONT_SERIF)
+                    add_text(slide, f"建议正文{n+1}", left + Inches(0.2), top + Inches(0.95), Inches(5.7), Inches(1.2), item["body"], size=13, color=INK)
+            else:
+                for n, item in enumerate(items):
+                    left = Inches(0.55 + n * 4.25)
+                    add_rect(slide, f"建议底{n+1}", left, Inches(2.2), Inches(4.05), Inches(4.5), WHITE)
+                    add_text(slide, f"建议号{n+1}", left + Inches(0.25), Inches(2.35), Inches(3.5), Inches(0.35), item["n"], size=14, color=GOLD, bold=True)
+                    add_text(slide, f"建议标题{n+1}", left + Inches(0.25), Inches(2.8), Inches(3.55), Inches(1.0), item["title"], size=18, bold=True, color=GREEN, font=FONT_SERIF)
+                    add_text(slide, f"建议正文{n+1}", left + Inches(0.25), Inches(3.9), Inches(3.55), Inches(2.5), item["body"], size=14, color=INK)
         add_notes(slide, data.get("notes", ""))
 
     # Do not embed fonts. Office will substitute Microsoft YaHei / 微软雅黑.

@@ -11,8 +11,8 @@
   "elements": [
     {
       "kind": "image",
-      "name": "背景",
-      "path": "/slide[1]/背景",
+      "name": "slide-01",
+      "path": "/slide[1]/slide-01",
       "frame": {
         "left": 0.0,
         "top": 0.0,
@@ -20,136 +20,6 @@
         "height": 540.0
       },
       "image": true
-    },
-    {
-      "kind": "shape",
-      "name": "遮罩",
-      "path": "/slide[1]/遮罩",
-      "frame": {
-        "left": 0.0,
-        "top": 0.0,
-        "width": 960.0,
-        "height": 540.0
-      }
-    },
-    {
-      "kind": "image",
-      "name": "校徽",
-      "path": "/slide[1]/校徽",
-      "frame": {
-        "left": 27.36,
-        "top": 15.84,
-        "width": 30.24,
-        "height": 30.24
-      },
-      "image": true
-    },
-    {
-      "kind": "textbox",
-      "name": "校名",
-      "path": "/slide[1]/校名",
-      "frame": {
-        "left": 64.8,
-        "top": 14.4,
-        "width": 288.0,
-        "height": 20.16
-      },
-      "text": "中山大学"
-    },
-    {
-      "kind": "textbox",
-      "name": "校名英文",
-      "path": "/slide[1]/校名英文",
-      "frame": {
-        "left": 64.8,
-        "top": 31.68,
-        "width": 360.0,
-        "height": 15.84
-      },
-      "text": "SUN YAT-SEN UNIVERSITY"
-    },
-    {
-      "kind": "textbox",
-      "name": "页眉",
-      "path": "/slide[1]/页眉",
-      "frame": {
-        "left": 590.4,
-        "top": 20.16,
-        "width": 338.4,
-        "height": 21.6
-      },
-      "text": "中山大学 · 本科新生分享 · 2026"
-    },
-    {
-      "kind": "textbox",
-      "name": "校训",
-      "path": "/slide[1]/校训",
-      "frame": {
-        "left": 27.36,
-        "top": 512.64,
-        "width": 576.0,
-        "height": 17.28
-      },
-      "text": "博学　审问　慎思　明辨　笃行"
-    },
-    {
-      "kind": "textbox",
-      "name": "页码",
-      "path": "/slide[1]/页码",
-      "frame": {
-        "left": 806.4,
-        "top": 512.64,
-        "width": 122.4,
-        "height": 17.28
-      },
-      "text": "01 / 09"
-    },
-    {
-      "kind": "shape",
-      "name": "金线",
-      "path": "/slide[1]/金线",
-      "frame": {
-        "left": 43.2,
-        "top": 342.0,
-        "width": 61.2,
-        "height": 2.52
-      }
-    },
-    {
-      "kind": "textbox",
-      "name": "标题 1",
-      "path": "/slide[1]/标题 1",
-      "frame": {
-        "left": 39.6,
-        "top": 352.8,
-        "width": 864.0,
-        "height": 93.6
-      },
-      "text": "先去现场，才知道自己能走多远"
-    },
-    {
-      "kind": "textbox",
-      "name": "副标题",
-      "path": "/slide[1]/副标题",
-      "frame": {
-        "left": 39.6,
-        "top": 450.0,
-        "width": 864.0,
-        "height": 28.8
-      },
-      "text": "学术、志愿、文化：我走过的三条路"
-    },
-    {
-      "kind": "textbox",
-      "name": "讲者",
-      "path": "/slide[1]/讲者",
-      "frame": {
-        "left": 39.6,
-        "top": 478.8,
-        "width": 864.0,
-        "height": 25.2
-      },
-      "text": "喜娜 Heena Rathore"
     },
     {
       "kind": "notes",

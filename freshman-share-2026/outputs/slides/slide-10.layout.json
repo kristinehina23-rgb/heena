@@ -1,7 +1,7 @@
 {
-  "slide": 2,
-  "id": "opening",
-  "kind": "quote",
+  "slide": 10,
+  "id": "advice",
+  "kind": "advice",
   "frame": {
     "left": 0,
     "top": 0,
@@ -11,8 +11,8 @@
   "elements": [
     {
       "kind": "image",
-      "name": "slide-02",
-      "path": "/slide[2]/slide-02",
+      "name": "slide-10",
+      "path": "/slide[10]/slide-10",
       "frame": {
         "left": 0.0,
         "top": 0.0,
@@ -24,8 +24,8 @@
     {
       "kind": "notes",
       "name": "speakerNotes",
-      "path": "/slide[2]/speakerNotes",
-      "text": "告诉同学：这份分享来自真实现场，不是简历清单。",
+      "path": "/slide[10]/speakerNotes",
+      "text": "收束到新生可以立刻做的三件事，避免空泛鸡汤。",
       "visible": true
     }
   ]

@@ -22,14 +22,15 @@ REQUIRED = {
 def main() -> None:
     assert PPTX.exists(), PPTX
     show = Presentation(PPTX)
-    assert len(show.slides) == 9
+    expected = len(json.loads((ROOT / "content.json").read_text(encoding="utf-8"))["slides"])
+    assert len(show.slides) == expected
     for slide in show.slides:
         assert slide.notes_slide.notes_text_frame.text.strip()
         assert any(s.shape_type is not None for s in slide.shapes)
 
     assert EDITABLE.exists(), EDITABLE
     prs = Presentation(EDITABLE)
-    assert len(prs.slides) == 9
+    assert len(prs.slides) == expected
     for idx, names in REQUIRED.items():
         have = {s.name for s in prs.slides[idx - 1].shapes}
         missing = [n for n in names if n not in have]

@@ -265,30 +265,36 @@ def render_advice(slide, meta, photos, page, total) -> Image.Image:
     draw = ImageDraw.Draw(base)
     brand_bar(base, meta, True, slide["kicker"], page, total)
     draw_text(draw, (88, 150), slide["kicker"], font(SANS_MED, 22), GOLD)
-    title_font = font(SERIF_BOLD, 50)
+    title_font = font(SERIF_BOLD, 46)
     y = 196
     for line in wrap(draw, slide["title"], title_font, 1700):
         draw_text(draw, (88, y), line, title_font, GREEN)
-        y += 64
-    gap = 28
-    card_w = (W - 176 - gap * 2) // 3
-    top = 360
-    card_h = 620
-    for i, item in enumerate(slide["items"]):
-        x = 88 + i * (card_w + gap)
-        draw.rectangle((x, top, x + card_w, top + card_h), fill=WHITE)
-        draw.rectangle((x, top, x + card_w, top + 8), fill=GOLD)
-        draw_text(draw, (x + 36, top + 36), item["n"], font(SANS_MED, 26), GOLD)
-        hf = font(SERIF_BOLD, 34)
-        yy = top + 90
-        for line in wrap(draw, item["title"], hf, card_w - 72):
-            draw_text(draw, (x + 36, yy), line, hf, GREEN)
-            yy += 50
-        bf = font(SANS, 24)
-        yy += 16
-        for line in wrap(draw, item["body"], bf, card_w - 72):
-            draw_text(draw, (x + 36, yy), line, bf, INK)
-            yy += 40
+        y += 58
+    items = slide["items"]
+    cols = 2 if len(items) == 4 else max(1, len(items))
+    rows = 2 if len(items) == 4 else 1
+    gap = 24
+    top = y + 20
+    grid_h = 1000 - top
+    card_w = (W - 176 - gap * (cols - 1)) // cols
+    card_h = (grid_h - gap * (rows - 1)) // rows
+    for i, item in enumerate(items):
+        r, c = divmod(i, cols)
+        x = 88 + c * (card_w + gap)
+        cy = top + r * (card_h + gap)
+        draw.rectangle((x, cy, x + card_w, cy + card_h), fill=WHITE)
+        draw.rectangle((x, cy, x + card_w, cy + 8), fill=GOLD)
+        draw_text(draw, (x + 32, cy + 28), item["n"], font(SANS_MED, 24), GOLD)
+        hf = font(SERIF_BOLD, 30 if len(items) == 4 else 34)
+        yy = cy + 72
+        for line in wrap(draw, item["title"], hf, card_w - 64):
+            draw_text(draw, (x + 32, yy), line, hf, GREEN)
+            yy += 42
+        bf = font(SANS, 22 if len(items) == 4 else 24)
+        yy += 8
+        for line in wrap(draw, item["body"], bf, card_w - 64):
+            draw_text(draw, (x + 32, yy), line, bf, INK)
+            yy += 36
     return base
 
 

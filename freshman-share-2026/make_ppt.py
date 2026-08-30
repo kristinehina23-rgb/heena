@@ -30,9 +30,10 @@ def jpeg_bytes(png_path: Path) -> bytes:
 
 
 def build() -> Path:
-    pngs = sorted(SLIDE_DIR.glob("slide-0*.png"))
-    if len(pngs) != 9:
-        raise SystemExit(f"expected 8 slide PNGs, found {len(pngs)}")
+    pngs = sorted(SLIDE_DIR.glob("slide-*.png"))
+    expected = len(CONTENT["slides"])
+    if len(pngs) != expected:
+        raise SystemExit(f"expected {expected} slide PNGs, found {len(pngs)}")
 
     prs = Presentation()
     prs.slide_width = WIDE

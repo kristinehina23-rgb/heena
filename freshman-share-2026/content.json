@@ -173,6 +173,59 @@
       ]
     },
     {
+      "id": "grad-channels",
+      "kind": "advice",
+      "kicker": "想继续在中国读书",
+      "title": "升学信息，先走官方渠道",
+      "items": [
+        {
+          "n": "01",
+          "title": "学校招生页",
+          "body": "先看中大外国留学生办公室 iso.sysu.edu.cn 当年的《国际学生硕士/博士招生简章》。报名在 apply.sysu.edu.cn 完成。"
+        },
+        {
+          "n": "02",
+          "title": "国家留学基金委",
+          "body": "中国政府奖学金在 studyinchina.csc.edu.cn 或 campuschina.org 申请。申请中大通常选 Type B，机构代码 10558。"
+        },
+        {
+          "n": "03",
+          "title": "问办公室，也问导师",
+          "body": "招生咨询：admissions@mail.sysu.edu.cn，电话 +86-20-84110819。读研读博还要联系学院和意向导师，网页不能代替对话。"
+        }
+      ],
+      "notes": "升学渠道只讲官方入口，并提醒以当年简章为准。\n\n[Sources]\n- 中山大学外国留学生办公室 https://iso.sysu.edu.cn\n- 中山大学国际学生报名系统 https://apply.sysu.edu.cn\n- 中国政府奖学金来华留学管理信息系统 http://studyinchina.csc.edu.cn / https://www.campuschina.org\n- 中大机构代码 10558；咨询 admissions@mail.sysu.edu.cn，+86-20-84110819"
+    },
+    {
+      "id": "grad-prep",
+      "kind": "advice",
+      "kicker": "本科就可以开始",
+      "title": "申请以前，这四件事最值得练",
+      "items": [
+        {
+          "n": "01",
+          "title": "语言过硬",
+          "body": "中文授课看 HSK；英文项目看学校要求的英语成绩。真正过关的，是能听课、能写学习计划，而不只是一张证书。"
+        },
+        {
+          "n": "02",
+          "title": "成绩和材料",
+          "body": "保持成绩。提前准备成绩单、推荐信、学习或研究计划。在中国读完本科，毕业时还需要学信网的学历学位验证。"
+        },
+        {
+          "n": "03",
+          "title": "找到研究方向",
+          "body": "听讲座、读一篇导师论文、试着提问。博士尤其要提前写信联系导师，说明你读过什么、想做什么。"
+        },
+        {
+          "n": "04",
+          "title": "看准时间表",
+          "body": "简章每年更新，以 iso.sysu.edu.cn 当年文件为准。学校系统和奖学金系统常常要同时填，不要只记一个截止日期。"
+        }
+      ],
+      "notes": "强调本科阶段就能开始的准备，不把某一年的报名批次说成固定时间。\n\n[Sources]\n- 中山大学国际学生硕士/博士招生简章（外国留学生办公室公布）\n- 学信网 https://www.chsi.com.cn 学历学位验证要求"
+    },
+    {
       "id": "advice",
       "kind": "advice",
       "kicker": "可以马上开始",

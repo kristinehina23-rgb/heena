@@ -20,6 +20,8 @@ Then open [http://127.0.0.1:8765/freshman-share-2026/](http://127.0.0.1:8765/fre
 python3 freshman-share-2026/build_pptx.py
 ```
 
+The deck now includes two slides for international students who want to continue to a master’s or PhD in China: official information channels, and four things that can start in the undergraduate years.
+
 Presentable PowerPoint (open this one):
 
 `freshman-share-2026/喜娜_中大本科新生分享_丰富经历照片终版_2026.pptx`
