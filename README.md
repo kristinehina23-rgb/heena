@@ -5,5 +5,5 @@ PhD thesis working files.
 - Literature-review destination (gap paragraph): [`dissertation/GAP-STATEMENT.md`](dissertation/GAP-STATEMENT.md)
 - Current title and chapter outline: [`dissertation/OUTLINE.md`](dissertation/OUTLINE.md)
 - Chinese short outline: [`dissertation/OUTLINE-zh.md`](dissertation/OUTLINE-zh.md)
-- Undermind evidence tables (papers 1–120 of 240): [`literature/`](literature/)
-- Zotero import (RIS / BibTeX / DOI list): [`literature/zotero/HOW-TO-IMPORT.md`](literature/zotero/HOW-TO-IMPORT.md)
+- Undermind evidence tables (papers 1–220 of a stated 240): [`literature/`](literature/)
+- Zotero import of 220 papers: [`literature/zotero/HOW-TO-IMPORT.md`](literature/zotero/HOW-TO-IMPORT.md)

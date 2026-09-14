@@ -6,7 +6,7 @@ Recontextualization of Chinese-Language Teaching Materials and Teacher Agency am
 **Chinese title**  
 巴基斯坦本土中文教师的中文教材再语境化与教师能动性研究——一项生态视角下的质性研究
 
-This outline is written to the new title and to the user’s abstract. It also uses the Undermind evidence tables for papers 1–120 (of 240). Papers 121–240 are not yet in the tables and should be folded into Chapter 2 when they arrive.
+This outline is written to the new title and to the user’s abstract. It uses the Undermind evidence tables for papers **1–220** of a stated 240. The file labelled 181–240 contains 40 rows (papers 181–220). Papers **221–240 are missing** from that Word file.
 
 ---
 
@@ -154,7 +154,7 @@ Write toward 50–60 pages by developing each section with argument, not by list
 
 ### 2.1 Introduction and review strategy
 - Why these four fields: (1) materials use and recontextualization; (2) teacher agency, especially ecological; (3) CFL/CAL materials and teachers; (4) Pakistan and comparable Global South settings.
-- Search note: Undermind deep search, 240 papers; this outline uses 1–120. State inclusion focus: empirical or conceptual work on **teachers using/adapting materials** or **teacher agency in curriculum/materials**, plus CFL/CAL studies.
+- Search note: Undermind deep search, stated 240 papers; this outline uses **1–220** (the last Word file has 40 rows, not 60). State inclusion focus: empirical or conceptual work on **teachers using/adapting materials** or **teacher agency in curriculum/materials**, plus CFL/CAL studies.
 - Announce the gap early: almost no study of Pakistani teachers of Chinese as agents who recontextualize materials.
 
 ### 2.2 Language teaching materials: from evaluation to use and recontextualization
@@ -240,7 +240,7 @@ No single theory covers the title. Bernstein-type recontextualization explains *
 
 ### 3.2 Recontextualization of teaching materials
 - Pedagogic recontextualization: selection, relocation, delocation, transformation of knowledge and texts for a new pedagogic site (use Bernstein’s pedagogic device in the actual chapter; keep the wording precise and cited from the original, not from secondary slogans).
-- Classroom-level recontextualization in language teaching: Yasasri (2024); Ling et al. (2023); Yu (2015); Rathert’s adaptation moves as observable traces of recontextualization.
+- Classroom-level recontextualization in language teaching: Yasasri (2024); Ling et al. (2023); Yu (2015); Alvunger (2018) on curriculum recontextualization as teacher agency; Nan et al. (2023) on translanguaging recontextualization in Indonesian Mandarin teaching; Rathert’s adaptation moves as observable traces of recontextualization.
 - Distinguish:
   - **official recontextualization** (syllabus, HSK, prescribed book)
   - **teacher recontextualization** (lesson-level transformation)
@@ -430,7 +430,7 @@ A working account of **teacher-mediated localization** as ecological achievement
 - Do not recommend “replace HSK with a national book” as the automatic solution unless the data say so.
 
 ### 7.5 Limitations
-Sample, access to classrooms, English-heavy literature base until CNKI is complete, papers 121–240 not yet integrated, no learner-outcome measures.
+Sample, access to classrooms, English-heavy literature base until CNKI is complete, papers 221–240 missing from the last evidence table, no learner-outcome measures.
 
 ### 7.6 Further research
 Learner co-recontextualization; Chinese vs Pakistani teachers in the same department; longitudinal agency; digital/AI materials (Lin et al., 2025 only if relevant).
@@ -470,7 +470,7 @@ That is the main design correction from the previous draft.
 
 1. Lock title, abstract, RQs, and the Chapter 3 figure.  
 2. Rewrite Chapter 1 to the new problem (short).  
-3. Rebuild Chapter 2 in the four-field structure above; fold papers 1–120; add CNKI; then papers 121–240.  
+3. Rebuild Chapter 2 in the four-field structure above; fold papers 1–220; add CNKI; obtain papers 221–240 if Undermind still has them.  
 4. Write Chapter 3 as one model, one figure.  
 5. Freeze Chapter 4 around observation + interview + artefacts.  
 6. Collect / recode data to RQs 1–4.  
@@ -480,7 +480,7 @@ Do not expand old Chapter 2 in place. The spine has changed; old paragraphs can 
 
 ---
 
-## 8. Source map (papers 1–120 → chapters)
+## 8. Source map (papers 1–220 → chapters)
 
 **Core theory (must read in full PDF)**  
 Biesta & Tedder (2007); Priestley et al. (2012); Priestley, Biesta & Robinson (2015 book / 2015 beliefs paper / 2016 handbook chapter); Guerrettaz & Johnston (2013); Guerrettaz et al. (2022); Rathert & Cabaroğlu (2022); Bao, Ren & Wang (2020); Namgung et al. (2023); Leijen et al. (2020).
@@ -491,11 +491,29 @@ Yan & Weng (2026); Chen & Shu (2026); Dao et al. (2025); Hanifa et al. (2024); U
 **Coding tools**  
 Rathert (adaptation moves); Dao (acceptance/adaptation/resistance); Wang (constrained/transformative/progressive); Chen & Shu (compliant/persistent); Mao & Qi (use process); Hanifa (add/modify/delete/simplify/reorder).
 
-**Pakistan CFL (from earlier work, not from tables 1–120)**  
+**Pakistan CFL (from earlier work, not from the Undermind tables)**  
 Programme and materials studies; 王彩霞 (2022); Naheed (2026). Use for setting, not for the agency model.
 
 **Use only after full text**  
 Any row in the evidence tables marked abstract-only or metadata-only (Li & Harfitt 2017; Shawer 2010/2017; Guerrettaz 2021; Priestley 2013; and others flagged in the tables).
+
+### Papers 121–220 (added from the remaining evidence tables)
+
+These do **not** fill the gap paragraph. They strengthen analogues and coding tools.
+
+**Near-misses (read; do not treat as Pakistan CFL evidence)**  
+- Alvunger (2018): teacher curriculum agency with Bernstein’s pedagogic device / recontextualization — Sweden, not CFL.  
+- Nan et al. (2023): “recontextualization” of translanguaging in Indonesian Mandarin teaching — CFL, not ecological agency in Pakistan.  
+- Dassanayake (2023): localization checklist for Chinese textbooks in Sri Lanka — materials evaluation, not classroom agency.  
+- Loo (2026): localization largely left to teachers, with little institutional support — Southeast Asia, not Pakistan.
+
+**Add to closest empirical models**  
+Puspitasari, Yannuar & Zubaidi (2024) Indonesian CFL translanguaging; Storto & Haukås (2026) agentive reconfiguration of materials; Criado (2023) frequent adaptation ≠ deep localization; Neupane (2025) and Thapa & Upadhayaya (2026) Nepalese constraints and L1/culture mediation; Duangmanee & Waluyo (2024) school-based CFL localization in Thailand; Chen (2023) Bronfenbrenner agency in South China; Emans et al. (2025) agency-quality synthesis; Zhang et al. (2020) translanguaging in CFL classrooms.
+
+**Add to coding tools**  
+Çalışkan-Kılıç & Bümen (2024): offloading / adapting / omitting / improvising. Pratiwi et al. (2020): expansion, rewriting, abridging, subtraction, reordering. Chen, Fang & Zhang (2024): functions of translanguaging. White, Galloway & Jiménez (2023): translingual materials as mediating artifacts.
+
+**Still missing:** papers 221–240 (the last Word file stops at 40 rows). Still no Pakistani teachers of Chinese in these tables. Still no study that joins recontextualization of Chinese materials with ecological agency through classroom observation plus materials comparison in Pakistan.
 
 ---
 
