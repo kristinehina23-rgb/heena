@@ -144,6 +144,8 @@ One paragraph per chapter.
 
 ## Chapter 2  Literature review / 文献综述
 
+**Destination paragraph (write toward this only):** see `GAP-STATEMENT.md`. If a section does not help the reader understand that paragraph, it does not belong in this chapter.
+
 **Job of this chapter:** show that four literatures exist, that they have not been joined for Pakistani CFL teachers, and that the gap is therefore the title itself.
 
 Do **not** rebuild the old Chapter 2 around “how well materials fit Pakistan.” Fit studies become **one strand** under 2.4 and 2.5.
