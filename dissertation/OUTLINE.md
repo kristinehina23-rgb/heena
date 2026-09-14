@@ -154,10 +154,14 @@ Do **not** rebuild the old Chapter 2 around “how well materials fit Pakistan.�
 
 Write toward 50–60 pages by developing each **reason** with grouped sources as evidence (Booth chs. 5–7, 10.3, 12). Use the evidence tables as a source map, not as the outline of the prose. Mark abstract-only items for full-text reading before citation.
 
-### 2.1 Introduction and review strategy
-- Why these four fields: (1) materials use and recontextualization; (2) teacher agency, especially ecological; (3) CFL/CAL materials and teachers; (4) Pakistan and comparable Global South settings.
-- Search note: Undermind deep search, stated 240 papers; this outline uses **1–220** (the last Word file has 40 rows, not 60). State inclusion focus: empirical or conceptual work on **teachers using/adapting materials** or **teacher agency in curriculum/materials**, plus CFL/CAL studies.
-- Announce the gap early: almost no study of Pakistani teachers of Chinese as agents who recontextualize materials.
+### 2.1 Conceptual foundations
+- Context–problem–response (Booth): four neighbouring conversations; the conceptual problem is that they have not been joined for Pakistani teachers of Chinese.
+- **Recontextualization:** Bernstein’s pedagogic device (selective appropriation, relocation, refocusing; official vs pedagogic recontextualizing fields); competing uses as policy enactment (Yu), textbook/corpus analysis (Yasasri), adaptation-as-moves (Rathert), and translanguaging relocation (Nan). Working definition: pedagogic transformation of materials in class; adaptation moves are traces, not the operation. Distinguish official / teacher / interactional layers (operationalized in Chapter 3).
+- **Agency:** Emirbayer and Mische’s chordal triad; Biesta and Tedder’s ecological achievement. Competing definitions: personal capacity (Bandura), autonomy, ecological achievement, relational/sociomaterial (Hardman). Working definition: temporally shaped achievement in nested conditions, not a trait.
+- **Localization:** product history (national book, Urdu glosses, cultural substitution) versus process history (teachers making curricula local). Competing definitions: textbook production, cultural content, linguistic mediation, classroom work, fit. Working definition: process and outcome of teacher-mediated recontextualization; “the local” is constructed.
+- How the three work together: localization is the named problem; recontextualization is the mechanism; agency is the achievement that makes the mechanism possible.
+- Search note: Undermind 1–220; CNKI still required.
+- Announce the gap early.
 
 ### 2.2 Language teaching materials: from evaluation to use and recontextualization
 

@@ -107,3 +107,15 @@ Yan and Weng (2026) is cited as advance online publication (*Language Teaching R
 3. Obtain and read 王彩霞 (2022).  
 4. Run the CNKI search (教材再语境化, 教师能动性, 教材使用, 国际中文教育).  
 5. Papers 221–240 are still missing from the evidence-table Word file.
+
+---
+
+## Conceptual-foundations sources added in §2.1
+
+These are not in the 220-item RIS. They were added because the title concepts required a documented history and competing definitions. Bibliographic records:
+
+- **Bernstein, B. (2000).** *Pedagogy, symbolic control and identity: Theory, research, critique* (Rev. ed.). Rowman & Littlefield. (ISBN 0-8476-9575-1 / 0-8476-9576-X; originally 1996, Taylor & Francis.) Cite the revised edition. Chapter 3 must quote the pedagogic device from this volume, not from secondary slogans.
+- **Emirbayer, M., & Mische, A. (1998).** What is agency? *American Journal of Sociology, 103*(4), 962–1023. https://doi.org/10.1086/231294
+- **Bandura, A. (2001).** Social cognitive theory: An agentic perspective. *Annual Review of Psychology, 52*, 1–26. https://doi.org/10.1146/annurev.psych.52.1.1 — cited only as a **competing** definition (agency as personal capacity). The thesis does not use it as the working model.
+
+Add these three to Zotero with the Pakistan records.
