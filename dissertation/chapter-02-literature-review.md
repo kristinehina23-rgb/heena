@@ -2,7 +2,7 @@
 
 This chapter locates the thesis in the research conversations that the title joins. It does not survey every study of Chinese textbooks, nor does it evaluate how well *HSK Standard Course* “fits” Pakistani universities. Those are neighbouring problems. The problem here is conceptual: localization of Chinese-language teaching in Pakistan has been discussed as textbook production, while the literatures that could explain it as classroom work—materials-in-use, ecological teacher agency, and CFL/CAL mediation—have not been brought to bear on Pakistani teachers of Chinese.
 
-The chapter proceeds in three movements. Section 2.1 establishes working definitions of recontextualization (再语境化), teacher agency (教师能动性), and localization (本土化), because these terms are not used stably across fields. Sections 2.2–2.5 then show, as four reasons, why the existing literature cannot yet answer the title. Section 2.6 considers the strongest near-misses. Section 2.7 restates the gap that Chapters 3 and 4 must operationalize.
+The chapter proceeds from conceptual foundations through the core literature map. Section 2.1 establishes working definitions of recontextualization (再语境化), teacher agency (教师能动性), and localization (本土化), because these terms are not used stably across fields. Sections 2.2–2.8 then follow one argument: mismatch is a recurring starting condition when standardized materials travel; adaptation is professional work; that work is an ecological achievement; CFL localization and translanguaging are among its forms; and Pakistan is a focused case of the wider problem. Section 2.9 restates the gap that Chapters 3 and 4 must operationalize.
 
 The review draws primarily on English-language research concerned with teachers’ use and adaptation of materials, with ecological agency in curriculum and textbook settings, and with CFL/CAL mediation, together with the available studies of Chinese-language education in Pakistan. That corpus is sufficient to make the problem visible. It is not sufficient to claim that no Chinese-language treatment exists. Scholarship indexed on CNKI under 教材再语境化, 教师能动性, 教材使用, and 国际中文教育 remains part of the argument.
 
@@ -50,7 +50,7 @@ Teacher agency, in this review, is therefore an ecological achievement: the temp
 
 ### 2.1.3  Localization
 
-Localization entered language-materials research as a remedy for imported books. The older and still dominant story is a production story: global or metropolitan textbooks misfit local learners, and the solution is a national series, a local edition, cultural substitution, or L1 annotation. That story remains the default in Pakistan CFL writing. Lu et al. (2024) examine cultural, linguistic, and pedagogical gaps in *HSK Standard Course* and recommend Urdu annotations, cultural comparison, and localized modules. Lu and Hanif (2025), a related follow-on publication rather than an independent study, recommend adapting the curriculum and using Urdu as support. Naheed (2026) reports heavy use of *HSK Standard Course* among local teachers and recommends Urdu-enriched textbooks. Dassanayake’s (2023) Sri Lankan checklist starts from the same product logic: global Chinese books neglect L1, local culture, translation, cost, and regional need. Zhao’s Australian work is closer to classroom practice, but still often names the project as localising curriculum construction (Zhao, 2020, 2024).
+Localization entered language-materials research as a remedy for imported books. The older and still dominant story is a production story: global or metropolitan textbooks misfit local learners, and the solution is a national series, a local edition, cultural substitution, or L1 annotation. That story remains the default in Pakistan CFL writing. Lu et al. (2024) examine cultural, linguistic, and pedagogical gaps in *HSK Standard Course* and recommend Urdu annotations, cultural comparison, and localized modules. Lu and Hanif (2025), a related follow-on publication rather than an independent study, recommend adapting the curriculum and using Urdu as support. Naheed (2026) reports heavy use of *HSK Standard Course* among local teachers and recommends Urdu-enriched textbooks. Dassanayake’s (2023) Sri Lankan checklist starts from the same product logic: global Chinese books neglect L1, local culture, translation, cost, and regional need. Zhao’s Australian work is closer to classroom practice, but still often names the project as localising curriculum construction (Zhao, 2020, 2024a).
 
 A later strand treats localization as something teachers do, not only something publishers produce. Tian and Weninger (2026) show that “the local” in English-textbook research is constructed in several, sometimes contradictory, ways, and that the research is geographically uneven. Teachers add local references even when books already claim to represent local culture (Toledo-Sandoval, 2020); they also filter or censor cultural content (Gray, 2000). Loo (2026) is the sharpest warrant for looking at teachers rather than at new national books: in Southeast Asian settings, localization was largely left to teachers, with little institutional support, and was reactive, fragmented, and politically shaped. Ling et al. (2023) show CFL teachers drawing Australian students’ everyday worlds into Chinese lessons. Duangmanee and Waluyo (2024) show Thai schools attempting to localize Chinese teaching while remaining dependent on external Chinese-language expertise.
 
@@ -62,157 +62,89 @@ Localization, in this review, is the process and outcome of teacher-mediated rec
 
 ### 2.1.4  The relation among the three concepts
 
-The three concepts are related; they are not stacked as synonyms. Recontextualization (再语境化) names the mechanism: what is selected, relocated, silenced, added, or transformed. Teacher agency (教师能动性) names the achievement: how and whether that mechanism is possible in nested conditions. Localization (本土化) names the process and outcome when recontextualization orients materials toward this Pakistani classroom. Localization is what the conversation in Pakistan already names as the problem. Recontextualization is how this thesis proposes that the problem is, or is not, produced in class. Agency is why teachers can produce it, restrict it, or redirect it. Chapter 3 turns that relation into a working model. The four sections that follow show why the existing literature has not yet made the relation hold for Pakistani teachers of Chinese.
+The three concepts are related; they are not stacked as synonyms. Recontextualization (再语境化) names the mechanism: what is selected, relocated, silenced, added, or transformed. Teacher agency (教师能动性) names the achievement: how and whether that mechanism is possible in nested conditions. Localization (本土化) names the process and outcome when recontextualization orients materials toward this Pakistani classroom. Localization is what the conversation in Pakistan already names as the problem. Recontextualization is how this thesis proposes that the problem is, or is not, produced in class. Agency is why teachers can produce it, restrict it, or redirect it. Chapter 3 turns that relation into a working model.
+
+The remainder of the chapter follows the core literature map. Mismatch between standardized materials and local learners is treated as a starting condition, not as the object of the thesis. The argument then moves through adaptation, ecological agency, CFL localization, translanguaging, comparative teacher-mediated cases, and the Pakistan literature, and it ends at the gap.
 
 ---
 
-## 2.2  From materials as products to materials in use
+## 2.2  From global materials to local mismatch
 
-If the definitions in §2.1 are taken seriously, a study that only evaluates how well HSK materials fit Pakistan answers a question that materials research has already recast. The object of inquiry has moved from the textbook as a finished product to the textbook as something teachers do things with.
+Standardized and imported language materials travel because they are systematic, examinable, and widely available. They do not travel as context-neutral objects. Rathert and Cabaroğlu (2022) treat textbook adaptation as a principled response to a felt or identified mismatch between the book and the learners in front of the teacher. Toledo-Sandoval (2020) shows that even when a book claims to represent local culture, teachers still add local references, because “the local” on the page and the local of the class are not the same. Hanifa et al. (2024) and Mohamad Uri and Abdul Aziz (2024) document the same pattern with imported English materials in Indonesia and Malaysia: cultural and linguistic distance, examination pressure, and workload make the book both indispensable and insufficient. Dassanayake (2023) makes the parallel case for global Chinese textbooks in Sri Lanka: L1, local culture, translation, cost, and regional need are systematically under-attended.
 
-### 2.2.1  Content, consumption, and production
+Harwood (2021, 2026) and Guerrettaz et al. (2022) recast that mismatch as a research problem of use rather than of product quality alone. Materials must be studied as content, as consumption, and as production. If the educational consequences of a book depend on what is done with it, evaluating the book in isolation cannot explain localization. Content analysis is not thereby useless. It can show what was available to be recontextualized. It cannot show what was recontextualized (Guerrettaz & Johnston, 2013; Z. Li, 2020; Li & Xu, 2020; Li & Li, 2021).
 
-Harwood’s agenda requires that materials be studied as content, as consumption, and as production: not only what is on the page, but how teachers and learners use, adapt, create, and subvert resources (Harwood, 2021, 2026). Guerrettaz et al. (2022) similarly argue that materials-use research must attend to pedagogy, classroom interaction, culture, language diversity, and power, rather than remaining a branch of textbook evaluation. If the educational consequences of a book depend on what is done with it, evaluating the book in isolation cannot explain localization.
-
-Content analysis is not thereby useless. It is relocated. Textbook analysis can show what was available to be recontextualized. It cannot show what was recontextualized.
-
-### 2.2.2  Materials in the classroom ecology
-
-Guerrettaz and Johnston (2013) remain the clearest demonstration that a textbook can become the de facto curriculum and structure interaction, not merely supply topics. Later sociomaterial and ecological work treats materials as affordances, perturbations, and interactional resources: they shape what can be said and done, and they are themselves reshaped in use (Z. Li, 2020; D. Li, 2023; Li & Xu, 2020; Matsumoto, 2019; Kim, 2023). Li and Li (2021) make episodic classroom use visible rather than treating “using the book” as a single act.
-
-For Pakistani Chinese classrooms, this literature supplies a method of seeing. It does not yet supply the cases. The HSK-oriented book may organise the lesson; it may also be pushed to the margin by worksheets, oral translation, examination drills, or local examples. That is an empirical question. It is not answered by describing the book’s table of contents.
-
-### 2.2.3  Adaptation as professional practice
-
-A second strand treats adaptation as principled professional work. Rathert and Cabaroğlu (2021, 2022) distinguish coursebook-led use from teacher-led adaptation and offer a usable set of moves: omission, addition, substitution, modification. Hanifa et al. (2024), Hanifa and Yusra (2023), and Mohamad Uri and Abdul Aziz (2024) show those moves in imported-textbook settings under time, training, and examination pressure. Song’s (2024) evaluation–adaptation–exploitation cycle treats following the book as a professional stance, not only as a failure of imagination. Li et al. (2021) and Bouckaert (2019) go further: teachers are users, analysts, and designers, and materials work is a site of professional learning.
-
-Two qualifications keep this strand from swallowing the thesis. Frequent adaptation is not the same as localization. Criado (2023) found teachers changing a large share of activities while remaining largely faithful to textbook sequence. A count of additions and deletions in Pakistani Chinese classes could therefore look active and still leave the HSK course as the curriculum. Second, teachers’ reported willingness to adapt often exceeds what they do. Restricted or “addition-only” agency under examinations, time, and institutional pressure is a recurring finding in ecological studies of prescribed textbooks (Yan & Weng, 2026; Tao & Weng, 2025; Neupane, 2025). Interview-only designs will reproduce that discrepancy as if it were the finding.
-
-### 2.2.4  Why recontextualization is the more precise term
-
-Section 2.1.3 set out competing definitions of localization. The instability is visible in materials research. Tian and Weninger (2026) show that “the local” is constructed in several, sometimes contradictory, ways, and that the research is geographically uneven. Teachers add local references even when books already claim to represent local culture (Toledo-Sandoval, 2020). They may also filter or censor cultural content (Gray, 2000).
-
-Recontextualization is the more precise term for this thesis because it names a pedagogic operation rather than a hoped-for product (Yu, 2015; Alvunger, 2018). Yasasri (2024) argues that global Chinese textbooks used in Sri Lanka can marginalize local cultures and L1 resources. Ling et al. (2023) show CFL teachers in Australia building lessons from students’ sociocultural contexts rather than only from the book’s China. Loo (2026) supplies a warrant for looking at teachers rather than at new national books: localization was largely left to teachers, with little institutional support, and was reactive, fragmented, and politically shaped.
-
-What this strand cannot do is substitute Sri Lanka, Australia, or Southeast Asia for Pakistan. It can show that the field already knows localization is more than producing a local edition. The thesis takes that as a starting point, not as a finding.
-
-If the serious literature on materials has already left textbook evaluation behind, then a Pakistani study that only diagnoses misfit in *HSK Standard Course* and recommends a national or Urdu-medium book would be repeating a product logic the field has outgrown. The open question is how teachers recontextualize Chinese materials in class, under what conditions, and with what space for manoeuvre.
+Related work on teachers as users, analysts, and designers, and on materials use as professional learning, belongs here as grouped support rather than as a second tour (Li et al., 2021; Bouckaert, 2019; Li & Gao, 2025; D. Li, 2023; Song, 2024). The point for this thesis is narrower. Mismatch is a recurring consequence of moving standardized Chinese resources into Pakistani classrooms. It is the beginning of the process the title names, not the finding the title promises.
 
 ---
 
-## 2.3  Ecological agency and prescribed materials
+## 2.3  Adaptation as professional practice
 
-Even a precise vocabulary of adaptation moves cannot explain why one teacher adds local examples and another does not, or why a teacher who believes in localization only “does addition.” Ecological teacher agency was developed to answer that kind of question. Its empirical base, however, is not Pakistani CFL.
+Teachers respond to mismatch by adding, omitting, substituting, modifying, reordering, simplifying, and writing supplements. Rathert and Cabaroğlu (2021, 2022) distinguish coursebook-led use from teacher-led adaptation and supply a usable set of moves. Hanifa and Yusra (2023) and Hanifa et al. (2024) show those moves in Acehnese and Indonesian classrooms, including local cultural substitution, under time, resource, and examination constraints. Mohamad Uri and Abdul Aziz (2024) show, at larger scale, that imported CEFR textbooks can be culturally and linguistically mismatched and that adaptation increases workload. Rathert and Cabaroğlu (2021) supply the necessary counterpoint: teachers can remain coursebook-led when institutional and material conditions restrict what they can change.
 
-### 2.3.1  Agency as achievement
+Song (2024) treats following the book as a professional stance—evaluation, adaptation, exploitation—not only as a deficit of imagination. Li et al. (2021) and Bouckaert (2019) recast teachers as materials developers. Grouped studies of technique combinations and textbook dependence show that frequent adaptation does not always mean deep localization (Criado, 2023; Pratiwi et al., 2020). Criado (2023) found teachers changing a large share of activities while remaining largely faithful to textbook sequence; procedural change even made some lessons more teacher-fronted. A count of additions and deletions in Pakistani Chinese classes could therefore look active and still leave the HSK course as the curriculum.
 
-Section 2.1.2 distinguished ecological agency from capacity, autonomy, and sociomaterial uses of the word. Biesta and Tedder (2007) treat agency as something achieved in the interplay of routine, purpose, judgement, resources, and contexts-for-action. Priestley and colleagues develop that account for curriculum making: agency varies with beliefs and with environmental conditions; it has a temporal shape—iterational, projective, practical-evaluative; and it requires more than individual conviction (Priestley et al., 2012, 2016; Biesta, Priestley, & Robinson, 2015). Leijen et al. (2020) connect the model to reflection. Hardman (2025) presses for clearer distinctions among ecological, relational, and new-materialist uses of “agency.”
-
-If agency is achieved, then the useful questions are not whether Pakistani teachers “have” it. They are: in which conditions is agency achieved, restricted, or redirected, and what recontextualization practices are its visible traces?
-
-### 2.3.2  Agency when the textbook is prescribed
-
-A dense EFL literature now applies that model to new or prescribed textbooks. Yan and Weng (2026) show Chinese high-school English teachers selectively adapting a new series through interactions among teacher, student, and context; “we can only do addition” names a restricted form of agency highly relevant to HSK-led courses. Dao et al. (2025) offer a coding of acceptance, adaptation, and resistance among Vietnamese teachers implementing new textbooks. Chen and Shu (2026) distinguish approval, compliant agency, and persistent agency across classroom and institutional settings. Tao and Weng (2025) describe restricted agency among teachers who support reform ideologically but remain shackled in practice. L. Wang (2022) distinguishes constrained, transformative, and progressive agency and shows that reform-oriented beliefs do not guarantee agency: school culture, examinations, colleagues, and support shape what can be done. Tran (2022) and Truong (2023) trace the same temporal triad in Vietnamese new-textbook implementation.
-
-This is the closest empirical family to the present study. It is still the wrong subject and, usually, the wrong language. These teachers are typically English teachers under national English-curriculum reform. Pakistani teachers of Chinese work with a different official object (often HSK-oriented Chinese materials), a different professional status, and a different multilingual ecology. Analogues can guide coding. They cannot stand in for the cases.
-
-### 2.3.3  Nested conditions
-
-Namgung et al. (2023) map teacher agency onto nested ecosystems—micro, meso, exo, macro, chrono—which gives a more disciplined way to talk about context than a residual list of constraints. Chen (2023) similarly shows agency emerging through relations with students, colleagues, parents, leaders, and policy. Tao (2021) is a caution for university settings: the university, not only the nation-state, may be the strongest filter of policy. Priestley et al.’s (2016) distinction between input and output regulation, and their account of creative mediation versus strategic compliance, will matter wherever HSK scores, university examinations, or inspection organise Chinese teaching. Time, syllabus, supervision, and student realities appear repeatedly as practical-evaluative conditions (Rivera Cuayahuitl & Pérez Carranza, 2015; Huang & Guo, 2024; Neupane, 2025).
-
-For this thesis, those layers are part of the object: the ecological conditions that shape what Pakistani teachers of Chinese adapt, how, and why.
-
-### 2.3.4  Beliefs and identity as resources
-
-Biesta, Priestley, and Robinson (2015) insist that beliefs matter as cultural resources for agency but do not suffice without collective professional discourse and supportive cultures. Studies of identity reconstruction through new textbooks, of identity–agency negotiation during reform, and of teachers’ development as materials designers show that materials work changes who teachers can be, and that who they have been shapes what they dare to change (J. Zhang et al., 2025; Liyanage & Walker, 2023; Li & Gao, 2025). Bao et al. (2020) already bring identity, community, and materials use together among Chinese teachers in Belarus—an important CFL-adjacent finding, but not an ecological study of Pakistan.
-
-The field already has a rigorous language for teacher agency in textbook use. That language has been tested mainly on EFL reform. Using it among Pakistani teachers of Chinese is not a theoretical invention. It is an empirical extension that the conversation has not made.
+Two further cautions follow. Teachers’ reported willingness to adapt often exceeds what they do (Yan & Weng, 2026; Tao & Weng, 2025; Neupane, 2025). Interview-only designs will reproduce that discrepancy as if it were the finding. Second, adaptation moves are traces of recontextualization, not the operation itself. The next section asks why some teachers can make those moves and others cannot.
 
 ---
 
-## 2.4  CFL and CAL mediation
+## 2.4  Teacher agency and curriculum making
 
-If §§2.2 and 2.3 were enough, this thesis could be an ELT study with Chinese examples substituted. It cannot. The title concerns Chinese-language teaching materials and Pakistani teachers of Chinese. The CFL/CAL literature must therefore do real work. It shows that Chinese teaching already involves recontextualization and multilingual mediation. It does not show that work as ecological agency in Pakistan.
+Ecological teacher agency was developed to explain that variation. Biesta and Tedder (2007) treat agency as something achieved in the interplay of routine, purpose, judgement, resources, and contexts-for-action. Priestley et al. (2012) show how biographies, purposes, and ecological conditions produce different spaces for manoeuvre. Priestley et al. (2016) treat teachers as inevitable mediators of prescribed curriculum and distinguish creative mediation from strategic compliance. Biesta, Priestley, and Robinson (2015) show that beliefs matter, but that they are shaped by professional discourse, policy language, and accountability conditions. Leijen et al. (2020) connect the model to reflection.
 
-### 2.4.1  Chinese teachers as agents with materials
+L. Wang (2022) gives the account operational form under examination and school-culture pressure: constrained, transformative, and progressive agency. Yan and Weng (2026) name a restricted, “addition-only” form highly relevant to HSK-led courses. Dao et al. (2025) code acceptance, adaptation, and resistance among Vietnamese teachers implementing new textbooks. Chen and Shu (2026) distinguish approval, compliant agency, and persistent agency. Tao and Weng (2025) describe teachers who support reform ideologically but remain shackled in practice. Tran (2022) and Truong (2023) trace the chordal triad in Vietnamese new-textbook implementation.
 
-Bao et al. (2020) argue that CAL teachers’ materials use is mediated by beliefs, identities, and community relationships. Han (2026) documents Chinese teachers in Norway rebuilding materials under curricular openness, limited resources, and uncertain assessment. Wang and Bale (2024) show new K–12 Chinese teachers in the United States creating curriculum with incomplete preparation. S. Zhang et al. (2025) show CAL teachers’ ambivalent views of translanguaging inside an activity system of tools, rules, community, and division of labour. Geng and Lu (2026) treat handmade and everyday objects as identity mediators among Chinese teachers in Latin America.
+Nested maps of micro, meso, exo, macro, and chrono systems discipline talk of “context” (Namgung et al., 2023; Chen, 2023). Tao (2021) is a caution for university settings: the university, not only the nation-state, may be the strongest filter of policy. Time, syllabus, supervision, and student realities appear repeatedly as practical-evaluative conditions (Rivera Cuayahuitl & Pérez Carranza, 2015; Huang & Guo, 2024; Neupane, 2025). Identity reconstruction through new textbooks and through materials-development work shows that materials change who teachers can be, and that who they have been shapes what they dare to change (J. Zhang et al., 2025; Liyanage & Walker, 2023; Li & Gao, 2025). Bao et al. (2020) already bring identity, community, and materials use together among Chinese teachers in Belarus. That is a CFL-adjacent bridge to the agency framework. It is not a study of Pakistan.
 
-These studies establish that Chinese teachers outside China are not mere deliverers of imported books. None is a study of Pakistani university or institute teachers of Chinese. The professional ecology—Confucius Institute partnerships, HSK, local contract conditions, Urdu and English as mediating languages—cannot be read off Belarus, Norway, or the United States.
-
-### 2.4.2  Recontextualizing Chinese materials and local life
-
-Yasasri (2024) is the most explicit CFL use of “recontextualizing learning material”: on that analysis, global Chinese textbooks sideline local cultures and L1 resources. Dassanayake (2023) likewise starts from global books’ neglect of L1, local culture, translation, cost, and regional need. Both are valuable, and both remain closer to product evaluation than to classroom agency. Ling et al. (2023) and Zhao (2020, 2024) show a different move: CFL teachers in Australia turning students’ everyday practices and funds of knowledge into Chinese-learning content. Duangmanee and Waluyo (2024) show Thai institutions attempting to localize Chinese teaching while remaining dependent on external Chinese-language expertise.
-
-CFL localization is thinkable as teacher work and as textbook revision. The teacher-work side is documented in Australia, Thailand, Indonesia, and related sites. Pakistan is not in that set.
-
-### 2.4.3  Translanguaging without reducing localization to Urdu glosses
-
-A substantial CAL/CFL literature now treats teachers’ and students’ bilingual repertoires as instructional resources rather than as interference (Han, 2022; Zheng, 2019; Q. Zhang et al., 2020; Tian, 2021; Huang et al., 2025). Indonesian Mandarin teaching is an especially close analogue for multilingual South Asian classrooms: Puspitasari et al. (2024) describe CFL lecturers using Chinese, English, Indonesian, Pinyin, translations, and visuals to close comprehension gaps; Nan et al. (2023) frame “recontextualization of translanguaging” in Indonesian Mandarin teaching. D. Wang (2022) treats translanguaging as a social-justice strategy for ethnic-minority students in Hong Kong under monolingual pressure. Liu (2025) warns that translanguaging can also reinforce English dominance when testing and materials pull that way. Yuan and Lee (2024) distinguish transitional translation from a deeper transformative understanding of translanguaging in Mandarin immersion.
-
-The implication for Pakistan is double. Urdu, English, regional languages, and Chinese are likely ecological resources in the classroom. Localization cannot be defined as printing Urdu glosses in a new edition. At the same time, multilingual practice is not automatically just or localizing. It can be managerial, transitional, or hierarchy-preserving. That is why observation plus materials comparison is required: language choice on a page and language choice in a lesson are not the same evidence.
-
-A Chinese-language education thesis has a CFL conversation to join, not only an ELT one. That conversation already knows teachers recontextualize Chinese materials and languages. It has not joined that knowledge to ecological agency among Pakistani teachers of Chinese.
+This is the closest empirical family to the present study. It is still the wrong subject and, usually, the wrong language. Analogues can guide coding. They cannot stand in for Pakistani teachers of Chinese working with HSK-oriented materials.
 
 ---
 
-## 2.5  Chinese-language education in Pakistan
+## 2.5  Localization in Chinese-language education
 
-The fourth reason is easily missed, because Pakistan is already present in the CFL literature. What is present, however, is a landscape of programmes, materials, and perceived fit. That is a different problem from teacher-mediated recontextualization.
+Chinese-language education cannot be treated as ELT with the language swapped in. Yasasri (2024) shows, through corpus and critical discourse analysis, that global Chinese textbooks can exclude South Asian cultures and local languages and can enact one-way cultural adaptation. Dassanayake (2023) converts that critique into a 37-item checklist covering language, culture, pedagogy, affordability, accessibility, and local inclusiveness. Both are valuable, and both remain closer to product evaluation than to classroom agency.
 
-### 2.5.1  What is known
+Zhao (2020, 2024a), Zhao et al. (2024b), and Ling et al. (2023) show a different move in Australian schools: students’ everyday practices, school spaces, talents, and funds of knowledge become Chinese-learning content, including through translanguaging. Zhao (2024a) and Zhao et al. (2024b) are related Australian work on localizing Chinese curriculum by the same first author; the 2024b article is co-authored with Wei Li and Danping Wang. They are treated here as one programme of classroom localization, not as two independent Pakistan-relevant datasets. Duangmanee and Waluyo (2024) show Thai schools creating local materials and activities while remaining dependent on external Chinese-language expertise. Geng and Lu (2026) and Han (2026) extend the picture of Chinese teachers working outside China under resource constraint and uncertain assessment. Wang and Bale (2024) show new K–12 Chinese teachers in the United States creating curriculum with incomplete preparation.
 
-Chinese-language education in Pakistan has a documented programme history, institutional variety, and a materials landscape in which HSK-oriented series, especially *HSK Standard Course*, are widely used. C. Wang’s (2022) doctoral dissertation maps Pakistani Chinese teaching as an international-communication and programme system rather than as classroom recontextualization of a particular book; the dissertation PDF was not available for this review, and bibliographic identity is confirmed from citing literature. Naheed’s (2026) mixed-methods survey of 55 local Chinese-language teachers reports that 78.18% used *HSK Standard Course* as their main instructional resource and recommends Urdu-enriched textbooks as a localization response.
-
-Two closely related publications from the same Guangdong University of Foreign Studies group examine *HSK Standard Course* in Pakistan and must not be counted as independent evidence. Lu et al. (2024) combine a literature review, student questionnaires, and interviews with Pakistani Chinese teachers, and they recommend Urdu annotations, cultural comparison, and localized modules. Lu and Hanif (2025) is a follow-on article—same first author, same corresponding author, same textbook object—based on document analysis and further teacher interviews. It cites Lu et al. (2024) and turns the emphasis toward pedagogical challenges and Urdu as a support language. The two papers share a research programme, overlapping authorship, and the same HSK materials problem. They describe perceived fit and propose materials-production remedies. They do not replace classroom observation plus materials comparison.
-
-These sources are indispensable as background. They are not the theory of this thesis and not its finding. They show that localization is already talked about as a materials-production remedy. They do not show how teachers recontextualize the books they already have.
-
-### 2.5.2  The geographic face of the gap
-
-Across the English-language research on teacher agency, materials use, adaptation, and CFL/CAL mediation reviewed for this chapter, the settings are China, Vietnam, Malaysia, Indonesia, Australia, Sri Lanka, Belarus, Norway, Hong Kong, Nepal, Thailand, and related sites. They are not Pakistani teachers of Chinese. That absence is not a search accident to be patched by one more keyword. It is the geographic face of the chapter claim.
-
-### 2.5.3  Analogues, not substitutes
-
-The closest comparative cases remain analogues. South and Southeast Asian teachers adapting imported English books under examination and workload pressure (Hanifa et al., 2024; Mohamad Uri & Abdul Aziz, 2024; Neupane, 2025; Thapa & Upadhayaya, 2026) can inform questions about time, tests, and “local culture.” Chinese teachers outside China (Bao et al., 2020; Han, 2026; Ling et al., 2023) can inform questions about professional identity and local content. EFL teachers under prescribed textbooks (Yan & Weng, 2026; Dao et al., 2025) can inform coding of restricted agency. None is a Pakistani teacher of Chinese working with Chinese-language materials. Analogue evidence can motivate a study; it cannot replace it.
-
-Pakistan is not an unstudied country in CFL. It is under-studied in the specific respect the title names: teacher-mediated recontextualization as an ecological achievement. Filling that respect is not the same as writing a longer version of a fit evaluation.
+CFL localization is therefore thinkable as teacher work and as textbook revision. The teacher-work side is documented in Australia, Thailand, Indonesia, Norway, and related sites. Pakistan is not in that set. Grouped support on Chinese curriculum localization and cultural representation belongs here as corroboration, not as a second narrative (Ling et al., 2023; Zhao, 2020; Gray, 2000; Tian & Weninger, 2026).
 
 ---
 
-## 2.6  Near-misses
+## 2.6  Translanguaging and multilingual mediation
 
-A fair review names the readings that come closest to closing the gap.
+In Chinese-language classrooms, English, local languages, pinyin, images, gestures, and Chinese are often coordinated to explain meaning, sustain participation, and connect new content to what learners already know. Q. Zhang et al. (2020) show translanguaging supporting explanation, elicitation, classroom management, and participation in CFL despite monolingual institutional norms. D. Wang (2022) shows, over an eighteen-month ethnography with Chinese teachers in Hong Kong, that translanguaging can support ethnic-minority learners through interpretive, managerial, and interactive practices. Puspitasari et al. (2024) describe Indonesian higher-education CFL lecturers using Chinese, English, Indonesian, pinyin, visuals, and peer languages together. Nan et al. (2023) reframe translanguaging as goal-oriented mediation for comprehension, memory, engagement, and linguistic bridging—an explicit “recontextualization of translanguaging.” Han (2022), Tian (2021), Zhao (2024a), Zhao et al. (2024b), Huang et al. (2025), Zheng (2019), and S. Zhang et al. (2025) extend the same point across CFL/CAL and immersion settings.
 
-It might be argued that agency and recontextualization have already been joined. Alvunger (2018) studies teachers’ curriculum agency with Bernstein’s pedagogic device and shows teachers borrowing and combining content across spaces. That join is real, and it supports the framework in Chapter 3. The setting is Swedish curriculum making, not Chinese-language teaching in Pakistan. Framework near-misses do not fill empirical gaps.
-
-It might be argued that CFL recontextualization is already studied. Yasasri (2024), Dassanayake (2023), Nan et al. (2023), and Ling et al. (2023) all speak to localizing or recontextualizing Chinese materials or multilingual practice. Two of these are primarily textbook or checklist studies; Nan’s “recontextualization” is of translanguaging in Indonesian Mandarin teaching; Ling et al. are Australian classroom teachers. None offers ecological agency among Pakistani teachers of Chinese, and none is designed as classroom observation plus materials comparison in that setting.
-
-It might be argued that ecological textbook-agency studies already include observation. Many do (Yan & Weng, 2026; Dao et al., 2025; Guerrettaz & Johnston, 2013). The method exists. The population and the material object do not. Importing the method is the point of Chapter 4, not a reason to skip the study.
-
-It might be argued that Pakistan CFL research already covers materials. It covers landscape and perceived fit, and it often concludes toward new or Urdu-enriched books (Lu et al., 2024; Lu & Hanif, 2025; Naheed, 2026). Lu et al. (2024) and Lu and Hanif (2025) are related publications, not two independent confirmations of that conclusion. That product logic is what this review contests.
+The implication for Pakistan is double. Urdu, English, regional languages, and Chinese are likely ecological resources. Localization cannot be defined as printing Urdu glosses in a new edition. At the same time, multilingual practice is not automatically just or localizing. Liu (2025) warns that translanguaging can reinforce a dominant language when testing and materials pull that way. Yuan and Lee (2024) distinguish transitional translation from a transformative pedagogy. Language choice on a page and language choice in a lesson are not the same evidence. Observation plus materials comparison is required.
 
 ---
 
-## 2.7  The research gap
+## 2.7  Comparative teacher-mediated localization
 
-The four reasons converge on the same paragraph. It is restated here so that Chapter 3 has to operationalize it rather than invent a new problem.
+South and Southeast Asian cases show that local adaptation is valuable and that it is often left to individual teachers. Hanifa and Yusra (2023) and Hanifa et al. (2024) remain the closest classroom comparisons: imported English materials, local cultural substitution, multilingual support, and constraint by time, training, and examinations. Mohamad Uri and Abdul Aziz (2024) add scale and workload. Loo (2026) shows, across borrowed global curricula, that localization can be reactive, fragmented, and politically shaped, with little institutional support. Duangmanee and Waluyo (2024) show the same institutional dependence in Thai Chinese programmes. Neupane (2025) and Thapa and Upadhayaya (2026) supply adjacent Himalayan English-classroom evidence on L1, local culture, and teacher agency under examination pressure.
+
+Grouped comparative studies of culture, local relevance, and imported books corroborate the pattern without needing mini-summaries (Toledo-Sandoval, 2020; Saemee & Nomnian, 2021). None of these cases is a Pakistani teacher of Chinese working with Chinese-language materials. Analogue evidence can motivate a study; it cannot replace it.
+
+---
+
+## 2.8  Chinese-language education in Pakistan
+
+Chinese-language education in Pakistan has a documented programme history, institutional variety, and a materials landscape in which HSK-oriented series, especially *HSK Standard Course*, are widely used. C. Wang’s (2022) doctoral dissertation maps Pakistani Chinese teaching as an international-communication and programme system rather than as classroom recontextualization of a particular book; the dissertation PDF was not available for this review, and bibliographic identity is confirmed from citing literature. Jabbar (2025) reviews historical development and current landscape. Hanif (2023) documents Confucius Institute expansion, dependence on volunteer teachers, shortage of local experts, and the lack of standardized, locally adequate materials. Azeem et al. (2022) report weak curriculum uniformity, teacher shortages, English-annotated textbooks, and the burden placed on teachers to add or delete content. Khan et al. (2022) show a gap between mandatory Chinese policy at a higher-education institution and classroom reality, especially class size, medium of instruction, and intended outcomes. Ali and David (2022) place Chinese in Sindh’s language ecology of English prestige, Urdu nationalism, and regional identity. Naheed (2026) surveys 55 local teachers and reports that 78.18% used *HSK Standard Course* as their main instructional resource, recommending Urdu-enriched textbooks. Aftab and Abbasi (2024) supply learner-side evidence of perceived difficulty, especially in reading and writing. Iftikhar et al. (2024) report opportunity-driven motivation alongside regional differences; detailed claims from that study await closer reading of the PDF.
+
+Two closely related publications from the same Guangdong University of Foreign Studies group examine *HSK Standard Course* in Pakistan and must not be counted as independent evidence. Lu et al. (2024) combine a literature review, student questionnaires, and interviews with Pakistani Chinese teachers, and they recommend Urdu annotations, cultural comparison, and localized modules. Lu and Hanif (2025) is a follow-on article—same first author, same corresponding author, same textbook object—based on document analysis and further teacher interviews. It cites Lu et al. (2024) and turns the emphasis toward pedagogical challenges and Urdu as a support language. Hanif (2023) belongs to the same authorial programme as background on Confucius Institutes. These papers describe perceived fit and propose materials-production remedies. They do not replace classroom observation plus materials comparison.
+
+Pakistan is not an unstudied country in CFL. It is under-studied in the specific respect the title names: teacher-mediated recontextualization as an ecological achievement.
+
+---
+
+## 2.9  Synthesis and research gap
+
+The literature establishes that material mismatch is a recurring consequence of moving standardized language resources across linguistic, cultural, and institutional settings (Rathert & Cabaroğlu, 2022; Toledo-Sandoval, 2020; Dassanayake, 2023). Teachers respond through addition, omission, modification, reordering, translation, and the making of supplementary resources (Hanifa et al., 2024; Mohamad Uri & Abdul Aziz, 2024; Hanifa & Yusra, 2023). Those practices are best understood through an ecological account of agency, in which past experience, professional purposes, practical judgement, and available resources combine to produce different forms of curriculum mediation (Biesta & Tedder, 2007; Priestley et al., 2012; L. Wang, 2022). Research on Chinese-language education further shows that localization includes cultural representation, local content, translanguaging, and the use of students’ existing linguistic resources (Zhao et al., 2024b; Yasasri, 2024; Q. Zhang et al., 2020; D. Wang, 2022). In Pakistan, existing studies identify weakly localized HSK materials, English-mediated explanation, teacher shortages, large classes, and uncertainty over medium of instruction (Azeem et al., 2022; Khan et al., 2022; Hanif, 2023; Lu et al., 2024; Lu & Hanif, 2025). They also show that Urdu is already used as a practical bridge (Lu et al., 2024; Lu & Hanif, 2025). Lu et al. (2024) and Lu and Hanif (2025) are related publications, not two independent confirmations of that conclusion.
+
+Four near-misses should be named. Alvunger (2018) already joins agency and recontextualization, but in Swedish curriculum making. Yasasri (2024), Dassanayake (2023), Nan et al. (2023), and Ling et al. (2023) already speak to CFL localization or multilingual recontextualization, but not among Pakistani teachers of Chinese, and not as observation plus materials comparison in that setting. Ecological textbook-agency studies already include observation (Yan & Weng, 2026; Dao et al., 2025; Guerrettaz & Johnston, 2013); the method exists, the population and the material object do not. Pakistan CFL research already covers materials as landscape and perceived fit; that product logic is what this review contests.
+
+What remains insufficiently explained is how Pakistani teachers themselves recontextualize materials in everyday classrooms, how they reason about those choices, and how institutional, pedagogical, and professional conditions enable or restrict their agency. That is the empirical space of the present study.
 
 Previous studies have separately examined ecological teacher agency in the use of prescribed language textbooks, chiefly among EFL teachers in China, Vietnam and related curriculum-reform settings, and the adaptation or recontextualization of imported and global teaching materials, including ELT cases in Malaysia, Indonesia and rural Southeast Asia and CFL textbook or contextualization studies in Sri Lanka, Australia and related sites. However, limited empirical research has investigated recontextualization of Chinese-language teaching materials and ecological teacher agency in a single design, and Pakistani teachers of Chinese are almost absent from both literatures. In particular, insufficient attention has been given to classroom observation plus materials comparison that would show how localization is produced in everyday teaching rather than received as textbook production, and to the institutional, pedagogical and professional conditions that shape what Pakistani teachers of Chinese adapt, how they adapt it, and why.
-
-The gap is conceptual and practical at once. Conceptually, there is no empirically grounded account of localization as teacher-mediated recontextualization in this setting. Practically, teacher education and institutional policy that aim at “a local textbook” may be aiming at the wrong site of change if localization is already being produced—or blocked—in classrooms.
-
----
-
-## 2.8  Conclusion of the review
-
-| Section | What the literature offers | What it cannot yet answer |
-|---|---|---|
-| 2.1 Conceptual foundations | Histories, debates, and working definitions of recontextualization, agency, and localization | An empirical account of any of the three among Pakistani teachers of Chinese |
-| 2.2 Materials in use | Moves, classroom ecology, a shift away from product evaluation | How Pakistani teachers of Chinese recontextualize Chinese materials |
-| 2.3 Ecological agency | Agency as achievement; restricted, compliant, and transformative forms; nested conditions | Those forms among Pakistani Chinese teachers in HSK-shaped institutions |
-| 2.4 CFL/CAL mediation | Identity, local content, translanguaging in Chinese teaching | Ecological agency in Pakistan; observation plus materials comparison there |
-| 2.5 Pakistan CFL | Programme landscape; HSK use; localization as new books (including related Lu publications) | Classroom production of localization |
 
 The research questions follow as the destination of the review:
 
@@ -225,9 +157,16 @@ Chapter 3 turns the gap into a working model: recontextualization as the mechani
 
 ---
 
+
 ## References
 
+Aftab, M., & Abbasi, M. H. (2024). Beliefs about difficulties in learning Chinese as a foreign language in a public sector university. *Sindh Journal of Linguistics, 3*(1), 82–96. https://doi.org/10.58921/sjl.v3i1.61
+
+Ali, A., & David, M. K. (2022). Challenges of teaching Chinese as a subject in an English-dominated region: Focus on Sindh, Pakistan. *IARS International Research Journal, 12*(1), 14–23. https://doi.org/10.51611/iars.irj.v12i01.2022.182
+
 Alvunger, D. (2018). Teachers’ curriculum agency in teaching a standards-based curriculum. *The Curriculum Journal, 29*(4), 479–498. https://doi.org/10.1080/09585176.2018.1486721
+
+Azeem, A., Naveed, T., & Jabbar, S. (2022). Chinese language teaching in Pakistan problems and solutions. *University of Wah Journal of Social Sciences, 5*(1), 55–80. https://doi.org/10.56220/uwjss2022/0501/04
 
 Bandura, A. (2001). Social cognitive theory: An agentic perspective. *Annual Review of Psychology, 52*, 1–26. https://doi.org/10.1146/annurev.psych.52.1.1
 
@@ -238,7 +177,6 @@ Bernstein, B. (2000). *Pedagogy, symbolic control and identity: Theory, research
 Biesta, G., Priestley, M., & Robinson, S. (2015). The role of beliefs in teacher agency. *Teachers and Teaching, 21*(6), 624–640. https://doi.org/10.1080/13540602.2015.1044325
 
 Biesta, G., & Tedder, M. (2007). Agency and learning in the lifecourse: Towards an ecological perspective. *Studies in the Education of Adults, 39*(2), 132–149. https://doi.org/10.1080/02660830.2007.11661545
-
 
 Bouckaert, M. (2019). Current perspectives on teachers as materials developers: Why, what, and how? *RELC Journal, 50*(3), 439–456. https://doi.org/10.1177/0033688218810549
 
@@ -268,6 +206,8 @@ Han, H. (2026). Chinese language education in Norway: Teachers’ perspectives o
 
 Han, J. (2022). Translanguaging as a pedagogy: Exploring the use of teachers’ and students’ bilingual repertoires in Chinese language education. *Applied Linguistics Review, 15*(4), 1433–1451. https://doi.org/10.1515/applirev-2022-0142
 
+Hanif, B. (2023). Current scenario and perspective of teaching Chinese at Confucius Institutes in Pakistan. *Pakistan Journal of Humanities and Social Sciences, 11*(2), 2315–2326. https://doi.org/10.52131/pjhss.2023.1102.0530
+
 Hanifa, R., & Yusra, S. R. (2023). Tailoring EFL lessons through materials adaptation: A look into an Acehnese teacher’s experiences. *LingTera, 10*(1), 1–14. https://doi.org/10.21831/lt.v10i1.58035
 
 Hanifa, R., Yusuf, F. N., Yusra, S. R., & Suherdi, D. (2024). Adapting EFL materials and its influences on Indonesia secondary school students’ language learning. *Asian-Pacific Journal of Second and Foreign Language Education, 9*(1), Article 69. https://doi.org/10.1186/s40862-024-00297-7
@@ -281,6 +221,12 @@ Harwood, N. (2026). ELT materials. *TESOL Quarterly, 60*(2), 560–585. https://
 Huang, T., & Guo, J. (2024). Investigating critical language awareness and critical cultural awareness in EFL materials use. *Language Awareness, 35*(1), 68–86. https://doi.org/10.1080/09658416.2024.2434012
 
 Huang, T., Guo, J., & Yang, S. (2025). “To see a world in a page of the textbook”: Translanguaging practices in the use of English as a foreign language teaching materials. *International Journal of Applied Linguistics, 36*(3), 2004–2016. https://doi.org/10.1111/ijal.70038
+
+Iftikhar, A., Li, C., Li, J., Chen, X., Wang, T., & Haider, A. A. (2024). Perceptions, challenges, and opportunities of Chinese language learning in Punjab and Sindh, Pakistan: Exploring the role of CPEC. *New Directions for Child and Adolescent Development, 2024*, 1–18. https://doi.org/10.1155/2024/6662409
+
+Jabbar, S. (2025). Chinese language education in Pakistan: Historical developments, current landscape, and future prospects. *Qualitative Research Journal for Social Studies, 2*(2), 1451–1471. https://doi.org/10.63878/qrjs196
+
+Khan, M. A., Zaki, S., & Memon, N. (2022). Chinese as a mandatory foreign language at a higher education institution in Pakistan. *South Asia Research, 43*(1), 49–67. https://doi.org/10.1177/02627280221120328
 
 Kim, M. (2023). Decolonizing ELT materials: A sociomaterial orientation. *ELT Journal, 77*(3), 316–326. https://doi.org/10.1093/elt/ccad013
 
@@ -322,6 +268,8 @@ Nan, G., Angelina, L., Silalahi, R. M. P., & Santoso, W. (2023). Recontextualiza
 
 Neupane, R. N. (2025). Practice of textbook adaptation in English language classrooms: Insights from secondary level teachers. *SNPRC Journal, 6*, 15–30. https://doi.org/10.3126/snprcj.v6i1.91795
 
+Pratiwi, N. U., Jufrizal, & Hamzah. (2020). English language teachers’ practices of textbook adaptation techniques. In *Proceedings of the Eighth International Conference on Languages and Arts (ICLA-2019)* (pp. 28–31). Atlantis Press. https://doi.org/10.2991/assehr.k.200819.006
+
 Priestley, M., Biesta, G., Philippou, S., & Robinson, S. (2016). The teacher and the curriculum: Exploring teacher agency. In D. Wyse, L. Hayward, & J. Pandya (Eds.), *The SAGE handbook of curriculum, pedagogy and assessment* (pp. 187–201). SAGE. https://doi.org/10.4135/9781473921405.n12
 
 Priestley, M., Edwards, R., Priestley, A., & Miller, K. (2012). Teacher agency in curriculum making: Agents of change and spaces for manoeuvre. *Curriculum Inquiry, 42*(2), 191–214. https://doi.org/10.1111/j.1467-873X.2012.00588.x
@@ -333,6 +281,8 @@ Rathert, S., & Cabaroğlu, N. (2021). Teachers as slaves or masters to their cou
 Rathert, S., & Cabaroğlu, N. (2022). Theorising textbook adaptation in English language teaching. *Center for Educational Policy Studies Journal, 12*(2), 169–188. https://doi.org/10.26529/cepsj.1287
 
 Rivera Cuayahuitl, E., & Pérez Carranza, C. (2015). Influence of contextual factors on EFL Mexican teachers’ beliefs and the use of textbooks. *HOW, 22*(2), 75–90. https://doi.org/10.19183/how.22.2.152
+
+Saemee, K., & Nomnian, S. (2021). Cultural representations in ELT textbooks used in a multicultural school. *rEFLections, 28*(1), 107–120. https://doi.org/10.61508/refl.v28i1.251027
 
 Song, J. (2024). Teachers’ interaction with prescribed teaching materials: Evaluation, adaptation and exploitation. *English Language Teaching, 17*(12), 13–20. https://doi.org/10.5539/elt.v17n12p13
 
@@ -376,6 +326,8 @@ Zhang, S., Wang, Y., Li, C., & Derakhshan, A. (2025). Exploring the perceived at
 
 Zhao, K. (2020). Localising Chinese language curriculum construction: A case study in an Australian primary school. *Global Chinese, 6*(2), 263–288. https://doi.org/10.1515/glochi-2020-0014
 
-Zhao, K. (2024). Critical translanguaging capability as an intercultural pedagogy for localizing Chinese language education. *International Journal of Contemporary Education, 7*(1), 26–38. https://doi.org/10.11114/ijce.v7i1.6732
+Zhao, K. (2024a). Critical translanguaging capability as an intercultural pedagogy for localizing Chinese language education. *International Journal of Contemporary Education, 7*(1), 26–38. https://doi.org/10.11114/ijce.v7i1.6732
+
+Zhao, K., Li, W., & Wang, D. (2024b). Facilitating the localization of Chinese language teaching in Australia: Translanguaging and funds of knowledge lens. *Creative Education Studies, 12*(8), 385–394. https://doi.org/10.12677/ces.2024.128549
 
 Zheng, B. (2019). Translanguaging in a Chinese immersion classroom: An ecological examination of instructional discourses. *International Journal of Bilingual Education and Bilingualism, 24*(9), 1324–1339. https://doi.org/10.1080/13670050.2018.1561642

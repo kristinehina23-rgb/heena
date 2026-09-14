@@ -23,12 +23,21 @@ Each item already has:
 
 After import, use the tag pane to filter. That keeps Chapter 2 pointed at the gap paragraph in `dissertation/GAP-STATEMENT.md`.
 
-**Add these four Pakistan records by hand** (they are not in the 220-item RIS). Verified APA records are in `dissertation/chapter-02-literature-review.md` and `dissertation/REFERENCE-VERIFICATION.md`:
+**Add these Pakistan records by hand** (they are not in the 220-item RIS). Verified APA records are in `dissertation/chapter-02-literature-review.md` and `dissertation/REFERENCE-VERIFICATION.md`:
 
 - Lu, X., Tan, A., Ma, Y., Feng, H., & Hanif, B. (2024). https://doi.org/10.52131/pjhss.2024.v12i4.2553
 - Lu, X., & Hanif, B. (2025). https://doi.org/10.52015/daryaft.v17i02.436 — **related to Lu et al. (2024), not independent evidence**
 - Naheed, U. (2026). https://doi.org/10.5281/zenodo.19115312
 - Wang, C. (2022). Doctoral dissertation, Central China Normal University (no DOI; attach the PDF when you have it)
+- Hanif, B. (2023). https://doi.org/10.52131/pjhss.2023.1102.0530 — same authorial programme as Lu; landscape, not a third confirmation
+- Azeem, A., Naveed, T., & Jabbar, S. (2022). https://doi.org/10.56220/uwjss2022/0501/04
+- Khan, M. A., Zaki, S., & Memon, N. (2022). https://doi.org/10.1177/02627280221120328
+- Ali, A., & David, M. K. (2022). https://doi.org/10.51611/iars.irj.v12i01.2022.182
+- Jabbar, S. (2025). https://doi.org/10.63878/qrjs196
+- Aftab, M., & Abbasi, M. H. (2024). https://doi.org/10.58921/sjl.v3i1.61
+- Iftikhar, A., Li, C., Li, J., Chen, X., Wang, T., & Haider, A. A. (2024). https://doi.org/10.1155/2024/6662409 — landscape only until the PDF is read closely
+
+Also add Zhao, K., Li, W., & Wang, D. (2024b). https://doi.org/10.12677/ces.2024.128549 (Australian CFL; related to Zhao 2020 / 2024a). Crossref deposited only the first author; the Hans PDF lists three authors.
 
 Chapter 2 no longer cites items marked metadata-only / abstract-unavailable in the evidence tables. Do not restore Shawer (2010, 2017), Guerrettaz, Engman and Matsumoto (2021), Hsiang et al. (2022), Lestari (2019), Tibebu (2020), Biesta and Tedder (2006), or the 2015 Priestley/Biesta/Robinson book without a verified full text.
 

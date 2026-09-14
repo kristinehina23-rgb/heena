@@ -71,7 +71,8 @@ Bibliographic identity confirmed from citing literature (including Lu & Hanif, 2
 | (J. Zhang et al., 2025) | Jianqin Zhang, Weiying Li, & Zilin Sang |
 | (S. Zhang et al., 2025) | Shuang Zhang, Yijie Wang, Chili Li, & Ali Derakhshan |
 | (Q. Zhang et al., 2020) | Qi Zhang, Caitríona Osborne, Lijie Shao, & Mei Lin |
-| Zhao (2020, 2024) | Kunpeng Zhao (same person) |
+| Zhao (2020, 2024a) | Kunpeng Zhao, solo Australian CFL papers |
+| Zhao et al. (2024b) | Zhao, K., Li, W., & Wang, D. — Hans *Creative Education Studies*; Crossref deposited only 赵昆鹏; PDF lists three authors. Related Australian programme, not a second independent dataset. Danping Wang is the same D. Wang as (D. Wang, 2022) |
 | Han (2022) vs Han (2026) | Jinghe Han vs Han Han (different people; different years) |
 | Geng & Lu (2026) | Xiuchuan Lu — **not** Lu Xiaohui of the Pakistan papers |
 
@@ -91,7 +92,9 @@ Page ranges confirmed from PDFs or ERIC/RePEc where Crossref supplied only a sta
 - Chen (2023): 30–36 (CCSE PDF)
 - Song (2024): 13–20 (CCSE PDF)
 - Yu (2015): 113–122 (ERIC EJ1082096)
-- Zhao (2024): 26–38 (RePEc / Redfame PDF)
+- Zhao (2024a): 26–38 (RePEc / Redfame PDF); Crossref listed only the start page
+- Hanif (2023): PDF header **2315–2326**; Crossref deposited 2380–2391. The PDF is used.
+- Zhao et al. (2024b): PDF **385–394**, *Creative Education Studies, 12*(8)
 - Hanifa et al. (2024): Crossref article number **69** (not 53)
 
 Article numbers are used where there is no page range (Bao, 2020; Ling et al., 2023; Toledo-Sandoval, 2020; Dao et al., 2025; L. Wang, 2022; Li & Li, 2021).
@@ -102,11 +105,12 @@ Yan and Weng (2026) is cited as advance online publication (*Language Teaching R
 
 ## Still required before submission
 
-1. Import `literature/zotero/papers-1-240.ris` into Zotero and add Lu (2024), Lu and Hanif (2025), Naheed (2026), and C. Wang (2022) by hand.  
+1. Import `literature/zotero/papers-1-240.ris` into Zotero and add the Pakistan / foundational / map records listed in `literature/zotero/HOW-TO-IMPORT.md`.  
 2. Read remaining journal PDFs that were verified bibliographically but not archived in this repo.  
 3. Obtain and read 王彩霞 (2022).  
 4. Run the CNKI search (教材再语境化, 教师能动性, 教材使用, 国际中文教育).  
 5. Papers 221–240 are still missing from the evidence-table Word file.
+6. Read the Iftikhar et al. (2024) PDF before any close (not landscape) claim.
 
 ---
 
@@ -119,3 +123,41 @@ These are not in the 220-item RIS. They were added because the title concepts re
 - **Bandura, A. (2001).** Social cognitive theory: An agentic perspective. *Annual Review of Psychology, 52*, 1–26. https://doi.org/10.1146/annurev.psych.52.1.1 — cited only as a **competing** definition (agency as personal capacity). The thesis does not use it as the working model.
 
 Add these three to Zotero with the Pakistan records.
+
+---
+
+## Core literature map (14 September 2026)
+
+The Word map (`literature/maps/Chapter_2_core_literature_map.docx`; cleaned copy: `dissertation/CHAPTER-2-CORE-LITERATURE-MAP.md`) is the argument map for Chapter 2. The 240-paper tables remain the search archive. Chapter 2 was re-sectioned to 2.1–2.9 to follow that spine. Mismatch remains a starting condition, not the research object. Tibebu (2020) stays out. No journal-quartile claims.
+
+### New Pakistan / comparative records added to Chapter 2
+
+Bibliographic records checked against Crossref; selected PDFs as noted.
+
+**Hanif, B. (2023).** Current scenario and perspective of teaching Chinese at Confucius Institutes in Pakistan. *Pakistan Journal of Humanities and Social Sciences, 11*(2), 2315–2326. https://doi.org/10.52131/pjhss.2023.1102.0530  
+PDF confirms pages 2315–2326 (Crossref deposited 2380–2391). Same GDUFS author as the Lu papers; treat as programme background, not a third independent confirmation.
+
+**Azeem, A., Naveed, T., & Jabbar, S. (2022).** Chinese language teaching in Pakistan problems and solutions. *University of Wah Journal of Social Sciences, 5*(1), 55–80. https://doi.org/10.56220/uwjss2022/0501/04  
+Crossref deposited stray empty author slots; names follow Crossref family/given for Azeem, Naveed, and Jabbar. Publisher PDF was not retrieved here (DOI resolved to a 404).
+
+**Khan, M. A., Zaki, S., & Memon, N. (2022).** Chinese as a mandatory foreign language at a higher education institution in Pakistan. *South Asia Research, 43*(1), 49–67. https://doi.org/10.1177/02627280221120328  
+doi.org APA year **2022**; print issue is 43(1), February 2023. In-text keeps 2022.
+
+**Ali, A., & David, M. K. (2022).** Challenges of teaching Chinese as a subject in an English-dominated region: Focus on Sindh, Pakistan. *IARS International Research Journal, 12*(1), 14–23. https://doi.org/10.51611/iars.irj.v12i01.2022.182  
+Publisher lists the first author as Ameer Ali; the author’s own 2021 self-citation uses Ali, A.
+
+**Jabbar, S. (2025).** Chinese language education in Pakistan: Historical developments, current landscape, and future prospects. *Qualitative Research Journal for Social Studies, 2*(2), 1451–1471. https://doi.org/10.63878/qrjs196  
+Crossref deposited the name as an unstructured string; APA uses Jabbar, S. Same Sadaf Jabbar as the Azeem et al. (2022) co-author. Publisher HTML was behind a captcha; cite as landscape.
+
+**Aftab, M., & Abbasi, M. H. (2024).** Beliefs about difficulties in learning Chinese as a foreign language in a public sector university. *Sindh Journal of Linguistics, 3*(1), 82–96. https://doi.org/10.58921/sjl.v3i1.61  
+Publisher CSL matches Crossref.
+
+**Iftikhar, A., Li, C., Li, J., Chen, X., Wang, T., & Haider, A. A. (2024).** Perceptions, challenges, and opportunities of Chinese language learning in Punjab and Sindh, Pakistan: Exploring the role of CPEC. *New Directions for Child and Adolescent Development, 2024*, 1–18. https://doi.org/10.1155/2024/6662409  
+Crossref reversed given/family for several Chinese names; APA follows Semantic Scholar / ORCID order (Jiangyu Li, Xi Chen, Tao Wang). **PDF not retrieved** (Hindawi/Wiley 403). Chapter 2 cites this only as landscape.
+
+**Pratiwi, N. U., Jufrizal, & Hamzah. (2020).** English language teachers’ practices of textbook adaptation techniques. In *Proceedings of the Eighth International Conference on Languages and Arts (ICLA-2019)* (pp. 28–31). Atlantis Press. https://doi.org/10.2991/assehr.k.200819.006
+
+**Saemee, K., & Nomnian, S. (2021).** Cultural representations in ELT textbooks used in a multicultural school. *rEFLections, 28*(1), 107–120. https://doi.org/10.61508/refl.v28i1.251027
+
+**Zhao, K., Li, W., & Wang, D. (2024b).** Facilitating the localization of Chinese language teaching in Australia: Translanguaging and funds of knowledge lens. *Creative Education Studies, 12*(8), 385–394. https://doi.org/10.12677/ces.2024.128549  
+Hans PDF (Chinese and English title pages) lists three authors. Related to Zhao (2020, 2024a); not a Pakistan study.

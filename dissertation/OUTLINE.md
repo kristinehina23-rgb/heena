@@ -148,9 +148,9 @@ One paragraph per chapter.
 
 **Destination paragraph (write toward this only):** see `GAP-STATEMENT.md`. If a section does not help the reader understand that paragraph, it does not belong in this chapter.
 
-**Job of this chapter:** give four **reasons** to believe the gap claim (materials-use vs product; ecological agency mostly in EFL; CFL mediation not joined to that model in Pakistan; Pakistan CFL studies describe fit, not classroom production). Show that those reasons have not been joined for Pakistani teachers of Chinese.
+**Job of this chapter:** give reasons to believe the gap claim, following the core literature map in `CHAPTER-2-CORE-LITERATURE-MAP.md`. Mismatch between standardized materials and local learners is a **starting condition**, not the research object. The 240-paper tables remain the search archive; Chapter 2 uses about 20–30 papers in close discussion and 60–90 as grouped support.
 
-Do **not** rebuild the old Chapter 2 around “how well materials fit Pakistan.” Fit studies become **one strand** under 2.4 and 2.5.
+Do **not** rebuild the old Chapter 2 around “how well materials fit Pakistan.”
 
 Write toward 50–60 pages by developing each **reason** with grouped sources as evidence (Booth chs. 5–7, 10.3, 12). Use the evidence tables as a source map, not as the outline of the prose. Mark abstract-only items for full-text reading before citation.
 
@@ -163,77 +163,31 @@ Write toward 50–60 pages by developing each **reason** with grouped sources as
 - Search note: Undermind 1–220; CNKI still required.
 - Announce the gap early.
 
-### 2.2 Language teaching materials: from evaluation to use and recontextualization
+### 2.2 From global materials to local mismatch
+Standardized materials travel because they are systematic and examinable; they do not travel as context-neutral objects (Rathert & Cabaroğlu, 2022; Toledo-Sandoval, 2020; Dassanayake, 2023; Hanifa et al., 2024; Mohamad Uri & Abdul Aziz, 2024). Harwood (2021, 2026) and Guerrettaz et al. (2022) recast mismatch as a problem of use. **Mismatch is the beginning of the process the title names, not the finding the title promises.**
 
-**2.2.1 Materials as content, consumption, and production**  
-Harwood (2021, 2026); Guerrettaz et al. (2022). Move the review away from checklist evaluation toward classroom consumption and teacher production.
+### 2.3 Adaptation as professional practice
+Teachers add, omit, substitute, modify, reorder, simplify, and write supplements (Rathert & Cabaroğlu, 2021, 2022; Hanifa & Yusra, 2023; Hanifa et al., 2024). Frequent adaptation is not always deep localization (Criado, 2023; Pratiwi et al., 2020). Reported willingness often exceeds observed practice (Yan & Weng, 2026). Adaptation moves are traces of recontextualization, not the operation itself. Do not restore Shawer or Tibebu without a verified full text.
 
-**2.2.2 Materials in the classroom ecology**  
-Guerrettaz & Johnston (2013): textbook as de facto curriculum. Guerrettaz, Engman & Matsumoto (2021); Kim (2023); Matsumoto (2019); Li (2020, 2023); Li & Xu (2020); Li & Li (2021). Materials as affordance, perturbation, and interactional resource.
+### 2.4 Teacher agency and curriculum making
+Ecological agency as achievement (Biesta & Tedder, 2007; Priestley et al., 2012, 2016; Biesta, Priestley, & Robinson, 2015; L. Wang, 2022). Restricted / addition-only agency still counts (Yan & Weng, 2026; Tao & Weng, 2025). Nested conditions (Namgung et al., 2023; Tao, 2021). Analogues can guide coding; they cannot stand in for Pakistani teachers of Chinese.
 
-**2.2.3 Adaptation as professional practice, not error**  
-Rathert & Cabaroğlu (2021, 2022): omission, addition, substitution, modification; coursebook-led versus teacher-led use. Zhang, Liu & Li (2022): adaptation profiles. Shawer (2010, 2017): transmitter / maker / developer. Song (2024): evaluation, adaptation, exploitation. Mao & Qi (2026): reading–evaluating–adapting–reflecting. Bi (2020): pre-/during-/post-class cycle. Li, Gao & Cui (2021); Bouckaert (2019): teachers as users, analysts, designers.
+### 2.5 Localization in Chinese-language education
+CFL is not ELT with the language swapped in (Yasasri, 2024; Dassanayake, 2023). Teacher-work localization is documented in Australia, Thailand, Indonesia, Norway, and related sites (Zhao, 2020, 2024a; Zhao et al., 2024b; Ling et al., 2023; Duangmanee & Waluyo, 2024). Pakistan is not in that set. Zhao (2024a) and Zhao et al. (2024b) are one Australian programme, not two independent datasets.
 
-**2.2.4 Localization, “the local,” and recontextualization**  
-Tian & Weninger (2026): multiple meanings of “the local.” Toledo-Sandoval (2020); Lestari (2019); Gray (2000); Forman (2014); Yasasri (2024) on **recontextualizing global CFL materials**. Ling, Han & Ma (2023) on CFL contextualization. Yu (2015) on interpretation / re-interpretation / recontextualization of reform.  
-**Argument:** “local textbook” research is uneven; South Asia and CFL are thin; recontextualization names the pedagogic move better than “add Urdu.”
+### 2.6 Translanguaging and multilingual mediation
+Urdu, English, regional languages, pinyin, and Chinese are ecological resources, not interference (Q. Zhang et al., 2020; D. Wang, 2022; Puspitasari et al., 2024; Nan et al., 2023). Multilingual practice is not automatically localizing (Liu, 2025; Yuan & Lee, 2024). Observation plus materials comparison is required.
 
-**2.2.5 Imported materials, culture, and teacher mediation**  
-Uri & Abdul Aziz (2024); Hanifa et al. (2024); Hanifa & Yusra (2023); Kiss & Rimbar (2021); Ahamat & Kabilan (2022); Ma’mor et al. (2024); Setiawan (2023); Vu & Pham (2022) (warning: linguistic adaptation without critical cultural mediation). Huang & Guo (2024).
+### 2.7 Comparative teacher-mediated localization
+South and Southeast Asian analogues (Hanifa & Yusra, 2023; Mohamad Uri & Abdul Aziz, 2024; Loo, 2026; Duangmanee & Waluyo, 2024). None is a Pakistani teacher of Chinese working with Chinese-language materials.
 
-### 2.3 Teacher agency: ecological, temporal, and constrained
+### 2.8 Chinese-language education in Pakistan
+Landscape and perceived fit: C. Wang (2022); Jabbar (2025); Hanif (2023); Azeem et al. (2022); Khan et al. (2022); Ali & David (2022); Naheed (2026); Aftab & Abbasi (2024). Iftikhar et al. (2024) only as landscape until the PDF is read closely. **Lu et al. (2024) and Lu & Hanif (2025) are related publications, not independent evidence.** They describe perceived fit and propose materials-production remedies. They do not replace classroom observation plus materials comparison.
 
-**2.3.1 Agency as achievement**  
-Biesta & Tedder (2006, 2007); Priestley, Biesta & Robinson (2013, 2015); Priestley et al. (2012, 2016); Biesta, Priestley & Robinson (2015); Leijen, Pedaste & Lepp (2020); Hardman (2025).  
-Core claim to carry into Chapter 3: agency is not a personality trait; it is a temporal-relational achievement in contexts-for-action.
+### 2.9 Synthesis and research gap
+Write toward `GAP-STATEMENT.md`. Four RQs restated as the review’s destination. Near-misses: Alvunger (2018); Yasasri (2024); Dassanayake (2023); Nan et al. (2023); Ling et al. (2023); Loo (2026). Chapter 3 operationalizes the model.
 
-**2.3.2 Agency in curriculum and textbook reform**  
-Dao, Ngo & Chi (2025): acceptance / adaptation / resistance. Chen & Shu (2026): approval, compliant agency, persistent agency. Yan & Weng (2026): ecological, agentic textbook use (“we can only do addition”). Tao & Weng (2025): restricted agency. Wang (2022): constrained, transformative, progressive agency. Tran (2022); Truong (2023); Liu & Wang (2019); Tao (2021); Tsang (2020).
-
-**2.3.3 Nested ecosystems and institutional mediation**  
-Namgung, Moate & Ruohotie-Lyhty (2023): micro–meso–exo–macro–chrono. Priestley et al. on input/output regulation and creative mediation. Universities as the strongest filter of policy (Tao, 2021). Exam, syllabus, supervision, time (Cuayahuitl & Carranza, 2015; Huang & Guo, 2024).
-
-**2.3.4 Identity, beliefs, vulnerability, and professional learning**  
-Biesta, Priestley & Robinson (2015) on beliefs as cultural resources that are not enough. Zhang, Li & Sang (2025); Liyanage & Walker (2023); Lasky (2005); Ketelaar et al. (2012); Li & Gao (2025); Xu & Li (2025); Yang et al. (2024); Wang & Zhang (2024).  
-**Argument:** material work reconstructs teacher identity; identity also shapes what teachers dare to change.
-
-### 2.4 Chinese as a foreign / additional language: teachers, materials, multilingual practice
-
-This section must be **stronger than a few CFL citations**. It is what makes the thesis a Chinese-language education study rather than an ELT study relocated to Pakistan.
-
-**2.4.1 CAL/CFL teacher agency and materials**  
-Bao, Ren & Wang (2020): Belarusian Chinese teachers; beliefs, identity, community. Han (2026): Norwegian Chinese teachers rebuilding materials. Wang & Bale (2024): new K–12 Chinese teachers creating curriculum. Hsiang et al. (2022): beliefs about Chinese textbook selection and use. Zhang et al. (2025): CAL teachers’ translanguaging under activity-system constraints.
-
-**2.4.2 Recontextualizing Chinese materials and local life**  
-Yasasri (2024): global CFL textbooks and local culture/L1. Ling, Han & Ma (2023); Zhao (2020, 2024): local everyday practices as Chinese-learning content; critical translanguaging. Han (2022): bilingual repertoires in CAL teaching.
-
-**2.4.3 Translanguaging as a recontextualization resource**  
-Huang, Guo & Yang (2025); Zheng (2019); Lu & Tian (2025); Wang (2022, Hong Kong); Tian & Lau (2022); Tian (2022).  
-**For Pakistan:** Urdu, English, regional languages, and Chinese are ecological resources, not interference. Do not reduce localization to Urdu glosses.
-
-### 2.5 Pakistan and adjacent contexts: what is known, what is missing
-
-**2.5.1 Chinese-language education in Pakistan**  
-Use the Pakistan CFL studies already in the previous draft (Lu and colleagues; 王彩霞; programme histories; Naheed, 2026, on local teachers and HSK Standard Course use). Treat them as **landscape**, not as the theory of this thesis.  
-State clearly: they document programmes, materials, and often **perceptions of fit**. They do not analyse recontextualization practices or ecological agency.
-
-**2.5.2 Closest comparative cases**  
-South and Southeast Asian teacher-led adaptation (Hanifa; Uri; Kiss & Rimbar; Lestari); Chinese teachers outside China (Bao; Han; Wang & Bale); EFL teachers under prescribed textbooks in China and Vietnam (Yan & Weng; Dao et al.; Rathert).  
-These are **analogues**, not substitutes for Pakistani CFL evidence.
-
-**2.5.3 Research gap**  
-Three absences, which the title fills:
-
-1. CFL materials research still talks localization as **product**; classroom **recontextualization** by local teachers is under-described, especially in Pakistan.  
-2. Teacher-agency research is rich in EFL curriculum reform; **Pakistani teachers of Chinese** are almost absent.  
-3. Ecological models exist; they have not been used to explain **how localization is produced** in Pakistani Chinese classrooms.
-
-End Chapter 2 with a gap statement that Chapter 3 will operationalize.
-
-### 2.6 Chapter summary
-A table: field → what it offers this study → what it cannot answer. Then the four RQs restated as the review’s destination.
-
-**CNKI / Chinese-language search still required** for 教材再语境化, 教师能动性, 本土化, 教材使用, 国际中文教育. The Undermind tables are English-dominant. Do not claim completeness until CNKI is done.
+**CNKI / Chinese-language search still required** for 教材再语境化, 教师能动性, 本土化, 教材使用, 国际中文教育. The evidence tables are English-dominant. Do not claim completeness until CNKI is done.
 
 ---
 
