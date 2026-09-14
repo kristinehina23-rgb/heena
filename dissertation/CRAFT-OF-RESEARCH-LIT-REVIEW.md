@@ -224,3 +224,16 @@ Length: 50–60 pages comes from **developed reasons and fair engagement**, not 
 - [ ] Every citation is in Zotero and has been read.
 
 The destination remains the same sentence you already wrote. *The Craft of Research* is how you **earn** that sentence, paper by paper, reason by reason.
+
+---
+
+## 13. Dissertation register (write as a researcher, not as a note-taker)
+
+Chapter 2 is a chapter of a PhD thesis in international Chinese-language education. Write it that way.
+
+- Do not put “working draft,” Booth, Undermind, Zotero, or file paths in the chapter body. Scope and CNKI belong in one calm paragraph.
+- Do not number “competing definitions” with Strength/Limit bullets. Narrate the debate, then state the working definition.
+- Cite researchers as interlocutors: what they claimed, on what evidence, with what limit for *this* problem.
+- Keep Chinese terms (再语境化, 教师能动性, 本土化) where they earn precision; do not sprinkle them.
+- Analogues motivate; they do not substitute. Related publications (Lu et al., 2024; Lu & Hanif, 2025) are one programme, not two confirmations.
+- Observation plus materials comparison remains non-negotiable for claims about classroom practice.
