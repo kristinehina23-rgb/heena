@@ -23,6 +23,15 @@ Each item already has:
 
 After import, use the tag pane to filter. That keeps Chapter 2 pointed at the gap paragraph in `dissertation/GAP-STATEMENT.md`.
 
+**Add these four Pakistan records by hand** (they are not in the 220-item RIS). Verified APA records are in `dissertation/chapter-02-literature-review.md` and `dissertation/REFERENCE-VERIFICATION.md`:
+
+- Lu, X., Tan, A., Ma, Y., Feng, H., & Hanif, B. (2024). https://doi.org/10.52131/pjhss.2024.v12i4.2553
+- Lu, X., & Hanif, B. (2025). https://doi.org/10.52015/daryaft.v17i02.436 — **related to Lu et al. (2024), not independent evidence**
+- Naheed, U. (2026). https://doi.org/10.5281/zenodo.19115312
+- Wang, C. (2022). Doctoral dissertation, Central China Normal University (no DOI; attach the PDF when you have it)
+
+Chapter 2 no longer cites items marked metadata-only / abstract-unavailable in the evidence tables. Do not restore Shawer (2010, 2017), Guerrettaz, Engman and Matsumoto (2021), Hsiang et al. (2022), Lestari (2019), Tibebu (2020), Biesta and Tedder (2006), or the 2015 Priestley/Biesta/Robinson book without a verified full text.
+
 ## Optional: add by DOI only
 
 Paste `dois.txt` (201 DOIs) into Zotero’s **Add Item(s) by Identifier**. You will still need the RIS file for items with no DOI, and you will lose the evidence-table notes unless you import the RIS.
