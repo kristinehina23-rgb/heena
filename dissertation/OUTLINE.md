@@ -144,13 +144,15 @@ One paragraph per chapter.
 
 ## Chapter 2  Literature review / 文献综述
 
+**How to write this chapter:** follow `CRAFT-OF-RESEARCH-LIT-REVIEW.md` (*The Craft of Research*, 5th ed., Booth, Colomb, Williams, Bizup & FitzGerald, 2024). Chapter 2 is a **research argument** about a conversation, not a survey of 220 papers.
+
 **Destination paragraph (write toward this only):** see `GAP-STATEMENT.md`. If a section does not help the reader understand that paragraph, it does not belong in this chapter.
 
-**Job of this chapter:** show that four literatures exist, that they have not been joined for Pakistani CFL teachers, and that the gap is therefore the title itself.
+**Job of this chapter:** give four **reasons** to believe the gap claim (materials-use vs product; ecological agency mostly in EFL; CFL mediation not joined to that model in Pakistan; Pakistan CFL studies describe fit, not classroom production). Show that those reasons have not been joined for Pakistani teachers of Chinese.
 
 Do **not** rebuild the old Chapter 2 around “how well materials fit Pakistan.” Fit studies become **one strand** under 2.4 and 2.5.
 
-Write toward 50–60 pages by developing each section with argument, not by listing papers. Use the evidence tables as the source map. Mark abstract-only items for full-text reading before citation in the final thesis.
+Write toward 50–60 pages by developing each **reason** with grouped sources as evidence (Booth chs. 5–7, 10.3, 12). Use the evidence tables as a source map, not as the outline of the prose. Mark abstract-only items for full-text reading before citation.
 
 ### 2.1 Introduction and review strategy
 - Why these four fields: (1) materials use and recontextualization; (2) teacher agency, especially ecological; (3) CFL/CAL materials and teachers; (4) Pakistan and comparable Global South settings.
@@ -468,9 +470,10 @@ That is the main design correction from the previous draft.
 
 ## 7. Immediate writing order
 
-1. Lock title, abstract, RQs, and the Chapter 3 figure.  
-2. Rewrite Chapter 1 to the new problem (short).  
-3. Rebuild Chapter 2 in the four-field structure above; fold papers 1–220; add CNKI; obtain papers 221–240 if Undermind still has them.  
+0. Read *The Craft of Research*, 5th ed., chs. 1–2, 5–7, 10.3, 12, 14; follow `CRAFT-OF-RESEARCH-LIT-REVIEW.md`.  
+1. Lock title, abstract, RQs, Chapter 2 literature-claim, and the Chapter 3 figure.  
+2. Rewrite Chapter 1 to the new problem (short), using Booth’s context–problem–response (ch. 14).  
+3. Rebuild Chapter 2 by **reasons**, not by stretching old pages; fold papers 1–220 only where they support a reason; add CNKI; obtain papers 221–240 if Undermind still has them.  
 4. Write Chapter 3 as one model, one figure.  
 5. Freeze Chapter 4 around observation + interview + artefacts.  
 6. Collect / recode data to RQs 1–4.  

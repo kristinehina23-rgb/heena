@@ -2,6 +2,7 @@
 
 PhD thesis working files.
 
+- How to write Chapter 2 (*Craft of Research*, 5th ed.): [`dissertation/CRAFT-OF-RESEARCH-LIT-REVIEW.md`](dissertation/CRAFT-OF-RESEARCH-LIT-REVIEW.md)
 - Literature-review destination (gap paragraph): [`dissertation/GAP-STATEMENT.md`](dissertation/GAP-STATEMENT.md)
 - Current title and chapter outline: [`dissertation/OUTLINE.md`](dissertation/OUTLINE.md)
 - Chinese short outline: [`dissertation/OUTLINE-zh.md`](dissertation/OUTLINE-zh.md)
