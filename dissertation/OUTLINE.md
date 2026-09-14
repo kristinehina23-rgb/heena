@@ -470,7 +470,7 @@ That is the main design correction from the previous draft.
 
 ## 7. Immediate writing order
 
-0. Read *The Craft of Research*, 5th ed., chs. 1–2, 5–7, 10.3, 12, 14; follow `CRAFT-OF-RESEARCH-LIT-REVIEW.md`.  
+0. Chapter 2 working draft is in `chapter-02-literature-review.md`. Expand by reading PDFs and CNKI; do not replace the four-reason spine.  
 1. Lock title, abstract, RQs, Chapter 2 literature-claim, and the Chapter 3 figure.  
 2. Rewrite Chapter 1 to the new problem (short), using Booth’s context–problem–response (ch. 14).  
 3. Rebuild Chapter 2 by **reasons**, not by stretching old pages; fold papers 1–220 only where they support a reason; add CNKI; obtain papers 221–240 if Undermind still has them.  
