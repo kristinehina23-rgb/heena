@@ -6,7 +6,7 @@ Recontextualization of Chinese-Language Teaching Materials and Teacher Agency am
 **Chinese title**  
 巴基斯坦本土中文教师的中文教材再语境化与教师能动性研究——一项生态视角下的质性研究
 
-**This file:** 1.1 Research Background; Research Objectives (general + four specific). No significance in this block.
+**This file:** 1.1 Research Background; Research Objectives (general + four specific); Research Significance (theoretical and practical, three items each).
 
 Khan et al. is cited as **2022** (verified APA year for DOI 10.1177/02627280221120328; print issue 43(1) is February 2023). Rathert and Cabaroğlu are **2021** and **2022** in the verified library, not 2024. Lu et al. (2024) and Lu and Hanif (2025) are related publications, counted as one programme. Iftikhar et al. (2024) remains landscape until the PDF is read closely. No Q1/Q2 claim.
 
@@ -47,6 +47,26 @@ The specific objectives are:
 3. To analyse teacher agency in this work across the iterational, projective, and practical-evaluative dimensions.
 
 4. To explain how classroom, institutional, examination, professional, and sociocultural conditions enable or constrain this work.
+
+---
+
+## Research Significance
+
+### Theoretical Significance
+
+1. Research on Chinese-language education has treated localization mainly as a matter of textbook production. This study turns to the classroom use of published materials.
+
+2. It brings an ecological account of teacher agency to that materials work. Agency is analysed as an achievement under conditions, not as a trait of individual teachers.
+
+3. It offers one account of recontextualization and ecological agency among Pakistani teachers of Chinese. Research on programmes and materials in this setting has not provided that account.
+
+### Practical Significance
+
+1. The findings can inform the preparation of local Chinese-language teachers. They show what teachers already do with the books they are given, and why those decisions are made.
+
+2. They can inform institutional and policy decisions in universities and language institutes. Time, examinations, and professional support shape what teachers can do with materials.
+
+3. They can support Chinese-language teaching in higher education. The advice concerns classroom practice and the conditions of teachers' work, not the production of a new textbook alone.
 
 ---
 
