@@ -38,7 +38,7 @@ Use about **20–30 Tier 1** papers in close discussion and **60–90 Tier 2** p
 |---|---|---|
 | Opening | Locked relation: mechanism / achievement / process-outcome. Localization is not Framework 3. | — |
 | 2.1 Materials recontextualization | Official recontextualization already in the book; teacher recontextualization is the operation; mismatch is a starting condition; moves are traces | A0 in 2.1.1–2.1.3; A1–A2 in 2.1.4 |
-| 2.2 Ecological teacher agency | Agency is achieved, including in textbook-agency studies | B0 in 2.2.1–2.2.3; B1 in 2.2.4–2.2.5 |
+| 2.2 Ecological teacher agency | Agency is achieved, including in textbook-agency studies | B0 in 2.2.1–2.2.3; B1 close in 2.2.4; B1 limits only in 2.2.5 |
 | 2.3 Localization in international Chinese-language education | Field’s problem-name; teacher work, not only a new book; not a third theoretical framework | C0 in 2.3.1–2.3.3; C1–C3 in 2.3.4 |
 | 2.4 Chinese-language education in Pakistani universities | Programmes and perceived fit, not classroom enactment | D1, D2 |
 | 2.5 Synthesis and gap | The join has not been made for this population with observation plus materials comparison | Near-misses; write last |

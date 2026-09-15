@@ -5,8 +5,8 @@
 **Visible chapter TOC (locked; third-level headings in `OUTLINE.md`):**
 
 ```
-2.1 Materials Recontextualization: Concept and Evidence
-2.2 Ecological Teacher Agency: Concept and Evidence
+2.1 Materials Recontextualization: Concepts and Empirical Evidence
+2.2 Ecological Teacher Agency: Concepts and Empirical Evidence
 2.3 Localization in International Chinese-Language Education
 2.4 Chinese-Language Education in Pakistani Universities
 2.5 Synthesis and Research Gap
@@ -20,8 +20,9 @@ The older 2.2–2.8 reason-spine is **not discarded**. It is nested here as fami
 |---|---|---|
 | A0 | 2.1.1, 2.1.2, 2.1.3 | 2.1.4 (except a one-line working definition recalled) |
 | A1, A2 | 2.1.4 | 2.1.1 |
-| B0 | 2.2.1, 2.2.2, 2.2.3 | 2.2.4 |
-| B1 | 2.2.4, 2.2.5 | 2.2.1–2.2.3 |
+| B0 | 2.2.1, 2.2.2, 2.2.3 | 2.2.4–2.2.5 |
+| B1 close discussion | 2.2.4 | 2.2.5 |
+| B1 limits only | 2.2.5 | 2.2.4 (no second empirical tour) |
 | C0 | 2.3.1, 2.3.2, 2.3.3 | 2.3.4 as a second full tour |
 | C1, C2, C3 | 2.3.4 (C2 also as neighbour in 2.3.2) | 2.4 (except Pakistan-specific materials talk) |
 | D1 | 2.4.1–2.4.4, 2.4.6 | 2.3 as if it were Pakistan evidence |
@@ -35,7 +36,7 @@ The older 2.2–2.8 reason-spine is **not discarded**. It is nested here as fami
 1. Outline (done).
 2. **Classify** papers into families (this file).
 3. Write 2.1–2.4 from the families against the locked third-level headings: concept subsections first, empirical subsections second.
-4. Write **2.5 last**: 2.5.1 established / 2.5.2 intersection / 2.5.3 synthesized limits / 2.5.4 Pakistan occupancy / 2.5.5 gap + four RQs. Not first. Do not recap 2.1.4, 2.2.5, 2.3.4, 2.4.6.
+4. Write **2.5 last**: 2.5.1 established / 2.5.2 intersection of materials recontextualization and teacher agency / 2.5.3 synthesized limits / 2.5.4 Pakistan occupancy / 2.5.5 gap connected to the four locked RQs. Not first. Do not recap 2.1.4, 2.2.5, 2.3.4, 2.4.6.
 5. Chapter 3 turns the gap into a working model. Fieldwork does not test statistical hypotheses.
 
 Do **not** write a “hypothesis” section in Chapter 2. This is a qualitative interpretive study. What you may carry forward are **working claims** (expected patterns to look for, not H1/H2). They belong at the end of this file and, later, as analytic sensitizing ideas in Chapter 3–4. They are not findings.
@@ -106,7 +107,7 @@ Related publications count as **one programme**, not two confirmations: Lu et al
 
 ### B1  Agency in prescribed-materials / curriculum reform
 
-**Family claim:** Teachers mediate prescribed textbooks unevenly under examination, syllabus, and institutional filters.
+**Family claim:** Teachers mediate prescribed textbooks unevenly under examination, syllabus, and institutional filters. Close discussion belongs in **2.2.4**. **2.2.5** states limits only (wrong population, method, analogue). Do not re-summarize the same studies.
 
 - **Close:** L. Wang (2022); Yan & Weng (2026); Tao & Weng (2025); Dao et al. (2025); Chen & Shu (2026)
 - **Grouped:** Tran (2022); Truong (2023); Namgung et al. (2023); Chen (2023); Tao (2021); Rivera Cuayahuitl & Pérez Carranza (2015); Huang & Guo (2024); J. Zhang et al. (2025); Liyanage & Walker (2023)
@@ -202,7 +203,7 @@ Localization has **no Bernstein**. Do not invent a parallel genealogy.
 
 **2.5.3–2.5.4** They do **not** together show how Pakistani teachers of Chinese recontextualize materials in class, or how that work is achieved or constrained. Synthesize limits; do not reprint 2.1.4 / 2.2.5 / 2.3.4 / 2.4.6.
 
-**2.5.5** Paste `GAP-STATEMENT.md`. Then the four RQs. Then one paragraph: this study will join Families A–B in population D, with observation plus materials comparison. Theoretical/practical contribution lists stay in Chapters 1 and 7.
+**2.5.5** Paste `GAP-STATEMENT.md`. Connect it to the four locked RQs. Do not invent new questions or a contribution list. Then one paragraph: this study will join Families A–B in population D, with observation plus materials comparison. Theoretical/practical contribution lists stay in Chapters 1 and 7.
 
 ---
 

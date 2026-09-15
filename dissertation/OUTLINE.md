@@ -150,39 +150,39 @@ One paragraph per chapter.
 **Locked table of contents (what appears in the dissertation):**
 
 ```
-2.1 Materials Recontextualization: Concept and Evidence
-    2.1.1 Origins and definitions
-    2.1.2 Recontextualization and its neighbouring concepts
-    2.1.3 Forms and levels of recontextualization
-    2.1.4 Empirical research and its limitations
+2.1 Materials Recontextualization: Concepts and Empirical Evidence
+    2.1.1 Origins and Definitions
+    2.1.2 Recontextualization and Its Neighbouring Concepts
+    2.1.3 Forms and Levels of Recontextualization
+    2.1.4 Empirical Research and Its Limitations
 
-2.2 Ecological Teacher Agency: Concept and Evidence
-    2.2.1 From individual capacity to situated achievement
-    2.2.2 The temporal-relational conception of agency
-    2.2.3 The ecological model: dimensions and conditions
-    2.2.4 Empirical studies of agency in materials and curriculum use
-    2.2.5 Empirical research and its limitations
+2.2 Ecological Teacher Agency: Concepts and Empirical Evidence
+    2.2.1 From Individual Capacity to Situated Achievement
+    2.2.2 The Temporal-Relational Conception of Agency
+    2.2.3 The Ecological Model: Dimensions and Conditions
+    2.2.4 Empirical Studies of Agency in Materials and Curriculum Use
+    2.2.5 Limitations of Existing Teacher-Agency Research
 
 2.3 Localization in International Chinese-Language Education
-    2.3.1 Definitions and boundaries
-    2.3.2 Localization and its neighbouring concepts
-    2.3.3 Dimensions of localization
-    2.3.4 Teacher-led localization and its limitations
+    2.3.1 Definitions and Boundaries
+    2.3.2 Localization and Its Neighbouring Concepts
+    2.3.3 Dimensions of Localization
+    2.3.4 Teacher-Led Localization and Its Limitations
 
 2.4 Chinese-Language Education in Pakistani Universities
-    2.4.1 Development and institutional settings
-    2.4.2 Pakistani teachers of Chinese
-    2.4.3 Learners' linguistic and educational backgrounds
-    2.4.4 Teaching materials and multilingual mediation
-    2.4.5 Reported localization needs and challenges
-    2.4.6 Limitations of Pakistan-specific research
+    2.4.1 Development and Institutional Settings
+    2.4.2 Pakistani Teachers of Chinese
+    2.4.3 Learners’ Linguistic and Educational Backgrounds
+    2.4.4 Teaching Materials and Multilingual Mediation
+    2.4.5 Reported Localization Needs and Challenges
+    2.4.6 Limitations of Pakistan-Specific Research
 
 2.5 Synthesis and Research Gap
-    2.5.1 What the literature collectively establishes
-    2.5.2 The intersection of recontextualization and agency
-    2.5.3 Conceptual, empirical, and methodological limitations
-    2.5.4 The contextual gap in Pakistani universities
-    2.5.5 Resulting research problem and questions
+    2.5.1 What the Literature Collectively Establishes
+    2.5.2 The Intersection of Materials Recontextualization and Teacher Agency
+    2.5.3 Conceptual, Empirical and Methodological Limitations
+    2.5.4 The Contextual Gap in Pakistani Universities
+    2.5.5 Resulting Research Problem and Connection to the Research Questions
 ```
 
 This is a **compression** of the earlier reason-spine (mismatch → adaptation → agency → CFL localization → translanguaging → analogues → Pakistan → gap), not a return to three parallel theoretical frameworks. The old 2.2–2.8 claims live as **literature families** inside 2.1–2.4. Classify first (`CHAPTER-2-LITERATURE-FAMILIES.md`); write 2.5 last.
@@ -195,7 +195,9 @@ This is a **compression** of the earlier reason-spine (mismatch → adaptation �
 
 **The two analytic concepts are recontextualization and ecological agency.** Localization is the field’s problem-name and the process-outcome of teacher-mediated work. It is **not** a third theoretical framework equal to the first two. Do not assemble the working analytic model in this chapter; that is Chapter 3.
 
-**Heading rule.** Five second-level sections. Third-level headings as listed above. **No fourth level** (`2.1.1.1`). Do not add Booth-style extra heads (Introduction, Applications, Debates, Significance, 本章小结). “Origins and definitions” is a few paragraphs on what the term is and where it comes from, not a history of Bernstein. Families (`A0`, `B1`, …) are writing assignments, not extra headings.
+**Heading rule.** Five second-level sections. Third-level headings as listed above (Title Case). **No fourth level** (`2.1.1.1`). Do not add Booth-style extra heads (Introduction, Applications, Debates, Significance, 本章小结). “Origins and Definitions” is a few paragraphs on what the term is and where it comes from, not a history of Bernstein. Families (`A0`, `B1`, …) are writing assignments, not extra headings.
+
+**2.2.4 vs 2.2.5.** 2.2.4 is the empirical studies (Family B1, close discussion). 2.2.5 is **limits only**: wrong population, interview-heavy designs, analogues that cannot stand in for Pakistani teachers of Chinese. Do not re-summarize Yan and Weng, Dao, Chen and Shu, or L. Wang in 2.2.5.
 
 **“Concept then evidence” rule.** In 2.1–2.3, concept subsections use the foundational family only (short). Empirical subsections use the empirical families. Do not define Bernstein with a full tour of Rathert and then tour Rathert again. One primary family per paper (`CHAPTER-2-LITERATURE-FAMILIES.md`).
 
@@ -209,7 +211,7 @@ This is a **compression** of the earlier reason-spine (mismatch → adaptation �
 
 ---
 
-### 2.1 Materials Recontextualization: Concept and Evidence
+### 2.1 Materials Recontextualization: Concepts and Empirical Evidence
 
 **Purpose:** establish exactly what phenomenon the thesis studies.
 
@@ -217,12 +219,12 @@ This is a **compression** of the earlier reason-spine (mismatch → adaptation �
 
 | Heading | Job | Families |
 |---|---|---|
-| 2.1.1 Origins and definitions | Bernstein (2000); looser uses (Yu, 2015). Working definition: pedagogic operation; adaptation moves are traces. Short. | A0 |
-| 2.1.2 Neighbouring concepts | Boundary work, not a tour: recontextualization ≠ adaptation ≠ enactment ≠ materials-in-use ≠ contextualization. | A0 vs A1/A2 terms |
-| 2.1.3 Forms and levels | *Name* official / teacher / interactional layers as the literature uses them. Do not construct this study’s typology. | A0; Alvunger as near-miss |
-| 2.1.4 Empirical research and its limitations | Materials-in-use; mismatch as starting condition; adaptation as professional work; a count of moves is not yet recontextualization. Do not restore Shawer or Tibebu. | A1, A2 |
+| 2.1.1 Origins and Definitions | Bernstein (2000); looser uses (Yu, 2015). Working definition: pedagogic operation; adaptation moves are traces. Short. | A0 |
+| 2.1.2 Recontextualization and Its Neighbouring Concepts | Boundary work, not a tour: recontextualization ≠ adaptation ≠ enactment ≠ materials-in-use ≠ contextualization. | A0 vs A1/A2 terms |
+| 2.1.3 Forms and Levels of Recontextualization | *Name* official / teacher / interactional layers as the literature uses them. Do not construct this study’s typology. | A0; Alvunger as near-miss |
+| 2.1.4 Empirical Research and Its Limitations | Materials-in-use; mismatch as starting condition; adaptation as professional work; a count of moves is not yet recontextualization. Do not restore Shawer or Tibebu. | A1, A2 |
 
-### 2.2 Ecological Teacher Agency: Concept and Evidence
+### 2.2 Ecological Teacher Agency: Concepts and Empirical Evidence
 
 **Purpose:** show how teachers can or cannot act under conditions. “Why they do it” is RQ2 (practical-evaluative reasons), **not** a synonym for agency. Do not construct the analytic framework here.
 
@@ -230,11 +232,11 @@ This is a **compression** of the earlier reason-spine (mismatch → adaptation �
 
 | Heading | Job | Families |
 |---|---|---|
-| 2.2.1 From individual capacity to situated achievement | Reject Bandura-as-working-model; distinguish autonomy from agency; note Hardman’s competing relational/sociomaterial account. | B0 competing |
-| 2.2.2 The temporal-relational conception | Emirbayer and Mische: triad *named*, not operationalized. | B0 |
-| 2.2.3 The ecological model: dimensions and conditions | *Review* Priestley et al. (chordal triad + nested conditions of possibility). Do not assemble this study’s coding model. | B0 |
-| 2.2.4 Empirical studies of agency in materials and curriculum use | Textbook-agency studies stay **here**. Do not split “agency” from “agency with materials.” | B1 (Bao as CFL bridge) |
-| 2.2.5 Empirical research and its limitations | Wrong population; interview-heavy designs; analogues cannot stand in for Pakistani teachers of Chinese. | B1 limits |
+| 2.2.1 From Individual Capacity to Situated Achievement | Reject Bandura-as-working-model; distinguish autonomy from agency; note Hardman’s competing relational/sociomaterial account. | B0 competing |
+| 2.2.2 The Temporal-Relational Conception of Agency | Emirbayer and Mische: triad *named*, not operationalized. | B0 |
+| 2.2.3 The Ecological Model: Dimensions and Conditions | *Review* Priestley et al. (chordal triad + nested conditions of possibility). Do not assemble this study’s coding model. | B0 |
+| 2.2.4 Empirical Studies of Agency in Materials and Curriculum Use | Textbook-agency studies stay **here** (close discussion). Do not split “agency” from “agency with materials.” | B1 (Bao as CFL bridge) |
+| 2.2.5 Limitations of Existing Teacher-Agency Research | Limits only. Wrong population; interview-heavy designs; analogues cannot stand in for Pakistani teachers of Chinese. Do not re-tour 2.2.4. | B1 limits |
 
 ### 2.3 Localization in International Chinese-Language Education
 
@@ -244,10 +246,10 @@ This is a **compression** of the earlier reason-spine (mismatch → adaptation �
 
 | Heading | Job | Families |
 |---|---|---|
-| 2.3.1 Definitions and boundaries | Product vs process; who “the local” is; no Bernstein genealogy. | C0 |
-| 2.3.2 Neighbouring concepts | Localization ≠ translation ≠ adaptation ≠ contextualization; translanguaging is a neighbouring practice, not automatically localizing. | C0, C2 cautions |
-| 2.3.3 Dimensions of localization | How the field talks (linguistic, cultural, pedagogical, institutional). Not this study’s RQs. Not five dimensions of HSK fit. | C0, C1 product talk |
-| 2.3.4 Teacher-led localization and its limitations | CFL product/corpus vs teacher-work; analogues are not templates; Pakistan is not in the teacher-work set. | C1, C2, C3 |
+| 2.3.1 Definitions and Boundaries | Product vs process; who “the local” is; no Bernstein genealogy. | C0 |
+| 2.3.2 Localization and Its Neighbouring Concepts | Localization ≠ translation ≠ adaptation ≠ contextualization; translanguaging is a neighbouring practice, not automatically localizing. | C0, C2 cautions |
+| 2.3.3 Dimensions of Localization | How the field talks (linguistic, cultural, pedagogical, institutional). Not this study’s RQs. Not five dimensions of HSK fit. | C0, C1 product talk |
+| 2.3.4 Teacher-Led Localization and Its Limitations | CFL product/corpus vs teacher-work; analogues are not templates; Pakistan is not in the teacher-work set. | C1, C2, C3 |
 
 Optional sketch of the industrial/translation sense (Pym, 2004) belongs in 2.3.1 or 2.3.2, not as a software/translation chapter.
 
@@ -259,12 +261,12 @@ Optional sketch of the industrial/translation sense (Pym, 2004) belongs in 2.3.1
 
 | Heading | Job | Families |
 |---|---|---|
-| 2.4.1 Development and institutional settings | Universities, institutes, HSK as institutional condition. Keep to what teachers work inside. | D1 |
-| 2.4.2 Pakistani teachers of Chinese | Who they are in the available literature (status, training, employment). Title is teacher-centred. | D1 |
-| 2.4.3 Learners' linguistic and educational backgrounds | **Thin.** Only as it explains teachers’ practical-evaluative conditions. Not a second research object. | D1 |
-| 2.4.4 Teaching materials and multilingual mediation | What is used (HSK-oriented series); Urdu/English as recommended support. C2 does not substitute for observed Pakistani practice. | D1, D2 |
-| 2.4.5 Reported localization needs and challenges | Fit, culture, L1 glosses as *reported* needs. Starting conditions, not findings of this thesis. | D2, D1 |
-| 2.4.6 Limitations of Pakistan-specific research | Related-Lu programme counted once; interview/perception designs; no observation plus materials comparison of everyday recontextualization. C. Wang (2022) PDF outstanding; Iftikhar et al. (2024) landscape only until the PDF is read. | D1, D2 |
+| 2.4.1 Development and Institutional Settings | Universities, institutes, HSK as institutional condition. Keep to what teachers work inside. | D1 |
+| 2.4.2 Pakistani Teachers of Chinese | Who they are in the available literature (status, training, employment). Title is teacher-centred. | D1 |
+| 2.4.3 Learners’ Linguistic and Educational Backgrounds | **Thin.** Only as it explains teachers’ practical-evaluative conditions. Not a second research object. | D1 |
+| 2.4.4 Teaching Materials and Multilingual Mediation | What is used (HSK-oriented series); Urdu/English as recommended support. C2 does not substitute for observed Pakistani practice. | D1, D2 |
+| 2.4.5 Reported Localization Needs and Challenges | Fit, culture, L1 glosses as *reported* needs. Starting conditions, not findings of this thesis. | D2, D1 |
+| 2.4.6 Limitations of Pakistan-Specific Research | Related-Lu programme counted once; interview/perception designs; no observation plus materials comparison of everyday recontextualization. C. Wang (2022) PDF outstanding; Iftikhar et al. (2024) landscape only until the PDF is read. | D1, D2 |
 
 Lu et al. (2024) and Lu and Hanif (2025) are **related publications, not independent evidence**. Hanif (2023) is the same programme background.
 
@@ -274,11 +276,11 @@ Lu et al. (2024) and Lu and Hanif (2025) are **related publications, not indepen
 
 | Heading | Job |
 |---|---|
-| 2.5.1 What the literature collectively establishes | Families A–D in five sentences, not a tour. |
-| 2.5.2 The intersection of recontextualization and agency | The join this thesis needs; Alvunger (and Nan) as near-misses that occupy part of the join in another place. |
-| 2.5.3 Conceptual, empirical, and methodological limitations | Synthesize limits already named in 2.1.4, 2.2.5, 2.3.4, and 2.4.6. Do not rewrite those subsections. |
-| 2.5.4 The contextual gap in Pakistani universities | Population D has landscape and fit, not enactment. |
-| 2.5.5 Resulting research problem and questions | Paste `GAP-STATEMENT.md`. Four RQs. One paragraph: this study will join recontextualization and ecological agency for Pakistani teachers of Chinese, with observation plus materials comparison. One paragraph toward Chapter 3. Contribution *lists* belong in Chapters 1 and 7. No H1/H2. |
+| 2.5.1 What the Literature Collectively Establishes | Families A–D in five sentences, not a tour. |
+| 2.5.2 The Intersection of Materials Recontextualization and Teacher Agency | The join this thesis needs; Alvunger (and Nan) as near-misses that occupy part of the join in another place. |
+| 2.5.3 Conceptual, Empirical and Methodological Limitations | Synthesize limits already named in 2.1.4, 2.2.5, 2.3.4, and 2.4.6. Do not rewrite those subsections. |
+| 2.5.4 The Contextual Gap in Pakistani Universities | Population D has landscape and fit, not enactment. |
+| 2.5.5 Resulting Research Problem and Connection to the Research Questions | Paste `GAP-STATEMENT.md`. Show how the four locked RQs follow from that problem. Do not invent new questions, rewrite Chapter 1, or add a contribution list. One paragraph toward Chapter 3. No H1/H2. |
 
 Near-misses to name (do not treat as filling the gap): Alvunger (2018); Nan et al. (2023); Yasasri (2024); Dassanayake (2023); Ling et al. (2023); Loo (2026); observation-method papers in the wrong population (Yan & Weng, 2026; Dao et al., 2025; Guerrettaz & Johnston, 2013).
 
