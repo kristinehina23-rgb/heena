@@ -36,17 +36,17 @@ Taken together, this is where the story so far leads. Research on Pakistan has d
 
 ## Research Objectives
 
-The general objective of this study is to examine how Pakistani teachers of Chinese recontextualize Chinese-language teaching materials in classroom practice, and how their agency is achieved, restricted, or redirected within the ecological conditions of their work.
+The general objective of this study is to investigate the recontextualization of Chinese-language teaching materials by Pakistani teachers of Chinese, and the ecological conditions in which their agency is achieved.
 
 The specific objectives are:
 
-1. To identify the recontextualization practices that Pakistani teachers of Chinese enact when using Chinese-language teaching materials, including addition, omission, substitution, modification, reordering, supplementation, translanguaging, cultural filtering, and faithful transmission.
+1. To identify how these teachers recontextualize published Chinese-language materials in the classroom.
 
-2. To examine how these teachers justify their materials decisions in relation to learners, materials, pedagogy, culture, language resources, assessment, time, and professional identity.
+2. To examine the reasons they give for their decisions about those materials.
 
-3. To analyse how teacher agency is achieved, restricted, or redirected across the iterational, projective, and practical-evaluative dimensions of ecological agency.
+3. To analyse teacher agency in this work across the iterational, projective, and practical-evaluative dimensions.
 
-4. To explain which nested conditions—classroom, collegial and institutional, examination and policy, professional community, and wider sociocultural setting—enable or constrain this teacher-mediated work with materials.
+4. To explain how classroom, institutional, examination, professional, and sociocultural conditions enable or constrain this work.
 
 ---
 
