@@ -6,7 +6,7 @@ Recontextualization of Chinese-Language Teaching Materials and Teacher Agency am
 **Chinese title**  
 巴基斯坦本土中文教师的中文教材再语境化与教师能动性研究——一项生态视角下的质性研究
 
-**This file:** 1.1 Research Background; Research Objectives (general + four specific); Research Significance (theoretical and practical, three items each).
+**This file:** 1.1 Research Background (locked); 1.2 Research Objectives; 1.3 Research Significance.
 
 Khan et al. is cited as **2022** (verified APA year for DOI 10.1177/02627280221120328; print issue 43(1) is February 2023). Rathert and Cabaroğlu are **2021** and **2022** in the verified library, not 2024. Lu et al. (2024) and Lu and Hanif (2025) are related publications, counted as one programme. Iftikhar et al. (2024) remains landscape until the PDF is read closely. No Q1/Q2 claim.
 
@@ -34,7 +34,9 @@ Taken together, this is where the story so far leads. Research on Pakistan has d
 
 ---
 
-## Research Objectives
+## 1.2  Research Objectives
+
+Pakistani teachers of Chinese already work with published materials in class. That work has not been studied as recontextualization, and the agency involved in it has not been studied in ecological terms. This study is guided by one general objective and four specific objectives.
 
 The general objective of this study is to investigate the recontextualization of Chinese-language teaching materials by Pakistani teachers of Chinese, and the ecological conditions in which their agency is achieved.
 
@@ -50,23 +52,25 @@ The specific objectives are:
 
 ---
 
-## Research Significance
+## 1.3  Research Significance
+
+The significance of the study is theoretical and practical.
 
 ### Theoretical Significance
 
-1. Research on Chinese-language education has treated localization mainly as a matter of textbook production. This study turns to the classroom use of published materials.
+1. The study contributes to Chinese-language education by treating classroom materials use as a concern of localization research. The field has given close attention to how textbooks might be written for a local market. It has given less attention to how published materials are recontextualized once they are already in class.
 
-2. It brings an ecological account of teacher agency to that materials work. Agency is analysed as an achievement under conditions, not as a trait of individual teachers.
+2. The study contributes to research on teacher agency by applying an ecological view to this materials work. Agency is analysed as an achievement under conditions, not as a trait of individual teachers. Teaching the page as written and reshaping a text can both be studied as agency.
 
-3. It offers one account of recontextualization and ecological agency among Pakistani teachers of Chinese. Research on programmes and materials in this setting has not provided that account.
+3. The study offers an account of recontextualization and ecological agency among Pakistani teachers of Chinese. Research on programmes and materials in this setting has not provided that account.
 
 ### Practical Significance
 
-1. The findings can inform the preparation of local Chinese-language teachers. They show what teachers already do with the books they are given, and why those decisions are made.
+1. The findings can inform the preparation of local Chinese-language teachers. They make visible what teachers already do with the books they are given, and the reasons for those decisions.
 
-2. They can inform institutional and policy decisions in universities and language institutes. Time, examinations, and professional support shape what teachers can do with materials.
+2. The findings can inform institutional and policy decisions in universities and language institutes. Time, examinations, and professional support shape what teachers can do with materials.
 
-3. They can support Chinese-language teaching in higher education. The advice concerns classroom practice and the conditions of teachers' work, not the production of a new textbook alone.
+3. The findings can support Chinese-language teaching in higher education. Programme advice can rest on classroom practice and on the conditions of teachers' work. It does not have to rest on the production of a new textbook alone.
 
 ---
 
