@@ -237,10 +237,10 @@ Heading rules: five second-level sections; third-level headings as listed; Title
 
 **Paragraph plan**
 
-1. Priestley et al. (2012, 2016): teachers as mediators of prescribed curriculum; space for manoeuvre; creative mediation vs strategic compliance.
-2. Biesta, Priestley, & Robinson (2015): beliefs are cultural resources; they do not suffice without professional discourse and supportive institutional cultures.
+1. Priestley, Biesta, and Robinson (2015 book): the ecological model in full (iterational / projective / practical-evaluative; individual, cultural, and structural framings). Priestley et al. (2012, 2016) stay as related papers from the same programme, not as extra independent evidence.
+2. Biesta, Priestley, and Robinson (2015 article): beliefs as cultural resources; they do not suffice without professional discourse and supportive institutional cultures. One programme with the book.
 3. Leijen et al. (2020): reflection as a way of strengthening the model.
-4. Nested conditions as the literature names them (micro–meso–exo–macro, and time). Namgung et al. (2023) and Chen (2023) may be *named* as users of nested maps; their findings stay in 2.2.4 if used as evidence. Tao (2021): the university, not only the nation-state, may be the strongest filter — one sentence, because it matters for Pakistani universities.
+4. Nested conditions as the literature names them (micro–meso–exo–macro, and time). Namgung et al. (2023) and Chen (2023) may be *named* as users of nested maps; their findings stay in 2.2.4 if used as evidence. Tao (2021), the Russian-language teachers paper, not Tao and Gao (2021): the university, not only the nation-state, may be the strongest filter — one sentence, because it matters for Pakistani universities.
 5. Working definition for this review: an ecological achievement — the temporally shaped interplay of iterational resources, projective purposes, and practical-evaluative judgements in nested conditions of possibility and constraint. Not a trait, not autonomy, not measured by how strongly a teacher endorses localization.
 
 **Do not.** Assemble this study’s nested map of Pakistani Chinese teaching. That is Chapter 3.4.
