@@ -148,7 +148,19 @@ One paragraph per chapter.
 
 ## Chapter 2  Literature review / 文献综述
 
-**Writing plan (paragraph jobs, word budgets, anti-repetition map):** `CHAPTER-2-OUTLINE.md`.
+**Proposal template:** Pattern 2 (Research Topics or Perspectives). Not Pattern 1 (abroad/home) and not Pattern 3 (periods). “Home” on a Chinese form usually means China; this study’s site is Pakistan, so an abroad/home split would scramble the field. Periods would mix Bernstein, Priestley, and 2022–2026 Pakistan papers on clocks that do not belong together.
+
+Pattern 2 topics, with foreign and domestic studies inside each topic, and limitations in each topic:
+
+| Template topic | Dissertation section |
+|---|---|
+| Topic 1: materials recontextualization | 2.1 |
+| Topic 2: ecological teacher agency | 2.2 |
+| Topic 3: localization in international Chinese-language education | 2.3 |
+| Topic 4: Chinese-language education in Pakistani universities (the setting, not the whole review) | 2.4 |
+| Evaluation of previous studies | limits inside 2.1.4 / 2.2.5 / 2.3.4 / 2.4.6, then 2.5 |
+
+Pakistan is one topic. It is not the literature review.
 
 **Locked table of contents (what appears in the dissertation):**
 
