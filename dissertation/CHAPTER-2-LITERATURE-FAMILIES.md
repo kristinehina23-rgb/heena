@@ -1,6 +1,8 @@
 # Chapter 2 literature families
 
-**Role.** Classification file. Use this **before** writing synthesis. It is not the chapter, not a hypothesis list, and not a substitute for `GAP-STATEMENT.md`.
+**Stop.** Arrange the corpus first (`dissertation/LITERATURE-ARRANGEMENT.md`). Do not write more Chapter 2 prose until that eight-family table is stable.
+
+**Role.** This file remains the *writing* map (A0–D2 → 2.1–2.5). The eight corpus families (materials use, ecological agency, translanguaging, curriculum policy, localization/culture/fit, identity/professional learning, Pakistan/South Asia, CFL pedagogy) are listed with every paper in `LITERATURE-ARRANGEMENT.md`.
 
 **Visible chapter TOC (locked; full third-level headings in `OUTLINE.md` and the writing plan `CHAPTER-2-OUTLINE.md`):**
 

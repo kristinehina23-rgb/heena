@@ -2,7 +2,8 @@
 
 PhD thesis working files.
 
-- Chapter 2 writing outline (locked 2.1–2.5 headings and paragraph plan): [`dissertation/CHAPTER-2-OUTLINE.md`](dissertation/CHAPTER-2-OUTLINE.md)
+- **Arrange literature first (do not write more Chapter 2 yet):** [`dissertation/LITERATURE-ARRANGEMENT.md`](dissertation/LITERATURE-ARRANGEMENT.md)
+- Chapter 2 writing outline (locked 2.1–2.5 headings; paused): [`dissertation/CHAPTER-2-OUTLINE.md`](dissertation/CHAPTER-2-OUTLINE.md)
 - Chapter 2 literature families (classify before writing synthesis): [`dissertation/CHAPTER-2-LITERATURE-FAMILIES.md`](dissertation/CHAPTER-2-LITERATURE-FAMILIES.md)
 - Chapter 2 working draft (rebuilt to the locked 2.1.1–2.5.5 outline): [`dissertation/chapter-02-literature-review.md`](dissertation/chapter-02-literature-review.md)
 - Chapter 2 core literature map (argument spine; not the 240-paper archive): [`dissertation/CHAPTER-2-CORE-LITERATURE-MAP.md`](dissertation/CHAPTER-2-CORE-LITERATURE-MAP.md)
