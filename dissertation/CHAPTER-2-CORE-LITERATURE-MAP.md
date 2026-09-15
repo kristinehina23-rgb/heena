@@ -32,19 +32,18 @@ Use about **20–30 Tier 1** papers in close discussion and **60–90 Tier 2** p
 
 ---
 
-## Chapter architecture (merged with conceptual foundations)
+## Chapter architecture (five sections; families inside)
 
-| Section | Argument | Tier 1 anchors |
+| Section | Argument | Families |
 |---|---|---|
-| 2.1 Conceptual foundations | Recontextualization, agency, and localization are not synonyms; working definitions must be staked in continuous prose (no 2.1.1.1 tree). | Bernstein (2000); Emirbayer & Mische (1998); Biesta & Tedder (2007) |
-| 2.2 From global materials to local mismatch | Materials gain educational value through contextual suitability, not universal circulation alone. | Rathert & Cabaroğlu (2022); Toledo-Sandoval (2020); Dassanayake (2023) |
-| 2.3 Adaptation as professional practice | Adaptation is a principled response to mismatch and includes identifiable techniques. | Rathert & Cabaroğlu (2021, 2022); Hanifa et al. (2024); Hanifa & Yusra (2023); Mohamad Uri & Abdul Aziz (2024) |
-| 2.4 Teacher agency and curriculum making | Teachers mediate prescribed materials; agency is ecological, temporal, and uneven. | Biesta & Tedder (2007); Priestley et al. (2012, 2016); Biesta, Priestley, & Robinson (2015); L. Wang (2022) |
-| 2.5 Localization in Chinese-language education | Chinese materials require cultural, linguistic, and pedagogical recontextualization in host settings. | Yasasri (2024); Dassanayake (2023); Zhao (2020, 2024a); Zhao et al. (2024b); Ling et al. (2023); Duangmanee & Waluyo (2024) |
-| 2.6 Translanguaging and multilingual mediation | Local languages and multimodal resources are pedagogical assets, not merely compensatory tools. | Q. Zhang et al. (2020); D. Wang (2022); Puspitasari et al. (2024); Nan et al. (2023); Han (2022) |
-| 2.7 Comparative teacher-mediated localization | South and Southeast Asian cases show that local adaptation is valuable but often left to individual teachers. | Hanifa & Yusra (2023); Mohamad Uri & Abdul Aziz (2024); Loo (2026); Duangmanee & Waluyo (2024) |
-| 2.8 Chinese-language education in Pakistan | Demand has grown, but expansion has outpaced local capacity; existing studies describe fit, not classroom enactment. | Lu et al. (2024); Lu & Hanif (2025); Hanif (2023); Azeem et al. (2022); Khan et al. (2022); C. Wang (2022); Naheed (2026) |
-| 2.9 Synthesis and gap | The missing account is how Pakistani teachers’ everyday recontextualization is produced within an ecological setting. | Lu et al. (2024); Lu & Hanif (2025); Biesta & Tedder (2007); Priestley et al. (2012) |
+| Opening | Locked relation: mechanism / achievement / process-outcome | — |
+| 2.1 Recontextualization: concept and evidence | Official recontextualization already in the book; teacher recontextualization is the operation; mismatch is a starting condition; moves are traces | A0, A1, A2 |
+| 2.2 Ecological teacher agency: concept and evidence | Agency is achieved, including in textbook-agency studies | B0, B1 |
+| 2.3 Localization: concept and evidence | Teacher work, not only a new book; translanguaging is one resource; analogues are not templates | C0–C3 |
+| 2.4 The Pakistani context | Programmes and perceived fit, not classroom enactment | D1, D2 |
+| 2.5 Synthesis and gap | The join has not been made for this population with observation plus materials comparison | Near-misses |
+
+Paper lists: `dissertation/CHAPTER-2-LITERATURE-FAMILIES.md`.
 
 ---
 
@@ -52,4 +51,4 @@ Use about **20–30 Tier 1** papers in close discussion and **60–90 Tier 2** p
 
 Close discussion: Tier 1 only. Grouped citations: Tier 2. Do not bring a paper into the narrative merely because it was found. Keep a paper in the archive when it is loosely related, repeats a stronger paper, is abstract-thin, is only background, or cannot be verified.
 
-**Chapter 2 headings.** Three levels only. Origins / applications / debates / definition / significance are paragraphs, not `2.1.1.1`. Section 2.1.4 is the locked relation (mechanism / achievement / process-outcome), not driver / goal / practice. Empirical review is 2.2–2.8 by **reasons**. Gap is **2.9 only**.
+**Chapter 2 headings.** Five sections. Families are paragraphs, not extra headings. 2.5 is the only gap section. Relation remains mechanism / achievement / process-outcome.

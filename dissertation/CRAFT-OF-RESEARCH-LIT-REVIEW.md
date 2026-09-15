@@ -33,7 +33,7 @@ Use Chapter 14’s three-step introduction **inside Chapter 2** (and again, shor
 
 1. **Context** — researchers have studied textbook use, ecological agency, CFL materials, and Chinese education in Pakistan.  
 2. **Problem** — paste/adapt `GAP-STATEMENT.md`.  
-3. **Response** — this chapter stakes the three title concepts, then maps the conversation into reasons (2.2–2.8); section 2.9 is the warrant for the present study.
+3. **Response** — this chapter treats three concept-and-evidence families, then Pakistan, then the gap in 2.5.
 
 ---
 
@@ -53,19 +53,17 @@ That is a **conceptual claim** about a research conversation. Qualify it honestl
 
 Booth: a reason is why a reader should believe the claim. Evidence is what makes each reason believable (7.2). **Do not confuse reports of evidence with evidence** (7.4): an abstract in Undermind is a report; the PDF is the source.
 
-**Reasons = sections 2.2–2.8.** These match `OUTLINE.md`. Each heading must be a **reason**, not a field name. Section 2.1 stakes definitions; it is not a fourth empirical “reason.” Section 2.9 is the destination, not another review.
+**Reasons sit inside sections 2.1–2.4 as literature families** (`CHAPTER-2-LITERATURE-FAMILIES.md`). Headings in the dissertation are the five locked sections. Each heading must still be writable as a **reason**, not a field tour.
 
-| Section | Reason (topic sentence of the section) | What counts as evidence |
+| Section | Reason (topic sentence of the section) | Families |
 |---|---|---|
-| 2.2 | Standardized materials create mismatch; mismatch is a starting condition, not the object of the thesis. | Rathert, Toledo-Sandoval, Dassanayake, Hanifa, Uri, Harwood, Guerrettaz |
-| 2.3 | Adaptation is professional work, and a count of moves is not yet recontextualization. | Rathert, Hanifa, Uri, Song, Criado, Pratiwi |
-| 2.4 | Ecological agency explains uneven mediation of prescribed materials (including textbook-agency studies; do not split them off). | Biesta & Tedder; Priestley et al.; Yan & Weng; Dao; Tao & Weng; L. Wang; Namgung; Bao |
-| 2.5 | CFL localization is thinkable as teacher work, not only as a new book; Pakistan is not in that set. | Yasasri; Dassanayake; Zhao; Ling; Duangmanee & Waluyo; Han 2026 |
-| 2.6 | Translanguaging is one mediating resource, not automatically localizing. | Q. Zhang et al.; D. Wang; Puspitasari; Nan; Liu; Yuan & Lee |
-| 2.7 | Comparative teacher-mediated cases are analogues, not templates. | Hanifa; Uri; Loo; Duangmanee & Waluyo; Saemee & Nomnian |
-| 2.8 | Pakistan CFL research describes programmes and perceived fit, not classroom enactment. | C. Wang; Naheed; Hanif; Azeem; Khan; Lu et al. 2024 / Lu & Hanif 2025 (related, not independent) |
+| 2.1 | Materials arrive already recontextualized; teachers’ further recontextualization is the operation; mismatch is a starting condition; move-counts are traces. | A0, A1, A2 |
+| 2.2 | Whether that operation is possible is an ecological achievement, including textbook-agency studies. | B0, B1 |
+| 2.3 | Localization is teacher work, not only a new book; translanguaging is one resource; analogues are not templates. | C0, C1, C2, C3 |
+| 2.4 | Pakistan CFL writing describes programmes and perceived fit, not classroom enactment. | D1, D2 |
+| 2.5 | Those families have not been joined for Pakistani teachers of Chinese with observation plus materials comparison. | Near-misses + gap |
 
-If a paper does not support one of these reasons, or the conceptual work of 2.1, it does not belong in the draft, however “relevant” the Undermind column looks.
+If a paper does not support one of these families, it does not belong in the draft.
 
 ---
 
@@ -104,7 +102,7 @@ Their reasons:
 Their evidence (method + setting):
 Limit / qualification they admit:
 How I will use it (background / argument / method / near-miss):
-Which of 2.1 / 2.2–2.8 it supports (by reason, not by topic):
+Which family (A0–D2) it supports:
 One sentence I could fairly paraphrase (ch. 12.3):
 ```
 
@@ -202,12 +200,10 @@ That table is ethical only if it matches what you have actually read (13.5).
 
 1. Read **chs. 1–2, 5–7, 10.3, 12, 14** in the fifth edition (slowly). Skim **chs. 8–9, 11, 15**.  
 2. Freeze the Chapter 2 claim in §2 above.  
-3. For each of 2.2–2.8, write **one reason-sentence**, then choose **8–12 core PDFs** across the chapter (not 220). Read them with the note card.  
-4. Draft 2.1 as continuous conceptual argument (no four-level headings). Origins / applications / debates / definition / significance are paragraphs. Do not end 2.1 with the full gap; 2.9 is the destination.  
-5. Draft 2.2–2.8 as arguments. After each section, cut any paragraph whose topic sentence names a paper instead of a reason. Do not duplicate 2.1’s definitional sources as a second tour.  
-6. Draft 2.9 as **one** section: short synthesis, stalls/near-misses, locked gap, four RQs, one “what this study will do” paragraph, transition to Chapter 3.  
-7. Write acknowledgments (near-misses) so you do not hide the best objections; most of that work sits in 2.9, with local acknowledgments inside 2.2–2.8.  
-8. Cool the draft, then revise with Chapter 11: frame, argument, organization, paragraphs.
+3. Classify remaining PDFs into families (`CHAPTER-2-LITERATURE-FAMILIES.md`). One primary family per paper.  
+4. Draft 2.1–2.4 from those families: concept movement, then evidence movement. No extra headings.  
+5. Draft **2.5 last**: synthesis, near-misses, locked gap, four RQs, turn to Chapter 3. No hypotheses.  
+6. Cool the draft, then revise with Chapter 11.
 
 Length: 50–60 pages comes from **developed reasons and fair engagement**, not from more citations. If a section does not make `GAP-STATEMENT.md` clearer, delete it.
 

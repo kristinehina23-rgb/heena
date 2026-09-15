@@ -96,7 +96,7 @@ Suggested thesis structure (Chinese education PhD, qualitative):
 | Chapter | Function | Approx. length |
 |---|---|---|
 | 1 Introduction | Problem, aim, RQs, contribution, thesis map | 15–20 pp. |
-| 2 Literature review | Conceptual foundations, then reason-led map to the Pakistan gap | 50–60 pp. |
+| 2 Literature review | Five sections: three concept+evidence families, Pakistan, gap | 50–60 pp. |
 | 3 Theoretical framework | Recontextualization + ecological agency + materials-in-use | 20–30 pp. |
 | 4 Methodology | Qualitative ecological design | 20–25 pp. |
 | 5 Findings I | Recontextualization practices | 25–35 pp. |
@@ -150,109 +150,76 @@ One paragraph per chapter.
 **Locked table of contents (what appears in the dissertation):**
 
 ```
-2.1 Conceptual foundations
-    2.1.1 Recontextualization
-    2.1.2 Ecological teacher agency
-    2.1.3 Localization
-    2.1.4 How the three relate
-2.2 From global materials to local mismatch
-2.3 Adaptation as professional practice
-2.4 Teacher agency and curriculum making
-2.5 Localization in Chinese-language education
-2.6 Translanguaging and multilingual mediation
-2.7 Comparative teacher-mediated localization
-2.8 Chinese-language education in Pakistan
-2.9 Synthesis and research gap
+2.1 Recontextualization: concept and evidence
+2.2 Ecological teacher agency: concept and evidence
+2.3 Localization: concept and evidence
+2.4 The Pakistani context: Chinese-language education
+2.5 Synthesis and research gap
 ```
 
-**Heading rule.** Three levels only: `2.1`, `2.1.1`, then paragraphs. No `2.1.1.1 Introduction / Origins / Debates / Significance`. Those are moves in the prose. If a heading could be “Introduction,” “Origins,” or “Significance,” delete it.
+This is a **compression** of the earlier reason-spine (mismatch → adaptation → agency → CFL localization → translanguaging → analogues → Pakistan → gap), not a return to three parallel topics. The old 2.2–2.8 claims live as **literature families** inside 2.1–2.4. Classify first (`CHAPTER-2-LITERATURE-FAMILIES.md`); write 2.5 last.
 
-**Do not use this rejected tree:** thematic review of empirical research; achievements and stalls; separate gap; separate contribution; bilingual 本章小结. That would produce three theses inside one chapter and repeat the gap three times. If a Chinese supervisor insists on 综述 headings, the compromise is **inside 2.9 only**: what the literature can already show / where it stalls / the gap this study occupies. Do not also add 2.3–2.5 as those labels. Do not rename 2.2 “Thematic Review.”
+**Chapter opening (no extra heading).** Two or three paragraphs: context–problem–response; the chapter’s smaller claim about the conversation; the locked relation among the three concepts. Then 2.1 begins.
 
-**How to write:** follow `CRAFT-OF-RESEARCH-LIT-REVIEW.md`. Chapter 2 is a research argument about a conversation, not a survey of 220 papers. Argument structure (Booth) is claim → reasons → evidence → acknowledgment and response. That is not a five-heading template for each concept.
-
-**Destination:** `GAP-STATEMENT.md`. If a section does not help the reader understand that paragraph, it does not belong.
-
-**Job of this chapter:** stake the three title concepts, then give reasons to believe the gap claim, following `CHAPTER-2-CORE-LITERATURE-MAP.md`. Mismatch is a **starting condition**, not the research object. About 20–30 papers in close discussion; 60–90 as grouped support. The 240-paper tables remain the search archive.
-
-**Source rule.** 2.1 uses foundational and competing sources to stake definitions. 2.2–2.8 use empirical studies as evidence for reasons. Do not define a term with the same papers you then review at length (Priestley twice, Rathert twice, Yasasri twice).
-
-Do **not** rebuild Chapter 2 around “how well materials fit Pakistan.” Write toward 50–60 pages by developing each **reason**. Writing target for 2.1: about 5,000–6,000 words of continuous prose, not extra headings.
-
----
-
-### 2.1 Conceptual foundations
-
-Continuous conceptual argument. Open with context–problem–response: four neighbouring conversations exist; they have not been joined for Pakistani teachers of Chinese. Announce the chapter’s smaller claim about the conversation (the quote in `CRAFT-OF-RESEARCH-LIT-REVIEW.md` §2). Then define the three terms. Do not operationalize the full Chapter 3 model here.
-
-**2.1.1 Recontextualization** (prose moves, not subheadings)  
-Why the term is unstable for this title. Where it came from (Bernstein’s pedagogic device: selective appropriation, relocation, refocusing; official vs pedagogic recontextualizing fields). How curriculum studies and language-education research use it, grouped not toured: policy enactment (Yu); Bernstein plus teacher agency (Alvunger); textbook/corpus analysis (Yasasri; Dassanayake); adaptation-as-moves as traces (Rathert; Hanifa); translanguaging relocation (Nan); “contextualization” (Ling). Debates that matter here: where it occurs (official / teacher / interactional — layers named, operationalized in Chapter 3); whether it is always localizing; whether faithful transmission is a failure or a choice; who has the right to recontextualize. Working definition: pedagogic operation on materials in a Pakistani classroom; adaptation moves are traces, not the operation. Significance: without observation plus materials comparison, teacher and interactional recontextualization cannot be claimed.
-
-**2.1.2 Ecological teacher agency** (prose moves, not subheadings)  
-Competing definitions in a short span: personal capacity (Bandura), autonomy, ecological achievement, relational/sociomaterial (Hardman). The ecological account as achievement, not possession (Biesta & Tedder, 2007; Priestley et al., 2012, 2016). Name the chordal triad (iterational / projective / practical-evaluative) in a few sentences and **defer operationalization to Chapter 3**. Do not make 2.1.2 a mini-framework. Empirical language-teacher forms (restricted, addition-only, compliant, persistent) belong as grouped pointers to 2.4, not as a second review. Debates that matter here: beliefs are not enough; restricted agency still counts; nested conditions, with the university as a likely filter. Working definition: temporally shaped achievement in nested conditions, not a trait, not a synonym for autonomy, not measured by endorsement of localization. Significance: interview-only belief data will overstate what teachers can do.
-
-**2.1.3 Localization** (prose moves, not subheadings)  
-Localization does **not** have a Bernstein. Sketch the borrowed industrial/translation sense (a global product adapted for a receiving locale) without turning 2.1 into a software-studies chapter. Then education: “the local” is constructed and geographically uneven (Tian & Weninger). Then Chinese-language education: product logic (Lu et al., 2024; Lu & Hanif, 2025; Naheed, 2026; Dassanayake, 2023) versus teacher-work (Zhao, 2020, 2024a; Zhao et al., 2024b; Ling et al., 2023; Loo, 2026). Debates: product vs process; who “the local” is in Pakistan (Urdu, English, regional languages, nation, CPEC instrumental Chinese); whether more localization is always better; localization is not a synonym for recontextualization. Working definition: process and outcome of teacher-mediated recontextualization in Pakistani classrooms; not a pre-set goal; not a test of a “better” lesson. Significance: keeps the word the Pakistan conversation already uses, without making it the standard of success.
-
-**2.1.4 How the three relate**  
-One paragraph (two if needed). Locked wording:
+**Locked relation (do not replace with driver / goal / practice):**
 
 > Recontextualization is the pedagogic mechanism visible in materials-in-use. Ecological agency is the achievement that makes that mechanism possible, restricted, or redirected. Localization is the name the Pakistan conversation already uses, and in this study the process and outcome when recontextualization orients materials toward a Pakistani classroom — not a pre-set goal and not a test of whether the lesson was “better.”
 
-Then one sentence pointing to 2.2–2.9: mismatch is a starting condition; the argument then moves through adaptation, agency, CFL localization, translanguaging, analogues, and Pakistan, and ends at the gap.
+**Heading rule.** Five sections. No `2.1.1`. No `2.1.1.1 Introduction / Origins / Debates`. Each of 2.1–2.3 has two **movements in the prose**: (1) concept — foundational and competing sources, working definition; (2) evidence — empirical families as reasons. If a heading could be “Introduction,” “Origins,” or “Significance,” delete it.
+
+**“Concept and evidence” rule.** Concept uses the foundational family only (short). Evidence uses the empirical families. Do not define Bernstein with a full tour of Rathert and then tour Rathert again. One primary family per paper (`CHAPTER-2-LITERATURE-FAMILIES.md`).
+
+**Rejected trees.** Thematic review; 成就与不足; separate contribution; bilingual 本章小结; nine numbered empirical subsections; four-level concept trees. If a Chinese supervisor wants 综述 headings, they fit **inside 2.5 only**.
+
+**Not hypotheses.** Chapter 2 has no H1/H2. After families, 2.5 states the locked gap and four RQs. Working claims (expected patterns) stay in the families file and later in Chapters 3–4 as sensitizing ideas.
+
+**Destination:** `GAP-STATEMENT.md`. Mismatch is a starting condition, not the object. About 20–30 close papers; 60–90 grouped. CNKI still required.
 
 ---
 
-### 2.2–2.8 Empirical review, organized by reasons
+### 2.1 Recontextualization: concept and evidence
 
-Each section: **claim** (topic sentence) → **evidence** (close discussion + grouped support) → **acknowledgment** (what this family cannot answer) → **so what for the gap**. Headings are short titles for those claims, not field names. Do not split “agency” from “agency and materials use.”
+**Claim:** Materials arrive already officially recontextualized; teachers’ further recontextualization is the operation this thesis studies.
 
-**2.2 From global materials to local mismatch**  
-**Claim:** Standardized materials create mismatch; mismatch is a starting condition, not the object of this thesis.  
-Evidence: Rathert & Cabaroğlu (2022); Toledo-Sandoval (2020); Dassanayake (2023); Hanifa et al. (2024); Mohamad Uri & Abdul Aziz (2024); Harwood (2021, 2026); Guerrettaz et al. (2022). Content analysis shows what was available to be recontextualized, not what was recontextualized (Guerrettaz & Johnston, 2013; Z. Li, 2020; Li & Xu, 2020; Li & Li, 2021). Grouped: Li et al. (2021); Bouckaert (2019); Li & Gao (2025); D. Li (2023); Song (2024).
+- **Concept (Family A0):** Bernstein (2000); looser uses (Yu, 2015); Alvunger (2018) as near-miss join. Working definition: pedagogic operation; adaptation moves are traces. Layers (official / teacher / interactional) named; operationalized in Chapter 3.
+- **Evidence (Family A1):** materials-in-use; mismatch as starting condition (Guerrettaz, Harwood, Toledo-Sandoval, Dassanayake).
+- **Evidence (Family A2):** adaptation as professional work; a count of moves is not yet recontextualization (Rathert, Hanifa, Uri, Criado). Do not restore Shawer or Tibebu.
 
-**2.3 Adaptation as professional practice**  
-**Claim:** Adaptation is professional work, and a count of moves is not yet recontextualization.  
-Evidence: Rathert & Cabaroğlu (2021, 2022); Hanifa & Yusra (2023); Hanifa et al. (2024); Mohamad Uri & Abdul Aziz (2024); Song (2024). Frequent change can remain textbook-led (Criado, 2023; Pratiwi et al., 2020). Reported willingness often exceeds observed practice (Yan & Weng, 2026; Tao & Weng, 2025; Neupane, 2025). Do not restore Shawer or Tibebu without a verified full text.
+### 2.2 Ecological teacher agency: concept and evidence
 
-**2.4 Teacher agency and curriculum making**  
-**Claim:** Ecological agency explains uneven mediation of prescribed materials; this section includes textbook-agency studies and does not split them off.  
-Evidence: Biesta & Tedder (2007); Priestley et al. (2012, 2016); Biesta, Priestley, & Robinson (2015); L. Wang (2022); Yan & Weng (2026); Tao & Weng (2025); Dao et al. (2025); Chen & Shu (2026); Tran (2022); Truong (2023); Namgung et al. (2023); Tao (2021); Bao et al. (2020). Analogues can guide coding. They cannot stand in for Pakistani teachers of Chinese.
+**Claim:** Whether that operation is possible is an ecological achievement, not a trait and not a driver “used in order to localize.”
 
-**2.5 Localization in Chinese-language education**  
-**Claim:** CFL localization is thinkable as teacher work, not only as a new book.  
-Evidence: Yasasri (2024); Dassanayake (2023) remain closer to product evaluation. Teacher-work: Zhao (2020, 2024a); Zhao et al. (2024b); Ling et al. (2023); Duangmanee & Waluyo (2024); Geng & Lu (2026); Han (2026); Wang & Bale (2024). Pakistan is not in that set. Zhao (2024a) and Zhao et al. (2024b) are one Australian programme, not two independent datasets.
+- **Concept (Family B0):** Emirbayer and Mische (triad named, not operationalized here); Biesta and Tedder; Priestley et al.; competing Bandura and Hardman. Restricted agency still counts.
+- **Evidence (Family B1):** prescribed-materials / textbook-agency studies stay **in this section** (L. Wang; Yan and Weng; Tao and Weng; Dao; Chen and Shu; Bao as CFL bridge). Do not split “agency” from “agency with materials.” Analogues cannot stand in for Pakistani teachers of Chinese.
 
-**2.6 Translanguaging and multilingual mediation**  
-**Claim:** Translanguaging is one mediating resource, not automatically localizing.  
-Evidence: Q. Zhang et al. (2020); D. Wang (2022); Puspitasari et al. (2024); Nan et al. (2023); Han (2022); Tian (2021); Zhao (2024a); Zhao et al. (2024b). Cautions: Liu (2025); Yuan & Lee (2024). Language choice on a page and in a lesson are not the same evidence.
+### 2.3 Localization: concept and evidence
 
-**2.7 Comparative teacher-mediated localization**  
-**Claim:** Comparative cases are analogues, not templates.  
-Evidence: Hanifa & Yusra (2023); Hanifa et al. (2024); Mohamad Uri & Abdul Aziz (2024); Loo (2026); Duangmanee & Waluyo (2024); Neupane (2025); Thapa & Upadhayaya (2026); grouped Toledo-Sandoval (2020); Saemee & Nomnian (2021). None is a Pakistani teacher of Chinese working with Chinese-language materials.
+**Claim:** Localization is thinkable as teacher work, not only as a new book; it is not a pre-set goal.
 
-**2.8 Chinese-language education in Pakistan**  
-**Claim:** Pakistan CFL research describes programmes and perceived fit, not classroom enactment of recontextualization as an ecological achievement.  
-Landscape: C. Wang (2022); Jabbar (2025); Hanif (2023); Azeem et al. (2022); Khan et al. (2022); Ali & David (2022); Naheed (2026); Aftab & Abbasi (2024). Iftikhar et al. (2024) landscape only until the PDF is read. **Lu et al. (2024) and Lu & Hanif (2025) are related publications, not independent evidence.** Hanif (2023) is the same programme background. They recommend Urdu support and localized modules. They do not replace observation plus materials comparison.
+- **Concept (Family C0):** no Bernstein; “the local” is constructed (Tian and Weninger); Loo on teacher-left localization. Optional sketch of the industrial/translation sense. Product vs process; who “the local” is in Pakistan.
+- **Evidence (Family C1):** CFL product/corpus (Yasasri; Dassanayake) vs teacher-work (Zhao programme; Ling; Duangmanee and Waluyo). Pakistan is not in that set.
+- **Evidence (Family C2):** translanguaging is one resource, not automatically localizing (Q. Zhang; D. Wang; Puspitasari; Nan; cautions Liu; Yuan and Lee).
+- **Evidence (Family C3):** comparative cases are analogues, not templates (Hanifa; Uri; Loo).
 
----
+### 2.4 The Pakistani context: Chinese-language education
 
-### 2.9 Synthesis and research gap
+**Claim:** Pakistan CFL research describes programmes and perceived fit, not classroom enactment.
 
-**One section, not three.** Do not add “Achieved,” “Stalled,” “Contribution,” or 本章小结 as separate numbered parts.
+- **Family D1:** landscape (C. Wang, 2022 — PDF outstanding; Hanif, 2023; Azeem et al., 2022; Khan et al., 2022; Ali and David, 2022; Jabbar, 2025; Naheed, 2026). Iftikhar et al. (2024) landscape only until the PDF is read.
+- **Family D2:** Lu et al. (2024) and Lu and Hanif (2025) are **related publications, not independent evidence**. Hanif (2023) is the same programme background. They recommend Urdu support. They do not replace observation plus materials comparison.
 
-Order inside 2.9:
+### 2.5 Synthesis and research gap
 
-1. Short synthesis: what 2.2–2.8 can already show (do not recap every citation).  
-2. Where the literature stalls, including near-misses: Alvunger (2018); Yasasri (2024); Dassanayake (2023); Nan et al. (2023); Ling et al. (2023); Loo (2026). Method exists (observation in ecological textbook-agency studies); population and material object do not.  
-3. Locked gap paragraph: paste `GAP-STATEMENT.md`.  
-4. Four RQs as the destination of the review.  
-5. **One** paragraph on what this study will do: join recontextualization and ecological agency for Pakistani teachers of Chinese, with observation plus materials comparison. Theoretical and practical contribution *lists* belong in Chapter 1 and Chapter 7.  
-6. One paragraph toward Chapter 3: recontextualization as mechanism, ecological agency as achievement, materials-in-use as empirical window. The chordal triad and nested layers are operationalized there, not here.
+**Write this section last.** One section, not three.
 
-Chapter ending is in **English**. If the programme requires a Chinese 本章小结, put it in Chinese front matter or an appendix, not as a bilingual sandwich inside Chapter 2.
+1. What Families A–D can already show (do not recap every citation).
+2. Where they stall, including near-misses (Alvunger; Nan; Yasasri; Dassanayake; Ling; Loo; observation-method papers in the wrong population).
+3. Locked gap: paste `GAP-STATEMENT.md`.
+4. Four RQs.
+5. One paragraph: this study will join recontextualization and ecological agency for Pakistani teachers of Chinese, with observation plus materials comparison. Contribution *lists* belong in Chapters 1 and 7.
+6. One paragraph toward Chapter 3.
 
-**CNKI / Chinese-language search still required** for 教材再语境化, 教师能动性, 本土化, 教材使用, 国际中文教育. The evidence tables are English-dominant. Do not claim completeness until CNKI is done.
+**CNKI still required** (教材再语境化, 教师能动性, 本土化, 教材使用, 国际中文教育).
 
 ---
 
@@ -471,8 +438,8 @@ Do not throw the old draft away. Re-file it:
 
 | Old content | New home |
 |---|---|
-| Pakistan CFL landscape, HSK Standard Course as widely used material | Ch1 background; Ch2.8; Ch5.1 as **context of materials**, not RQ |
-| Localization vs universally oriented materials (李泉, 吴中伟, 赵金铭, Wu 2013) | Ch2.5, shortened; they explain official materials discourse, not teacher agency |
+| Pakistan CFL landscape, HSK Standard Course as widely used material | Ch1 background; Ch2.4; Ch5.1 as **context of materials**, not RQ |
+| Localization vs universally oriented materials (李泉, 吴中伟, 赵金铭, Wu 2013) | Ch2.3, shortened; they explain official materials discourse, not teacher agency |
 | Five dimensions of fit | Nested **conditions** in Ch3.4 / Ch6, not independent RQs |
 | Materials-in-use caveats (Guerrettaz, Harwood) | Expand: they become central, not a limitation paragraph |
 | “Study will not observe teaching” | **Delete.** The new title requires observation or equally strong practice data |
