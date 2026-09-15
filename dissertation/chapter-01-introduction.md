@@ -1,0 +1,63 @@
+# Chapter 1  Introduction
+
+**English title**  
+Recontextualization of Chinese-Language Teaching Materials and Teacher Agency among Pakistani Teachers of Chinese: A Qualitative Study from an Ecological Perspective
+
+**Chinese title**  
+巴基斯坦本土中文教师的中文教材再语境化与教师能动性研究——一项生态视角下的质性研究
+
+This chapter follows the locked map in `OUTLINE.md`: 1.1 research background; 1.2 problem statement; 1.3 aim and significance; 1.4 research questions; 1.5 object, scope, and delimitations; 1.6 definitions; 1.7 thesis organization. Literature here is light. The review belongs in Chapter 2. The working model belongs in Chapter 3.
+
+---
+
+## 1.1  Research Background
+
+This study begins from a concrete situation, not from a general wish to “localize” Chinese teaching. Chinese has become a visible foreign language in Pakistani higher education. It is taught in Confucius Institute and Classroom programmes, as a university major or optional course, and, in some institutions, as a required component of a degree (Hanif, 2023; Jabbar, 2025; Khan et al., 2022). Recent programme writing frames that growth in relation to China–Pakistan economic cooperation, including CPEC, as a source of demand for the language (Jabbar, 2025; Iftikhar et al., 2024). Those claims are landscape here; they are not findings about classroom practice. The expansion is the origin of the research. More programmes mean more classrooms, more teachers, and more copies of the same internationally compiled materials. They also mean a public and academic conversation that already has a name for what those materials fail to do. The conversation calls the failure, and the hoped-for remedy, localization. The question this thesis takes up is where that localization is supposed to happen, and who is imagined to do it.
+
+The institutional background is uneven rather than a single national system. Chinese-language education in Pakistan has a documented programme history and a mixed ecology of Confucius Institutes, university departments, and partnership arrangements (Hanif, 2023; Jabbar, 2025). C. Wang (2022) maps that landscape as an international-communication and programme system; the dissertation PDF was not available here, and the citation is used only as landscape. Within that system, local teachers work alongside volunteer and seconded Chinese teachers. Hanif (2023) describes expansion together with a shortage of local experts, dependence on volunteer staff, uneven training, and the absence of materials written for Pakistani classrooms. Azeem et al. (2022) report weak curriculum uniformity and English-annotated textbooks, and they already note that teachers are left to add or delete content. Khan et al. (2022), studying mandatory Chinese at a higher-education institution, show a gap between policy intention and classroom reality, especially class size, medium of instruction, and intended outcomes. Ali and David (2022) place the same teaching in Sindh’s language ecology of English prestige, Urdu, and regional identity. None of these studies is a classroom ethnography of materials use. Together they establish the setting in which Pakistani teachers of Chinese open a book: multilingual learners, examination and HSK pressure, institutional variety, and a professional field still being built.
+
+The materials background is as important as the programme background, because it is the book, not the policy document, that organises most lessons. The series that travel into these classrooms are typically compiled for a general international learner and sequenced toward the HSK. They are not written for a Pakistani university timetable, for Urdu–English–Chinese mediation, or for the cultural worlds of a particular class. Naheed (2026), surveying fifty-five local teachers, reports *HSK Standard Course* as the main instructional resource for a large majority of respondents. That figure is a reported pattern, not a national census, and it is cited here only as evidence of how widely an HSK-oriented series occupies the job of curriculum. Azeem et al. (2022) describe English-annotated books and the everyday burden of adding and deleting. Lu et al. (2024) and Lu and Hanif (2025)—related publications from the same programme, counted once—examine *HSK Standard Course* in Pakistan and recommend Urdu annotations, cultural comparison, and localized modules. Those recommendations are part of the background discourse. They are not evidence of what teachers do with the page in class.
+
+That discourse is the third part of the background, and it is what makes the origin of the study into a problem rather than a topic. When Pakistani writing on Chinese-language education talks about localization, it usually points to a future product: a national series, an Urdu gloss, a cultural module, a book finally “fit” for Pakistan (Lu et al., 2024; Lu & Hanif, 2025; Naheed, 2026). Teachers appear in that story mainly as a workforce to be trained or as informants who can report mismatch. They disappear as people who already work on the prescribed page—translating, skipping, inserting a local example, teaching to the test, or following the book tightly because the examination will not wait. The classroom, in that production story, is a delivery site. Localization is imagined to arrive later, as a better textbook. Everyday teaching is not treated as the place where localization is already being produced, restricted, or redirected.
+
+A neighbouring research conversation, not written about Pakistan, already makes that disappearance difficult to defend. Language-education research has moved the object of inquiry from the textbook as a finished product to the textbook as something teachers and students do things with. A coursebook can become the de facto curriculum and can organise who speaks, about what, and with what right to leave the page (Guerrettaz & Johnston, 2013; Guerrettaz et al., 2022). Whether teachers can work on that book is not a personal trait and not a gift of “more freedom.” It is achieved, or not achieved, in conditions of possibility and constraint (Biesta & Tedder, 2007; Priestley et al., 2012, 2016). Among teachers of Chinese as an additional language, that achievement has already been joined to professional practice, identity, and materials use in other countries (Bao et al., 2020). Those studies are named here only to open the problem. They are not a review, and they are not a substitute for Pakistani evidence. What they establish for this chapter is modest: materials are used, not only evaluated; teachers mediate what is given to be taught; that mediation is ecological. A conversation that locates localization only in textbook compilation is therefore already out of step with how language teaching is now studied, even before the Pakistan case is asked to speak.
+
+The motivation of the research follows from that mismatch between the Pakistan conversation and the classroom it claims to improve. If Chinese-language education in Pakistan is expanding, if the materials in use are compiled for someone else, and if localization is already the name given to the resulting difficulty, then the first empirical task is not to design another book. It is to see what Pakistani teachers of Chinese actually do with the books they have. The abstract of this study states that task directly. The study examines how those teachers recontextualize Chinese-language teaching materials in classroom practice. It does not treat localization solely as textbook production. It asks after the institutional, pedagogical, and professional conditions that shape what teachers adapt, how they adapt it, and why. The aim is an empirically grounded account of teacher-mediated localization: localization as it is enacted in everyday teaching, or blocked there. Researchers and educators need that account if they are to understand the classroom as a site where localization is actively produced rather than merely received.
+
+That motivation is practical as well as scholarly. A policy that waits for a localized series leaves present classrooms unexamined. A training programme that tells teachers to “adapt more” without seeing time, HSK, class size, medium of instruction, and collegial support mistakes a condition for a character trait. A materials project that adds Urdu glosses without asking how teachers already mediate Chinese, Urdu, and English in the lesson may solve a product problem and miss the pedagogic one. The origin of this thesis is therefore the expansion of Chinese teaching in Pakistan. Its background is imported, HSK-oriented materials and a localization discourse that points to future books. Its motivation is to return teachers, and the ecological conditions of their work, to the centre of that discourse—before Chapter 2 reviews the conversations that can and cannot yet explain what happens when the prescribed page meets a Pakistani Chinese class.
+
+---
+
+## References
+
+Ali, A., & David, M. K. (2022). Challenges of teaching Chinese as a subject in an English-dominated region: Focus on Sindh, Pakistan. *IARS International Research Journal, 12*(1), 14–23. https://doi.org/10.51611/iars.irj.v12i01.2022.182
+
+Azeem, A., Naveed, T., & Jabbar, S. (2022). Chinese language teaching in Pakistan problems and solutions. *University of Wah Journal of Social Sciences, 5*(1), 55–80. https://doi.org/10.56220/uwjss2022/0501/04
+
+Bao, M., Ren, W., & Wang, D. (2020). Understanding the professional practice of teachers of Chinese as an additional language through the lens of teacher agency. *Sustainability, 12*(18), Article 7493. https://doi.org/10.3390/su12187493
+
+Biesta, G., & Tedder, M. (2007). Agency and learning in the lifecourse: Towards an ecological perspective. *Studies in the Education of Adults, 39*(2), 132–149. https://doi.org/10.1080/02660830.2007.11661545
+
+Guerrettaz, A. M., & Johnston, B. (2013). Materials in the classroom ecology. *The Modern Language Journal, 97*(3), 779–796. https://doi.org/10.1111/j.1540-4781.2013.12027.x
+
+Guerrettaz, A. M., Mathieu, C. S., Lee, S., & Berwick, A. (2022). Materials use in language classrooms: A research agenda. *Language Teaching, 55*(4), 547–564. https://doi.org/10.1017/S0261444821000021
+
+Hanif, B. (2023). Current scenario and perspective of teaching Chinese at Confucius Institutes in Pakistan. *Pakistan Journal of Humanities and Social Sciences, 11*(2), 2315–2326. https://doi.org/10.52131/pjhss.2023.1102.0530
+
+Iftikhar, A., Li, C., Li, J., Chen, X., Wang, T., & Haider, A. A. (2024). Perceptions, challenges, and opportunities of Chinese language learning in Punjab and Sindh, Pakistan: Exploring the role of CPEC. *New Directions for Child and Adolescent Development, 2024*, 1–18. https://doi.org/10.1155/2024/6662409
+
+Jabbar, S. (2025). Chinese language education in Pakistan: Historical developments, current landscape, and future prospects. *Qualitative Research Journal for Social Studies, 2*(2), 1451–1471. https://doi.org/10.63878/qrjs196
+
+Khan, M. A., Zaki, S., & Memon, N. (2022). Chinese as a mandatory foreign language at a higher education institution in Pakistan. *South Asia Research, 43*(1), 49–67. https://doi.org/10.1177/02627280221120328
+
+Lu, X., & Hanif, B. (2025). In the context of the “HSK Standard Course”: Pedagogical challenges faced by Pakistani teachers of the Chinese language, the role of Urdu language, and additional recommendations. *DARYAFT, 17*(2), 1–18. https://doi.org/10.52015/daryaft.v17i02.436
+
+Lu, X., Tan, A., Ma, Y., Feng, H., & Hanif, B. (2024). Scenario analysis of localization and adaptation of Chinese language teaching. *Pakistan Journal of Humanities and Social Sciences, 12*(4), 3257–3281. https://doi.org/10.52131/pjhss.2024.v12i4.2553
+
+Naheed, U. (2026). Professional development for local Chinese language teachers in Pakistan. *International Journal of Politics & Social Sciences Review, 5*(1), 102–114. https://doi.org/10.5281/zenodo.19115312
+
+Priestley, M., Biesta, G., Philippou, S., & Robinson, S. (2016). The teacher and the curriculum: Exploring teacher agency. In D. Wyse, L. Hayward, & J. Pandya (Eds.), *The SAGE handbook of curriculum, pedagogy and assessment* (pp. 187–201). SAGE. https://doi.org/10.4135/9781473921405.n12
+
+Priestley, M., Edwards, R., Priestley, A., & Miller, K. (2012). Teacher agency in curriculum making: Agents of change and spaces for manoeuvre. *Curriculum Inquiry, 42*(2), 191–214. https://doi.org/10.1111/j.1467-873X.2012.00588.x
+
+Wang, C. (2022). 国际传播视角下的巴基斯坦汉语教学研究 [Pakistan Chinese teaching research from the perspective of international communication] [Doctoral dissertation, Central China Normal University].

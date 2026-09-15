@@ -110,6 +110,7 @@ Chapters 5 and 6 can later be merged if the supervisor prefers one findings chap
 ## Chapter 1  Introduction / 绪论
 
 ### 1.1 Research background
+Draft: `chapter-01-introduction.md` (origin, background, motivation; no fourth-level heads).
 - Growth of Chinese-language education in Pakistan (CPEC, Confucius Institutes / Classroom programmes, university Chinese majors and optional courses).
 - Dominance of imported or nationally compiled Chinese materials (especially HSK-oriented series) designed for a general international learner, not for Pakistani classrooms.
 - Public and academic talk about “localization” usually points to **new textbooks**, Urdu glosses, or national compilation. Classroom teachers disappear from that story.
@@ -527,9 +528,9 @@ That is the main design correction from the previous draft.
 
 ## 7. Immediate writing order
 
-0. Chapter 2 working draft is in `chapter-02-literature-review.md`. Expand by reading PDFs and CNKI; do not replace the four-reason spine.  
+0. Chapter 2 working draft is in `chapter-02-literature-review.md`. Arrange literature before expanding 2.3–2.5.  
 1. Lock title, abstract, RQs, Chapter 2 literature-claim, and the Chapter 3 figure.  
-2. Rewrite Chapter 1 to the new problem (short), using Booth’s context–problem–response (ch. 14).  
+2. Write Chapter 1 to the new problem (short), using Booth’s context–problem–response (ch. 14). **1.1 Research background** is drafted in `chapter-01-introduction.md`. Next: 1.2 problem statement.  
 3. Rebuild Chapter 2 by **reasons**, not by stretching old pages; fold papers 1–220 only where they support a reason; add CNKI; obtain papers 221–240 if Undermind still has them.  
 4. Write Chapter 3 as one model, one figure.  
 5. Freeze Chapter 4 around observation + interview + artefacts.  
