@@ -36,11 +36,13 @@ Taken together, this is where the story so far leads. Research on Pakistan has d
 
 ## 1.2  Research Objectives
 
-Pakistani teachers of Chinese already work with published materials in class. That work has not been studied as recontextualization, and the agency involved in it has not been studied in ecological terms. This study is guided by one general objective and four specific objectives.
+### General Objective
 
 The general objective of this study is to investigate the recontextualization of Chinese-language teaching materials by Pakistani teachers of Chinese, and the ecological conditions in which their agency is achieved.
 
-The specific objectives are:
+### Specific Objectives
+
+In order to achieve the general objective, the study has four specific objectives:
 
 1. To identify how these teachers recontextualize published Chinese-language materials in the classroom.
 
@@ -54,23 +56,23 @@ The specific objectives are:
 
 ## 1.3  Research Significance
 
-The significance of the study is theoretical and practical.
+The significance of the study is theoretical and practical. Theoretical significance concerns what the study adds to the field. Practical significance concerns who can use the findings, and for what.
 
 ### Theoretical Significance
 
-1. The study contributes to Chinese-language education by treating classroom materials use as a concern of localization research. The field has given close attention to how textbooks might be written for a local market. It has given less attention to how published materials are recontextualized once they are already in class.
+1. Chinese-language education has a substantial literature on localization. Much of that literature is about how textbooks might be written or revised for a local market. This study takes up a different object: published materials once they are already in class. Recontextualization names the process through which teachers interpret and reshape those materials in teaching. If localization is discussed only as textbook production, the pedagogic work already happening in class stays outside the field. This study brings that work in.
 
-2. The study contributes to research on teacher agency by applying an ecological view to this materials work. Agency is analysed as an achievement under conditions, not as a trait of individual teachers. Teaching the page as written and reshaping a text can both be studied as agency.
+2. Research on teacher agency often treats agency as a quality of the person. Ecological accounts treat it as an achievement in a situation, under the conditions of work. This study brings that view to teachers' use of Chinese-language materials. A teacher who reshapes a text and a teacher who teaches the page as written can then be analysed in the same terms. The second case is not written off in advance as a lack of agency.
 
-3. The study offers an account of recontextualization and ecological agency among Pakistani teachers of Chinese. Research on programmes and materials in this setting has not provided that account.
+3. Recontextualization and ecological agency have been studied mainly as separate conversations, and mainly with other populations. Research on Chinese-language education in Pakistan has described programmes, learner difficulty, and the limits of current materials. It has not described classroom recontextualization and ecological agency in one study of local teachers. That is the account this research offers.
 
 ### Practical Significance
 
-1. The findings can inform the preparation of local Chinese-language teachers. They make visible what teachers already do with the books they are given, and the reasons for those decisions.
+1. The findings can be used in the preparation of local Chinese-language teachers. Teacher education often starts from methods, or from the content of a set book. It less often starts from the decisions teachers already make when they walk into class with that book. A description of those decisions, and of the reasons given for them, gives training something concrete to work with.
 
-2. The findings can inform institutional and policy decisions in universities and language institutes. Time, examinations, and professional support shape what teachers can do with materials.
+2. The findings can be used by universities and language institutes. Time, examinations, and professional support are part of materials practice, not a backdrop to it. If those conditions are ignored, programme advice will keep asking individual teachers to solve a problem that is also institutional.
 
-3. The findings can support Chinese-language teaching in higher education. Programme advice can rest on classroom practice and on the conditions of teachers' work. It does not have to rest on the production of a new textbook alone.
+3. The findings can be used in Chinese-language education in higher education more widely. A common response to materials that do not fit is to plan a new localized textbook. That response may still be needed. It is slow, and classes continue while the book does not yet exist. Advice can also start from classroom practice and from the conditions of teachers' work.
 
 ---
 
