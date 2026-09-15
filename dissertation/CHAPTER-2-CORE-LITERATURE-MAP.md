@@ -36,7 +36,7 @@ Use about **20–30 Tier 1** papers in close discussion and **60–90 Tier 2** p
 
 | Section | Argument | Tier 1 anchors |
 |---|---|---|
-| 2.1 Conceptual foundations | Recontextualization, agency, and localization are not synonyms; working definitions must be staked. | Bernstein (2000); Emirbayer & Mische (1998); Biesta & Tedder (2007) |
+| 2.1 Conceptual foundations | Recontextualization, agency, and localization are not synonyms; working definitions must be staked in continuous prose (no 2.1.1.1 tree). | Bernstein (2000); Emirbayer & Mische (1998); Biesta & Tedder (2007) |
 | 2.2 From global materials to local mismatch | Materials gain educational value through contextual suitability, not universal circulation alone. | Rathert & Cabaroğlu (2022); Toledo-Sandoval (2020); Dassanayake (2023) |
 | 2.3 Adaptation as professional practice | Adaptation is a principled response to mismatch and includes identifiable techniques. | Rathert & Cabaroğlu (2021, 2022); Hanifa et al. (2024); Hanifa & Yusra (2023); Mohamad Uri & Abdul Aziz (2024) |
 | 2.4 Teacher agency and curriculum making | Teachers mediate prescribed materials; agency is ecological, temporal, and uneven. | Biesta & Tedder (2007); Priestley et al. (2012, 2016); Biesta, Priestley, & Robinson (2015); L. Wang (2022) |
@@ -51,3 +51,5 @@ Use about **20–30 Tier 1** papers in close discussion and **60–90 Tier 2** p
 ## Writing rule
 
 Close discussion: Tier 1 only. Grouped citations: Tier 2. Do not bring a paper into the narrative merely because it was found. Keep a paper in the archive when it is loosely related, repeats a stronger paper, is abstract-thin, is only background, or cannot be verified.
+
+**Chapter 2 headings.** Three levels only. Origins / applications / debates / definition / significance are paragraphs, not `2.1.1.1`. Section 2.1.4 is the locked relation (mechanism / achievement / process-outcome), not driver / goal / practice. Empirical review is 2.2–2.8 by **reasons**. Gap is **2.9 only**.
