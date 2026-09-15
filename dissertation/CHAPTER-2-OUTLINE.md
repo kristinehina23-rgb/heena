@@ -204,8 +204,9 @@ Heading rules: five second-level sections; third-level headings as listed; Title
 1. The sociological problem: if structure is powerful, how do people ever do anything new?
 2. **Competing family 1 — capacity.** Bandura (2001): intentionality, forethought, self-regulation, self-reflectiveness. Takes beliefs and efficacy seriously. Slides into “teachers lack agency” as a missing personal attribute. A teacher with strong efficacy can still have almost no room to change an HSK-led course.
 3. **Competing family 2 — autonomy.** Agency is not a synonym for the right to decide. Priestley et al. (2016): autonomy is a condition that may or may not support agency.
-4. **Working family — achievement.** Biesta & Tedder (2007): agency is achieved in the interplay of routine, purpose, judgement, resources, and contexts-for-action.
-5. **Competing family 3 — distribution.** Hardman (2025): relational / sociomaterial distribution. Guerrettaz, Matsumoto, Kim show books structuring interaction. Consequence: this thesis keeps *teachers* as the agents of recontextualization and treats materials as conditions and resources, not as co-agents in the stronger sense. Chapter 3 will say so; here only name the fork.
+4. **Working family — achievement.** Biesta and Tedder (2007); the full statement is Priestley, Biesta, and Robinson (2015), *Teacher Agency: An Ecological Approach*. Agency is achieved in the interplay of routine, purpose, judgement, resources, and contexts-for-action. The book’s Scottish cases are analogues, not this population.
+5. **Language-education map, not a second model.** Tao and Gao (2021) survey conceptualisations of language teacher agency (what/why; identity, emotion, belief, knowledge; collective agency). Use them to locate the ecological view inside language education. Do not replace Priestley. Do not take “promote teacher agency” as this thesis’s aim.
+6. **Competing family 3 — distribution.** Hardman (2025): relational / sociomaterial distribution. Guerrettaz, Matsumoto, Kim show books structuring interaction. Consequence: this thesis keeps *teachers* as the agents of recontextualization and treats materials as conditions and resources, not as co-agents in the stronger sense. Chapter 3 will say so; here only name the fork.
 
 **Do not.** Introduce Yan, Dao, Chen, L. Wang. They belong in 2.2.4.
 

@@ -130,7 +130,8 @@ Related publications count as **one programme**, not two confirmations: Lu et al
 |---|---|
 | Emirbayer & Mische (1998) | Chordal triad named; operationalized in Chapter 3, not here |
 | Biesta & Tedder (2007) | Agency as achievement in contexts-for-action |
-| Priestley et al. (2012, 2016); Biesta, Priestley, & Robinson (2015) | Curriculum making; space for manoeuvre; beliefs as resources, not enough |
+| Priestley, Biesta, and Robinson (2015 book); Priestley et al. (2012, 2016); Biesta, Priestley, and Robinson (2015 article) | Ecological approach as one programme, not four confirmations. Book now in full text. Scottish CfE cases are analogues. |
+| Tao and Gao (2021) | Language-education map of conceptualisations (what/why; identity, emotion, belief, knowledge; collective agency). Not the working model. Do not take “promote agency” as this thesis’s aim. Distinct from Tao (2021) and Li and Gao (2025). |
 | Leijen et al. (2020) | Reflection as a way of strengthening the model |
 | Bandura (2001) | Competing: personal capacity. Not the working model |
 | Hardman (2025) | Competing: relational / sociomaterial distribution of agency |

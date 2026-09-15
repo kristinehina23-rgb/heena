@@ -87,7 +87,7 @@ Rathert (2022) `[Rat22b]` and Guerrettaz et al. (2022) `[Gue22c]` may be named i
 
 ## Later themes (keys only; write when that theme starts)
 
-**Theme 2 (locked 2.2).** T1: `Bie07`, `Pri12`; T2: `Bie15b`, `Alk19`; T3: `Har25`. Empirical T1 from the families file, not from the old 2.1 block: L. Wang (2022) `[Wan22i]`, plus the textbook-agency close set already listed in `CHAPTER-2-LITERATURE-FAMILIES.md`.
+**Theme 2 (locked 2.2).** Concept T1: Biesta and Tedder (2007); Priestley, Biesta, and Robinson (2015), *Teacher Agency: An Ecological Approach* (full text now available; `Pri15c` / `Bie15`). T2: Priestley et al. (2012); Biesta, Priestley, and Robinson (2015) beliefs article `[Bie15b]`; Priestley et al. (2016); Alkan and Priestley (2019) `[Alk19]`; Tao and Gao (2021), *Language Teacher Agency* (Cambridge Elements; not in the 240; survey of conceptualisations, not the working model). T3: Hardman (2025) `[Har25]`. Empirical T1 from the families file: L. Wang (2022) `[Wan22i]`, plus the textbook-agency close set. Do not write Theme 2 until Theme 1 is done.
 
 **Theme 3 (locked 2.3).** Product/teacher-work: `Das23`, `Yas24`, `Fac24`/`Zha20b` (one programme), `Lin23d`, `Dua24`, `Loo` if in library. Translanguaging neighbour: `Zha20`, `Wan22d`, `Pus24`, `Nan23`. Not a third theoretical framework.
 
