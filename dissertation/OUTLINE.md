@@ -147,6 +147,8 @@ One paragraph per chapter.
 
 ## Chapter 2  Literature review / 文献综述
 
+**Writing plan (paragraph jobs, word budgets, anti-repetition map):** `CHAPTER-2-OUTLINE.md`.
+
 **Locked table of contents (what appears in the dissertation):**
 
 ```
@@ -185,7 +187,7 @@ One paragraph per chapter.
     2.5.5 Resulting Research Problem and Connection to the Research Questions
 ```
 
-This is a **compression** of the earlier reason-spine (mismatch → adaptation → agency → CFL localization → translanguaging → analogues → Pakistan → gap), not a return to three parallel theoretical frameworks. The old 2.2–2.8 claims live as **literature families** inside 2.1–2.4. Classify first (`CHAPTER-2-LITERATURE-FAMILIES.md`); write 2.5 last.
+This is a **compression** of the earlier reason-spine (mismatch → adaptation → agency → CFL localization → translanguaging → analogues → Pakistan → gap), not a return to three parallel theoretical frameworks. The old 2.2–2.8 claims live as **literature families** inside 2.1–2.4. Classify first (`CHAPTER-2-LITERATURE-FAMILIES.md`). Write from the paragraph plan in `CHAPTER-2-OUTLINE.md`. Write 2.5 last.
 
 **Chapter opening (no extra heading).** Two or three paragraphs: context–problem–response; the chapter’s smaller claim about the conversation; the locked relation among the three concepts. Then 2.1 begins.
 

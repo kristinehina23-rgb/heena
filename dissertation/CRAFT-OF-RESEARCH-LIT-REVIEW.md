@@ -7,6 +7,7 @@ Keep the book open. This file does not replace it. It maps the fifth edition ont
 The fifth edition has **no chapter titled “literature review.”** A dissertation Chapter 2 is still a **research argument** about a conversation you are joining (Introduction; Part III). Your sources are not a pile of facts. They are other researchers’ claims, reasons, and evidence, which you use as **your** evidence that a problem exists (chs. 4–7, 12).
 
 **Write toward:** `GAP-STATEMENT.md`  
+**Paragraph plan:** `CHAPTER-2-OUTLINE.md`  
 **Do not write toward:** a complete tour of every row in the evidence tables.
 
 ---

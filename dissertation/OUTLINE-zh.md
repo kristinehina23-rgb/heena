@@ -124,7 +124,7 @@ Recontextualization of Chinese-Language Teaching Materials and Teacher Agency am
 
 ## 近期写作顺序
 
-1. **先锁定提纲与文献家族**（`OUTLINE.md` + `CHAPTER-2-LITERATURE-FAMILIES.md`）。未分类前不写综合。  
+1. **先锁定提纲与文献家族**（`OUTLINE.md` + `CHAPTER-2-LITERATURE-FAMILIES.md` + 段落计划 `CHAPTER-2-OUTLINE.md`）。未分类前不写综合。2.2.4 写经验研究，2.2.5 只写局限，避免把同一批能动性论文再综述一遍。  
 2. 按家族写 2.1–2.4（对照上表三级标题：概念小节用奠基家族，经验小节用经验家族）。  
 3. **最后写 2.5**（已能说明什么 / 教材再语境化与教师能动性的交汇 / 综合局限 / 巴基斯坦空白 / 空白接到四个已锁定研究问题）。不作 H1/H2。  
 4. 按第五版 *The Craft of Research*：见 `CRAFT-OF-RESEARCH-LIT-REVIEW.md`。  

@@ -2,15 +2,45 @@
 
 **Role.** Classification file. Use this **before** writing synthesis. It is not the chapter, not a hypothesis list, and not a substitute for `GAP-STATEMENT.md`.
 
-**Visible chapter TOC (locked; third-level headings in `OUTLINE.md`):**
+**Visible chapter TOC (locked; full third-level headings in `OUTLINE.md` and the writing plan `CHAPTER-2-OUTLINE.md`):**
 
 ```
 2.1 Materials Recontextualization: Concepts and Empirical Evidence
+    2.1.1 Origins and Definitions
+    2.1.2 Recontextualization and Its Neighbouring Concepts
+    2.1.3 Forms and Levels of Recontextualization
+    2.1.4 Empirical Research and Its Limitations
+
 2.2 Ecological Teacher Agency: Concepts and Empirical Evidence
+    2.2.1 From Individual Capacity to Situated Achievement
+    2.2.2 The Temporal-Relational Conception of Agency
+    2.2.3 The Ecological Model: Dimensions and Conditions
+    2.2.4 Empirical Studies of Agency in Materials and Curriculum Use
+    2.2.5 Limitations of Existing Teacher-Agency Research
+
 2.3 Localization in International Chinese-Language Education
+    2.3.1 Definitions and Boundaries
+    2.3.2 Localization and Its Neighbouring Concepts
+    2.3.3 Dimensions of Localization
+    2.3.4 Teacher-Led Localization and Its Limitations
+
 2.4 Chinese-Language Education in Pakistani Universities
+    2.4.1 Development and Institutional Settings
+    2.4.2 Pakistani Teachers of Chinese
+    2.4.3 Learners’ Linguistic and Educational Backgrounds
+    2.4.4 Teaching Materials and Multilingual Mediation
+    2.4.5 Reported Localization Needs and Challenges
+    2.4.6 Limitations of Pakistan-Specific Research
+
 2.5 Synthesis and Research Gap
+    2.5.1 What the Literature Collectively Establishes
+    2.5.2 The Intersection of Materials Recontextualization and Teacher Agency
+    2.5.3 Conceptual, Empirical and Methodological Limitations
+    2.5.4 The Contextual Gap in Pakistani Universities
+    2.5.5 Resulting Research Problem and Connection to the Research Questions
 ```
+
+**2.2.4 vs 2.2.5.** 2.2.4 is the empirical studies. 2.2.5 is limits only. That split removes the repetition of reviewing the same agency studies twice.
 
 The older 2.2–2.8 reason-spine is **not discarded**. It is nested here as families inside 2.1–2.4. Families (`A0`, `B1`, …) are writing assignments, not extra headings. Do not add `2.1.1.1`.
 
@@ -33,9 +63,9 @@ The older 2.2–2.8 reason-spine is **not discarded**. It is nested here as fami
 
 ## Workflow (do this order)
 
-1. Outline (done).
+1. Outline (done): locked TOC in `OUTLINE.md`; paragraph plan in `CHAPTER-2-OUTLINE.md`.
 2. **Classify** papers into families (this file).
-3. Write 2.1–2.4 from the families against the locked third-level headings: concept subsections first, empirical subsections second.
+3. Write 2.1–2.4 from the families against the locked third-level headings: concept subsections first, empirical subsections second. 2.2.4 = empirical studies; 2.2.5 = limits only.
 4. Write **2.5 last**: 2.5.1 established / 2.5.2 intersection of materials recontextualization and teacher agency / 2.5.3 synthesized limits / 2.5.4 Pakistan occupancy / 2.5.5 gap connected to the four locked RQs. Not first. Do not recap 2.1.4, 2.2.5, 2.3.4, 2.4.6.
 5. Chapter 3 turns the gap into a working model. Fieldwork does not test statistical hypotheses.
 
