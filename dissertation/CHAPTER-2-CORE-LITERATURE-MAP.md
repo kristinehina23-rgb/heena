@@ -43,7 +43,7 @@ Use about **20–30 Tier 1** papers in close discussion and **60–90 Tier 2** p
 | 2.4 Chinese-language education in Pakistani universities | Programmes and perceived fit, not classroom enactment | D1, D2 |
 | 2.5 Synthesis and gap | The join has not been made for this population with observation plus materials comparison | Near-misses; write last |
 
-Paper lists: `dissertation/CHAPTER-2-LITERATURE-FAMILIES.md`. Paragraph plan: `dissertation/CHAPTER-2-OUTLINE.md`. The 2.2.5 heading is **Limitations of Existing Teacher-Agency Research** so that subsection does not repeat 2.2.4.
+Paper lists (one primary family each): `dissertation/LITERATURE-ARRANGEMENT.md`. Writing map: `dissertation/CHAPTER-2-LITERATURE-FAMILIES.md`. Paragraph plan: `dissertation/CHAPTER-2-OUTLINE.md`. The 2.2.5 heading is **Limitations of Existing Teacher-Agency Research** so that subsection does not repeat 2.2.4.
 
 ---
 

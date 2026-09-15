@@ -8,7 +8,7 @@ Recontextualization of Chinese-Language Teaching Materials and Teacher Agency am
 **Chinese title**  
 巴基斯坦本土中文教师的中文教材再语境化与教师能动性研究——一项生态视角下的质性研究
 
-Paper lists live in `CHAPTER-2-LITERATURE-FAMILIES.md`. The gap sentence lives in `GAP-STATEMENT.md`. Booth protocol lives in `CRAFT-OF-RESEARCH-LIT-REVIEW.md`. This file is the **paragraph plan**.
+Paper lists live in `LITERATURE-ARRANGEMENT.md` (official 240 primary families). The writing map (A0–D2) lives in `CHAPTER-2-LITERATURE-FAMILIES.md`. The gap sentence lives in `GAP-STATEMENT.md`. Booth protocol lives in `CRAFT-OF-RESEARCH-LIT-REVIEW.md`. This file is the **paragraph plan**. Writing is paused until the arrangement is confirmed.
 
 ---
 

@@ -1,31 +1,52 @@
 #!/usr/bin/env python3
-"""Arrange the thesis library into the eight corpus families. Does not write Chapter 2."""
+"""Apply the official 240 one-primary-family assignments. Does not write Chapter 2."""
 
 from __future__ import annotations
 
 import csv
 import json
 import re
+import zipfile
 from collections import Counter, defaultdict
 from pathlib import Path
+from xml.etree import ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[2]
+ASSIGN_DOCX = ROOT / "literature/240_primary_family_assignments.docx"
 RIS = ROOT / "literature/zotero/papers-1-240.ris"
+EVIDENCE_FILES = [
+    (ROOT / "literature/240_paper_evidence_table_1-60.docx", 1),
+    (ROOT / "literature/240_paper_evidence_table_61-120.docx", 61),
+    (ROOT / "literature/240_paper_evidence_table_121-180.docx", 121),
+    (ROOT / "literature/240_paper_evidence_table_181-240.docx", 181),
+]
 OUT_MD = ROOT / "dissertation/LITERATURE-ARRANGEMENT.md"
 OUT_CSV = ROOT / "literature/zotero/literature-families.csv"
 OUT_JSON = ROOT / "literature/zotero/literature-families.json"
 
-NAMES = {
-    "F1": "Materials use and recontextualization",
-    "F2": "Ecological teacher agency",
-    "F3": "Translanguaging and multilingual mediation",
-    "F4": "Curriculum policy and institutional conditions",
-    "F5": "Localization, culture, and learner fit",
-    "F6": "Teacher identity and professional learning",
-    "F7": "Pakistan and South Asian contexts",
-    "F8": "Chinese language pedagogy and contexts",
+FAMILY_CODE = {
+    "Materials use and recontextualization": "F1",
+    "Ecological teacher agency": "F2",
+    "Translanguaging and multilingual mediation": "F3",
+    "Curriculum policy and institutional conditions": "F4",
+    "Localization, culture, and learner fit": "F5",
+    "Teacher identity and professional learning": "F6",
+    "Pakistan and South Asian contexts": "F7",
+    "Chinese language pedagogy and contexts": "F8",
 }
-TARGETS = {
+CODE_NAME = {v: k for k, v in FAMILY_CODE.items()}
+DISPLAY_ORDER = ["F1", "F3", "F2", "F4", "F5", "F6", "F7", "F8"]
+PRIMARY_TARGETS = {
+    "F1": 81,
+    "F3": 40,
+    "F2": 35,
+    "F4": 27,
+    "F5": 23,
+    "F6": 22,
+    "F7": 5,
+    "F8": 7,
+}
+COMBINED_TARGETS = {
     "F1": 131,
     "F2": 59,
     "F3": 58,
@@ -46,33 +67,87 @@ CHAPTER_MAP = {
     "F8": "2.3 / 2.4 as CFL object — small set, not every paper that mentions China",
 }
 
-# Tight CFL pedagogy/context set (combined target 17). Translanguaging-in-Chinese
-# immersion stays in F3 unless also on this list.
-F8_IDS = {
-    "Bao20c",
-    "Han26b",
-    "Wan24h",
-    "Lin23d",
-    "Zha20b",
-    "Zha24g",
-    "Fac24",
-    "Das23",
-    "Dua24",
-    "Gen26",
-    "Yan19b",
-    "Yan22d",
-    "Hsi22",
-    "Guo18b",
-    "Gue22b",
-    "Tsa20",
-    "Ji22",
-}
+W_NS = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
 
 
-def parse_ris(path: Path) -> list[dict]:
+def cell_text(tc) -> str:
+    texts = [t.text or "" for t in tc.iter(f"{W_NS}t")]
+    return re.sub(r"\s+", " ", "".join(texts)).strip()
+
+
+def docx_tables(path: Path) -> list[list[list[str]]]:
+    with zipfile.ZipFile(path) as z:
+        root = ET.fromstring(z.read("word/document.xml"))
+    out = []
+    for tbl in root.iter(f"{W_NS}tbl"):
+        rows = []
+        for tr in tbl.findall(f"{W_NS}tr"):
+            cells = [cell_text(tc) for tc in tr.findall(f"{W_NS}tc")]
+            if any(cells):
+                rows.append(cells)
+        out.append(rows)
+    return out
+
+
+def parse_assignments(path: Path) -> list[dict]:
+    assignments = []
+    for tbl in docx_tables(path):
+        if not tbl:
+            continue
+        header = [c.lower() for c in tbl[0]]
+        if len(header) < 3 or "rank" not in header[0] or "paper" not in header[1]:
+            continue
+        for row in tbl[1:]:
+            if len(row) < 3 or not row[0].strip().isdigit():
+                continue
+            paper = row[1].strip()
+            m = re.search(r"\[([^\]]+)\]", paper)
+            key = m.group(1) if m else paper.strip("[]")
+            fam = row[2].strip()
+            if fam not in FAMILY_CODE:
+                raise SystemExit(f"Unknown family for {key}: {fam}")
+            assignments.append(
+                {
+                    "assignment_rank": int(row[0]),
+                    "key": key,
+                    "primary_family": fam,
+                    "family_code": FAMILY_CODE[fam],
+                }
+            )
+    assignments.sort(key=lambda a: a["assignment_rank"])
+    if len(assignments) != 240:
+        raise SystemExit(f"Expected 240 assignments, got {len(assignments)}")
+    keys = [a["key"] for a in assignments]
+    if len(set(keys)) != 240:
+        raise SystemExit("Duplicate keys in assignment file")
+    return assignments
+
+
+def parse_evidence() -> dict[str, dict]:
+    by_key = {}
+    for path, start in EVIDENCE_FILES:
+        tbl = docx_tables(path)[0]
+        for i, row in enumerate(tbl[1:]):
+            author = row[0] if row else ""
+            m = re.search(r"\[([A-Za-z0-9]+)\]", author)
+            if not m:
+                continue
+            key = m.group(1)
+            by_key[key] = {
+                "evidence_rank": start + i,
+                "author_year": author,
+                "journal": row[1] if len(row) > 1 else "",
+                "method": row[4] if len(row) > 4 else "",
+                "context": row[5] if len(row) > 5 else "",
+                "finding": row[6] if len(row) > 6 else "",
+            }
+    return by_key
+
+
+def parse_ris(path: Path) -> dict[str, dict]:
     text = path.read_text(encoding="utf-8", errors="replace")
     blocks = re.split(r"\nER  -\s*\n", text)
-    recs = []
+    by_id = {}
     for b in blocks:
         rec = defaultdict(list)
         key, val = None, []
@@ -86,526 +161,424 @@ def parse_ris(path: Path) -> list[dict]:
                 val.append(line.strip())
         if key:
             rec[key].append(" ".join(val).strip())
-        if not rec.get("TI"):
+        rid = (rec.get("ID") or [""])[0]
+        if not rid or not rec.get("TI"):
             continue
-        authors = rec.get("AU", [])
-        year = (rec.get("PY") or rec.get("DA") or [""])[0][:4]
-        if not authors:
-            cite = f"Anon ({year})"
-        elif len(authors) == 1:
-            cite = f"{authors[0].split(',')[0]} ({year})"
-        elif len(authors) == 2:
-            cite = f"{authors[0].split(',')[0]} and {authors[1].split(',')[0]} ({year})"
-        else:
-            cite = f"{authors[0].split(',')[0]} et al. ({year})"
         n1 = " ".join(rec.get("N1", []))
-        ctx = ""
-        m = re.search(r"Context:\s*(.*?)(?:\s*\|\s*Main finding:|$)", n1)
-        if m:
-            ctx = m.group(1)
-        kws = [k.lower() for k in rec.get("KW", [])]
-        recs.append(
-            {
-                "id": (rec.get("ID") or [""])[0],
-                "cite": cite,
-                "year": year or "",
-                "title": re.sub(r"\s+", " ", rec["TI"][0]).strip(),
-                "doi": (rec.get("DO") or [""])[0],
-                "journal": (rec.get("JO") or rec.get("T2") or [""])[0],
-                "kws": kws,
-                "n1": n1,
-                "ctx": ctx,
-                "ab": " ".join(rec.get("AB", [])),
-                "source": "undermind-220",
-                "tier": "core" if "priority-core" in kws else "archive",
-                "hold": "METADATA INCOMPLETE" in n1
+        by_id[rid] = {
+            "authors": rec.get("AU", []),
+            "year": (rec.get("PY") or rec.get("DA") or [""])[0][:4],
+            "title": re.sub(r"\s+", " ", rec["TI"][0]).strip(),
+            "doi": (rec.get("DO") or [""])[0],
+            "journal": (rec.get("JO") or rec.get("T2") or [""])[0],
+            "n1": n1,
+            "hold": (
+                "METADATA INCOMPLETE" in n1
                 or "abstract unavailable" in n1.lower()
-                or "metadata only" in n1.lower(),
-            }
-        )
-    return recs
+                or "metadata only" in n1.lower()
+            ),
+        }
+    return by_id
 
 
-EXTRAS = [
-    dict(
-        id="Lu24",
-        cite="Lu et al. (2024)",
-        year="2024",
-        title="Scenario analysis of localization and adaptation of Chinese language teaching",
-        doi="10.52131/pjhss.2024.v12i4.2553",
-        journal="Pakistan Journal of Humanities and Social Sciences",
-        kws=[],
-        n1="Related programme with Lu and Hanif (2025); count once",
-        ctx="Pakistan; HSK Standard Course",
-        ab="localization urdu hsk pakistan chinese teachers",
-        source="pakistan-extra",
-        tier="core",
-        hold=False,
-    ),
-    dict(
-        id="Lu25",
-        cite="Lu and Hanif (2025)",
-        year="2025",
-        title="Pedagogical challenges faced by Pakistani teachers of the Chinese language, the role of Urdu language, and additional recommendations",
-        doi="10.52015/daryaft.v17i02.436",
-        journal="DARYAFT",
-        kws=[],
-        n1="Related to Lu et al. (2024); not independent evidence",
-        ctx="Pakistan; HSK Standard Course",
-        ab="pakistan urdu hsk chinese teachers",
-        source="pakistan-extra",
-        tier="core",
-        hold=False,
-    ),
-    dict(
-        id="Naheed26",
-        cite="Naheed (2026)",
-        year="2026",
-        title="Professional development for local Chinese language teachers in Pakistan",
-        doi="10.5281/zenodo.19115312",
-        journal="International Journal of Politics & Social Sciences Review",
-        kws=[],
-        n1="",
-        ctx="Pakistan; 55 local teachers; HSK Standard Course",
-        ab="professional development pakistan chinese teachers hsk urdu",
-        source="pakistan-extra",
-        tier="core",
-        hold=False,
-    ),
-    dict(
-        id="CWang22",
-        cite="C. Wang (2022)",
-        year="2022",
-        title="国际传播视角下的巴基斯坦汉语教学研究",
-        doi="",
-        journal="Doctoral dissertation, Central China Normal University",
-        kws=[],
-        n1="PDF outstanding",
-        ctx="Pakistan Chinese teaching programmes",
-        ab="pakistan chinese teaching",
-        source="pakistan-extra",
-        tier="core",
-        hold=True,
-    ),
-    dict(
-        id="Hanif23",
-        cite="Hanif (2023)",
-        year="2023",
-        title="Current scenario and perspective of teaching Chinese at Confucius Institutes in Pakistan",
-        doi="10.52131/pjhss.2023.1102.0530",
-        journal="Pakistan Journal of Humanities and Social Sciences",
-        kws=[],
-        n1="Same programme background as Lu",
-        ctx="Pakistan Confucius Institutes",
-        ab="pakistan confucius institute teachers materials",
-        source="pakistan-extra",
-        tier="core",
-        hold=False,
-    ),
-    dict(
-        id="Azeem22",
-        cite="Azeem et al. (2022)",
-        year="2022",
-        title="Chinese language teaching in Pakistan problems and solutions",
-        doi="10.56220/uwjss2022/0501/04",
-        journal="University of Wah Journal of Social Sciences",
-        kws=[],
-        n1="",
-        ctx="Pakistan universities",
-        ab="pakistan curriculum teachers english annotated textbooks",
-        source="pakistan-extra",
-        tier="core",
-        hold=False,
-    ),
-    dict(
-        id="Khan22",
-        cite="Khan et al. (2022)",
-        year="2022",
-        title="Chinese as a mandatory foreign language at a higher education institution in Pakistan",
-        doi="10.1177/02627280221120328",
-        journal="South Asia Research",
-        kws=[],
-        n1="",
-        ctx="Pakistan higher education institution",
-        ab="pakistan policy class size medium of instruction",
-        source="pakistan-extra",
-        tier="core",
-        hold=False,
-    ),
-    dict(
-        id="Ali22",
-        cite="Ali and David (2022)",
-        year="2022",
-        title="Challenges of teaching Chinese as a subject in an English-dominated region: Focus on Sindh, Pakistan",
-        doi="10.51611/iars.irj.v12i01.2022.182",
-        journal="IARS International Research Journal",
-        kws=[],
-        n1="",
-        ctx="Sindh, Pakistan",
-        ab="pakistan sindh english urdu chinese",
-        source="pakistan-extra",
-        tier="core",
-        hold=False,
-    ),
-    dict(
-        id="Jabbar25",
-        cite="Jabbar (2025)",
-        year="2025",
-        title="Chinese language education in Pakistan: Historical developments, current landscape, and future prospects",
-        doi="10.63878/qrjs196",
-        journal="Qualitative Research Journal for Social Studies",
-        kws=[],
-        n1="",
-        ctx="Pakistan",
-        ab="pakistan chinese language education landscape",
-        source="pakistan-extra",
-        tier="core",
-        hold=False,
-    ),
-    dict(
-        id="Aftab24",
-        cite="Aftab and Abbasi (2024)",
-        year="2024",
-        title="Beliefs about difficulties in learning Chinese as a foreign language in a public sector university",
-        doi="10.58921/sjl.v3i1.61",
-        journal="Sindh Journal of Linguistics",
-        kws=[],
-        n1="",
-        ctx="Pakistan public-sector university",
-        ab="pakistan learner difficulties chinese",
-        source="pakistan-extra",
-        tier="grouped",
-        hold=False,
-    ),
-    dict(
-        id="Iftikhar24",
-        cite="Iftikhar et al. (2024)",
-        year="2024",
-        title="Perceptions, challenges, and opportunities of Chinese language learning in Punjab and Sindh, Pakistan",
-        doi="10.1155/2024/6662409",
-        journal="New Directions for Child and Adolescent Development",
-        kws=[],
-        n1="Landscape only until PDF is read",
-        ctx="Punjab and Sindh, Pakistan",
-        ab="pakistan cpec chinese learning",
-        source="pakistan-extra",
-        tier="grouped",
-        hold=True,
-    ),
-    dict(
-        id="Bernstein00",
-        cite="Bernstein (2000)",
-        year="2000",
-        title="Pedagogy, symbolic control and identity: Theory, research, critique (Rev. ed.)",
-        doi="",
-        journal="Rowman & Littlefield",
-        kws=["recontextualization"],
-        n1="Foundational for 2.1.1",
-        ctx="Curriculum sociology",
-        ab="recontextualization pedagogic device",
-        source="foundational",
-        tier="core",
-        hold=False,
-    ),
-    dict(
-        id="Emirbayer98",
-        cite="Emirbayer and Mische (1998)",
-        year="1998",
-        title="What is agency?",
-        doi="10.1086/231294",
-        journal="American Journal of Sociology",
-        kws=["ecological-agency"],
-        n1="Foundational for 2.2.2",
-        ctx="Social theory",
-        ab="agency chordal triad",
-        source="foundational",
-        tier="core",
-        hold=False,
-    ),
-    dict(
-        id="Bandura01",
-        cite="Bandura (2001)",
-        year="2001",
-        title="Social cognitive theory: An agentic perspective",
-        doi="10.1146/annurev.psych.52.1.1",
-        journal="Annual Review of Psychology",
-        kws=[],
-        n1="Competing capacity model for 2.2.1",
-        ctx="Social cognitive theory",
-        ab="agency capacity self-efficacy",
-        source="foundational",
-        tier="core",
-        hold=False,
-    ),
+def cite_from_evidence(author_year: str, year: str) -> str:
+    s = re.sub(r"\s*\[[^\]]+\]\s*", " ", author_year)
+    s = re.sub(
+        r"\s*(full PDF|metadata only|abstract unavailable|unknown source).*$",
+        "",
+        s,
+        flags=re.I,
+    )
+    s = re.sub(r",\s*\d{4}[a-z]?\s*$", "", s).strip()
+    s = s.replace(" & ", " and ")
+    s = re.sub(r"\s+", " ", s)
+    return f"{s} ({year})" if s else f"[{year}]"
+
+
+def md_cell(s: str) -> str:
+    return (s or "").replace("|", "\\|").replace("\n", " ").strip()
+
+
+PAKISTAN_OVERLAY = [
+    {
+        "id": "Lu24",
+        "cite": "Lu et al. (2024)",
+        "year": "2024",
+        "title": "Scenario analysis of localization and adaptation of Chinese language teaching",
+        "doi": "10.52131/pjhss.2024.v12i4.2553",
+        "note": "Related programme with Lu and Hanif (2025); count once. Needed for 2.4 even though F7 primary in the 240 is only five papers.",
+        "hold": False,
+    },
+    {
+        "id": "Lu25",
+        "cite": "Lu and Hanif (2025)",
+        "year": "2025",
+        "title": "Pedagogical challenges faced by Pakistani teachers of the Chinese language, the role of Urdu language, and additional recommendations",
+        "doi": "10.52015/daryaft.v17i02.436",
+        "note": "Related to Lu et al. (2024); not independent evidence.",
+        "hold": False,
+    },
+    {
+        "id": "Naheed26",
+        "cite": "Naheed (2026)",
+        "year": "2026",
+        "title": "Professional development for local Chinese language teachers in Pakistan",
+        "doi": "10.5281/zenodo.19115312",
+        "note": "2.4 teachers / materials landscape.",
+        "hold": False,
+    },
+    {
+        "id": "CWang22",
+        "cite": "C. Wang (2022)",
+        "year": "2022",
+        "title": "国际传播视角下的巴基斯坦汉语教学研究",
+        "doi": "",
+        "note": "PDF outstanding. Landscape only.",
+        "hold": True,
+    },
+    {
+        "id": "Hanif23",
+        "cite": "Hanif (2023)",
+        "year": "2023",
+        "title": "Current scenario and perspective of teaching Chinese at Confucius Institutes in Pakistan",
+        "doi": "10.52131/pjhss.2023.1102.0530",
+        "note": "Same programme background as Lu.",
+        "hold": False,
+    },
+    {
+        "id": "Azeem22",
+        "cite": "Azeem et al. (2022)",
+        "year": "2022",
+        "title": "Chinese language teaching in Pakistan problems and solutions",
+        "doi": "10.56220/uwjss2022/0501/04",
+        "note": "2.4 institutional / materials landscape.",
+        "hold": False,
+    },
+    {
+        "id": "Khan22",
+        "cite": "Khan et al. (2022)",
+        "year": "2022",
+        "title": "Chinese as a mandatory foreign language at a higher education institution in Pakistan",
+        "doi": "10.1177/02627280221120328",
+        "note": "2.4 policy / institutional setting.",
+        "hold": False,
+    },
+    {
+        "id": "Ali22",
+        "cite": "Ali and David (2022)",
+        "year": "2022",
+        "title": "Challenges of teaching Chinese as a subject in an English-dominated region: Focus on Sindh, Pakistan",
+        "doi": "10.51611/iars.irj.v12i01.2022.182",
+        "note": "Pakistan extra. Assignment key Ali22b has no RIS/evidence record; do not merge with this item until confirmed.",
+        "hold": False,
+    },
+    {
+        "id": "Jabbar25",
+        "cite": "Jabbar (2025)",
+        "year": "2025",
+        "title": "Chinese language education in Pakistan: Historical developments, current landscape, and future prospects",
+        "doi": "10.63878/qrjs196",
+        "note": "Landscape.",
+        "hold": False,
+    },
+    {
+        "id": "Aftab24",
+        "cite": "Aftab and Abbasi (2024)",
+        "year": "2024",
+        "title": "Beliefs about difficulties in learning Chinese as a foreign language in a public sector university",
+        "doi": "10.58921/sjl.v3i1.61",
+        "note": "2.4 learner background.",
+        "hold": False,
+    },
+    {
+        "id": "Iftikhar24",
+        "cite": "Iftikhar et al. (2024)",
+        "year": "2024",
+        "title": "Perceptions, challenges, and opportunities of Chinese language learning in Punjab and Sindh, Pakistan",
+        "doi": "10.1155/2024/6662409",
+        "note": "Landscape only until PDF is read.",
+        "hold": True,
+    },
+]
+
+FOUNDATIONAL = [
+    {
+        "id": "Bernstein00",
+        "cite": "Bernstein (2000)",
+        "year": "2000",
+        "title": "Pedagogy, symbolic control and identity: Theory, research, critique (Rev. ed.)",
+        "doi": "",
+        "home": "2.1.1–2.1.3 (A0). Not one of the 240 assigned rows.",
+    },
+    {
+        "id": "Emirbayer98",
+        "cite": "Emirbayer and Mische (1998)",
+        "year": "1998",
+        "title": "What is agency?",
+        "doi": "10.1086/231294",
+        "home": "2.2.2 (B0). Not one of the 240 assigned rows.",
+    },
+    {
+        "id": "Bandura01",
+        "cite": "Bandura (2001)",
+        "year": "2001",
+        "title": "Social cognitive theory: An agentic perspective",
+        "doi": "10.1146/annurev.psych.52.1.1",
+        "home": "2.2.1 competing definition only. Not one of the 240 assigned rows.",
+    },
 ]
 
 
-def rx(pat: str, s: str) -> bool:
-    return bool(re.search(pat, s or "", re.I))
-
-
-def families_for(r: dict) -> list[str]:
-    title = r["title"]
-    site = f"{title} {r['ctx']}"
-    kws = set(r["kws"])
-    fams: set[str] = set()
-
-    if r["source"] == "pakistan-extra" or rx(
-        r"pakistan|pakistani|sindh|sri lanka|nepal|nepalese|bangladesh",
-        site,
-    ):
-        fams.add("F7")
-
-    if r["id"] in F8_IDS:
-        fams.add("F8")
-
-    if (
-        "materials-use" in kws
-        or "recontextualization" in kws
-        or rx(
-            r"recontextual|materials[- ]use|textbook|coursebook|teaching materials|instructional materials|materials adaptation|curriculum materials|coursebook utilization|prescribed (?:teaching )?materials|materials development|using new language materials|material-mediated|materials-in-action|materials in the classroom|elt materials",
-            title + " " + " ".join(kws),
+def join_records(assignments, ris, evidence) -> list[dict]:
+    rows = []
+    for a in assignments:
+        key = a["key"]
+        r = ris.get(key)
+        e = evidence.get(key)
+        in_library = bool(r) and bool(e)
+        year = (r or {}).get("year") or ""
+        if not year and e:
+            m = re.search(r"(19|20)\d{2}", e["author_year"])
+            year = m.group(0) if m else ""
+        if e and year:
+            cite = cite_from_evidence(e["author_year"], year)
+        elif r:
+            authors = r["authors"]
+            if not authors:
+                cite = f"Anon ({year})"
+            elif len(authors) == 1:
+                cite = f"{authors[0].split(',')[0]} ({year})"
+            elif len(authors) == 2:
+                cite = f"{authors[0].split(',')[0]} and {authors[1].split(',')[0]} ({year})"
+            else:
+                cite = f"{authors[0].split(',')[0]} et al. ({year})"
+        else:
+            cite = f"[{key}]"
+        title = (r or {}).get("title") or ""
+        doi = (r or {}).get("doi") or ""
+        journal = (e or {}).get("journal") or (r or {}).get("journal") or ""
+        hold = False
+        if r and r.get("hold"):
+            hold = True
+        if e and re.search(
+            r"metadata only|abstract unavailable|unknown source",
+            e["author_year"],
+            re.I,
+        ):
+            hold = True
+        if not in_library:
+            hold = True
+        rows.append(
+            {
+                **a,
+                "cite": cite,
+                "year": year,
+                "title": title,
+                "doi": doi,
+                "journal": journal,
+                "evidence_rank": (e or {}).get("evidence_rank"),
+                "in_ris": bool(r),
+                "in_evidence": bool(e),
+                "bibliographic_status": "in-library" if in_library else "key-only",
+                "hold": hold,
+            }
         )
-    ):
-        fams.add("F1")
-
-    if "ecological-agency" in kws or rx(
-        r"teacher agency|ecological (?:teacher )?agency|agentic use|agentic engagement|agency-as-achievement|what is agency\?|an agentic perspective|restricted agency|professional agency|language teacher agency",
-        title + " " + " ".join(kws),
-    ):
-        fams.add("F2")
-
-    if "translanguaging" in kws or rx(
-        r"translanguag|multilingual (?:mediation|writing|english classroom)|medium of instruction|codeswitch|code-switch|bilingual repertoire|learning chinese through english|\bl1\b|first language|mother tongue|english-only",
-        title + " " + " ".join(kws),
-    ):
-        fams.add("F3")
-    if "F3" not in fams and rx(
-        r"translanguag|\bl1\b|first language|mother tongue|multilingual|medium of instruction|urdu as",
-        r["ab"],
-    ):
-        fams.add("F3")
-
-    if rx(
-        r"curriculum (?:reform|policy|change|standard|design|making)|textbooks policy|education(?:al)? policy|national (?:curriculum|standards|teaching quality)|confucius institute|mandatory (?:foreign )?language|policy implementation|core competencies|cefr-like policies|qualifications frameworks",
-        title,
-    ) or rx(
-        r"curriculum reform|new textbooks policy|national teaching quality|confucius institute|mandatory chinese|institutional (?:constraint|culture)|high-stakes|accountability",
-        r["ctx"] + " " + r["n1"] + " " + r["ab"],
-    ):
-        fams.add("F4")
-
-    if rx(
-        r"locali[sz]e|locali[sz]ation|local culture|localising|localizing|cultural (?:content|representation|adaptation|mismatch|awareness|threads)|culturally local|funds of knowledge|\bthe local\b|imported (?:cefr )?textbook|global chinese|confronting culture",
-        title,
-    ) or (
-        rx(r"locali[sz]|local culture|cultural (?:mismatch|representation)|global textbook", r["ab"])
-        and rx(r"local|cultur|imported|global", title + " " + r["ctx"])
-    ):
-        fams.add("F5")
-
-    if rx(
-        r"teacher identity|professional (?:identity|development|learning|practice)|identity reconstruction|identity-agency|teacher learning|materials developers|kit bag|teacher professional identity",
-        title,
-    ) or rx(
-        r"teacher identity|professional development|professional learning|materials developer",
-        r["ab"] + " " + title,
-    ):
-        fams.add("F6")
-
-    if r["id"] == "Bernstein00":
-        fams.add("F1")
-    if r["id"] in ("Emirbayer98", "Bandura01", "Har25"):
-        fams.add("F2")
-
-    return sorted(fams)
+    return rows
 
 
-PRIMARY_ORDER = ["F7", "F2", "F3", "F8", "F5", "F6", "F4", "F1"]
+def write_csv(rows: list[dict]) -> None:
+    fields = [
+        "assignment_rank",
+        "key",
+        "family_code",
+        "primary_family",
+        "cite",
+        "year",
+        "title",
+        "doi",
+        "journal",
+        "evidence_rank",
+        "in_ris",
+        "in_evidence",
+        "bibliographic_status",
+        "hold",
+    ]
+    with OUT_CSV.open("w", encoding="utf-8", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=fields)
+        w.writeheader()
+        for r in rows:
+            w.writerow({k: r.get(k, "") for k in fields})
 
 
-def primary_of(fams: list[str], r: dict) -> str:
-    if r["id"] == "Bernstein00":
-        return "F1"
-    if r["id"] in ("Emirbayer98", "Bandura01"):
-        return "F2"
-    if r["source"] == "pakistan-extra":
-        return "F7"
-    if not fams:
-        return "F1"
-    for p in PRIMARY_ORDER:
-        if p in fams:
-            return p
-    return fams[0]
+def write_json(rows: list[dict], counts: Counter) -> None:
+    payload = {
+        "source": "literature/240_primary_family_assignments.docx",
+        "note": "One primary family per paper. Combined/secondary tags are not in this file.",
+        "primary_counts": {CODE_NAME[k]: counts[k] for k in DISPLAY_ORDER},
+        "combined_targets": {CODE_NAME[k]: COMBINED_TARGETS[k] for k in DISPLAY_ORDER},
+        "papers": rows,
+        "pakistan_overlay": PAKISTAN_OVERLAY,
+        "foundational": FOUNDATIONAL,
+    }
+    OUT_JSON.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
 
-def load() -> list[dict]:
-    recs = parse_ris(RIS)
-    have = {r["title"].lower()[:55] for r in recs}
-    for e in EXTRAS:
-        if e["title"].lower()[:55] not in have:
-            recs.append(e)
-    for r in recs:
-        fams = families_for(r)
-        r["fams"] = fams
-        r["primary"] = primary_of(fams, r)
-        r["also"] = [f for f in fams if f != r["primary"]]
-    recs.sort(key=lambda r: (r["year"], r["cite"].lower()))
-    return recs
-
-
-def md_escape(s: str) -> str:
-    return s.replace("|", "/")
-
-
-def write_outputs(recs: list[dict]) -> None:
-    comb = Counter()
-    prim = Counter()
-    by_fam = defaultdict(list)
-    for r in recs:
-        prim[r["primary"]] += 1
-        for f in r["fams"]:
-            comb[f] += 1
-            by_fam[f].append(r)
-
-    unique = len(recs)
-    combined = sum(comb.values())
+def write_md(rows: list[dict], counts: Counter) -> None:
+    by_code = defaultdict(list)
+    for r in rows:
+        by_code[r["family_code"]].append(r)
+    key_only = [r for r in rows if r["bibliographic_status"] == "key-only"]
+    in_lib = [r for r in rows if r["bibliographic_status"] == "in-library"]
+    hold_in_lib = [r for r in in_lib if r["hold"]]
 
     lines = []
     a = lines.append
     a("# Chapter 2 literature arrangement")
     a("")
-    a("**Status: arrange first. Do not write more Chapter 2 prose until this table is stable.**")
+    a("**Status: official primary families from `literature/240_primary_family_assignments.docx`. Do not write more Chapter 2 prose until this table is confirmed.**")
     a("")
     a("**Study.** Recontextualization of Chinese-Language Teaching Materials and Teacher Agency among Pakistani Teachers of Chinese: A Qualitative Study from an Ecological Perspective / 巴基斯坦本土中文教师的中文教材再语境化与教师能动性研究——一项生态视角下的质性研究.")
     a("")
-    a("This file sorts the library into the eight **corpus families** below. A paper may sit in more than one family (combined count). For later writing, each paper still has **one primary family** so the chapter does not dump the same study eight times.")
+    a("Each of the **240** papers has **one primary family**, assigned by main contribution, not every theme the paper touches. Secondary uses belong in a separate assigned-source / synthesis file. That file has **not** been uploaded, so this arrangement does **not** retag combined memberships.")
     a("")
-    a("## Counts")
+    a("The previous auto-tag (`345` combined tags on `234` unique items) is superseded for primary assignment. Keep it only as history in git. Do not mix those tags with this file.")
     a("")
-    a("| Family | Target (combined) | This corpus (combined) | Primary (unique) | Chapter 2 home |")
+    a("## Two count systems")
+    a("")
+    a("| System | What it counts | Source | Total |")
+    a("|---|---|---|---:|")
+    a("| **Primary** | Unique papers, one family each | This assignment file | **240** |")
+    a("| **Combined** | A paper may sit in more than one family | Counts supplied earlier; secondary file not in the repo | **431** |")
+    a("")
+    a("The two totals are compatible: `240` unique primaries + `191` extra (secondary) memberships = `431`. Until the secondary file arrives, do not invent those 191 tags.")
+    a("")
+    a("| Family | Combined (target) | Primary (official) | Implied secondary | Chapter 2 home |")
     a("|---|---:|---:|---:|---|")
-    for fid, name in NAMES.items():
+    for code in DISPLAY_ORDER:
+        combined = COMBINED_TARGETS[code]
+        primary = counts[code]
         a(
-            f"| {name} | {TARGETS[fid]} | {comb[fid]} | {prim[fid]} | {CHAPTER_MAP[fid]} |"
+            f"| {CODE_NAME[code]} | {combined} | {primary} | {combined - primary} | {CHAPTER_MAP[code]} |"
         )
-    a(f"| **Total** | **431** | **{combined}** | **{unique} unique papers** | |")
+    a(f"| **Total** | **431** | **{sum(counts.values())}** | **{431 - sum(counts.values())}** | |")
     a("")
-    a("### How to read the 431")
+    a("## Rank warning")
     a("")
-    a(f"- **Unique papers in hand:** {unique} (220 Undermind rows + Pakistan extras + three foundational texts).")
-    a(f"- **Combined memberships in this arrangement:** {combined} (papers tagged to more than one family).")
-    a("- **Your 431** is a combined figure. It is not 431 different studies. This corpus cannot invent rows that are not in the RIS, the Pakistan extras, or the foundational texts.")
-    a("- **F1 is 128 against 131.** Three rows may sit in a larger Zotero library; they are not invented here. F8 is held to a 17-paper CFL pedagogy/context set so Chinese-immersion translanguaging stays in F3. F7 is **study site** (Pakistan, Sri Lanka, Nepal, Bangladesh), not every paper whose Undermind note mentions Pakistani teachers.")
-    a("- **F7 target 25 / this corpus 16.** Eleven Pakistan studies plus five other South Asian sites. The remaining nine are not in this library as South Asian *sites* (they may live in a larger Zotero library, or they may be Southeast Asian analogues). Do not fill the nine with Indonesia/Malaysia/Vietnam.")
-    a("- **F3, F4, F5, F6** run under the 431 targets because many Undermind rows are EFL textbook-agency studies that only weakly mention policy, culture, identity, or L1. They are listed where the title, context field, or abstract actually supports the tag.")
+    a("**Assignment rank is not evidence-table rank.** The assignment file numbers papers 1–240 in its own order. The four evidence tables number a different order (and only 220 rows). Do not treat assignment rank 141 as evidence-table row 141.")
+    a("")
+    a("The assignment preamble says the four evidence tables contain 240 unique papers. In this library the evidence tables plus `papers-1-240.ris` contain **220** bibliographic records. All 220 RIS IDs appear in the 240 assignments. **20 assignment keys have no title, DOI, or evidence-table row.**")
+    a("")
+    a("## Bibliographic coverage")
+    a("")
+    a(f"| Record | n |")
+    a("|---|---:|")
+    a(f"| Primary assignments | {len(rows)} |")
+    a(f"| In RIS and evidence tables | {len(in_lib)} |")
+    a(f"| Key only (no title in this library) | {len(key_only)} |")
+    a(f"| In-library but metadata/PDF hold | {len(hold_in_lib)} |")
+    a("")
+    a("Machine-readable copy: `literature/zotero/literature-families.csv` and `literature/zotero/literature-families.json`. Regenerated by `literature/zotero/arrange_families.py`.")
     a("")
     a("## Writing rule (when writing resumes)")
     a("")
     a("| Rule | Meaning |")
     a("|---|---|")
     a("| One primary family | The paper is *discussed* under that family’s Chapter 2 home. |")
-    a("| Secondary families | Named in a list, not given a second close discussion. |")
+    a("| Secondary families | Wait for the assigned-source file. Do not dump the same study eight times. |")
     a("| Related publications | Lu et al. (2024) + Lu and Hanif (2025) = one programme. Zhao (2020, 2024) + Zhao et al. (2024b) = one Australian programme. |")
-    a("| Hold | Metadata-only / PDF outstanding. Do not cite as if read. |")
-    a("| Not yet | CNKI; papers 221–240 if they exist. |")
+    a("| Hold | Metadata-only, PDF outstanding, or key-only. Do not cite as if read. |")
+    a("| Pakistan extras | Outside the 240 unless a key is later confirmed. Still required for 2.4 because F7 primary here is only five papers. |")
+    a("| Foundational texts | Bernstein (2000), Emirbayer and Mische (1998), Bandura (2001) are not in the 240. They remain concept-section sources. |")
     a("")
-    a("Machine-readable copy: `literature/zotero/literature-families.csv`.")
+    a("## Key-only assignments (no RIS / evidence record)")
+    a("")
+    a("Do not invent titles for these twenty keys. They are the assignment-file ranks 141–160.")
+    a("")
+    a("| Assignment rank | Key | Primary family |")
+    a("|---:|---|---|")
+    for r in sorted(key_only, key=lambda x: x["assignment_rank"]):
+        a(f"| {r['assignment_rank']} | `{r['key']}` | {r['primary_family']} |")
+    a("")
+    a("`Ali22b` is **not** merged with the Pakistan extra Ali and David (2022) until that identity is confirmed.")
     a("")
 
-    for fid, name in NAMES.items():
-        rows = sorted(by_fam[fid], key=lambda r: (r["primary"] != fid, r["cite"].lower()))
-        a(f"## {fid}  {name}")
+    for code in DISPLAY_ORDER:
+        items = sorted(by_code[code], key=lambda x: x["assignment_rank"])
+        a(f"## {code}  {CODE_NAME[code]}")
         a("")
-        a(f"Target combined **{TARGETS[fid]}**. This corpus combined **{comb[fid]}** ({prim[fid]} as primary). Home: {CHAPTER_MAP[fid]}.")
+        a(
+            f"Official primary **{counts[code]}** (combined target **{COMBINED_TARGETS[code]}**). Home: {CHAPTER_MAP[code]}."
+        )
+        if code == "F7":
+            a("")
+            a("None of these five primaries is a verified Pakistan CFL classroom study. They are Nepal EFL (`Tha26`), Sri Lanka CFL textbooks (`Yas24`), a key-only row (`Ali22b`), Bangladesh EFL (`Sha14b`), and a Sri Lanka CFL checklist (`Das23`). Section 2.4 still depends on the Pakistan extras below.")
         a("")
-        a("| Cite | Title | Role | Also in | Hold |")
-        a("|---|---|---|---|---|")
-        for r in rows:
-            role = "primary" if r["primary"] == fid else "secondary"
-            also = ", ".join(r["also"]) if r["primary"] == fid else r["primary"]
+        a("| Rank | Key | Cite | Title | Record | Hold |")
+        a("|---:|---|---|---|---|---|")
+        for r in items:
+            rec = "in library" if r["bibliographic_status"] == "in-library" else "key only"
             hold = "yes" if r["hold"] else ""
+            title = r["title"] if r["title"] else "—"
             a(
-                f"| {md_escape(r['cite'])} | {md_escape(r['title'])} | {role} | {also} | {hold} |"
+                f"| {r['assignment_rank']} | `{r['key']}` | {md_cell(r['cite'])} | {md_cell(title)} | {rec} | {hold} |"
             )
         a("")
 
+    a("## Pakistan extras (outside the 240)")
+    a("")
+    a("F7 primary in the assignment file is **five** papers. Combined F7 is **25**. The difference is either secondary tags (not yet supplied) or these Pakistan studies, which are required for 2.4 and are not in `papers-1-240.ris`.")
+    a("")
+    a("| Cite | Title | Hold | Note |")
+    a("|---|---|---|---|")
+    for p in PAKISTAN_OVERLAY:
+        a(
+            f"| {md_cell(p['cite'])} | {md_cell(p['title'])} | {'yes' if p['hold'] else ''} | {md_cell(p['note'])} |"
+        )
+    a("")
+    a("## Foundational texts (outside the 240)")
+    a("")
+    a("| Cite | Title | Home |")
+    a("|---|---|---|")
+    for p in FOUNDATIONAL:
+        a(f"| {md_cell(p['cite'])} | {md_cell(p['title'])} | {md_cell(p['home'])} |")
+    a("")
     a("## Related-publication groups (do not count twice)")
     a("")
     a("- Lu et al. (2024) and Lu and Hanif (2025); Hanif (2023) is programme background.")
-    a("- Zhao (2020), Zhao (2024), and Zhao et al. (2024b / Fac24).")
+    a("- Zhao (2020), Zhao (2024), and Zhao et al. (2024b / `Fac24`).")
     a("")
     a("## Still required before writing resumes")
     a("")
-    a("- Confirm or supply the nine F7 papers that would bring Pakistan/South Asia from 16 to 25.")
+    a("- Confirm this primary-family table.")
+    a("- Upload the assigned-source / synthesis file if combined (431) tags are to be used.")
+    a("- Identify or supply bibliographic records for the 20 key-only assignments.")
     a("- CNKI (教材再语境化, 教师能动性, 本土化, 教材使用, 国际中文教育).")
     a("- C. Wang (2022) PDF; Iftikhar et al. (2024) PDF.")
-    a("- Papers 221–240 if they exist in the original 240-paper search.")
-    a("- Do not restore Shawer, Tibebu, or other hold items without a full text.")
+    a("- Do not restore Shawer, Tibebu, Guerrettaz/Engman/Matsumoto (2021), Hsiang et al. (2022), Lestari (2019), Biesta and Tedder (2006), or the 2015 Priestley/Biesta/Robinson book without a full text.")
     a("")
+    OUT_MD.write_text("\n".join(lines), encoding="utf-8")
 
-    OUT_MD.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
-    with OUT_CSV.open("w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(
-            f,
-            fieldnames=[
-                "id",
-                "cite",
-                "year",
-                "title",
-                "primary",
-                "families",
-                "doi",
-                "source",
-                "tier",
-                "hold",
-                "journal",
-            ],
-        )
-        w.writeheader()
-        for r in recs:
-            w.writerow(
-                {
-                    "id": r["id"],
-                    "cite": r["cite"],
-                    "year": r["year"],
-                    "title": r["title"],
-                    "primary": r["primary"],
-                    "families": ";".join(r["fams"]),
-                    "doi": r["doi"],
-                    "source": r["source"],
-                    "tier": r["tier"],
-                    "hold": r["hold"],
-                    "journal": r["journal"],
-                }
-            )
-
-    slim = [
-        {
-            k: r[k]
-            for k in (
-                "id",
-                "cite",
-                "year",
-                "title",
-                "primary",
-                "fams",
-                "doi",
-                "source",
-                "tier",
-                "hold",
-            )
-        }
-        for r in recs
-    ]
-    OUT_JSON.write_text(json.dumps(slim, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"unique {unique} combined {combined}")
-    for fid, name in NAMES.items():
-        print(f"{fid} {name:46} prim={prim[fid]:3} comb={comb[fid]:3} tgt={TARGETS[fid]:3} d={comb[fid]-TARGETS[fid]:+d}")
-    print("wrote", OUT_MD)
-    print("wrote", OUT_CSV)
+def main() -> None:
+    if not ASSIGN_DOCX.exists():
+        raise SystemExit(f"Missing {ASSIGN_DOCX}")
+    assignments = parse_assignments(ASSIGN_DOCX)
+    ris = parse_ris(RIS)
+    evidence = parse_evidence()
+    rows = join_records(assignments, ris, evidence)
+    counts = Counter(r["family_code"] for r in rows)
+    for code, n in PRIMARY_TARGETS.items():
+        if counts[code] != n:
+            raise SystemExit(f"{code} expected {n} primaries, got {counts[code]}")
+    write_csv(rows)
+    write_json(rows, counts)
+    write_md(rows, counts)
+    key_only = sum(1 for r in rows if r["bibliographic_status"] == "key-only")
+    print(f"Wrote {len(rows)} primaries; {key_only} key-only; counts={dict(counts)}")
+    print(f"  {OUT_MD}")
+    print(f"  {OUT_CSV}")
+    print(f"  {OUT_JSON}")
 
 
 if __name__ == "__main__":
-    write_outputs(load())
+    main()

@@ -187,7 +187,7 @@ One paragraph per chapter.
     2.5.5 Resulting Research Problem and Connection to the Research Questions
 ```
 
-This is a **compression** of the earlier reason-spine (mismatch → adaptation → agency → CFL localization → translanguaging → analogues → Pakistan → gap), not a return to three parallel theoretical frameworks. The old 2.2–2.8 claims live as **literature families** inside 2.1–2.4. Classify first (`CHAPTER-2-LITERATURE-FAMILIES.md`). Write from the paragraph plan in `CHAPTER-2-OUTLINE.md`. Write 2.5 last.
+This is a **compression** of the earlier reason-spine (mismatch → adaptation → agency → CFL localization → translanguaging → analogues → Pakistan → gap), not a return to three parallel theoretical frameworks. The old 2.2–2.8 claims live as **literature families** inside 2.1–2.4. Official primary families: `LITERATURE-ARRANGEMENT.md`. Writing map: `CHAPTER-2-LITERATURE-FAMILIES.md`. Write from the paragraph plan in `CHAPTER-2-OUTLINE.md`. Write 2.5 last.
 
 **Chapter opening (no extra heading).** Two or three paragraphs: context–problem–response; the chapter’s smaller claim about the conversation; the locked relation among the three concepts. Then 2.1 begins.
 
@@ -201,7 +201,7 @@ This is a **compression** of the earlier reason-spine (mismatch → adaptation �
 
 **2.2.4 vs 2.2.5.** 2.2.4 is the empirical studies (Family B1, close discussion). 2.2.5 is **limits only**: wrong population, interview-heavy designs, analogues that cannot stand in for Pakistani teachers of Chinese. Do not re-summarize Yan and Weng, Dao, Chen and Shu, or L. Wang in 2.2.5.
 
-**“Concept then evidence” rule.** In 2.1–2.3, concept subsections use the foundational family only (short). Empirical subsections use the empirical families. Do not define Bernstein with a full tour of Rathert and then tour Rathert again. One primary family per paper (`CHAPTER-2-LITERATURE-FAMILIES.md`).
+**“Concept then evidence” rule.** In 2.1–2.3, concept subsections use the foundational family only (short). Empirical subsections use the empirical families. Do not define Bernstein with a full tour of Rathert and then tour Rathert again. One primary family per paper (`LITERATURE-ARRANGEMENT.md`; writing map in `CHAPTER-2-LITERATURE-FAMILIES.md`).
 
 **Do not steal Chapter 3.** Name official / teacher / interactional layers (2.1.3) and the chordal triad plus nested conditions (2.2.3) as they appear in the literature. Operationalize them in Chapter 3. “Dimensions of localization” (2.3.3) are ways the *literature* talks (linguistic, cultural, pedagogical, institutional). They are **not** this study’s research questions and **not** a return of five dimensions of HSK fit.
 

@@ -1,8 +1,8 @@
 # Chapter 2 literature families
 
-**Stop.** Arrange the corpus first (`dissertation/LITERATURE-ARRANGEMENT.md`). Do not write more Chapter 2 prose until that eight-family table is stable.
+**Stop.** Official **one-primary-family** assignments are in `dissertation/LITERATURE-ARRANGEMENT.md` (source: `literature/240_primary_family_assignments.docx`). Do not write more Chapter 2 prose until that table is confirmed. Combined/secondary tags (the 431 count) wait for the assigned-source file.
 
-**Role.** This file remains the *writing* map (A0–D2 → 2.1–2.5). The eight corpus families (materials use, ecological agency, translanguaging, curriculum policy, localization/culture/fit, identity/professional learning, Pakistan/South Asia, CFL pedagogy) are listed with every paper in `LITERATURE-ARRANGEMENT.md`.
+**Role.** This file remains the *writing* map (A0–D2 → 2.1–2.5). Every paper’s primary family is listed in `LITERATURE-ARRANGEMENT.md`.
 
 **Visible chapter TOC (locked; full third-level headings in `OUTLINE.md` and the writing plan `CHAPTER-2-OUTLINE.md`):**
 
