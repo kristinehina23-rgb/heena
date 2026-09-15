@@ -7,6 +7,7 @@ Keep the book open. This file does not replace it. It maps the fifth edition ont
 The fifth edition has **no chapter titled “literature review.”** A dissertation Chapter 2 is still a **research argument** about a conversation you are joining (Introduction; Part III). Your sources are not a pile of facts. They are other researchers’ claims, reasons, and evidence, which you use as **your** evidence that a problem exists (chs. 4–7, 12).
 
 **Write toward:** `GAP-STATEMENT.md`  
+**Paragraph plan:** `CHAPTER-2-OUTLINE.md`  
 **Do not write toward:** a complete tour of every row in the evidence tables.
 
 ---
@@ -200,7 +201,7 @@ That table is ethical only if it matches what you have actually read (13.5).
 
 1. Read **chs. 1–2, 5–7, 10.3, 12, 14** in the fifth edition (slowly). Skim **chs. 8–9, 11, 15**.  
 2. Freeze the Chapter 2 claim in §2 above.  
-3. Classify remaining PDFs into families (`CHAPTER-2-LITERATURE-FAMILIES.md`). One primary family per paper.  
+3. Classify remaining PDFs into families. One primary family per paper is already assigned in `LITERATURE-ARRANGEMENT.md` (from `literature/240_primary_family_assignments.docx`). The A0–D2 writing map remains in `CHAPTER-2-LITERATURE-FAMILIES.md`.  
 4. Draft 2.1–2.4 from those families against the locked third-level headings. Concept subsections stay short. Do not operationalize layers or the ecological model here (Chapter 3).  
 5. Draft **2.5 last**: 2.5.1 established, 2.5.2 intersection of materials recontextualization and teacher agency, 2.5.3 synthesized limits (do not recap 2.1.4/2.2.5/2.3.4/2.4.6), 2.5.4 Pakistan occupancy, 2.5.5 gap connected to the four locked RQs + turn to Chapter 3. No hypotheses.  
 6. Cool the draft, then revise with Chapter 11.

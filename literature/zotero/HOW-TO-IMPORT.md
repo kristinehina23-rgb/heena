@@ -6,6 +6,8 @@ This folder is a one-step import of the Undermind evidence tables. This Cloud Ag
 
 The last uploaded table is labelled 181–240 but contains **40 rows (papers 181–220)**. Papers **221–240 are not in the Word file**. Do not import `papers-1-120.ris` as well, or you will duplicate the first 120 items.
 
+Official **one primary family** per paper is in `literature/240_primary_family_assignments.docx` (240 keys). Twenty of those keys are not in this RIS file; they are listed as key-only in `dissertation/LITERATURE-ARRANGEMENT.md`. Assignment rank is not evidence-table rank.
+
 ## Recommended: import the RIS file
 
 1. Open **Zotero**.
