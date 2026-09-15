@@ -3,7 +3,7 @@
 PhD thesis working files.
 
 - Chapter 2 literature families (classify before writing synthesis): [`dissertation/CHAPTER-2-LITERATURE-FAMILIES.md`](dissertation/CHAPTER-2-LITERATURE-FAMILIES.md)
-- Chapter 2 working draft (verified APA 7 references; headings not yet rebuilt to the five-section outline): [`dissertation/chapter-02-literature-review.md`](dissertation/chapter-02-literature-review.md)
+- Chapter 2 working draft (verified APA 7 references; headings not yet rebuilt to the locked 2.1.1–2.5.5 outline): [`dissertation/chapter-02-literature-review.md`](dissertation/chapter-02-literature-review.md)
 - Chapter 2 core literature map (argument spine; not the 240-paper archive): [`dissertation/CHAPTER-2-CORE-LITERATURE-MAP.md`](dissertation/CHAPTER-2-CORE-LITERATURE-MAP.md)
 - Source Word map: [`literature/maps/Chapter_2_core_literature_map.docx`](literature/maps/Chapter_2_core_literature_map.docx)
 - Reference verification log (kept / removed / related Lu publications): [`dissertation/REFERENCE-VERIFICATION.md`](dissertation/REFERENCE-VERIFICATION.md)

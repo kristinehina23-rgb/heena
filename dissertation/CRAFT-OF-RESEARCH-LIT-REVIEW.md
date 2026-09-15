@@ -33,7 +33,7 @@ Use Chapter 14’s three-step introduction **inside Chapter 2** (and again, shor
 
 1. **Context** — researchers have studied textbook use, ecological agency, CFL materials, and Chinese education in Pakistan.  
 2. **Problem** — paste/adapt `GAP-STATEMENT.md`.  
-3. **Response** — this chapter treats three concept-and-evidence families, then Pakistan, then the gap in 2.5.
+3. **Response** — this chapter treats recontextualization and ecological agency as concept-and-evidence families, localization as the field’s problem-name (not Framework 3), then Pakistan, then the gap in 2.5.
 
 ---
 
@@ -53,15 +53,15 @@ That is a **conceptual claim** about a research conversation. Qualify it honestl
 
 Booth: a reason is why a reader should believe the claim. Evidence is what makes each reason believable (7.2). **Do not confuse reports of evidence with evidence** (7.4): an abstract in Undermind is a report; the PDF is the source.
 
-**Reasons sit inside sections 2.1–2.4 as literature families** (`CHAPTER-2-LITERATURE-FAMILIES.md`). Headings in the dissertation are the five locked sections. Each heading must still be writable as a **reason**, not a field tour.
+**Reasons sit inside sections 2.1–2.4 as literature families** (`CHAPTER-2-LITERATURE-FAMILIES.md`). Headings in the dissertation are the five locked sections plus the locked third-level heads in `OUTLINE.md`. Each heading must still be writable as a **reason**, not a field tour.
 
 | Section | Reason (topic sentence of the section) | Families |
 |---|---|---|
-| 2.1 | Materials arrive already recontextualized; teachers’ further recontextualization is the operation; mismatch is a starting condition; move-counts are traces. | A0, A1, A2 |
-| 2.2 | Whether that operation is possible is an ecological achievement, including textbook-agency studies. | B0, B1 |
-| 2.3 | Localization is teacher work, not only a new book; translanguaging is one resource; analogues are not templates. | C0, C1, C2, C3 |
-| 2.4 | Pakistan CFL writing describes programmes and perceived fit, not classroom enactment. | D1, D2 |
-| 2.5 | Those families have not been joined for Pakistani teachers of Chinese with observation plus materials comparison. | Near-misses + gap |
+| 2.1 | Materials arrive already recontextualized; teachers’ further recontextualization is the operation; mismatch is a starting condition; move-counts are traces. | A0 in 2.1.1–2.1.3; A1–A2 in 2.1.4 |
+| 2.2 | Whether that operation is possible is an ecological achievement, including textbook-agency studies. | B0 in 2.2.1–2.2.3; B1 in 2.2.4–2.2.5 |
+| 2.3 | Localization is the field’s name for teacher work, not only a new book, and not a third theoretical framework. | C0 in 2.3.1–2.3.3; C1–C3 in 2.3.4 |
+| 2.4 | Pakistan CFL writing describes programmes and perceived fit, not classroom enactment. | D1–D2 |
+| 2.5 | Those families have not been joined for Pakistani teachers of Chinese with observation plus materials comparison. | Near-misses + gap; write last |
 
 If a paper does not support one of these families, it does not belong in the draft.
 
@@ -201,8 +201,8 @@ That table is ethical only if it matches what you have actually read (13.5).
 1. Read **chs. 1–2, 5–7, 10.3, 12, 14** in the fifth edition (slowly). Skim **chs. 8–9, 11, 15**.  
 2. Freeze the Chapter 2 claim in §2 above.  
 3. Classify remaining PDFs into families (`CHAPTER-2-LITERATURE-FAMILIES.md`). One primary family per paper.  
-4. Draft 2.1–2.4 from those families: concept movement, then evidence movement. No extra headings.  
-5. Draft **2.5 last**: synthesis, near-misses, locked gap, four RQs, turn to Chapter 3. No hypotheses.  
+4. Draft 2.1–2.4 from those families against the locked third-level headings. Concept subsections stay short. Do not operationalize layers or the ecological model here (Chapter 3).  
+5. Draft **2.5 last**: 2.5.1 established, 2.5.2 intersection, 2.5.3 synthesized limits (do not recap 2.1.4/2.2.5/2.3.4/2.4.6), 2.5.4 Pakistan occupancy, 2.5.5 gap + four RQs + turn to Chapter 3. No hypotheses.  
 6. Cool the draft, then revise with Chapter 11.
 
 Length: 50–60 pages comes from **developed reasons and fair engagement**, not from more citations. If a section does not make `GAP-STATEMENT.md` clearer, delete it.
@@ -232,7 +232,7 @@ Chapter 2 is a chapter of a PhD thesis in international Chinese-language educati
 
 - Do not put “working draft,” Booth, Undermind, Zotero, or file paths in the chapter body. Scope and CNKI belong in one calm paragraph.
 - Do not number “competing definitions” with Strength/Limit bullets. Narrate the debate, then state the working definition.
-- Do not use four-level headings in Chapter 2. Origins / applications / debates / definition / significance are paragraphs.
+- Do not use four-level headings in Chapter 2. Locked third-level heads are in `OUTLINE.md`. “Origins and definitions” is a few paragraphs, not a history. Applications / debates / significance are still paragraphs, not extra heads.
 - Do not write agency as a driver or localization as a pre-set goal.
 - Cite researchers as interlocutors: what they claimed, on what evidence, with what limit for *this* problem.
 - Keep Chinese terms (再语境化, 教师能动性, 本土化) where they earn precision; do not sprinkle them.

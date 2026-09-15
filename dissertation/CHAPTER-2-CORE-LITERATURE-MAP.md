@@ -32,16 +32,16 @@ Use about **20–30 Tier 1** papers in close discussion and **60–90 Tier 2** p
 
 ---
 
-## Chapter architecture (five sections; families inside)
+## Chapter architecture (five sections; locked third-level heads in `OUTLINE.md`)
 
 | Section | Argument | Families |
 |---|---|---|
-| Opening | Locked relation: mechanism / achievement / process-outcome | — |
-| 2.1 Recontextualization: concept and evidence | Official recontextualization already in the book; teacher recontextualization is the operation; mismatch is a starting condition; moves are traces | A0, A1, A2 |
-| 2.2 Ecological teacher agency: concept and evidence | Agency is achieved, including in textbook-agency studies | B0, B1 |
-| 2.3 Localization: concept and evidence | Teacher work, not only a new book; translanguaging is one resource; analogues are not templates | C0–C3 |
-| 2.4 The Pakistani context | Programmes and perceived fit, not classroom enactment | D1, D2 |
-| 2.5 Synthesis and gap | The join has not been made for this population with observation plus materials comparison | Near-misses |
+| Opening | Locked relation: mechanism / achievement / process-outcome. Localization is not Framework 3. | — |
+| 2.1 Materials recontextualization | Official recontextualization already in the book; teacher recontextualization is the operation; mismatch is a starting condition; moves are traces | A0 in 2.1.1–2.1.3; A1–A2 in 2.1.4 |
+| 2.2 Ecological teacher agency | Agency is achieved, including in textbook-agency studies | B0 in 2.2.1–2.2.3; B1 in 2.2.4–2.2.5 |
+| 2.3 Localization in international Chinese-language education | Field’s problem-name; teacher work, not only a new book; not a third theoretical framework | C0 in 2.3.1–2.3.3; C1–C3 in 2.3.4 |
+| 2.4 Chinese-language education in Pakistani universities | Programmes and perceived fit, not classroom enactment | D1, D2 |
+| 2.5 Synthesis and gap | The join has not been made for this population with observation plus materials comparison | Near-misses; write last |
 
 Paper lists: `dissertation/CHAPTER-2-LITERATURE-FAMILIES.md`.
 
@@ -51,4 +51,4 @@ Paper lists: `dissertation/CHAPTER-2-LITERATURE-FAMILIES.md`.
 
 Close discussion: Tier 1 only. Grouped citations: Tier 2. Do not bring a paper into the narrative merely because it was found. Keep a paper in the archive when it is loosely related, repeats a stronger paper, is abstract-thin, is only background, or cannot be verified.
 
-**Chapter 2 headings.** Five sections. Families are paragraphs, not extra headings. 2.5 is the only gap section. Relation remains mechanism / achievement / process-outcome.
+**Chapter 2 headings.** Five second-level sections and the locked third-level heads. Families are writing assignments, not extra headings. No `2.1.1.1`. Name forms/levels and ecological dimensions in Chapter 2; operationalize them in Chapter 3. 2.5 is the only gap section. Relation remains mechanism / achievement / process-outcome.

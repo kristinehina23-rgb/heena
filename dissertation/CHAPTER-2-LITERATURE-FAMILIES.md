@@ -2,17 +2,31 @@
 
 **Role.** Classification file. Use this **before** writing synthesis. It is not the chapter, not a hypothesis list, and not a substitute for `GAP-STATEMENT.md`.
 
-**Visible chapter TOC (locked to this classification):**
+**Visible chapter TOC (locked; third-level headings in `OUTLINE.md`):**
 
 ```
-2.1 Recontextualization: concept and evidence
-2.2 Ecological teacher agency: concept and evidence
-2.3 Localization: concept and evidence
-2.4 The Pakistani context: Chinese-language education
-2.5 Synthesis and research gap
+2.1 Materials Recontextualization: Concept and Evidence
+2.2 Ecological Teacher Agency: Concept and Evidence
+2.3 Localization in International Chinese-Language Education
+2.4 Chinese-Language Education in Pakistani Universities
+2.5 Synthesis and Research Gap
 ```
 
-The older 2.2–2.8 reason-spine is **not discarded**. It is nested here as families inside 2.1–2.4. Headings in the dissertation stay at `2.1`–`2.5`. Families are paragraphs, not `2.1.1`.
+The older 2.2–2.8 reason-spine is **not discarded**. It is nested here as families inside 2.1–2.4. Families (`A0`, `B1`, …) are writing assignments, not extra headings. Do not add `2.1.1.1`.
+
+**Family → heading map**
+
+| Family | Primary heading | Do not also dump here |
+|---|---|---|
+| A0 | 2.1.1, 2.1.2, 2.1.3 | 2.1.4 (except a one-line working definition recalled) |
+| A1, A2 | 2.1.4 | 2.1.1 |
+| B0 | 2.2.1, 2.2.2, 2.2.3 | 2.2.4 |
+| B1 | 2.2.4, 2.2.5 | 2.2.1–2.2.3 |
+| C0 | 2.3.1, 2.3.2, 2.3.3 | 2.3.4 as a second full tour |
+| C1, C2, C3 | 2.3.4 (C2 also as neighbour in 2.3.2) | 2.4 (except Pakistan-specific materials talk) |
+| D1 | 2.4.1–2.4.4, 2.4.6 | 2.3 as if it were Pakistan evidence |
+| D2 | 2.4.4, 2.4.5, 2.4.6 | counted twice as independent confirmations |
+| Near-misses | 2.5.2, 2.5.3 | treated as occupying the gap |
 
 ---
 
@@ -20,8 +34,8 @@ The older 2.2–2.8 reason-spine is **not discarded**. It is nested here as fami
 
 1. Outline (done).
 2. **Classify** papers into families (this file).
-3. Write 2.1–2.4 from the families: concept movement, then evidence movement.
-4. Write **2.5 last**: synthesis + locked gap + four RQs. Not first.
+3. Write 2.1–2.4 from the families against the locked third-level headings: concept subsections first, empirical subsections second.
+4. Write **2.5 last**: 2.5.1 established / 2.5.2 intersection / 2.5.3 synthesized limits / 2.5.4 Pakistan occupancy / 2.5.5 gap + four RQs. Not first. Do not recap 2.1.4, 2.2.5, 2.3.4, 2.4.6.
 5. Chapter 3 turns the gap into a working model. Fieldwork does not test statistical hypotheses.
 
 Do **not** write a “hypothesis” section in Chapter 2. This is a qualitative interpretive study. What you may carry forward are **working claims** (expected patterns to look for, not H1/H2). They belong at the end of this file and, later, as analytic sensitizing ideas in Chapter 3–4. They are not findings.
@@ -44,7 +58,7 @@ Related publications count as **one programme**, not two confirmations: Lu et al
 
 ---
 
-## Family A — Recontextualization (feeds 2.1)
+## Family A — Recontextualization (feeds 2.1.1–2.1.4)
 
 **Section claim:** Standardized materials arrive already officially recontextualized; teachers’ further recontextualization is the pedagogic operation this thesis studies. Mismatch is a starting condition. A count of adaptation moves is a trace, not the operation.
 
@@ -75,7 +89,7 @@ Related publications count as **one programme**, not two confirmations: Lu et al
 
 ---
 
-## Family B — Ecological teacher agency (feeds 2.2)
+## Family B — Ecological teacher agency (feeds 2.2.1–2.2.5)
 
 **Section claim:** Whether recontextualization is possible is an ecological achievement, not a personal trait and not a driver used “in order to localize.” Restricted and addition-only forms still count. Textbook-agency studies stay in this family; do not split “agency” from “agency with materials.”
 
@@ -101,7 +115,7 @@ Related publications count as **one programme**, not two confirmations: Lu et al
 
 ---
 
-## Family C — Localization (feeds 2.3)
+## Family C — Localization (feeds 2.3.1–2.3.4; not Framework 3)
 
 **Section claim:** Localization is the name the field already uses. In this study it is the process and outcome when recontextualization orients materials toward a Pakistani classroom — not a pre-set goal, not a “better lesson” test, not only a new book. Translanguaging is one mediating resource, not automatically localizing. Comparative cases are analogues, not templates.
 
@@ -143,7 +157,7 @@ Localization has **no Bernstein**. Do not invent a parallel genealogy.
 
 ---
 
-## Family D — Pakistan CFL (feeds 2.4)
+## Family D — Pakistan CFL (feeds 2.4.1–2.4.6; landscape, not enactment)
 
 **Section claim:** Chinese-language education in Pakistan is documented as programmes, policy, and perceived fit. It is not documented as classroom recontextualization plus ecological agency.
 
@@ -176,7 +190,7 @@ Localization has **no Bernstein**. Do not invent a parallel genealogy.
 
 ## What 2.5 may synthesize (write this section last)
 
-The families together already show:
+**2.5.1** The families together already show:
 
 1. Materials travel with mismatch; use matters more than product scores (A1–A2).
 2. Adaptation is professional and uneven; move-counts are not recontextualization (A2).
@@ -184,7 +198,11 @@ The families together already show:
 4. CFL localization is thinkable as teacher work and as multilingual mediation (C1–C2).
 5. Pakistan CFL writing names localization and recommends Urdu-enriched books (D1–D2).
 
-They do **not** together show how Pakistani teachers of Chinese recontextualize materials in class, or how that work is achieved or constrained. Paste `GAP-STATEMENT.md`. Then the four RQs. Then one paragraph: this study will join Families A–B in population D, with observation plus materials comparison. Theoretical/practical contribution lists stay in Chapters 1 and 7.
+**2.5.2** They have not been asked to answer one another for this population. The needed join is recontextualization (mechanism) with ecological agency (achievement). Alvunger (2018) occupies part of that join in Swedish curriculum making; Nan et al. (2023) occupy a translanguaging-recontextualization join in Indonesian Mandarin teaching. Neither is Pakistani CFL with observation plus materials comparison.
+
+**2.5.3–2.5.4** They do **not** together show how Pakistani teachers of Chinese recontextualize materials in class, or how that work is achieved or constrained. Synthesize limits; do not reprint 2.1.4 / 2.2.5 / 2.3.4 / 2.4.6.
+
+**2.5.5** Paste `GAP-STATEMENT.md`. Then the four RQs. Then one paragraph: this study will join Families A–B in population D, with observation plus materials comparison. Theoretical/practical contribution lists stay in Chapters 1 and 7.
 
 ---
 
