@@ -6,7 +6,7 @@ Recontextualization of Chinese-Language Teaching Materials and Teacher Agency am
 **Chinese title**  
 巴基斯坦本土中文教师的中文教材再语境化与教师能动性研究——一项生态视角下的质性研究
 
-**This file:** **1.1 Research Background** only (origin, background, motivation).
+**This file:** 1.1 Research Background; Research Objectives (general + four specific). No significance in this block.
 
 Khan et al. is cited as **2022** (verified APA year for DOI 10.1177/02627280221120328; print issue 43(1) is February 2023). Rathert and Cabaroğlu are **2021** and **2022** in the verified library, not 2024. Lu et al. (2024) and Lu and Hanif (2025) are related publications, counted as one programme. Iftikhar et al. (2024) remains landscape until the PDF is read closely. No Q1/Q2 claim.
 
@@ -31,6 +31,22 @@ This is the point where the present study introduces a working term: materials r
 How much a teacher can actually do with a set of materials is not simply a matter of skill or willingness. Ecological accounts of agency treat it as something achieved through a person’s relationship with their own past experience, their sense of future goals, and their judgement in the present moment, all in interaction with the people and resources around them (Biesta & Tedder, 2007; Priestley et al., 2012). Under this view, a teacher who adds an Urdu gloss to a difficult passage is not simply exercising a personal talent. That small act becomes possible because of what the teacher already knows, how much flexibility the institution allows, how the syllabus is assessed, and how much time is available to prepare. The same teacher might stay very close to the textbook in a different class, not from a lack of ability, but because the institutional conditions there leave no space to do otherwise. An ecological lens is what makes it possible to explain both kinds of decision within the same framework, instead of treating one as agency and the other as its absence.
 
 Taken together, this is where the story so far leads. Research on Pakistan has documented the growth of Chinese-language education, the multilingual environment surrounding it, the difficulties learners report, and the shortcomings of current materials, and it has called consistently for localized textbooks and better teacher training. Research from outside Pakistan, meanwhile, has shown that materials only take on meaning through the choices teachers make while using them, and that these choices are shaped by institutional and classroom conditions rather than by teacher ability alone. What has not yet been done is to bring these two threads together and look directly at Pakistani teachers of Chinese: what they actually do with the materials they are given, why they make the choices they make, and how the conditions around them open up or close off those choices. That is the gap this study takes up, and it is also the reason the study starts from the classroom as it already is, rather than from a textbook that does not yet exist.
+
+---
+
+## Research Objectives
+
+The general objective of this study is to examine how Pakistani teachers of Chinese recontextualize Chinese-language teaching materials in classroom practice, and how their agency is achieved, restricted, or redirected within the ecological conditions of their work.
+
+The specific objectives are:
+
+1. To identify the recontextualization practices that Pakistani teachers of Chinese enact when using Chinese-language teaching materials, including addition, omission, substitution, modification, reordering, supplementation, translanguaging, cultural filtering, and faithful transmission.
+
+2. To examine how these teachers justify their materials decisions in relation to learners, materials, pedagogy, culture, language resources, assessment, time, and professional identity.
+
+3. To analyse how teacher agency is achieved, restricted, or redirected across the iterational, projective, and practical-evaluative dimensions of ecological agency.
+
+4. To explain which nested conditions—classroom, collegial and institutional, examination and policy, professional community, and wider sociocultural setting—enable or constrain this teacher-mediated work with materials.
 
 ---
 
