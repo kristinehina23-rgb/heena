@@ -1,10 +1,10 @@
 # Chapter 2 literature arrangement
 
-**Status: official primary families from `literature/240_primary_family_assignments.docx`. Do not write more Chapter 2 prose until this table is confirmed.**
+**Status:** official primary families from `literature/240_primary_family_assignments.docx`. Secondary/tiered uses are in `literature/Assigned_source_list_and_synthesis.docx`. **Do not follow that file’s 2.1–2.8 headings** (needs analysis, cognitive load). Remap to Pattern 2 in `CHAPTER-2-ASSIGNED-SOURCES.md`.
 
 **Study.** Recontextualization of Chinese-Language Teaching Materials and Teacher Agency among Pakistani Teachers of Chinese: A Qualitative Study from an Ecological Perspective / 巴基斯坦本土中文教师的中文教材再语境化与教师能动性研究——一项生态视角下的质性研究.
 
-Each of the **240** papers has **one primary family**, assigned by main contribution, not every theme the paper touches. Secondary uses belong in a separate assigned-source / synthesis file. That file has **not** been uploaded, so this arrangement does **not** retag combined memberships.
+Each of the **240** papers has **one primary family**, assigned by main contribution, not every theme the paper touches. Secondary/tiered uses are in the assigned-source file. Remap those keys to Pattern 2; do not retag the 240 primaries.
 
 The previous auto-tag (`345` combined tags on `234` unique items) is superseded for primary assignment. Keep it only as history in git. Do not mix those tags with this file.
 
@@ -13,9 +13,9 @@ The previous auto-tag (`345` combined tags on `234` unique items) is superseded 
 | System | What it counts | Source | Total |
 |---|---|---|---:|
 | **Primary** | Unique papers, one family each | This assignment file | **240** |
-| **Combined** | A paper may sit in more than one family | Counts supplied earlier; secondary file not in the repo | **431** |
+| **Combined** | A paper may sit in more than one writing unit | Assigned source list (T1/T2/T3 on the old tree) | **431** placements |
 
-The two totals are compatible: `240` unique primaries + `191` extra (secondary) memberships = `431`. Until the secondary file arrives, do not invent those 191 tags.
+The two totals are compatible: `240` unique primaries + `191` extra (secondary) memberships = `431`. Do not invent extra tags beyond the assigned-source file. Do not rebuild Chapter 2 as the assigned file’s 23 old units.
 
 | Family | Combined (target) | Primary (official) | Implied secondary | Chapter 2 home |
 |---|---:|---:|---:|---|

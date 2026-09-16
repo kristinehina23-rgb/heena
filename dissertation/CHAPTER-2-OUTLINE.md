@@ -8,7 +8,9 @@ Recontextualization of Chinese-Language Teaching Materials and Teacher Agency am
 **Chinese title**  
 巴基斯坦本土中文教师的中文教材再语境化与教师能动性研究——一项生态视角下的质性研究
 
-Paper lists live in `LITERATURE-ARRANGEMENT.md` (official 240 primary families). The writing map (A0–D2) lives in `CHAPTER-2-LITERATURE-FAMILIES.md`. The gap sentence lives in `GAP-STATEMENT.md`. Booth protocol lives in `CRAFT-OF-RESEARCH-LIT-REVIEW.md`. This file is the **paragraph plan**. Writing is paused until the arrangement is confirmed.
+**Proposal template:** Pattern 2 (topics/perspectives). Not abroad/home. Not periods. Pakistan is 2.4 only. Evaluation sits in each topic’s limits subsection, then in 2.5.
+
+Paper lists live in `LITERATURE-ARRANGEMENT.md` (official 240 primary families). The writing map (A0–D2) lives in `CHAPTER-2-LITERATURE-FAMILIES.md`. Tiered sources remapped from the assigned-source file: `CHAPTER-2-ASSIGNED-SOURCES.md`. The gap sentence lives in `GAP-STATEMENT.md`. Booth protocol lives in `CRAFT-OF-RESEARCH-LIT-REVIEW.md`. This file is the **paragraph plan**. Theme 1 (2.1) is the next writing unit.
 
 ---
 
@@ -202,8 +204,9 @@ Heading rules: five second-level sections; third-level headings as listed; Title
 1. The sociological problem: if structure is powerful, how do people ever do anything new?
 2. **Competing family 1 — capacity.** Bandura (2001): intentionality, forethought, self-regulation, self-reflectiveness. Takes beliefs and efficacy seriously. Slides into “teachers lack agency” as a missing personal attribute. A teacher with strong efficacy can still have almost no room to change an HSK-led course.
 3. **Competing family 2 — autonomy.** Agency is not a synonym for the right to decide. Priestley et al. (2016): autonomy is a condition that may or may not support agency.
-4. **Working family — achievement.** Biesta & Tedder (2007): agency is achieved in the interplay of routine, purpose, judgement, resources, and contexts-for-action.
-5. **Competing family 3 — distribution.** Hardman (2025): relational / sociomaterial distribution. Guerrettaz, Matsumoto, Kim show books structuring interaction. Consequence: this thesis keeps *teachers* as the agents of recontextualization and treats materials as conditions and resources, not as co-agents in the stronger sense. Chapter 3 will say so; here only name the fork.
+4. **Working family — achievement.** Biesta and Tedder (2007); the full statement is Priestley, Biesta, and Robinson (2015), *Teacher Agency: An Ecological Approach*. Agency is achieved in the interplay of routine, purpose, judgement, resources, and contexts-for-action. The book’s Scottish cases are analogues, not this population.
+5. **Language-education map, not a second model.** Tao and Gao (2021) survey conceptualisations of language teacher agency (what/why; identity, emotion, belief, knowledge; collective agency). Use them to locate the ecological view inside language education. Do not replace Priestley. Do not take “promote teacher agency” as this thesis’s aim.
+6. **Competing family 3 — distribution.** Hardman (2025): relational / sociomaterial distribution. Guerrettaz, Matsumoto, Kim show books structuring interaction. Consequence: this thesis keeps *teachers* as the agents of recontextualization and treats materials as conditions and resources, not as co-agents in the stronger sense. Chapter 3 will say so; here only name the fork.
 
 **Do not.** Introduce Yan, Dao, Chen, L. Wang. They belong in 2.2.4.
 
@@ -234,10 +237,10 @@ Heading rules: five second-level sections; third-level headings as listed; Title
 
 **Paragraph plan**
 
-1. Priestley et al. (2012, 2016): teachers as mediators of prescribed curriculum; space for manoeuvre; creative mediation vs strategic compliance.
-2. Biesta, Priestley, & Robinson (2015): beliefs are cultural resources; they do not suffice without professional discourse and supportive institutional cultures.
+1. Priestley, Biesta, and Robinson (2015 book): the ecological model in full (iterational / projective / practical-evaluative; individual, cultural, and structural framings). Priestley et al. (2012, 2016) stay as related papers from the same programme, not as extra independent evidence.
+2. Biesta, Priestley, and Robinson (2015 article): beliefs as cultural resources; they do not suffice without professional discourse and supportive institutional cultures. One programme with the book.
 3. Leijen et al. (2020): reflection as a way of strengthening the model.
-4. Nested conditions as the literature names them (micro–meso–exo–macro, and time). Namgung et al. (2023) and Chen (2023) may be *named* as users of nested maps; their findings stay in 2.2.4 if used as evidence. Tao (2021): the university, not only the nation-state, may be the strongest filter — one sentence, because it matters for Pakistani universities.
+4. Nested conditions as the literature names them (micro–meso–exo–macro, and time). Namgung et al. (2023) and Chen (2023) may be *named* as users of nested maps; their findings stay in 2.2.4 if used as evidence. Tao (2021), the Russian-language teachers paper, not Tao and Gao (2021): the university, not only the nation-state, may be the strongest filter — one sentence, because it matters for Pakistani universities.
 5. Working definition for this review: an ecological achievement — the temporally shaped interplay of iterational resources, projective purposes, and practical-evaluative judgements in nested conditions of possibility and constraint. Not a trait, not autonomy, not measured by how strongly a teacher endorses localization.
 
 **Do not.** Assemble this study’s nested map of Pakistani Chinese teaching. That is Chapter 3.4.

@@ -37,7 +37,8 @@ These appeared in the working draft and were flagged in the 240-paper evidence t
 | Lestari (2019) | No DOI; incomplete bibliographic record |
 | Tibebu (2020) | Incomplete record (“unknown source”) |
 | Biesta & Tedder (2006) | Working paper; replaced by the 2007 journal article (DOI verified; table marked full PDF) |
-| Priestley, Biesta, & Robinson (2015), *Teacher Agency: An Ecological Approach* | Evidence tables: metadata only. Claims now rest on Priestley et al. (2012), Priestley et al. (2016), and Biesta, Priestley, and Robinson (2015, *Teachers and Teaching*) |
+| Priestley, Biesta, & Robinson (2015), *Teacher Agency: An Ecological Approach* | Full text now read (Bloomsbury, 2015; ISBN 978-1-4725-3466-8). Use as T1 for 2.2. Related to Priestley et al. (2012), the 2015 *Teachers and Teaching* article, and Priestley et al. (2016): one programme, not four independent studies. Scottish Curriculum for Excellence cases are analogues, not Pakistan CFL. |
+| Tao & Gao (2021), *Language Teacher Agency* | Full text now read (Cambridge Elements; DOI 10.1017/9781108916943). Theme 2 only. Map of conceptualisations in language education. Not the working ecological model. Not Tao (2021) on Russian-language teachers, and not Li and Gao (2025). |
 
 ---
 

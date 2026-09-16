@@ -1,8 +1,6 @@
 # Chapter 2 literature families
 
-**Stop.** Official **one-primary-family** assignments are in `dissertation/LITERATURE-ARRANGEMENT.md` (source: `literature/240_primary_family_assignments.docx`). Do not write more Chapter 2 prose until that table is confirmed. Combined/secondary tags (the 431 count) wait for the assigned-source file.
-
-**Role.** This file remains the *writing* map (A0–D2 → 2.1–2.5). Every paper’s primary family is listed in `LITERATURE-ARRANGEMENT.md`.
+**Role.** This file remains the *writing* map (A0–D2 → 2.1–2.5). Every paper’s primary family is listed in `LITERATURE-ARRANGEMENT.md`. T1/T2/T3 keys: `CHAPTER-2-ASSIGNED-SOURCES.md`.
 
 **Visible chapter TOC (locked; full third-level headings in `OUTLINE.md` and the writing plan `CHAPTER-2-OUTLINE.md`):**
 
@@ -132,7 +130,8 @@ Related publications count as **one programme**, not two confirmations: Lu et al
 |---|---|
 | Emirbayer & Mische (1998) | Chordal triad named; operationalized in Chapter 3, not here |
 | Biesta & Tedder (2007) | Agency as achievement in contexts-for-action |
-| Priestley et al. (2012, 2016); Biesta, Priestley, & Robinson (2015) | Curriculum making; space for manoeuvre; beliefs as resources, not enough |
+| Priestley, Biesta, and Robinson (2015 book); Priestley et al. (2012, 2016); Biesta, Priestley, and Robinson (2015 article) | Ecological approach as one programme, not four confirmations. Book now in full text. Scottish CfE cases are analogues. |
+| Tao and Gao (2021) | Language-education map of conceptualisations (what/why; identity, emotion, belief, knowledge; collective agency). Not the working model. Do not take “promote agency” as this thesis’s aim. Distinct from Tao (2021) and Li and Gao (2025). |
 | Leijen et al. (2020) | Reflection as a way of strengthening the model |
 | Bandura (2001) | Competing: personal capacity. Not the working model |
 | Hardman (2025) | Competing: relational / sociomaterial distribution of agency |

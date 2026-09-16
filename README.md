@@ -2,6 +2,7 @@
 
 PhD thesis working files.
 
+- Chapter 1 working draft (**1.1 Research background** written; later subsections not yet): [`dissertation/chapter-01-introduction.md`](dissertation/chapter-01-introduction.md)
 - **Arrange literature first (do not write more Chapter 2 yet):** [`dissertation/LITERATURE-ARRANGEMENT.md`](dissertation/LITERATURE-ARRANGEMENT.md) — official 240 one-primary-family map from [`literature/240_primary_family_assignments.docx`](literature/240_primary_family_assignments.docx)
 - Chapter 2 writing outline (locked 2.1–2.5 headings; paused): [`dissertation/CHAPTER-2-OUTLINE.md`](dissertation/CHAPTER-2-OUTLINE.md)
 - Chapter 2 literature families (A0–D2 writing map): [`dissertation/CHAPTER-2-LITERATURE-FAMILIES.md`](dissertation/CHAPTER-2-LITERATURE-FAMILIES.md)
